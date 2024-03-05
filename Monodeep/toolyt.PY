@@ -47,7 +47,7 @@ primary_key_column = 'id'
 engine = create_engine(f'mysql://{user}:{password}@{host_name}/{database_name}')
 
 # "if_exists='replace'" will replace the existing data in the table
-df.to_sql(table_name, con=engine, if_exists='replace', index=False, method='multi', chunksize=1000)
+df.to_sql(table_name, con=engine, if_exists='replace', index=False, method='multi', chunksize=1000,index_label = primary_key_column)
 
 try:
     print(f"Data Pushed to DB")
