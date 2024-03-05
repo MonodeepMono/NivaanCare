@@ -29,18 +29,6 @@ df = pd.DataFrame(data['Visits']['completed'])
 
 # Display the DataFrame
 print(df)
-print(df.columns)
-
-
-# Create connection to database Prod
-# mysql = lazysql(sql_type = 'mysql',
-#                  host_name = 'stg-nivaancare-mysql-01.cydlopxelbug.ap-south-1.rds.amazonaws.com',
-#                  database_name = 'nivaancare_production',
-#                  user = 'monodeep.saha',
-#                  password = 'u5eOX37kNPh13Jdhgfv')
-# # Upsert "df" into your table
-# mysql.dump_replace(df, 'toolyt', list_key = ["id"])
-
 
 from sqlalchemy import create_engine
 import pandas as pd
