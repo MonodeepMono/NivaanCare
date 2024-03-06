@@ -12,7 +12,7 @@ conn = mysql.connector.connect(
 cursor = conn.cursor()
 
 
-#Creating table as per requirement
+#Creating table for toolyt
 sql ='''CREATE TABLE IF NOT EXISTS toolyt (
     id INT AUTO_INCREMENT PRIMARY KEY,
     user_id INT,
