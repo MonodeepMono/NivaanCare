@@ -41,58 +41,36 @@ SELECT
     utm_campaign 
 FROM 
     user_lead_status a 
+WHERE 
+    a.modified_time > '2024-02-01'
 GROUP BY 
     a.extracted_phone, 
     a.lead_status, 
     a.substatus1, 
     a.new_lead_status;
-
 """
 df_DATA = pd.read_sql_query(sql_query,mydb)
+print(df_DATA)
 
-df_DATA.to_csv('Elevate_now.csv',index = False)
+df_DATA.to_csv('Elevate_now_new.csv',index = False)
 
 import gspread
 import csv
 from oauth2client.service_account import ServiceAccountCredentials
 
-# Define the OAuth2 scope
-scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
 
-# Load the credentials from the JSON key file
-credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-2024-414004-60efb95f9e7f.json', scope)
+scope = ['https://spreadsheets.google.com/feeds',
+         'https://www.googleapis.com/auth/drive']
 
-# Authorize the client using the credentials
+credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
 gc = gspread.authorize(credentials)
+client = gspread.authorize(credentials)
+spreadsheetId = '18_SbM3TAscyhXhQpw2uPD_uKYtrUmjO_iy9-xcWQvYU' 
 
-# Open the spreadsheet by its ID
-spreadsheetId = '18_SbM3TAscyhXhQpw2uPD_uKYtrUmjO_iy9-xcWQvYU'
-sh = gc.open_by_key(spreadsheetId)
-
-# Define the sheet name and CSV file path
-sheetName = 'RAW'
-csvFile = 'Elevate_now.csv'
-
-# Clear existing values in the specified range
-sh.values_clear("'RAW'!A:BM")
-
-# Read the CSV file with UTF-8 encoding and update the spreadsheet with its values
-with open(csvFile, 'r', encoding='utf-8') as file:
-    csv_values = list(csv.reader(file))
-    sh.values_update(
-        sheetName,
-        params={'valueInputOption': 'USER_ENTERED'},
-        body={'values': csv_values}
-    )
-
-# Print the data written
-print("Data written to the spreadsheet:")
-# for row in csv_values:
-#     print(row)
-
-# Print the number of rows and columns written
-num_rows = len(csv_values)
-num_columns = len(csv_values[0]) if csv_values else 0
-print(f"Number of rows written: {num_rows}")
-print(f"Number of columns written: {num_columns}")
-                    
+sheetName = 'RAW'        # Please set sheet name you want to put the CSV data.
+csvFile = 'Elevate_now_new.csv'  # Please set the filename and path of csv file.
+sh = client.open_by_key(spreadsheetId)
+sh.values_clear("'RAW'!A2:X")
+sh.values_update(sheetName,
+                 params={'valueInputOption': 'USER_ENTERED'},
+                 body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
