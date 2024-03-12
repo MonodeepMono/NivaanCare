@@ -9,31 +9,6 @@ import pandas.io.sql as psql
 import mysql.connector
 
 
-# mydb = mysql.connector.connect(
-#   host="stg-nivaancare-mysql-01.cydlopxelbug.ap-south-1.rds.amazonaws.com",
-#   user="monodeep.saha",
-#   password="u5eOX37kNPh13Jdhgfv",
-#   database="nivaancare_production"
-# )
-# mycursor = mydb.cursor()
-# conn = mycursor.execute
-
-# sql_query = """
-#   SELECT 
-#   ga.campaign_date as Date,
-#   SUM(ga.clicks) as Clicks ,
-#   SUM(ga.impressions) as Impressions ,
-#   SUM(cost) as Amount 
-#   FROM nivaancare_production.GOOGLE_ADS ga
-#   WHERE ga.campaign_date >= '2024-03-01'
-#   GROUP BY ga.campaign_date;
-  
-   
-# """
-# df_DATA = pd.read_sql_query(sql_query,mydb)
-# print(df_DATA)
-
-
 
 ##########LEADS##################3
 
@@ -48,31 +23,50 @@ conn_prod = mycursor_prod.execute
 
 sql_query_prod = """
    
-SELECT 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
-    COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' THEN url.mobile END) as GoogleFormLead,
-    COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' AND url.lead_new_status like '%Junk%' THEN url.mobile END) as Google_JunkLead,
-    COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' AND url.lead_new_status like '%L6 - New Lead%' THEN url.mobile END) as L6_New_Lead,
-    COUNT(DISTINCT CASE WHEN url.lead_sub_source like '%Google%' AND url.channel_name = 'Call' THEN url.mobile END) as GoogleCallLead,
-    COUNT(DISTINCT CASE WHEN url.lead_sub_source like '%Google%' AND url.channel_name = 'Call' AND url.lead_new_status like '%Junk%' THEN url.mobile END) as GoogleCallJunkLead,
-    COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' THEN url.mobile END) as FacebookLead,
-    COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' AND url.lead_new_status LIKE '%Junk%' THEN url.mobile END) as FacebookJunkLead,
-    COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' AND url.lead_new_status LIKE '%L6 - New Lead%' THEN url.mobile END) as FacebookJunkLead
+# SELECT 
+#     DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
+#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' THEN url.mobile END) as GoogleFormLead,
+#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' AND url.lead_new_status like '%Junk%' THEN url.mobile END) as Google_JunkLead,
+#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' AND url.lead_new_status like '%L6%' THEN url.mobile END) as Google_L6_New_Lead,
+#     COUNT(DISTINCT CASE WHEN url.lead_sub_source like '%Google%' AND url.channel_name = 'Call' THEN url.mobile END) as GoogleCallLead,
+#     COUNT(DISTINCT CASE WHEN url.lead_sub_source like '%Google%' AND url.channel_name = 'Call' AND url.lead_new_status like '%Junk%' THEN url.mobile END) as GoogleCallJunkLead,
+#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' THEN url.mobile END) as FacebookLead,
+#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' AND url.lead_new_status LIKE '%Junk%' THEN url.mobile END) as FacebookJunkLead,
+#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' AND url.lead_new_status LIKE '%L6%' THEN url.mobile END) as Facebook_L6_New_Lead
     
-FROM 
+# FROM 
+#     nivaancare_production.user_registration_lead url
+# WHERE 
+#     DATE_FORMAT(url.created_time, '%Y-%m-%d') BETWEEN '2024-02-01' AND '2024-03-09'
+# GROUP BY 
+#     DATE_FORMAT(url.created_time, '%Y-%m-%d');
+
+
+  SELECT 
+   DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
+   url.created_time as created_time,
+   url.modified_time  as modified_time,
+   url.utm_source as UTM_SOURCE,
+   url.lead_new_status as lead_new_status,
+   url.lead_sub_source AS lead_sub_source,
+   url.channel_name  AS channel_name,
+  url.mobile as mobile
+  FROM 
     nivaancare_production.user_registration_lead url
 WHERE 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d') BETWEEN '2024-02-01' AND '2024-03-09'
-GROUP BY 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d');
+    DATE_FORMAT(url.created_time, '%Y-%m-%d') BETWEEN '2024-03-01' AND '2024-03-10';
+  
+   
 
 """
 df_LEAD = pd.read_sql_query(sql_query_prod,mydb_prod)
-print(df_LEAD)
 
 
+df_LEAD['Rank_Status'] = df_LEAD.groupby(['mobile'])['modified_time'].rank("dense", ascending=False)
+df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name']]
+print(df_FINAL)
 
-df_LEAD.to_csv('Nivaan_LEAD.csv',index = False)
+df_FINAL.to_csv('Nivaan_LEAD.csv',index = False)
 
 import gspread
 import csv

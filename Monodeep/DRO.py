@@ -13,7 +13,7 @@ scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/aut
 credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-2024-414004-60efb95f9e7f.json',
                                                                scope)
 client = gspread.authorize(credentials)
-sheet = client.open_by_key("18SkfqKzXjaThArCdQWsc6X7q4paLX5IxbwKRjtJGKkY") # Open by key the spreadhseet
+sheet = client.open_by_key("1heBl3kVZEaBbYeUHauuasCfto8uKZaRg4_MFpqEbt9A") # Open by key the spreadhseet
 #sheet.share
 tab = sheet.worksheet('Visit')
 calls = pd.DataFrame(tab.get_all_records())
@@ -62,12 +62,12 @@ scope = ['https://spreadsheets.google.com/feeds',
 credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
 gc = gspread.authorize(credentials)
 client = gspread.authorize(credentials)
-spreadsheetId = '1mhhcZ45Sa76VHtOxg_7nD8rtqoflvRd_W5MNybnu66o' 
+spreadsheetId = '1qikDElqYDD0FUdu8BWyzx36kpjoaKDBwkzSPGL19BG8' 
 
-sheetName = 'RAW'        # Please set sheet name you want to put the CSV data.
+sheetName = 'Doctor Wise - Overall'        # Please set sheet name you want to put the CSV data.
 csvFile = 'DRO.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'RAW'!A2:F")
+sh.values_clear("'Doctor Wise - Overall'!A2:F")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
