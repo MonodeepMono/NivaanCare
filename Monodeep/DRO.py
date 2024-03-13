@@ -62,12 +62,12 @@ scope = ['https://spreadsheets.google.com/feeds',
 credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
 gc = gspread.authorize(credentials)
 client = gspread.authorize(credentials)
-spreadsheetId = '1qikDElqYDD0FUdu8BWyzx36kpjoaKDBwkzSPGL19BG8' 
+spreadsheetId = '14c0KHi09ZNzE07uiSItLMTw2DLqWjvjIIqxnIO4rxAk' 
 
-sheetName = 'Doctor Wise - Overall'        # Please set sheet name you want to put the CSV data.
+sheetName = 'Doc_View_Final'        # Please set sheet name you want to put the CSV data.
 csvFile = 'DRO.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'Doctor Wise - Overall'!A2:F")
+sh.values_clear("'Doc_View_Final'!A2:F")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
