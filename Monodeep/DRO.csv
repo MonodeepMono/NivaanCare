@@ -1,9 +1,9 @@
 Doctor_Name,DRO_Name,Speciality,LatestStatus,Ageing,Visits
 Dr.Rajesh parthsarthi,Shiv Kumar,General Physician,hot,8.0,1.0
 Dr. Ranaa,Neeraj Bari,Cardiologist,hot,179.0,27.0
-Dr. Sanjay Shukla,Neeraj Bari,General Physician,hot,155.0,23.0
+Dr. Sanjay Shukla,Neeraj Bari,General Physician,hot,155.0,24.0
 Dr. Kumar Gupta,Neeraj Bari,Orthopedic,hot,197.0,3.0
-Siddharth Gupta,Inder Pawar,General Physician,hot,84.0,4.0
+Siddharth Gupta,Inder Pawar,General Physician,hot,84.0,5.0
 Dr. Ankit Bhambri,Neeraj Bari,Orthopedic,hot,16.0,1.0
 Dr. Sunny Kumar,Neeraj Bari,Dentist,hot,128.0,10.0
 Dr. Natasha Khanna,Shiv Kumar,Physiotherapist,hot,123.0,2.0
@@ -13,8 +13,9 @@ Dr. Sujit Singh,Aditya Rao,General Physician,hot,197.0,1.0
 Dr. Abhilasha,Neeraj Bari,Physiotherapist,hot,131.0,8.0
 Dr. Bhim Singh,Neeraj Bari,Orthopedic,hot,30.0,2.0
 Dr. Meenakshi Sharma,Neeraj Bari,Physiotherapist,hot,118.0,15.0
-Dheeraj Kumar Singh,Inder Pawar,General Physician,hot,84.0,3.0
+Dheeraj Kumar Singh,Inder Pawar,General Physician,hot,84.0,4.0
 Dr. Sunakshi Singh,Neeraj Bari,Dermatologist,hot,106.0,4.0
+Dr. Ashok Ratnani,Arun Kumar,Physiotherapist,hot,1.0,1.0
 Dr. Ruhi,Neeraj Bari,General Physician,hot,71.0,2.0
 Dr. Shobhit,Arun Kumar,General Physician,hot,182.0,8.0
 Dr. Arpit Sharma,Atul Pandey,ENT,hot,,
@@ -23,6 +24,7 @@ Dr. Manish Sinha,Shiv Kumar,General Physician,hot,62.0,3.0
 Dr. Richa,Neeraj Bari,General Physician,hot,152.0,15.0
 Dr. Ritu Agarwal,Shiv Kumar,General Physician,hot,98.0,1.0
 Dr. Harmesh Aggarwal,Aditya Rao,General Physician,hot,,
+Dr. Nikhil Agrawal,Shiv Kumar,Physiotherapist,hot,1.0,1.0
 Dr. M Ahamd,Atul Pandey,Orthopedic,hot,195.0,5.0
 Dr. Hariom Ahuja,Neeraj Bari,General Physician,hot,139.0,25.0
 Dr. pradeep singh,Neeraj Bari,General Physician,hot,162.0,4.0
@@ -38,14 +40,14 @@ Dr. Naresh Pandit,Atul Pandey,Orthopedic,hot,,
 Dr SK gupta,Neeraj Bari,General Physician,hot,179.0,6.0
 Dr. S.K Gupta,Shiv Kumar,General Physician,hot,142.0,5.0
 Dr. ML Kalra,Neeraj Bari,General Physician,hot,131.0,3.0
-Dr. Navneet Kaur,Neeraj Bari,General Physician,hot,15.0,1.0
 Dr. Akansha Agarwal,Neeraj Bari,General Physician,hot,35.0,1.0
+Dr. Navneet Kaur,Neeraj Bari,General Physician,hot,15.0,1.0
 Dr. ML kalra,Neeraj Bari,General Physician,hot,174.0,3.0
 Dr. Archna gupta,Atul Pandey,General Physician,hot,118.0,1.0
 Dr. Arun Kumar,Atul Pandey,General Physician,hot,137.0,1.0
 Dr. Prav Mittal,Neeraj Bari,Orthopedic,hot,120.0,1.0
 Dr. Surbhi Azad,Arun Kumar,Obstetricians or Gynecologist (OBGYNs),hot,146.0,4.0
-Dr. Azad Kumar,Arun Kumar,General Physician,hot,200.0,8.0
+Dr. Azad Kumar,Arun Kumar,General Physician,hot,200.0,9.0
 Dr. Sukeerti Azad,Arun Kumar,General Physician,hot,105.0,4.0
 Dr. jatin arora,Atul Pandey,General Physician,hot,106.0,1.0
 Dr. jitesh Arora,Atul Pandey,General Physician,hot,156.0,1.0
@@ -55,10 +57,11 @@ Dr. Prahlad Rai Dhokariya,Atul Pandey,#N/A,Unknown,195.0,2.0
 Dr. S.K. Pathak,Shiv Kumar,General Physician,hot,142.0,6.0
 Dr SK Pathak,Neeraj Bari,General Physician,hot,182.0,5.0
 Dr. Anil sharma,Neeraj Bari,General Physician,hot,174.0,5.0
+Dr. Lovika Ahuja,Inder Pawar,Physiotherapist,hot,1.0,1.0
 Dr. Suresh Munjal,Arun Kumar,General Physician,hot,137.0,1.0
 Dr. Mandeep Singh,Shiv Kumar,General Physician,hot,103.0,3.0
 Dr. Satish Kumar,Neeraj Bari,General Physician,hot,181.0,6.0
-Dr. Richa Agarwal,Neeraj Bari,General Physician,hot,149.0,3.0
+Dr. Richa Agarwal,Neeraj Bari,General Physician,hot,149.0,4.0
 Dr. KK Bajaj,Atul Pandey,#N/A,Unknown,197.0,3.0
 Dr. Himanshu Gour,Neeraj Bari,Orthopedic,hot,69.0,1.0
 Dr. Pratik Banerjee,Atul Pandey,General Physician,hot,139.0,3.0
@@ -82,19 +85,19 @@ Dr. Chitra Shekhawat,Atul Pandey,Obstetricians or Gynecologist (OBGYNs),hot,160.
 Dr arpana jain,Harshita Sharma,Obstetricians or Gynecologist (OBGYNs),hot,30.0,2.0
 Dr. Umesh Sehgal,Atul Pandey,General Physician,hot,190.0,1.0
 Dr. Jitendra Tyagi,Shiv Kumar,General Physician,hot,81.0,6.0
-Dr. Eshan Srivastava,Arun Kumar,General Physician,hot,133.0,11.0
-Dr. D K Dewan,Arun Kumar,General Physician,hot,132.0,10.0
-Dr. Meera Thakur,Arun Kumar,General Physician,hot,133.0,11.0
+Dr. Eshan Srivastava,Arun Kumar,General Physician,hot,133.0,12.0
+Dr. D K Dewan,Arun Kumar,General Physician,hot,132.0,11.0
+Dr. Meera Thakur,Arun Kumar,General Physician,hot,133.0,12.0
 Dr. jitendar tomar,Atul Pandey,General Physician,hot,137.0,9.0
-Dr. Poonam Puri,Neeraj Bari,General Physician,hot,84.0,2.0
 Dr Anurag,Neeraj Bari,General Physician,hot,84.0,1.0
-Dr. S S Gupta,Arun Kumar,General Physician,hot,67.0,9.0
-Dr. Nidhi,Arun Kumar,Orthopedic,hot,67.0,9.0
-Dr. Anupriya,Arun Kumar,General Physician,hot,118.0,11.0
+Dr. Poonam Puri,Neeraj Bari,General Physician,hot,84.0,2.0
 Dr. Shyamsundar Gupta,Arun Kumar,General Physician,hot,118.0,6.0
+Dr. Anupriya,Arun Kumar,General Physician,hot,118.0,11.0
+Dr. Nidhi,Arun Kumar,Orthopedic,hot,67.0,9.0
+Dr. S S Gupta,Arun Kumar,General Physician,hot,67.0,9.0
 Dr. Gajraj anand,Atul Pandey,General Physician,hot,114.0,14.0
-Dr. Vandana Gutam,Atul Pandey,General Physician,hot,114.0,10.0
 Dr. Uttera sehgal,Atul Pandey,General Physician,hot,114.0,10.0
+Dr. Vandana Gutam,Atul Pandey,General Physician,hot,114.0,10.0
 Mr. Mukesh Singh,Atul Pandey,General Physician,hot,32.0,5.0
 Dr. naresh jakhar,Atul Pandey,General Physician,hot,32.0,5.0
 Dr. Rajeev Singh,Shiv Kumar,General Physician,hot,46.0,2.0
@@ -131,37 +134,37 @@ Dr. K.K. Devi,Shiv Kumar,General Physician,hot,133.0,12.0
 Dr. S.K Badhan,Shiv Kumar,General Physician,hot,86.0,8.0
 Dr. Deepa,Neeraj Bari,General Physician,hot,78.0,1.0
 Dr. Rita Sirpaul,Shiv Kumar,General Physician,hot,133.0,10.0
+Dr. Narendar kumar kashyap,Atul Pandey,General Physician,hot,126.0,1.0
 Dr. Man singh,Atul Pandey,General Physician,hot,126.0,2.0
 Dr. Anil chindalia,Atul Pandey,General Physician,hot,126.0,2.0
-Dr. Narendar kumar kashyap,Atul Pandey,General Physician,hot,126.0,1.0
-Dr. Sandhya,Shiv Kumar,General Physician,hot,43.0,3.0
-Dr. Ravindra Singh,Shiv Kumar,General Physician,hot,43.0,3.0
 Dr. Krishna Singh Rana,Shiv Kumar,General Physician,hot,88.0,10.0
 Dr. Shobhana,Shiv Kumar,General Physician,hot,84.0,8.0
 Dr. Rajeev Gupta,Shiv Kumar,General Physician,hot,84.0,8.0
 Dr. Shiv Raj,Shiv Kumar,General Physician,hot,84.0,8.0
-Dr. Raj Kishor,Shiv Kumar,General Physician,hot,114.0,5.0
-Dr. Neha Bhagat,Shiv Kumar,General Physician,hot,114.0,5.0
-Dr. Anuradha Mishra,Shiv Kumar,General Physician,hot,65.0,4.0
+Dr. Sandhya,Shiv Kumar,General Physician,hot,43.0,3.0
+Dr. Ravindra Singh,Shiv Kumar,General Physician,hot,43.0,3.0
 Dr. Jail Chaudhary,Shiv Kumar,General Physician,hot,65.0,4.0
+Dr. Anuradha Mishra,Shiv Kumar,General Physician,hot,65.0,4.0
+Dr. Neha Bhagat,Shiv Kumar,General Physician,hot,114.0,5.0
+Dr. Raj Kishor,Shiv Kumar,General Physician,hot,114.0,5.0
 Dr. Kirti,Shiv Kumar,General Physician,hot,44.0,2.0
 Veena Sahani,Shiv Kumar,General Physician,hot,81.0,6.0
 Dr. Vaishnav Gupta,Shiv Kumar,General Physician,hot,81.0,7.0
 Dr. Vinita Bansal,Shiv Kumar,General Physician,hot,81.0,6.0
 Dr. satveer Singh,Atul Pandey,General Physician,hot,145.0,14.0
-Dr. S. P. jain,Atul Pandey,General Physician,hot,145.0,12.0
 Dr. Kiran Kumar,Atul Pandey,General Physician,hot,145.0,13.0
 Dr. Naveen Kumar,Atul Pandey,General Physician,hot,145.0,12.0
+Dr. S. P. jain,Atul Pandey,General Physician,hot,145.0,12.0
 Dr. Payal Mittal,Shiv Kumar,General Physician,hot,61.0,2.0
 Dr. Anoop,Shiv Kumar,General Physician,hot,61.0,2.0
 Dr. Madhu Bajpyee,Shiv Kumar,General Physician,hot,61.0,2.0
 Dr. Seema Arora,Shiv Kumar,General Physician,hot,27.0,4.0
-Dr. Bhajman Nayak,Shiv Kumar,General Physician,hot,27.0,4.0
-Dr. R.K. Saxena,Shiv Kumar,General Physician,hot,27.0,4.0
-Dr. Jagmohan,Shiv Kumar,General Physician,hot,27.0,5.0
 Dr. Deshraj,Shiv Kumar,General Physician,hot,27.0,6.0
-Dr. Sanjay Jain,Arun Kumar,General Physician,hot,99.0,9.0
+Dr. Jagmohan,Shiv Kumar,General Physician,hot,27.0,5.0
+Dr. R.K. Saxena,Shiv Kumar,General Physician,hot,27.0,4.0
+Dr. Bhajman Nayak,Shiv Kumar,General Physician,hot,27.0,4.0
 Dr. Megha Jain,Arun Kumar,General Physician,hot,99.0,12.0
+Dr. Sanjay Jain,Arun Kumar,General Physician,hot,99.0,9.0
 Dr. A. k. sarkar,Atul Pandey,General Physician,hot,137.0,4.0
 Dr. Arvind kumar,Atul Pandey,General Physician,hot,127.0,7.0
 Dr. B. S. arora,Atul Pandey,General Physician,hot,137.0,9.0
@@ -171,9 +174,9 @@ Dr. Sujata Chandra,Atul Pandey,General Physician,hot,100.0,8.0
 Dr. swaroop nagi,Atul Pandey,General Physician,hot,60.0,7.0
 Dr. Sangita makwana,Atul Pandey,General Physician,hot,60.0,6.0
 Dr. j.k.ojha,Atul Pandey,General Physician,hot,60.0,7.0
-Dr. Sanjay Aggarwal,Arun Kumar,General Physician,hot,53.0,6.0
-Dr. Amreshwar Narayana,Arun Kumar,General Physician,hot,74.0,9.0
 Dr amreshwar narayana,Harshita Sharma,General Physician,hot,51.0,3.0
+Dr. Amreshwar Narayana,Arun Kumar,General Physician,hot,74.0,9.0
+Dr. Sanjay Aggarwal,Arun Kumar,General Physician,hot,53.0,6.0
 Dr. Arti ahuja,Atul Pandey,General Physician,hot,127.0,4.0
 Dr. D K Diwan,Arun Kumar,General Physician,hot,114.0,6.0
 Dr. Fatima,Arun Kumar,General Physician,hot,114.0,5.0
@@ -191,21 +194,21 @@ Dr. Harpreet Kaur,Arun Kumar,General Physician,hot,90.0,12.0
 Dr. Shashi Satija,Arun Kumar,General Physician,hot,78.0,5.0
 Dr. Anil Aggarwal,Arun Kumar,General Physician,hot,78.0,5.0
 Dr. Neha Bansal,Arun Kumar,General Physician,hot,78.0,6.0
-Dr. Pawan Kumar,Arun Kumar,General Physician,hot,78.0,5.0
 Dr. Deepak Gupta,Arun Kumar,General Physician,hot,78.0,5.0
-Dr. Jyoti Sethi,Arun Kumar,General Physician,hot,131.0,8.0
+Dr. Pawan Kumar,Arun Kumar,General Physician,hot,78.0,5.0
 Dr. Ramesh Hari,Arun Kumar,General Physician,hot,131.0,8.0
 Dr. Gunjan Jain,Arun Kumar,General Physician,hot,76.0,7.0
+Dr. Jyoti Sethi,Arun Kumar,General Physician,hot,131.0,8.0
 Dr. Promila Chakraborty,Shiv Kumar,General Physician,hot,111.0,2.0
-Dr. Sundar Rao,Arun Kumar,General Physician,hot,55.0,2.0
-Dr. Sarita,Arun Kumar,General Physician,hot,55.0,2.0
 Dr. Chitra Gupta,Arun Kumar,General Physician,hot,107.0,3.0
-Dr. Manoj jain,Atul Pandey,General Physician,hot,128.0,4.0
+Dr. Sarita,Arun Kumar,General Physician,hot,55.0,2.0
+Dr. Sundar Rao,Arun Kumar,General Physician,hot,55.0,2.0
 Dr. Darshna devi,Atul Pandey,General Physician,hot,128.0,3.0
 Dr. Sandip dev,Atul Pandey,General Physician,hot,128.0,3.0
+Dr. Manoj jain,Atul Pandey,General Physician,hot,128.0,4.0
 Dr. Darhana devi,Atul Pandey,General Physician,hot,128.0,2.0
-Dr. Krishna verma,Atul Pandey,General Physician,hot,105.0,2.0
 Dr. Sandeep deb,Atul Pandey,General Physician,hot,105.0,2.0
+Dr. Krishna verma,Atul Pandey,General Physician,hot,105.0,2.0
 Dr. Kumund Bala,Shiv Kumar,General Physician,hot,95.0,3.0
 Dr. Praveen Kumar Malik,Shiv Kumar,General Physician,hot,95.0,3.0
 Dr. Azad,Shiv Kumar,General Physician,hot,95.0,3.0
@@ -219,8 +222,8 @@ Dr. anita kumar,Atul Pandey,General Physician,hot,61.0,1.0
 Abhay Kumar Paul,Inder Pawar,General Physician,hot,100.0,8.0
 Sandhya Verma,Inder Pawar,General Physician,hot,86.0,6.0
 Dr. Ajeet Chauhan,Shiv Kumar,General Physician,hot,61.0,2.0
-Seema Rastogi,Inder Pawar,General Physician,hot,95.0,6.0
 Rajni Tiwari,Inder Pawar,General Physician,hot,95.0,6.0
+Seema Rastogi,Inder Pawar,General Physician,hot,95.0,6.0
 Nanak Dass Jolly,Inder Pawar,General Physician,hot,100.0,8.0
 NM Saxena,Inder Pawar,General Physician,hot,100.0,8.0
 N. Singh,Inder Pawar,General Physician,hot,46.0,4.0
@@ -235,11 +238,11 @@ DUCHHAN,Inder Pawar,General Physician,hot,54.0,1.0
 Manish,Inder Pawar,General Physician,hot,104.0,11.0
 B. Nagpal,Inder Pawar,General Physician,hot,104.0,11.0
 Ashish,Inder Pawar,General Physician,hot,105.0,13.0
-Rajesh Prasad,Inder Pawar,General Physician,hot,105.0,14.0
 Shailendra Kumar,Inder Pawar,General Physician,hot,85.0,9.0
+Rajesh Prasad,Inder Pawar,General Physician,hot,105.0,14.0
 Shubhla Bansal,Inder Pawar,General Physician,hot,85.0,4.0
-Dr. Anuj Chanda,Arun Kumar,General Physician,hot,198.0,24.0
 Dr. Nishu Chanda,Arun Kumar,General Physician,hot,198.0,19.0
+Dr. Anuj Chanda,Arun Kumar,General Physician,hot,198.0,24.0
 Dr. R. S. chandra,Atul Pandey,General Physician,hot,140.0,4.0
 Dr. sunil kumar Chauhan,Atul Pandey,General Physician,hot,161.0,8.0
 Dr. sushil Kumar Chauhan,Atul Pandey,General Physician,hot,133.0,4.0
@@ -252,8 +255,8 @@ Dr. Gyan Singh,Shiv Kumar,General Physician,hot,111.0,2.0
 Dr. Ramesh Kumar Verma,Shiv Kumar,General Physician,hot,127.0,6.0
 ar Arun gupta,Harshita Sharma,General Physician,hot,39.0,6.0
 Dr. Amrish Soni,Atul Pandey,General Physician,hot,195.0,3.0
-Dr. Shiv Kumar,Atul Pandey,General Physician,hot,181.0,1.0
 Dr. D. s. lathwal,Atul Pandey,General Physician,hot,173.0,2.0
+Dr. Shiv Kumar,Atul Pandey,General Physician,hot,181.0,1.0
 Dr. Adnan khan,Atul Pandey,General Physician,hot,156.0,10.0
 ganga,Pushpa Test,Cardiologist,hot,198.0,1.0
 Dr Rishi gupta,Harshita Sharma,Psychiatrist,hot,39.0,2.0
@@ -272,6 +275,7 @@ Dr. D.P.S. Rekhi,Shiv Kumar,General Physician,hot,111.0,4.0
 Dr. Madhu Yadav,Shiv Kumar,General Physician,hot,92.0,1.0
 Dr. Priyanka Goswami,Neeraj Bari,Dentist,hot,70.0,2.0
 Dr. DK Kathuria,Atul Pandey,General Physician,hot,197.0,6.0
+Dr. Devendra Kumar,Arun Kumar,Physiotherapist,hot,1.0,1.0
 Dr. Sanjay Dhaiya,Atul Pandey,General Physician,hot,194.0,4.0
 Dr. Srishti Malhotra,Shiv Kumar,General Physician,hot,25.0,1.0
 GS Gupta,Inder Pawar,General Physician,hot,83.0,5.0
@@ -297,8 +301,8 @@ Dr Ashish rohatgi,Harshita Sharma,General Physician,hot,55.0,6.0
 Dr. Ashok Bhat,Neeraj Bari,#N/A,Unknown,162.0,12.0
 Dr. Atul Ahuja,Neeraj Bari,Surgeon,hot,142.0,9.0
 Dr. Atul Arora,Neeraj Bari,General Physician,hot,177.0,24.0
-Dr sudha bhargava,Harshita Sharma,Obstetricians or Gynecologist (OBGYNs),hot,57.0,7.0
 Dr M D bhargava,Harshita Sharma,General Physician,hot,57.0,7.0
+Dr sudha bhargava,Harshita Sharma,Obstetricians or Gynecologist (OBGYNs),hot,57.0,7.0
 Dr. Bharti,Shiv Kumar,General Physician,hot,119.0,2.0
 Dr RS Chandna,Neeraj Bari,General Physician,hot,170.0,10.0
 Dr. DP Sarkar,Arun Kumar,General Physician,hot,184.0,13.0
@@ -357,7 +361,7 @@ Dr. SN Pradhan,Neeraj Bari,General Physician,hot,191.0,4.0
 Dr shyam sundar,Harshita Sharma,General Physician,hot,57.0,8.0
 Dr Rohit jain,Harshita Sharma,General Physician,hot,57.0,6.0
 Dr Naveen,Harshita Sharma,Physiotherapist,hot,57.0,7.0
-Dr. Sumit Dhawan,Neeraj Bari,#N/A,Unknown,191.0,14.0
+Dr. Sumit Dhawan,Neeraj Bari,#N/A,Unknown,191.0,15.0
 Dr Sunil khetrapal,Harshita Sharma,General Physician,hot,39.0,2.0
 Dr Sunita Mahta,Neeraj Bari,General Physician,hot,185.0,4.0
 Dr. swati,Neeraj Bari,General Physician,hot,182.0,4.0
@@ -464,6 +468,7 @@ Dr. Renu Mishra,Atul Pandey,General Physician,hot,154.0,1.0
 Dr. Ritu Gupta,Shiv Kumar,General Physician,hot,142.0,1.0
 Dr. RK Luthra,Neeraj Bari,General Physician,hot,191.0,4.0
 Dr Rohit Sharma,Neeraj Bari,General Physician,hot,130.0,1.0
+Dr. Ruchi Varnshey,Shiv Kumar,Physiotherapist,hot,1.0,1.0
 Dr. S K Mundra,Arun Kumar,General Physician,hot,106.0,3.0
 Dr. SK Mehta,Arun Kumar,General Physician,hot,194.0,7.0
 Dr. S. Parkash,Shiv Kumar,General Physician,hot,135.0,1.0
@@ -544,22 +549,22 @@ Dr. Cassia Marandi,Shiv Kumar,General Physician,hot,133.0,12.0
 hhhhh,Shrunga Test,Radiologist,hot,,
 Dr.Durgesh,Atul Pandey,Physiotherapist,hot,181.0,1.0
 Dr. S K Singh,Arun Kumar,General Physician,hot,181.0,1.0
-Anil Gomber,Inder Pawar,General Physician,hot,76.0,3.0
 Dr Anil gomber,Harshita Sharma,General Physician,hot,61.0,3.0
+Anil Gomber,Inder Pawar,General Physician,hot,76.0,3.0
 Dr. A.k. goswami,Atul Pandey,General Physician,hot,106.0,1.0
 Dr. A.k. Goyal,Atul Pandey,General Physician,hot,137.0,11.0
 Dr. meenu goyal,Atul Pandey,Obstetricians or Gynecologist (OBGYNs),hot,137.0,5.0
-Dr. Gopal Krishan Gopal,Atul Pandey,#N/A,Unknown,194.0,1.0
 Dr. Shashi goyal,Atul Pandey,Obstetricians or Gynecologist (OBGYNs),hot,137.0,4.0
+Dr. Gopal Krishan Gopal,Atul Pandey,#N/A,Unknown,194.0,1.0
 Dr. SG Grewal,Neeraj Bari,General Physician,hot,175.0,3.0
 Dr SG Grewal,Neeraj Bari,General Physician,hot,174.0,1.0
 Dr. harish Grover,Atul Pandey,Physiotherapist,hot,,
 Dr.Rajive Grover,Atul Pandey,General Physician,hot,180.0,2.0
 Dr. Chetan,Neeraj Bari,General Physician,hot,170.0,1.0
-Dr. S Gupta,Arun Kumar,General Physician,hot,187.0,1.0
+Dr. S sain gupta,Neeraj Bari,General Physician,hot,112.0,2.0
 Rajendra Gupta,Inder Pawar,General Physician,hot,75.0,3.0
 Dr. satyandra pal Gupta,Atul Pandey,General Physician,hot,100.0,1.0
-Dr. S sain gupta,Neeraj Bari,General Physician,hot,112.0,2.0
+Dr. S Gupta,Arun Kumar,General Physician,hot,187.0,1.0
 Dr. RK Gupta,Atul Pandey,General Physician,hot,182.0,2.0
 Dr. Pradeep Gupta,Neeraj Bari,General Physician,hot,145.0,2.0
 Dr. Anuj Gupta,Atul Pandey,General Physician,hot,158.0,8.0
@@ -584,15 +589,15 @@ Dr. Neha Arora,Shiv Kumar,General Physician,hot,,
 Dr. Aseem Dhall,Atul Pandey,General Physician,hot,139.0,3.0
 Dr. Gagan N Jain,Arun Kumar,General Physician,hot,198.0,13.0
 Sanjeev Goyal,Inder Pawar,General Physician,hot,98.0,2.0
-Dr. Parveen Garg,Arun Kumar,Obstetricians or Gynecologist (OBGYNs),hot,176.0,10.0
 Dr. Ankita Garg,Arun Kumar,Obstetricians or Gynecologist (OBGYNs),hot,176.0,8.0
+Dr. Parveen Garg,Arun Kumar,Obstetricians or Gynecologist (OBGYNs),hot,176.0,10.0
 Dr. Mahesh Garg,Arun Kumar,General Physician,hot,195.0,10.0
 Dr. Ashraf,Neeraj Bari,Physiotherapist,hot,127.0,2.0
 Dr. Bhavneet Kaur,Neeraj Bari,Psychiatrist,hot,187.0,4.0
 Dr. Charu,Shiv Kumar,General Physician,hot,110.0,1.0
 Dr. Farooguee,Atul Pandey,General Physician,hot,132.0,1.0
 Dr. Anjali Sharma,Shiv Kumar,General Physician,hot,,
-Dr. Anamika Gupta,Neeraj Bari,#N/A,Unknown,190.0,17.0
+Dr. Anamika Gupta,Neeraj Bari,#N/A,Unknown,190.0,18.0
 Dr. Jasmine Sachdeva,Shiv Kumar,General Physician,hot,125.0,2.0
 Dr. Mehak Khurana,Arun Kumar,Dentist,hot,146.0,1.0
 Dr. M A khan,Arun Kumar,General Physician,hot,160.0,8.0
@@ -654,7 +659,7 @@ Dr. Ashish Lal,Shiv Kumar,General Physician,hot,76.0,1.0
 Dr. Sankalp mohan,Atul Pandey,Neurologist,hot,174.0,1.0
 Dr. S.K. Viswas,Shiv Kumar,General Physician,hot,89.0,1.0
 Dr A K Aggarwal,Harshita Sharma,General Physician,hot,57.0,6.0
-Dr. Surender Dhawan,Neeraj Bari,General Physician,hot,191.0,6.0
+Dr. Surender Dhawan,Neeraj Bari,General Physician,hot,191.0,7.0
 Dr. Amit Sharma,Atul Pandey,General Physician,hot,191.0,1.0
 Dr. R. k. luthria,Atul Pandey,General Physician,hot,140.0,4.0
 Dr. Mahendar Sharma,Atul Pandey,General Physician,hot,179.0,1.0
@@ -666,9 +671,10 @@ Dr. K. Madan,Shiv Kumar,General Physician,hot,83.0,2.0
 Dr bhuvan deep gupta,Harshita Sharma,General Physician,hot,18.0,2.0
 Dr. Manish Mahajan,Atul Pandey,Neurologist,hot,54.0,1.0
 Dr. MS Tyagi,Shiv Kumar,General Physician,hot,144.0,1.0
+Dr. Prerna mehto,Neeraj Bari,Physiotherapist,hot,1.0,1.0
 Dr. Nitin Aggarwal,Arun Kumar,General Physician,hot,106.0,1.0
-Dr. G. manchanda,Atul Pandey,General Physician,hot,131.0,4.0
 Dr. S. k. Manchanda,Atul Pandey,General Physician,hot,159.0,3.0
+Dr. G. manchanda,Atul Pandey,General Physician,hot,131.0,4.0
 Dr. M.k. mandal,Atul Pandey,General Physician,hot,107.0,8.0
 Dr. Alok Mathur,Atul Pandey,General Physician,hot,110.0,2.0
 Prakash Kalra,Inder Pawar,General Physician,hot,75.0,3.0
@@ -683,7 +689,7 @@ Dr. S K Nagrani,Arun Kumar,General Physician,hot,184.0,15.0
 Dr barkha sharma,Harshita Sharma,Physiotherapist,hot,60.0,7.0
 Dr. Nishant Ranjan Mishra,Shiv Kumar,General Physician,hot,98.0,1.0
 Dr. Ashok mittal,Atul Pandey,General Physician,hot,161.0,7.0
-Dr. Manish Kr Mittal,Arun Kumar,General Physician,hot,187.0,6.0
+Dr. Manish Kr Mittal,Arun Kumar,General Physician,hot,187.0,7.0
 Dr. Vijay Mittal,Atul Pandey,Orthopedic,hot,,
 Dr. R.P. wadhwa,Atul Pandey,General Physician,hot,145.0,1.0
 Dr. Mohindra singh,Atul Pandey,General Physician,hot,160.0,3.0
@@ -709,8 +715,8 @@ Dr. A.K. Verma,Shiv Kumar,Neurologist,hot,107.0,1.0
 Gautam Arora,Inder Pawar,General Physician,hot,91.0,3.0
 Dr. S.k Kasana,Shiv Kumar,General Physician,hot,137.0,4.0
 Dr. Madhu Nigam,Atul Pandey,General Physician,hot,155.0,2.0
-Gaurav Bhatia,Inder Pawar,General Physician,hot,104.0,7.0
-Shyam Sunder Sharma,Inder Pawar,General Physician,hot,104.0,7.0
+Gaurav Bhatia,Inder Pawar,General Physician,hot,104.0,8.0
+Shyam Sunder Sharma,Inder Pawar,General Physician,hot,104.0,8.0
 Dr. Sarthak Chakraborty,Atul Pandey,General Physician,hot,91.0,2.0
 Dr. Sarthak chakravarty,Atul Pandey,General Physician,hot,155.0,1.0
 MD Gupta,Inder Pawar,General Physician,hot,106.0,5.0
@@ -748,7 +754,7 @@ Dr. pravesh kumar,Neeraj Bari,Physiotherapist,hot,2.0,1.0
 Dr. Priyadarshini,Atul Pandey,General Physician,hot,149.0,2.0
 Dr. Ladil Chatterjee,Atul Pandey,General Physician,hot,,
 Dr. S. k. Puri,Atul Pandey,General Physician,hot,142.0,1.0
-Dr. Purnima Shukla,Neeraj Bari,General Physician,hot,190.0,28.0
+Dr. Purnima Shukla,Neeraj Bari,General Physician,hot,190.0,29.0
 Dr. NC Bansal,Atul Pandey,General Physician,hot,184.0,1.0
 Dr peeyush sharma,Harshita Sharma,ENT,hot,62.0,9.0
 Dr. Devendra Piplani,Shiv Kumar,General Physician,hot,82.0,2.0
@@ -768,9 +774,11 @@ Dr. A Mondal,Neeraj Bari,#N/A,Unknown,191.0,19.0
 Dr. Reeta Mahesh,Neeraj Bari,Physiotherapist,hot,92.0,2.0
 Dr. Shahbuddin Ansari,Shiv Kumar,General Physician,hot,118.0,1.0
 Dr. Z. Aadil,Shiv Kumar,General Physician,hot,92.0,2.0
+Dr.Rahul Gangwar,Shiv Kumar,Physiotherapist,hot,1.0,1.0
 Dr. Neeru Sharma,Shiv Kumar,General Physician,hot,96.0,2.0
 Dr. Nadeem Ahmed,Neeraj Bari,#N/A,Unknown,155.0,12.0
 Dr. neetu rathi,Atul Pandey,Physiotherapist,hot,180.0,1.0
+Dr. Kanika Goel,Shiv Kumar,Physiotherapist,hot,1.0,1.0
 Dr RK sharma,Neeraj Bari,General Physician,hot,173.0,1.0
 Dr. SK Rao,Atul Pandey,General Physician,hot,191.0,2.0
 Dr. S Rajan,Arun Kumar,General Physician,hot,193.0,16.0
@@ -796,8 +804,8 @@ Dr. Anil Kumar,Atul Pandey,General Physician,hot,140.0,2.0
 Dr. charan 5,Neeraj Bari,General Physician,hot,162.0,1.0
 Dr. Atiq,Shiv Kumar,General Physician,hot,41.0,1.0
 Dr. Avinash Sharma,Atul Pandey,General Physician,hot,146.0,5.0
-Dr. avnish sharma,Atul Pandey,General Physician,hot,159.0,2.0
 RP Jain,Inder Pawar,General Physician,hot,98.0,1.0
+Dr. avnish sharma,Atul Pandey,General Physician,hot,159.0,2.0
 Dr Sunita vashisht,Harshita Sharma,Obstetricians or Gynecologist (OBGYNs),hot,14.0,1.0
 Dr. Himanshu Saini,Atul Pandey,General Physician,hot,174.0,1.0
 Dr. Sakuntla Clinic,Neeraj Bari,General Physician,hot,103.0,1.0
@@ -808,6 +816,7 @@ Dr. Rajiv Gupta,Arun Kumar,General Physician,hot,106.0,1.0
 Dr. Aditya Bhardwaj,Atul Pandey,General Physician,hot,139.0,2.0
 Dr. Yogesh joshi,Atul Pandey,General Physician,hot,177.0,3.0
 Dr. santosh kumar,Atul Pandey,General Physician,hot,174.0,1.0
+Dr. Rashmi,Inder Pawar,Physiotherapist,hot,1.0,1.0
 Dr. Rakesh Sapra,Arun Kumar,Orthopedic,hot,194.0,1.0
 Dr. yogesh mittal,Atul Pandey,General Physician,hot,184.0,1.0
 Dr. Vinod Saini,Atul Pandey,General Physician,hot,189.0,2.0
@@ -816,10 +825,10 @@ Dr. Preeti Dhankhar,Atul Pandey,Obstetricians or Gynecologist (OBGYNs),hot,181.0
 Dr Manoj Aggarwal,Arun Kumar,General Physician,hot,179.0,1.0
 Dr. Ashok Kumar Surekha,Arun Kumar,General Physician,hot,179.0,1.0
 Dr Gurubax Singh,Harshita Sharma,Neurologist,hot,62.0,8.0
-Dr jagdeep Chugh,Harshita Sharma,Orthopedic,hot,62.0,6.0
 Jagdeep Chugh,Inder Pawar,General Physician,hot,86.0,5.0
-Dr. Gurubax Singh,Arun Kumar,Neurologist,hot,187.0,2.0
+Dr jagdeep Chugh,Harshita Sharma,Orthopedic,hot,62.0,6.0
 Dr. Jagdeep Chugh,Arun Kumar,General Physician,hot,187.0,1.0
+Dr. Gurubax Singh,Arun Kumar,Neurologist,hot,187.0,2.0
 Dr. Aseem Gupta,Atul Pandey,General Physician,hot,140.0,1.0
 Dr. S. P. Gupta,Atul Pandey,General Physician,hot,140.0,1.0
 Dr. jignesh Srivastava,Atul Pandey,Physiotherapist,hot,177.0,1.0
@@ -839,9 +848,10 @@ Dr. Urvashi Menghani,Shiv Kumar,General Physician,hot,,
 Dr. V K Singh,Arun Kumar,General Physician,hot,106.0,3.0
 Dr. Ayesha Gupta,Shiv Kumar,General Physician,hot,107.0,3.0
 Dr. Shiv Singh Bhati,Neeraj Bari,#N/A,Unknown,181.0,4.0
+Dr. Raman,Arun Kumar,Physiotherapist,hot,1.0,1.0
 Dr. Mohit Luthra,Arun Kumar,General Physician,hot,181.0,2.0
-Dr. Purnima Sachdeva,Shiv Kumar,General Physician,hot,98.0,2.0
 Dr. Purnima sachdeva,Shiv Kumar,General Physician,hot,8.0,1.0
+Dr. Purnima Sachdeva,Shiv Kumar,General Physician,hot,98.0,2.0
 Dr.Rekha soni,Atul Pandey,General Physician,hot,180.0,1.0
 Dr. Waseem Sidiqi,Arun Kumar,General Physician,hot,198.0,12.0
 Dr. rajni sidhwa,Atul Pandey,Obstetricians or Gynecologist (OBGYNs),hot,133.0,5.0
@@ -876,6 +886,7 @@ Dr. Manish Mathur,Arun Kumar,General Physician,hot,181.0,3.0
 Dr. Renu Mathur,Arun Kumar,Dentist,hot,181.0,2.0
 Dr. Apurwa Pawar,Neeraj Bari,Physiotherapist,hot,145.0,3.0
 Dr. Khusrshida Rehman,Neeraj Bari,Physiotherapist,hot,76.0,3.0
+Dr. Gagan Thukral,Neeraj Bari,Physiotherapist,hot,1.0,2.0
 Dr. S. k. Mathur,Atul Pandey,General Physician,hot,149.0,1.0
 Dr. Ashok Gupta,Neeraj Bari,General Physician,hot,112.0,9.0
 Dr. Deppa Gupta,Neeraj Bari,Gastroenterologist,hot,112.0,1.0
@@ -883,8 +894,8 @@ Dr. Arvind tomar,Atul Pandey,General Physician,hot,176.0,1.0
 Dr Naresh Chawla,Arun Kumar,General Physician,hot,180.0,5.0
 Dr. Divyansh singh,Inder Pawar,Physiotherapist,hot,2.0,1.0
 Dr. Puneet Gulati,Arun Kumar,Neurologist,hot,184.0,3.0
-Dr. TK Aadhraan,Shiv Kumar,General Physician,hot,103.0,1.0
 Dr Tivendra Aadhraan,Shiv Kumar,General Physician,hot,119.0,3.0
+Dr. TK Aadhraan,Shiv Kumar,General Physician,hot,103.0,1.0
 Dr. k.k.tyagi,Atul Pandey,General Physician,hot,174.0,1.0
 Anil K Monga,Inder Pawar,ENT,hot,86.0,6.0
 Dr Anil k monga,Harshita Sharma,ENT,hot,62.0,10.0
@@ -902,7 +913,7 @@ Dr. s.s.chhonkar,Atul Pandey,General Physician,hot,179.0,1.0
 Dr. Vijay Kathuriya,Arun Kumar,General Physician,hot,189.0,10.0
 Dr. Ridhi Kathuriya,Arun Kumar,Obstetricians or Gynecologist (OBGYNs),hot,161.0,6.0
 Dr. Sushil Mehta,Shiv Kumar,General Physician,hot,49.0,2.0
-VK Bali,Inder Pawar,General Physician,hot,98.0,2.0
+VK Bali,Inder Pawar,General Physician,hot,98.0,3.0
 Dr. Jasjeet singh,Atul Pandey,General Physician,hot,145.0,1.0
 Dr. Ved Prakash Garg,Shiv Kumar,Orthopedic,hot,50.0,1.0
 Dr. Neelu Madan,Shiv Kumar,General Physician,hot,50.0,1.0
