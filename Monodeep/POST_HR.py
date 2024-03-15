@@ -43,7 +43,8 @@ sql_query_prod = """
                 MAX(CASE WHEN `key` = 'pain_type' THEN answer END) AS "pain_type",
                 MAX(CASE WHEN `key` = 'past_treatment' THEN answer END) AS "past_treatment",
                 MAX(CASE WHEN `key` = 'source' THEN answer END) AS "source",
-                MAX(CASE WHEN `key` = 'age' THEN answer END) AS "age"
+                MAX(CASE WHEN `key` = 'age' THEN answer END) AS "age",
+                MAX(CASE WHEN `key` LIKE '%next_followup_date%' THEN answer END) AS "nextfollowup"
             FROM 
                 profile_answer
             GROUP BY 
@@ -95,7 +96,17 @@ sql_query_prod = """
             c.amount AS "Amount",
             c.payment_from AS "Payment From",
             c.payment_with AS "Payment with",
-            l.name as "Clinic Name"
+            l.name as "Clinic Name",
+            CONVERT_TZ(pa.nextfollowup, '+00:00', '+05:30') as NextFollowUpCM,
+            CONVERT_TZ(
+                STR_TO_DATE(
+                    JSON_UNQUOTE(JSON_EXTRACT(pp.data, '$[8].answer')),
+                    '%Y-%m-%dT%H:%i:%s'
+                ),
+                '+00:00',
+                '+05:30'
+            )AS "Follow_up_PMS_consultation"
+            
         FROM 
             user_profile up
         LEFT JOIN 
@@ -137,13 +148,16 @@ def check_data_new(b):
                 return i['answer']
 
 df['ON_examination'] = df['ON_examination'].apply(check_data_new)
-print(df)
+
+
 
 df_csv = df[["Patient Id", "Patient Name", "Phone", "Clinic Name", "Consult Datetime", "Consultation Name", 
              "Consultation Type", "Consulting Specialist", "Patient Attendance Status", "Payment Type", 
              "Payment Mode", "Amount", "Payment From", "Payment with", "Address", "Age", "Gender", "Pincode", 
              "Care Pathway", "Master Status", "PMS Consult Date", "Diagnosis","ON_examination",  "Occupation", "Pain Score", 
-             "Pain Since", "Pain Site", "Pain Type", "Past Treatment", "Source", "Onboarding Status"]]
+             "Pain Since", "Pain Site", "Pain Type", "Past Treatment", "Source", "Onboarding Status","NextFollowUpCM", "Follow_up_PMS_consultation"]]
+
+print(df_csv)
 
 
 df_csv.to_csv('Post_EHR_Tracker_NEW.csv',index=False)
@@ -159,12 +173,12 @@ scope = ['https://spreadsheets.google.com/feeds',
 credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
 gc = gspread.authorize(credentials)
 client = gspread.authorize(credentials)
-spreadsheetId = '1TfijYVO74DgqInivHaBwf3exOLJ9Kg856P-I5H4aI2o' 
+spreadsheetId = '1dEAgjtCoGRMYP5sEoI4v4n9eF6uHOFoqr3AMjIASG6M' 
 
 sheetName = 'RAW'        # Please set sheet name you want to put the CSV data.
 csvFile = 'Post_EHR_Tracker_NEW.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'RAW'!A2:X")
+sh.values_clear("'RAW'!A2:AG")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
