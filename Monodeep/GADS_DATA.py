@@ -9,14 +9,14 @@ import pandas.io.sql as psql
 import mysql.connector
 
 
-mydb = mysql.connector.connect(
-  host="stg-nivaancare-mysql-01.cydlopxelbug.ap-south-1.rds.amazonaws.com",
+mydb_prod = mysql.connector.connect(
+  host="prod-nivaancare-mysql-02.cydlopxelbug.ap-south-1.rds.amazonaws.com",
   user="monodeep.saha",
-  password="u5eOX37kNPh13Jdhgfv",
+  password="u5eOX37kNPh13J",
   database="nivaancare_production"
 )
-mycursor = mydb.cursor()
-conn = mycursor.execute
+mycursor_prod = mydb_prod.cursor()
+conn_prod = mycursor_prod.execute
 
 sql_query = """
   SELECT 
@@ -30,7 +30,7 @@ sql_query = """
   
    
 """
-df_DATA = pd.read_sql_query(sql_query,mydb)
+df_DATA = pd.read_sql_query(sql_query,mydb_prod)
 
 df_Final = df_DATA[['Date','Amount','Impressions','Clicks']]
 print(df_Final)

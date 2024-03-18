@@ -13,7 +13,7 @@ scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/aut
 credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-2024-414004-60efb95f9e7f.json',
                                                                scope)
 client = gspread.authorize(credentials)
-sheet = client.open_by_key("1QLqVxEZyVwJ0Nn0xfQEGyIPEJhjhk4kgJUGsSTdWl14") # Open by key the spreadhseet
+sheet = client.open_by_key("1LN6PVialY-Dgj480hodrb9HaspuTO0_-0sOUWz9f9IQ") # Open by key the spreadhseet
 #sheet.share
 tab = sheet.worksheet('Visit')
 calls = pd.DataFrame(tab.get_all_records())
@@ -51,23 +51,23 @@ print(unique)
 
 unique.to_csv('DRO.csv',index = False)
 
-import gspread
-import csv
-from oauth2client.service_account import ServiceAccountCredentials
+# import gspread
+# import csv
+# from oauth2client.service_account import ServiceAccountCredentials
 
 
-scope = ['https://spreadsheets.google.com/feeds',
-         'https://www.googleapis.com/auth/drive']
+# scope = ['https://spreadsheets.google.com/feeds',
+#          'https://www.googleapis.com/auth/drive']
 
-credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
-gc = gspread.authorize(credentials)
-client = gspread.authorize(credentials)
-spreadsheetId = '14c0KHi09ZNzE07uiSItLMTw2DLqWjvjIIqxnIO4rxAk' 
+# credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
+# gc = gspread.authorize(credentials)
+# client = gspread.authorize(credentials)
+# spreadsheetId = '14c0KHi09ZNzE07uiSItLMTw2DLqWjvjIIqxnIO4rxAk' 
 
-sheetName = 'Doc_View_Final'        # Please set sheet name you want to put the CSV data.
-csvFile = 'DRO.csv'  # Please set the filename and path of csv file.
-sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'Doc_View_Final'!A2:F")
-sh.values_update(sheetName,
-                 params={'valueInputOption': 'USER_ENTERED'},
-                 body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
+# sheetName = 'Doc_View_Final'        # Please set sheet name you want to put the CSV data.
+# csvFile = 'DRO.csv'  # Please set the filename and path of csv file.
+# sh = client.open_by_key(spreadsheetId)
+# sh.values_clear("'Doc_View_Final'!A2:F")
+# sh.values_update(sheetName,
+#                  params={'valueInputOption': 'USER_ENTERED'},
+#                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
