@@ -13,7 +13,7 @@ scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/aut
 credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-2024-414004-60efb95f9e7f.json',
                                                                scope)
 client = gspread.authorize(credentials)
-sheet = client.open_by_key("1LN6PVialY-Dgj480hodrb9HaspuTO0_-0sOUWz9f9IQ") # Open by key the spreadhseet
+sheet = client.open_by_key("1CJmXQbdUR_UrW2vcdYNp6in2Dko-1uRLXhqdCviDUgc") # Open by key the spreadhseet
 #sheet.share
 tab = sheet.worksheet('Visit')
 calls = pd.DataFrame(tab.get_all_records())
@@ -67,9 +67,12 @@ unique_with_visits.fillna(0, inplace=True)
 unique =unique_with_visits.drop_duplicates(subset=['Doctor_Name'])
 print(unique)
 
-DF_FINAL_DATA = unique[["Doctor_Name", "DRO_Name", "Speciality", "LatestStatus", "Ageing", "Visits", "Aug_Visits", "Sep_Visits", "Oct_Visits", "Nov_Visits", "Dec_Visits", "Feb_Visits", "Jan_Visits", "Mar_Visits"]]
+DF_FINAL_DATA = unique[["Doctor_Name", "DRO_Name", "Speciality", "LatestStatus", "Ageing", "Visits", "Aug_Visits", "Sep_Visits", "Oct_Visits", "Nov_Visits", "Dec_Visits", "Jan_Visits", "Feb_Visits", "Mar_Visits"]]
 
-DF_FINAL_DATA.to_csv('DRO_TEST.csv',index = False)
+DF_FINAL_DATA_RENAME = DF_FINAL_DATA.rename(columns={'Visits': 'Call', 'Aug_Visits': 'Aug Calls','Sep_Visits': 'Sep Call', 'Oct_Visits': 'Oct Call','Nov_Visits': 'Nov Call', 'Dec_Visits': 'Dec Calls','Jan_Visits': 'Jan Call', 'Feb_Visits': 'Feb Call','Mar_Visits': 'Mar Call'})
+
+print(DF_FINAL_DATA_RENAME)
+DF_FINAL_DATA_RENAME.to_csv('DRO_TEST.csv',index = False)
 
 import gspread
 import csv
