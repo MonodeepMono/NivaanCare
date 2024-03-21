@@ -23,9 +23,9 @@ sql_query = """
   ga.campaign_date as Date,
   SUM(ga.clicks) as Clicks ,
   SUM(ga.impressions) as Impressions ,
-  SUM(cost) as Amount 
+  SUM(cost) as Amount
   FROM nivaancare_production.GOOGLE_ADS ga
-  WHERE ga.campaign_date >= '2024-03-01'
+  WHERE ga.campaign_date >= '2024-03-01' and ga.campaign_date <= DATE(NOW())-1
   GROUP BY ga.campaign_date;
   
    

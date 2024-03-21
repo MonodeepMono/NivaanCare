@@ -22,26 +22,6 @@ mycursor_prod = mydb_prod.cursor()
 conn_prod = mycursor_prod.execute
 
 sql_query_prod = """
-   
-# SELECT 
-#     DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
-#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' THEN url.mobile END) as GoogleFormLead,
-#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' AND url.lead_new_status like '%Junk%' THEN url.mobile END) as Google_JunkLead,
-#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Google%' AND url.lead_new_status like '%L6%' THEN url.mobile END) as Google_L6_New_Lead,
-#     COUNT(DISTINCT CASE WHEN url.lead_sub_source like '%Google%' AND url.channel_name = 'Call' THEN url.mobile END) as GoogleCallLead,
-#     COUNT(DISTINCT CASE WHEN url.lead_sub_source like '%Google%' AND url.channel_name = 'Call' AND url.lead_new_status like '%Junk%' THEN url.mobile END) as GoogleCallJunkLead,
-#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' THEN url.mobile END) as FacebookLead,
-#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' AND url.lead_new_status LIKE '%Junk%' THEN url.mobile END) as FacebookJunkLead,
-#     COUNT(DISTINCT CASE WHEN url.utm_source like '%Facebook%' AND url.lead_new_status LIKE '%L6%' THEN url.mobile END) as Facebook_L6_New_Lead
-    
-# FROM 
-#     nivaancare_production.user_registration_lead url
-# WHERE 
-#     DATE_FORMAT(url.created_time, '%Y-%m-%d') BETWEEN '2024-02-01' AND '2024-03-09'
-# GROUP BY 
-#     DATE_FORMAT(url.created_time, '%Y-%m-%d');
-
-
   SELECT 
    DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
    url.created_time as created_time,
@@ -50,11 +30,12 @@ sql_query_prod = """
    url.lead_new_status as lead_new_status,
    url.lead_sub_source AS lead_sub_source,
    url.channel_name  AS channel_name,
-  url.mobile as mobile
+  url.mobile as mobile,
+  url.utm_campaign as utm_campaign
   FROM 
     nivaancare_production.user_registration_lead url
 WHERE 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-03-01';
+    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-03-01' and DATE_FORMAT(url.created_time, '%Y-%m-%d') <=  '2024-03-20';
   
    
 
@@ -63,7 +44,7 @@ df_LEAD = pd.read_sql_query(sql_query_prod,mydb_prod)
 
 
 df_LEAD['Rank_Status'] = df_LEAD.groupby(['mobile'])['modified_time'].rank("dense", ascending=False)
-df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name']]
+df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign']]
 print(df_FINAL)
 
 df_FINAL.to_csv('Nivaan_LEAD.csv',index = False)
