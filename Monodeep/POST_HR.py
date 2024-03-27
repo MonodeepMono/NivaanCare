@@ -60,7 +60,7 @@ sql_query_prod = """
                    MAX(c.payment_mode) payment_mode,
                    MAX(c.amount) amount,
                    MAX(c.payment_from) payment_from,
-                   MAX(c.payment_with) payment_with,
+                   MAX(c.payment_with_source) payment_with_source,
                    MAX(c.admin_id) admin_id
             from consultation c
             group by 1,date(c.created_at)
@@ -95,7 +95,7 @@ sql_query_prod = """
             c.payment_mode AS "Payment Mode",
             c.amount AS "Amount",
             c.payment_from AS "Payment From",
-            c.payment_with AS "Payment with",
+            c.payment_with_source AS "Payment with",
             l.name as "Clinic Name",
             CONVERT_TZ(pa.nextfollowup, '+00:00', '+05:30') as NextFollowUpCM,
             CONVERT_TZ(

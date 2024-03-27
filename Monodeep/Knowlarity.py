@@ -11,7 +11,7 @@ def get_current_Date():
 url = "https://kpi.knowlarity.com/Basic/v1/account/calllog"
 
 # Define start and end time as parameters
-start_time = '2024-03-01 00:00:06+05:30'
+start_time = '2024-01-01 00:00:06+05:30'  # Start from 1st January 2024
 end_time = get_current_Date()
 headers = {
     'Accept': 'application/json',
