@@ -113,9 +113,10 @@ df['In-Out'] = df['InOut']
 print(df)
 
 df_new = df[["In-Out", "Date","Month", "duration", "Action", "destination", "callid","Agent_Name","Call_Status","Flag",'Week']]
-
-print(df_new)
-df_new.to_csv('Knowlarity_Dialler.csv',index = False)
+df['In-Out'] = np.where(df['In-Out'] == 'OUTGOING', 'Outgoing', 'Incoming')
+sorted_df = df_new.sort_values(by='Date')
+print(sorted_df)
+sorted_df.to_csv('Knowlarity_Dialler.csv',index = False)
 
 import gspread
 import csv
@@ -133,7 +134,7 @@ spreadsheetId = '1C_6FFQxOshWmjNiIi7p3C4PHki9EaJELL-BcksXPA04'
 sheetName = 'Dailer_Raw'        # Please set sheet name you want to put the CSV data.
 csvFile = 'Knowlarity_Dialler.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'Dailer_Raw'!A2:X")
+sh.values_clear("'Dailer_Raw'!A2:K")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
