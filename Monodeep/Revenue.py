@@ -88,8 +88,9 @@ print("---------SortedDF------------")
 print(sorted_df)
 sorted_df['Nivaan Share'] = df['TotalGMV'] * 0.7
 sorted_df['Percentage'] = (sorted_df['Nivaan Share'] / sorted_df['TotalGMV'])
+sorted_df['Category'] = np.where(sorted_df['Amount_With'] == 'Location', 'B2B', 'B2C')
 
-df_FINAL = sorted_df[["Patient Id",  "Phone Number", "Patient source", "Centre", "Patient Name", "1st PMS Consult Date","PMS",  "TotalGMV","Nivaan Share","Percentage", "Payment_Mode", "Amount_With", "Month"]]
+df_FINAL = sorted_df[["Patient Id",  "Phone Number", "Patient source", "Centre", "Patient Name","Category",  "1st PMS Consult Date","PMS",  "TotalGMV","Nivaan Share","Percentage", "Payment_Mode", "Amount_With", "Month"]]
 
 df_FINAL.to_csv('Revenue.csv',index=False)
 

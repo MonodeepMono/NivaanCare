@@ -35,7 +35,7 @@ sql_query_prod = """
   FROM 
     nivaancare_production.user_registration_lead url
 WHERE 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-03-01' and DATE_FORMAT(url.created_time, '%Y-%m-%d') <=  '2024-03-20';
+    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-03-01' and DATE_FORMAT(url.created_time, '%Y-%m-%d') <=  '2024-04-08';
   
    
 

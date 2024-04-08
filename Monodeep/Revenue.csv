@@ -1,567 +1,603 @@
-Patient Id,Phone Number,Patient source,Centre,Patient Name,1st PMS Consult Date,PMS,TotalGMV,Nivaan Share,Percentage,Payment_Mode,Amount_With,Month
-RHPL/GH/3071,9811016036,Digital,Gauri Hospital,Sunil Kumar Agarwal,2024-03-01,Riya Kumari,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DA/3070,8377022453,DRO,Dard Mantra,Mahaveer Singh,2024-03-01,Dr Garima Gupta,0.0,0.0,,,Location,3.0
-RHPL/ON/3080,9920221923,Organic,Online,Usha,2024-03-01,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/ON/3080,9920221923,Organic,Online,Usha,2024-03-01,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/ON/3080,9920221923,Organic,Online,Usha,2024-03-01,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/DARC/2823,7983887162,Digital,Dr Abhimanyu Rana's Clinic,Yadram Verma,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3055,9756554408,Digital,Dr Abhimanyu Rana's Clinic,Asha Devi,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DARC/3057,8368903877,DRO,Dr Abhimanyu Rana's Clinic,Ramjhari Devi,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DARC/3064,9378181981,Digital,Dr Abhimanyu Rana's Clinic,Kajal Mohanty,2024-03-01,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-,8368017105,Digital,,Anju,2024-03-01,Dr Pradeep Jain,0.0,0.0,,,,3.0
-RHPL/DARC/3083,9811856988,Digital,Dr Abhimanyu Rana's Clinic,Anil Setia,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/2468,9920188340,Organic,Dr Abhimanyu Rana's Clinic,Karuna Malhotra,2024-03-01,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/2819,8860064080,DRO,Dr Abhimanyu Rana's Clinic,Tara Chander,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3058,8448341063,DRO,Dr Abhimanyu Rana's Clinic,Charano Devi,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-,9873402420,Digital,,Dipti Arora,2024-03-01,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/GH/2810,9818942005,DRO,Dummy Hospital,Kamlesh Devi,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
-,9560557520,Digital,,Teena Pruthi,2024-03-01,Dr Pradeep Jain,0.0,0.0,,,,3.0
-RHPL/DARC/3074,9910148394,DRO,Dr Abhimanyu Rana's Clinic,Chander pal Singh,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3068,9810507344,Digital,Online,Madhu saran,2024-03-01,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/GH/3066,8586874190,Digital,Dummy Hospital,Renu Goyal,2024-03-01,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3062,9711544272,DRO,Sama Hospital,Mrs. Kamlesh w/o shiv kumar,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3061,9711544271,DRO,Sama Hospital,Mr. Shiv Kumar,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/2812,9311181441,Organic,Dummy Hospital,Pooja Aggarwal,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/2810,9818942005,DRO,Dummy Hospital,Kamlesh Devi,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3056,9599157923,Organic,Sama Hospital,Sarabjeet Dhillon,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DA/2782,9911223536,Organic,Dard Mantra,Roop Chand,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DPRC/3073,9891307023,Digital,Delhi Pain Relieve,Gaurav Sharma,2024-03-01,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/MV/3054,9868246455,Digital,Dr Abhimanyu Rana's Clinic,Kartick Gopal,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/SH/3050,8882985122,DRO,Sama Hospital,Reshma Khan,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3067,9760233333,Digital,Sama Hospital,Naman Kansal,2024-03-01,Dr Rohit Gulati,1000.0,700.0,0.7,cash,,3.0
-RHPL/SH/2832,9899764555,Digital,Sama Hospital,Mrs. kajal sasmal,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3100,8920836580,Organic,Online,Mrs. Radha .. Female 47,2024-03-02,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/SH/1809,1545235325,,Sama Hospital,CRM NivaantoCRMNida,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3096,7678524035,Digital,Sama Hospital,Anjam baby,2024-03-02,Dr Rohit Gulati,500.0,350.0,0.7,cash,Location,3.0
-RHPL/NS/3084,9810576657,Digital,NSPC-Paschim Vihar,Meenakshi chawla,2024-03-02,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ON/3104,9811152798,Digital,Online,Krishan Ladia,2024-03-02,Dr G N Goyal,750.0,525.0,0.7,online,Location,3.0
-RHPL/DARC/3075,9811658294,DRO,Dr Abhimanyu Rana's Clinic,Mrs. Mehrul Nisha Female 60,2024-03-02,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3089,9811973330,Digital,Dr. Dang's Brain & Spine Clinic,Saba Khaliq,2024-03-02,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/IP/3092,9911861756,Organic,Impact Clinic,Shagufta,2024-03-02,Fardeen Mirza,500.0,350.0,0.7,online,,3.0
-RHPL/SH/3091,8766305022,Organic,Sama Hospital,Yogender .,2024-03-02,Dr Rohit Gulati,350.0,244.99999999999997,0.7,cash,AdminProfile,3.0
-RHPL/DDB&SC/3107,9811973331,Organic,Dr. Dang's Brain & Spine Clinic,Nida Choudhary,2024-03-02,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3060,9999597559,Digital,Sama Hospital,Sandeep Singhal,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3077,9868899063,DRO,Sama Hospital,Suresh Kumar kashyap .,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/NS/3090,9312958812,Digital,NSPC-Paschim Vihar,Raman Mehta,2024-03-02,Dr G N Goyal,0.0,0.0,,,,3.0
-RHPL/SH/3077,9868899063,DRO,Sama Hospital,Suresh Kumar kashyap .,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3077,9868899063,DRO,Sama Hospital,Suresh Kumar kashyap .,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3094,9990023536,Digital,Sama Hospital,Ritu Malhotra,2024-03-02,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3094,9990023536,Digital,Sama Hospital,Ritu Malhotra,2024-03-02,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/1147,8860909476,DRO,Sama Hospital,SOURAV KANOJIA,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3069,9910233888,DRO,Sama Hospital,Mr. Jaswant lal,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3082,9868592456,DRO,Sama Hospital,Pramod .,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3049,8860962801,DRO,Sama Hospital,Shikha dhar .,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3088,9452033547,Digital,Online,Dhiraj Mishra,2024-03-02,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/SH/3081,9958049646,DRO,Sama Hospital,Mr. Ajay Kumar Saroj,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/2553,7503445084,DRO,Sama Hospital,Poonam Mishra,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/2791,9717687693,DRO,Dummy Hospital,Mewa Rani Devi,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3112,9953954348,Organic,Online,Nancy,2024-03-03,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ON/3111,9899547633,Organic,Online,Jayanti Ranjan,2024-03-03,Dr Abhimanyu Rana,1000.0,700.0,0.7,online,,3.0
-RHPL/NS/3113,9266896996,Digital,NSPC-Paschim Vihar,Baby Anisha Verma,2024-03-03,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
-RHPL/GH/2794,9818376637,DRO,Dummy Hospital,Asha Sharma .,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3079,8587069262,DRO,Dummy Hospital,Saira Banu,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3114,9999722529,DRO,Dummy Hospital,Santosh Kapoor,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3118,8287453462,Digital,Online,Shalu Gupta,2024-03-03,Dr Garima Gupta,700.0,489.99999999999994,0.7,online,,3.0
-RHPL/GH/3095,7827067585,Digital,Dummy Hospital,Himanshu Chaudhary,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/2794,9818376637,DRO,Dummy Hospital,Asha Sharma .,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3086,9899540144,Organic,Dard Mantra,R.K Advani,2024-03-03,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/GH/3059,9278320230,DRO,Dummy Hospital,Shakuntala .,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3065,8459050359,DRO,Dummy Hospital,Vijay Sharma,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3097,9625668300,DRO,Dummy Hospital,Renu Yadav,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3098,8447565942,DRO,Dummy Hospital,N.I Agnihotri,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3101,9811344450,DRO,Dummy Hospital,Satya pal Singh Male 76,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3105,9899258214,DRO,Dummy Hospital,Meena Singh 62,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/2797,9582486996,DRO,Dummy Hospital,Dinesh kumar,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3063,8108466392,DRO,Dummy Hospital,Vimla Choubey,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3085,9312188771,DRO,Dummy Hospital,Kamla devi .,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3087,9810849526,DRO,Dard Mantra,Mr Birender saxena,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3051,8800690835,DRO,Dummy Hospital,Vijay Kumar,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DARC/3137,9811271250,DRO,Dr Abhimanyu Rana's Clinic,Anita Arora,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3099,9213791676,DRO,Dr Abhimanyu Rana's Clinic,Anil kumar . Male 50,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3093,9818064307,DRO,Dr Abhimanyu Rana's Clinic,Shiv Dutt Male 56,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3110,7060628525,Digital,Dr Abhimanyu Rana's Clinic,Jyoti Kumari,2024-03-04,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3106,9818512214,DRO,Dr Abhimanyu Rana's Clinic,Suresho Devi,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,Location,3.0
-RHPL/DPRC/3119,9868244434,Digital,Delhi Pain Relieve,Anita Arora,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DPRC/3146,8368901953,Digital,Delhi Pain Relieve,Santosh Vedwal,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DPRC/3146,8368901953,Digital,Delhi Pain Relieve,Santosh Vedwal,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3141,8470057910,Digital,Dr Abhimanyu Rana's Clinic,Mohd imran,2024-03-04,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DPRC/3119,9868244434,Digital,Delhi Pain Relieve,Anita Arora,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3106,9818512214,DRO,Dr Abhimanyu Rana's Clinic,Suresho Devi,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,Location,3.0
-RHPL/DARC/3141,8470057910,Digital,Dr Abhimanyu Rana's Clinic,Mohd imran,2024-03-04,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DPRC/3146,8368901953,Digital,Delhi Pain Relieve,Santosh Vedwal,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3122,9711481101,Digital,Dr Abhimanyu Rana's Clinic,Shail Khullar,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/GH/3138,9717926804,Digital,Dummy Hospital,Inderjeet verma,2024-03-04,Riya Kumari,500.0,350.0,0.7,cash,Location,3.0
-RHPL/GH/3121,9810331474,DRO,Sama Hospital,Rajshri  Goyal,2024-03-04,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3130,8882508075,Digital,Online,Reena Aggarwal,2024-03-04,Dr Garima Gupta,500.0,350.0,0.7,online,,3.0
-RHPL/SH/3127,9313732781,Digital,Sama Hospital,Anju Dhingra,2024-03-04,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3128,7827476254,Digital,Sama Hospital,Jhilam Ghoshal,2024-03-04,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/SH/3120,7292060524,Digital,Sama Hospital,Ami Kala,2024-03-04,Dr Rohit Gulati,1000.0,700.0,0.7,online,,3.0
-RHPL/ON/3135,8800092040,Digital,Online,Kripal Singh,2024-03-04,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
-RHPL/DA/3124,9210305061,Digital,Dard Mantra,Kavita Sethi,2024-03-04,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DA/3124,9210305061,Digital,Dard Mantra,Kavita Sethi,2024-03-04,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DARC/3136,9868803867,DRO,Dr Abhimanyu Rana's Clinic,Amresh Devi,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3126,8178578663,Digital,Dr Abhimanyu Rana's Clinic,Premvati,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-,8510818182,Digital,,Vishal Soni Male 30,2024-03-04,Dr G N Goyal,0.0,0.0,,,,3.0
-RHPL/DARC/3143,9911417203,Digital,Dr Abhimanyu Rana's Clinic,Ravinder Singh,2024-03-04,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
-RHPL/ON/3149,9599548017,Digital,Online,Javed,2024-03-05,Dr Ishan Bhatia,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3169,9911602241,DRO,Dr Abhimanyu Rana's Clinic,Laxman Singh,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3142,8368948650,DRO,Dr Abhimanyu Rana's Clinic,Dhani Ram,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3144,9560369504,DRO,Dr Abhimanyu Rana's Clinic,Rajender Bhati,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3102,9582961977,DRO,Dr Abhimanyu Rana's Clinic,Shiv Devi Sharma,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3103,9810096164,DRO,Dr Abhimanyu Rana's Clinic,Subramanyam .,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3148,9718736406,DRO,Dr Abhimanyu Rana's Clinic,Rajkumar Sharma,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3150,8178883967,DRO,Dr Abhimanyu Rana's Clinic,Pushpa Devi,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,Location,3.0
-RHPL/DARC/3168,9911602245,DRO,Dr Abhimanyu Rana's Clinic,Asha Devi,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3151,7906654445,Digital,Dr Abhimanyu Rana's Clinic,Gargi Chhabra,2024-03-05,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/ON/3164,9312555848,Digital,Online,Afak,2024-03-05,Dr Ishan Bhatia,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3117,9873311395,Digital,Sama Hospital,Babli Gupta Gupta,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/1546,9891528246,Digital,Sama Hospital,Nitesh Kumar,2024-03-05,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/DARC/3152,9871086644,Digital,Dr Abhimanyu Rana's Clinic,Sunita Vashishtha,2024-03-05,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
-RHPL/SH/3154,8882438957,Digital,Sama Hospital,Shakuntala Devi Female,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3132,9958367852,Digital,Sama Hospital,Surendra Singh,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3145,8527821339,Digital,Sama Hospital,Priyanka yadav,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3131,9910812580,Organic,Sama Hospital,Yogita Tayal,2024-03-05,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3131,9910812580,Organic,Sama Hospital,Yogita Tayal,2024-03-05,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/ON/3149,9599548017,Digital,Online,Javed,2024-03-05,Dr Ishan Bhatia,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/ON/3172,7006116538,Digital,Online,Ameer Ali,2024-03-06,Dr Ishan Bhatia,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/ON/3196,9910398505,Digital,Online,Anjali Bhardwaj,2024-03-06,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/ON/3191,9718411372,Digital,Online,Shikha Das,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
-RHPL/SH/3180,9999350116,DRO,Sama Hospital,Rupinder Kaur,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DA/3233,9971808390,Digital,Dard Mantra,Tarkeshwar,2024-03-06,Fardeen Mirza,500.0,350.0,0.7,cash,Location,3.0
-RHPL/ON/3198,9818092102,Digital,Online,Ragini Malhotra,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/SH/3185,9911277227,DRO,Sama Hospital,Vijay Mittal,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3181,8826150414,DRO,Sama Hospital,Sushila .,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3174,9910683179,DRO,Sama Hospital,Matwari Devi,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3170,9560957018,Organic,Dr Abhimanyu Rana's Clinic,Rakesh Aggarwal,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
-RHPL/ON/3195,9873487575,Digital,Online,Rohit Bansal,2024-03-06,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/ON/3191,9718411372,Digital,Online,Shikha Das,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
-RHPL/GH/3165,9871594011,Digital,Dummy Hospital,Jitesh Kumar,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3155,9810827298,DRO,Dummy Hospital,Vinod Kumar,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3155,9810827298,DRO,Dummy Hospital,Vinod Kumar,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3182,8130789776,Digital,Online,Kamal Prabha Sharma,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/GH/3178,9911806299,DRO,Dummy Hospital,Madhu Kumari,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3162,9999618499,DRO,Sama Hospital,Chandan Singh,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/GH/3079,8587069262,DRO,Dummy Hospital,Saira Banu,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3195,9873487575,Digital,Online,Rohit Bansal,2024-03-06,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/ON/3171,9599599202,Digital,Online,Brijesh,2024-03-06,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/SH/2667,9871001052,Organic,Dummy Hospital,Pallavi Manchanda,2024-03-06,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DA/3192,9971808392,Digital,Dard Mantra,Manju Devi,2024-03-06,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DA/3183,9716203376,DRO,Dard Mantra,Geeta,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3162,9999618499,DRO,Sama Hospital,Chandan Singh,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/GH/3226,9818034684,Organic,Dummy Hospital,Jyoti Mehra,2024-03-07,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ON/3206,8384032907,Digital,Online,Mamta Sholapurkar,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,,3.0
-RHPL/ON/3236,9650235531,Organic,Online,Ram Sunder Prakhar,2024-03-07,Dr Ishan Bhatia,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DARC/3232,9899262890,Digital,Dr Abhimanyu Rana's Clinic,Prashant Panchal,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3232,9899262890,Digital,Dr Abhimanyu Rana's Clinic,Prashant Panchal,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3230,9810155069,Digital,Dr Abhimanyu Rana's Clinic,Sanjeev bhayana,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3222,9716406316,DRO,Dr Abhimanyu Rana's Clinic,Padda Rani,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
-RHPL/DARC/3213,9810313877,DRO,Dr Abhimanyu Rana's Clinic,P.L. Sharma,2024-03-07,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3237,9560381023,DRO,Dr Abhimanyu Rana's Clinic,Mithilesh,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
-RHPL/DPRC/3210,9880663733,Digital,Delhi Pain Relieve,Siraj Ahmed,2024-03-07,Dr Pradeep Jain,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DPRC/3203,9015294770,Digital,Delhi Pain Relieve,Raveena Ali,2024-03-07,Dr Pradeep Jain,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/ON/3224,8171926665,Digital,Online,Aakash Bindu,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3231,7976151306,Digital,Online,Dimpy Batra Kohli,2024-03-07,Dr Pradeep Jain,1000.0,700.0,0.7,cash,,3.0
-RHPL/DARC/3225,8750998836,Digital,Dr Abhimanyu Rana's Clinic,Sumitra,2024-03-07,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3227,9899689357,Organic,Online,Gunjan Mehra,2024-03-07,Dr Ishan Bhatia,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ON/3208,9883219095,Digital,Online,Ghuncha Nikhar,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/ON/3211,9149559776,Digital,Online,Ankit Ramola,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
-RHPL/ON/3208,9883219095,Digital,Online,Ghuncha Nikhar,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/DARC/3205,9971452567,Digital,Dr Abhimanyu Rana's Clinic,Sher Singh,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
-RHPL/DARC/3205,9971452567,Digital,Dr Abhimanyu Rana's Clinic,Sher Singh,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
-RHPL/ON/3204,9958886697,Digital,Online,Bhanu Dua,2024-03-07,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,,3.0
-RHPL/SH/3202,9311326292,DRO,Sama Hospital,Mrs. Sunita Davi,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3189,8580844592,DRO,Sama Hospital,Mrs Maya rani,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3189,8580844592,DRO,Sama Hospital,Mrs Maya rani,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ASHL/3200,7085084959,Digital,Aashlok Hospital,Mezhunuo Solo,2024-03-07,Dr Naveen Talwar,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3209,9810189294,DRO,Sama Hospital,Mrs. Kiran Devi [w/o-Amar chand],2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3187,9810189293,DRO,Sama Hospital,Amar Chand,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/NS/3215,9999235687,Digital,NSPC-Paschim Vihar,Madhu Sharma,2024-03-07,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3214,9910939936,DRO,Dr Abhimanyu Rana's Clinic,Keshav Rawat,2024-03-07,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3212,9910939933,DRO,Dr Abhimanyu Rana's Clinic,Seema Rawat,2024-03-07,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3159,9810736607,DRO,Sama Hospital,Sumitra Devi .,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3163,9899250315,DRO,Sama Hospital,Rajvati ji,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/PH/3254,9873076649,Digital,Physioactiv,Yogesh saini,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-,9868525553,Digital,,Parminder Singh Bagga,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/2626,8802039688,Inbound Call,Physioactiv,Mrs. Priyanka .,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3262,9650380083,Digital,Dr Abhimanyu Rana's Clinic,Neena Batra,2024-03-08,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3260,9871147085,Digital,Dr Abhimanyu Rana's Clinic,Rajpal Vaid,2024-03-08,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
-RHPL/DDB&SC/3258,9810786295,Digital,Dr. Dang's Brain & Spine Clinic,Didar Singh,2024-03-08,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3247,9868836994,DRO,Dr Abhimanyu Rana's Clinic,Amod Kumar Singh,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3235,7678277639,DRO,Dr Abhimanyu Rana's Clinic,Rajeev batra,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3139,9873741758,DRO,Dr Abhimanyu Rana's Clinic,Munish Pal,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/WD/3259,7503480545,Digital,WS Clinic,Madhvi,2024-03-08,Fardeen Mirza,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/MV/3264,9811574382,,Mayur Vihar,Kajal,2024-03-08,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
-RHPL/MV/3264,9811574382,,Mayur Vihar,Kajal,2024-03-08,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
-RHPL/MV/3264,9811574382,,Mayur Vihar,Kajal,2024-03-08,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DDB&SC/3255,9811107459,Digital,Dr. Dang's Brain & Spine Clinic,Jatinder Kaur,2024-03-08,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3228,7065827003,DRO,Dr Abhimanyu Rana's Clinic,Veena Sharma,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3224,8171926665,Digital,Online,Aakash Bindu,2024-03-08,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/DARC/3246,9315033887,DRO,Dr Abhimanyu Rana's Clinic,Neelam tulli,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3248,9555240543,Digital,Online,Ritu Berry,2024-03-08,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-,8318068553,Digital,,Arjun,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3216,8368592363,DRO,Sama Hospital,Naresh Chander Singh Male 70,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3177,9654356837,DRO,Dummy Hospital,Rajveer Singh Male 40,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3244,9999600265,Digital,Online,Anand Kumar,2024-03-08,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/GH/3220,9891979090,DRO,Dummy Hospital,Nepal Singh,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3220,9891979090,DRO,Dummy Hospital,Nepal Singh,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3219,7062012717,DRO,Sama Hospital,Vijay Singh .,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3153,9711290824,DRO,Dummy Hospital,Suresh Sharma,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3243,9312056437,DRO,Sama Hospital,Daulat Singh Negi .,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3242,7310343441,Digital,Dummy Hospital,Naaz,2024-03-08,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
-RHPL/GH/3242,7310343441,Digital,Dummy Hospital,Naaz,2024-03-08,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
-RHPL/GH/3234,9654842661,DRO,Dummy Hospital,Mrs. Prakashwati .,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3175,9999923582,DRO,Gauri Hospital,Satpal khanna,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3175,9999923582,DRO,Gauri Hospital,Satpal khanna,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3194,9818550758,DRO,Dummy Hospital,krishan pal singh .,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3249,8815252718,Digital,Dummy Hospital,Bharat Singh,2024-03-08,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/GH/3173,7291089887,DRO,Dummy Hospital,Nirmal Mittal & Renu Mittal (wife) Male 64,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DDB&SC/3292,9910580220,Digital,Dr. Dang's Brain & Spine Clinic,Ujjwal Ray,2024-03-09,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/NS/3289,8377996366,Digital,NSPC-Paschim Vihar,Jyoti Mahtta,2024-03-09,Dr G N Goyal,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3252,7477023920,DRO,Sama Hospital,Mrs. Neetu Devi,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3252,7477023920,DRO,Sama Hospital,Mrs. Neetu Devi,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3291,9975328586,Digital,Sama Hospital,Yogendra Mehta,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3276,7838433431,Digital,Sama Hospital,Sakshi Bhola,2024-03-09,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/DARC/3285,9810299110,Digital,Dr Abhimanyu Rana's Clinic,JayPrakash Gupta,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3251,9811843839,DRO,Sama Hospital,Mrs. Sunita Davi,2024-03-09,Dr Ishan Bhatia,0.0,0.0,,,,3.0
-RHPL/DARC/3299,9650884335,Digital,Dr Abhimanyu Rana's Clinic,Vivek,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/DARC/3287,9958020052,Digital,Dr Abhimanyu Rana's Clinic,Chanda Devi,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3278,9868639014,DRO,Dr Abhimanyu Rana's Clinic,Prempal Singh,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3274,9893465869,Digital,Dr Abhimanyu Rana's Clinic,Deepchand Sijeria,2024-03-09,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DARC/3271,9971092554,Digital,Dr Abhimanyu Rana's Clinic,Raj saxena,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3275,9770449910,Digital,Online,Praveen Saxena,2024-03-09,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/DDB&SC/3525,9580101160,Digital,Dr. Dang's Brain & Spine Clinic,Prabhat,2024-03-09,Fardeen Mirza,500.0,350.0,0.7,cash,Location,3.0
-RHPL/BABC/3257,9650755017,DRO,Birth and Bliss Clinic,Sulekha Sharma,2024-03-09,Dr Ishan Bhatia,0.0,0.0,,,,3.0
-RHPL/ON/3275,9770449910,Digital,Online,Praveen Saxena,2024-03-09,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/SH/3291,9975328586,Digital,Sama Hospital,Yogendra Mehta,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3277,9811184554,Digital,Sama Hospital,Sonal Chowdhary Female,2024-03-09,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/ON/3275,9770449910,Digital,Online,Praveen Saxena,2024-03-09,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/SH/3207,9911163779,DRO,Sama Hospital,Madhu Chandra,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3188,9717647074,DRO,Sama Hospital,Neelam Dhawan Female 55,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3125,9582073785,DRO,Sama Hospital,Sushila devi,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3125,9582073785,DRO,Sama Hospital,Sushila devi,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3270,8742905253,Digital,Dr Abhimanyu Rana's Clinic,Kajal,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3268,9811978666,DRO,Sama Hospital,Mrs Sona devi .,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3193,9968293203,DRO,Sama Hospital,Mrs Chandramukhi and Dr teekam singh .,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3140,9711033526,DRO,Sama Hospital,Mrs Geeta .,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3272,9718373456,DRO,Sama Hospital,Bipin Kumar,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3280,6264984653,Digital,Sama Hospital,Shishank Kumar Singh,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3283,9899846646,DRO,Sama Hospital,Mr Shyam babu .,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GGN/0249,8930988663,Digital,Online,Swaranjeet Singh,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
-RHPL/SH/3147,8700442856,DRO,Sama Hospital,Mr Vinay sharma and Meena sharma .,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GGN/0249,8930988663,Digital,Online,Swaranjeet Singh,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
-RHPL/SH/3158,8627954458,DRO,Sama Hospital,Abhay dev gupta and mithlesh .,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3166,9953608214,DRO,Sama Hospital,Mr. Devendra Kumar Female 55,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GGN/0249,8930988663,Digital,Online,Swaranjeet Singh,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
-RHPL/DA/3300,7303118374,Digital,Dard Mantra,Lata rani,2024-03-10,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
-,9210010061,Digital,,Mamta Jain,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3308,9212820210,Digital,Dard Mantra,Suniti Sharma,2024-03-10,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DA/3087,9810849526,DRO,Dard Mantra,Mr Birender saxena,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-,7827842465,Digital,,Manisha Parmar,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3305,9312216875,Digital,Dard Mantra,Inder Prakash,2024-03-10,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DA/3288,9013435733,DRO,Dard Mantra,rama devi,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3304,9935342102,Digital,Online,SUMAN,2024-03-10,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3309,9873028882,Organic,Online,RK Sharma,2024-03-10,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3184,9868288264,DRO,Dummy Hospital,Prakash Chand,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3315,0921168651,DRO,Gauri Hospital,Ram Kumar,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
-RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
-RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
-RHPL/GH/3123,9810560928,DRO,Dummy Hospital,Radha Devi Female 70,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
-RHPL/GH/3223,9999671003,DRO,Dummy Hospital,Mayank Chabbra,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3284,8368287548,DRO,Dummy Hospital,Sneha Bala,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3238,9999074627,Digital,Dummy Hospital,Shalini Kumar,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3298,9968895846,DRO,Dummy Hospital,Mr Nannu .,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3297,9211686519,DRO,Dummy Hospital,Omvati,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3302,9953790271,DRO,Sama Hospital,Sakizan .,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3314,9211686510,DRO,Dummy Hospital,Mr Ram kumar,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3339,9315437688,DRO,Dummy Hospital,Abhishek  Rohilla,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3313,9013551282,DRO,Sama Hospital,Mr Mohan Singh,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3261,9212253545,DRO,Dummy Hospital,Rk Nanda,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3307,8368220520,Digital,Dummy Hospital,Mrs. Surinder Kaur,2024-03-11,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/SH/3321,9910233332,Digital,Sama Hospital,Dhruv Chawla,2024-03-11,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/SH/3218,9717024741,Digital,Sama Hospital,Mrs. Reena Sharma,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3327,9810212850,Digital,Online,R K Malhotra,2024-03-11,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/WD/3352,9810846817,DRO,WS Clinic,Mr. Vijay,2024-03-11,Fardeen Mirza,0.0,0.0,,,,3.0
-RHPL/IC/3179,7503960432,DRO,Impact Clinic,Sudesh Berry,2024-03-11,Dr Pradeep Jain,0.0,0.0,,,,3.0
-RHPL/DARC/3336,9911357677,Digital,Dr Abhimanyu Rana's Clinic,Pradeep kumar Bajaj,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3340,8882235945,Digital,Dr Abhimanyu Rana's Clinic,Amit Kumar,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3335,8273762511,Organic,Dr Abhimanyu Rana's Clinic,Faizan Khan,2024-03-11,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DARC/3337,9891135305,Digital,Dr Abhimanyu Rana's Clinic,Punita jain,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ON/3324,7000174308,Organic,Online,Shivangi Singh,2024-03-11,Dr Rohit Gulati,350.0,244.99999999999997,0.7,online,,3.0
-RHPL/ON/3328,9899495959,Digital,Online,Vineet Garg,2024-03-11,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,,3.0
-,8448025102,DRO,,Mrs. Ishwarkali .,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3306,9868705071,Digital,Sama Hospital,Mrs. Rakhi Gupta,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3317,9540795380,DRO,Sama Hospital,Santra devi .,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3326,9953510013,Digital,Online,Manisha Kharayat,2024-03-11,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
-RHPL/SH/3295,8383926940,DRO,Sama Hospital,Vag Devi,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3338,8527604868,Digital,Dr Abhimanyu Rana's Clinic,Shyam Kumari,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/WD/3361,9899691995,Digital,WS Clinic,Rupa Bakshi,2024-03-12,Fardeen Mirza,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/ON/3347,9810357269,Digital,Online,Shalini Rastogi.,2024-03-12,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3217,9891370611,DRO,Dr Abhimanyu Rana's Clinic,Mehar Singh,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3279,9716486242,DRO,Dr Abhimanyu Rana's Clinic,Kaushalya Devi,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3346,9811705163,Digital,Online,Monica Fernandez,2024-03-12,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-,8595660474,Digital,,Mrs. Anita .,2024-03-12,Dr. Praneet Singh,0.0,0.0,,,,3.0
-RHPL/ON/3344,9899833844,Digital,Online,Megha Jain,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3354,9810462102,Organic,Sama Hospital,Ajay Deep Gupta,2024-03-12,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3349,9650033294,Digital,Sama Hospital,Masud Ansari,2024-03-12,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/ON/3345,9968523977,Digital,Online,Swadesh Pathak,2024-03-12,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/SH/3322,9873130856,DRO,Sama Hospital,Rajveer .,2024-03-12,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3176,9899245876,DRO,Dr Abhimanyu Rana's Clinic,Ved Prakash Male 60,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DA/3370,9717243883,DRO,Dard Mantra,Joginder Singh,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3363,9250816862,DRO,Dard Mantra,Gopal Kishan Kataria,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3366,9899315299,DRO,Sama Hospital,Rambir Singh,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3375,8700332156,DRO,Sama Hospital,Inderpal singh,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3371,8963073390,Digital,Sama Hospital,Mr. Shariq Hussain,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3381,8076561751,Digital,Online,Jitender Singh,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3369,7683020886,Digital,Sama Hospital,Jatinder Dawar,2024-03-13,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/ON/3384,8178762666,Digital,Yash Clinic,Aarti,2024-03-13,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-,7455873305,Social,,Mukesh Rawat,2024-03-13,Dr. Praneet Singh,0.0,0.0,,,,3.0
-RHPL/ON/3386,9289572416,Digital,Online,Raazia Arif,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DA/3370,9717243883,DRO,Dard Mantra,Joginder Singh,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3362,9812132346,DRO,Sama Hospital,Mr Sandeep,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-,9810074039,Digital,,Dinesh Sharma,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ITPC/3378,9953723431,Digital,Impact Clinic,Shashi Abrol,2024-03-13,Dr. Praneet Singh,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/GH/3377,8396887740,DRO,Gauri Hospital,Mr. Dasrath .,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DA/3320,8800195533,Digital,Dard Mantra,Yagyavalkya shukla,2024-03-13,Dr Garima Gupta,800.0,560.0,0.7,cash,Location,3.0
-RHPL/GH/3343,9891349479,DRO,Dummy Hospital,Iqbal Ahmed .,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3332,9968288299,DRO,Dummy Hospital,Anju .,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3223,9999671003,DRO,Dummy Hospital,Mayank Chabbra,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3360,9650268666,Digital,Dummy Hospital,Sunil,2024-03-13,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/GH/3372,9013309753,Social,Dummy Hospital,Sunita Balyan,2024-03-13,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/GH/3238,9999074627,Digital,Dummy Hospital,Shalini Kumar,2024-03-13,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/ON/3364,8287869191,Digital,Online,Dipanshu Lakra,2024-03-13,Dr Garima Gupta,500.0,350.0,0.7,online,,3.0
-RHPL/GH/3376,9811435509,Organic,Dummy Hospital,Aryan Puri,2024-03-13,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/GH/3079,8587069262,DRO,Dummy Hospital,Saira Banu,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3379,7618784226,Digital,Online,Govind Sharma,2024-03-13,Dr Garima Gupta,500.0,350.0,0.7,cash,,3.0
-RHPL/GH/3368,9213400348,Digital,Dummy Hospital,Shannam Kaur,2024-03-13,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3408,9127475269,DRO,Dr Abhimanyu Rana's Clinic,Charan singh,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3279,9716486242,DRO,Dr Abhimanyu Rana's Clinic,Kaushalya Devi,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/2790,9818034960,Organic,Dr Abhimanyu Rana's Clinic,Bipin Behari,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3217,9891370611,DRO,Dr Abhimanyu Rana's Clinic,Mehar Singh,2024-03-14,Fardeen Mirza,0.0,0.0,,,,3.0
-RHPL/DARC/3411,9810561352,Digital,Dr Abhimanyu Rana's Clinic,Sapna Kaushik,2024-03-14,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ON/3481,9811800424,Digital,Online,harsh gupta,2024-03-14,Fardeen Mirza,350.0,244.99999999999997,0.7,online,Location,3.0
-RHPL/DARC/3356,9971605919,DRO,Dr Abhimanyu Rana's Clinic,Kaushalya Devi,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/2760,9540593149,Digital,Dr Abhimanyu Rana's Clinic,Ajay singh,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-,8802165945,Social,,Sumati dhingra,2024-03-14,Dr. Praneet Singh,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/1901,8750963300,,Mayur Vihar,Vishwajit Singh,2024-03-14,Fardeen Mirza,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DARC/3312,9711187827,DRO,Dr Abhimanyu Rana's Clinic,Mr. Dayanand Popli,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3403,8368771137,DRO,Dr Abhimanyu Rana's Clinic,Pratima Devi,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3382,9871096123,Digital,Dr Abhimanyu Rana's Clinic,Ritu Dhar,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3412,9811109161,Digital,Online,Deepak Kumar,2024-03-14,Dr. Praneet Singh,750.0,525.0,0.7,cash,Location,3.0
-RHPL/YC/3415,9315698431,Digital,Yash Clinic,Mr. Anil Shongra,2024-03-14,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3382,9871096123,Digital,Dr Abhimanyu Rana's Clinic,Ritu Dhar,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3383,7065158628,DRO,Sama Hospital,Mr.Nathu Ram,2024-03-14,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3394,9810785700,Digital,Online,SURESH MANOCHA,2024-03-14,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/SH/3399,8368144085,Organic,Sama Hospital,Visnu Prasad,2024-03-14,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3396,9650444377,Digital,Online,Bhupinder Kumar,2024-03-14,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/ON/3381,8076561751,Digital,Online,Jitender Singh,2024-03-14,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/SH/3365,9810250237,DRO,Sama Hospital,Mr Naresh Kumar Parashar,2024-03-14,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3402,8368708733,DRO,Dr Abhimanyu Rana's Clinic,Kamlesh Singh,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DDB&SC/3417,9717601001,Organic,Dr. Dang's Brain & Spine Clinic,Rajender Ji,2024-03-14,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3416,9599955482,Digital,Dr Abhimanyu Rana's Clinic,Mohd Shadab,2024-03-14,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DDB&SC/3414,9304667002,Digital,Dr. Dang's Brain & Spine Clinic,Akansha Sharma,2024-03-14,Dr Ramandeep Dang,750.0,525.0,0.7,cash,Location,3.0
-RHPL/YC/3413,9718814176,Digital,Yash Clinic,Parvesh WATI,2024-03-14,Dr Janani,0.0,0.0,,,,3.0
-RHPL/ON/3406,7869330411,Digital,Online,Sarita Prakash,2024-03-14,Dr. Praneet Singh,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DARC/3420,9127475268,DRO,Dr Abhimanyu Rana's Clinic,Jagrati devi,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DM/3437,9899184096,Organic,Dard Mantra,Sonia Kumari,2024-03-15,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DM/3435,8860871499,DRO,Dard Mantra,Rani Dhingra,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-,8860713525,DRO,,Mrs Binni,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DARC/3447,7217650062,Digital,Dr Abhimanyu Rana's Clinic,Vandana Ji,2024-03-15,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3447,7217650062,Digital,Dr Abhimanyu Rana's Clinic,Vandana Ji,2024-03-15,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/YC/3445,9654978855,Digital,Yash Clinic,Kavita,2024-03-15,Dr Janani,0.0,0.0,,,,3.0
-RHPL/DM/3423,9968307392,DRO,Dard Mantra,Mr. Dharampal Singh,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DARC/3434,9667102197,DRO,Dr Abhimanyu Rana's Clinic,Muni Roy,2024-03-15,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3429,9999013524,Digital,Dr Abhimanyu Rana's Clinic,Ajay Rustagi,2024-03-15,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ASHL/3588,9811410806,,Aashlok Hospital,Jyotsna Seth,2024-03-15,Fardeen Mirza,0.0,0.0,,,Location,3.0
-RHPL/ON/3422,9653487782,Digital,Online,anita anita patwa,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3446,7065486325,DRO,Dr Abhimanyu Rana's Clinic,Champa Devi,2024-03-15,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DM/3374,8800983729,DRO,Dard Mantra,Jagdish .,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DARC/3434,9667102197,DRO,Dr Abhimanyu Rana's Clinic,Muni Roy,2024-03-15,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3385,9910077863,Digital,Sama Hospital,Rashmi Katyal,2024-03-15,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DM/3404,9210873366,DRO,Dard Mantra,Raj Kumar,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3409,9958576613,DRO,Dummy Hospital,Ravindra Kumar,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3428,9999206435,DRO,Sama Hospital,Arvind Sharma .,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3426,9811136859,Digital,Dummy Hospital,Pardeep Kumar,2024-03-15,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/GH/3393,8860568956,DRO,Dummy Hospital,NARENDER JI,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3358,9582335752,DRO,Sama Hospital,Anita Gupta .,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3334,9873143237,Digital,Sama Hospital,Mrs. Jyoti Kant,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3438,9013377580,DRO,Sama Hospital,Sheela devi .,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3397,9911303092,DRO,Dummy Hospital,Guru Charan Gupta,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3433,9312999528,Organic,Sama Hospital,Ramprakash Gupta,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3332,9968288299,DRO,Dummy Hospital,Anju .,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3427,9717386501,Digital,Dummy Hospital,Bharat  Sharma,2024-03-15,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/SH/3400,8130828777,Digital,Sama Hospital,Anjana Sharma,2024-03-15,Dr Rohit Gulati,750.0,525.0,0.7,online,Location,3.0
-RHPL/SH/3425,9643643970,DRO,Sama Hospital,Mr.kirori Singh,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3432,9250277277,Digital,Gauri Hospital,Gaurav,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/ON/3468,8423395793,Organic,Online,Tariq khan,2024-03-16,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/SH/3407,9869407079,Digital,Sama Hospital,Rajeev Das,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3469,9873776498,Organic,Sama Hospital,Roshnara ali,2024-03-16,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/ON/3473,9606084639,Organic,Online,Geeta Gupta,2024-03-16,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
-RHPL/DARC/3458,9911490907,Digital,Dr Abhimanyu Rana's Clinic,Akshay .,2024-03-16,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/YC/3464,9654074861,Digital,Yash Clinic,Sunita,2024-03-16,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3186,7838987563,DRO,Sama Hospital,Rohit kumar .,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3479,9625048518,Organic,Dr Abhimanyu Rana's Clinic,N M Kulkarni,2024-03-16,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DARC/3479,9625048518,Organic,Dr Abhimanyu Rana's Clinic,N M Kulkarni,2024-03-16,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/ON/3477,9811850598,Digital,Online,Veena Dang,2024-03-16,Dr Abhimanyu Rana,1000.0,700.0,0.7,online,Location,3.0
-RHPL/YC/3445,9654978855,Digital,Yash Clinic,Kavita,2024-03-16,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/YC/3476,7838598258,Digital,Yash Clinic,Abhishek Bansal,2024-03-16,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DDB&SC/3430,8826132812,Digital,Dr. Dang's Brain & Spine Clinic,Mr. Roopendra kumar,2024-03-16,Dr Ramandeep Dang,0.0,0.0,,,,3.0
-RHPL/SH/3444,9711695684,Digital,Sama Hospital,Omprakash ojha,2024-03-16,Dr Rohit Gulati,700.0,489.99999999999994,0.7,online,,3.0
-RHPL/SH/3455,7838333909,Digital,Sama Hospital,Rohit puri,2024-03-16,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3453,7985406125,Digital,Sama Hospital,Sagar Singh,2024-03-16,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3465,7011104652,DRO,Sama Hospital,Chandra Prabha,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3341,9814102745,DRO,Sama Hospital,Mrs anju sundar .,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3431,9352176975,Digital,Sama Hospital,Rekha,2024-03-16,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
-RHPL/SH/3456,8882143005,DRO,Sama Hospital,Shanti Devi,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3329,8920823510,DRO,Sama Hospital,Usha .,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3442,8800720999,Organic,Dummy Hospital,Ila Ila,2024-03-16,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/ON/3457,7428334454,Digital,Online,Vasundhra Pandey,2024-03-16,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
-RHPL/DM/3404,9210873366,DRO,Dard Mantra,Raj Kumar,2024-03-16,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3367,9818840080,Digital,Sama Hospital,Pankaj Kumar,2024-03-16,Dr Rohit Gulati,1000.0,700.0,0.7,online,,3.0
-RHPL/DDB&SC/3430,8826132812,Digital,Dr. Dang's Brain & Spine Clinic,Mr. Roopendra kumar,2024-03-16,Dr Ramandeep Dang,0.0,0.0,,,,3.0
-RHPL/SH/3443,9871243522,DRO,Sama Hospital,Mr. Baldev Raj Seth Dr RG,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3490,9650907464,Digital,Online,Seema,2024-03-17,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/ON/3489,9891015351,Digital,Online,Sarika khanna Female 48,2024-03-17,Dr. Praneet Singh,500.0,350.0,0.7,cash,Location,3.0
-RHPL/GH/3330,9711303107,DRO,Dummy Hospital,Premlata // Neetu (CGHS),2024-03-17,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3496,9810194658,Digital,Sama Hospital,Baldev Raj,2024-03-18,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
-RHPL/IC/3499,9250484928,Digital,Impact Clinic,Sushama Sharma,2024-03-18,Dr. Praneet Singh,0.0,0.0,,,Location,3.0
-RHPL/DM/3523,9871413042,Digital,Dard Mantra,Kamaljeet Singh,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/YC/3514,9999386924,Digital,Yash Clinic,Tejveer singh yadav,2024-03-18,Dr Janani,1000.0,700.0,0.7,online,Location,3.0
-RHPL/DM/3492,9971422258,Digital,Dard Mantra,Shalu Garg,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/WD/3528,9811464595,Digital,Birth and Bliss Clinic,Vandana Mishra,2024-03-18,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
-RHPL/WD/3528,9811464595,Digital,WS Clinic,Vandana Mishra,2024-03-18,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3527,7651916194,Digital,Dr Abhimanyu Rana's Clinic,Shahzadi,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3526,7290984265,Digital,Dr Abhimanyu Rana's Clinic,Priyanka Sharma,2024-03-18,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/YC/3519,9811225805,Digital,Yash Clinic,Girish Gandhi,2024-03-18,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3509,9968659026,DRO,Dr Abhimanyu Rana's Clinic,Rohtas singh,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3510,9953298800,DRO,Dr Abhimanyu Rana's Clinic,Govindi Bisht,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3502,8368570997,Digital,Dr Abhimanyu Rana's Clinic,Shushma Sharma,2024-03-18,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DARC/3493,8860000430,Digital,Dr Abhimanyu Rana's Clinic,Ashok Kumar,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3532,9990489999,Digital,Online,Arun tiwari,2024-03-18,Dr Ishan Bhatia,1000.0,700.0,0.7,online,,3.0
-RHPL/DARC/3518,9971350324,DRO,Dr Abhimanyu Rana's Clinic,Mohan lal,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3518,9971350324,DRO,Dr Abhimanyu Rana's Clinic,Mohan lal,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3483,9958329006,Digital,Dr Abhimanyu Rana's Clinic,Mala Choudhary,2024-03-18,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DARC/3508,9911755447,Digital,Dr Abhimanyu Rana's Clinic,Noman Haider,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/IC/3482,8348686066,Digital,Impact Clinic,Mr. PRASHANT KUMAR TIWARI,2024-03-18,Dr. Praneet Singh,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DM/3507,6205919978,Digital,Dard Mantra,Ashutosh,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,online,Location,3.0
-RHPL/DM/3524,9311222740,Digital,Dard Mantra,Bhushan Arora,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,online,Location,3.0
-RHPL/DARC/3529,8368570990,Organic,Dr Abhimanyu Rana's Clinic,Sunita Sunita,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3471,8968221944,Digital,Dr Abhimanyu Rana's Clinic,Paras,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/GH/3454,9711842078,Digital,Dummy Hospital,Anandi Devi,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3506,6009943276,Organic,Dummy Hospital,Daniel Reang,2024-03-18,Dr Garima Gupta,1000.0,700.0,0.7,online,Location,3.0
-RHPL/GH/3488,7982489611,Organic,Dummy Hospital,Mrs. Rajwati .,2024-03-18,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3486,9560443749,DRO,Sama Hospital,Manorama Devi,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DM/3459,9212147526,Digital,Dard Mantra,Neha Gupta,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/GH/3393,8860568956,DRO,Dummy Hospital,NARENDER JI,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3498,9811026247,Digital,Dummy Hospital,Sushma Soni,2024-03-18,Dr Garima Gupta,0.0,0.0,,,Location,3.0
-RHPL/SH/3497,8670668781,DRO,Sama Hospital,Amar rathor and kamla bai Rathor,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3466,9810081567,DRO,Sama Hospital,A k barik & Savita barik,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/2703,8826268287,DRO,Sama Hospital,Bimla devi,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3467,9811085921,Digital,Sama Hospital,Prem lata Bajaj,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/2703,8826268287,DRO,Sama Hospital,Bimla devi,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3485,9873973943,DRO,Dummy Hospital,Ram Prasad,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3470,8010132944,DRO,Sama Hospital,Devender Gupta,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/GH/3449,9891197670,Digital,Dummy Hospital,Navita malik,2024-03-18,Dr Garima Gupta,1000.0,700.0,0.7,online,Location,3.0
-RHPL/SH/3491,8750405716,Digital,Sama Hospital,Archana Kasana,2024-03-18,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3487,9811081389,Digital,Dr Abhimanyu Rana's Clinic,Rakesh Hasija,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3516,9560454698,Digital,Online,Onkarnath Upadhyay,2024-03-18,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
-RHPL/ON/3511,8691998592,Digital,Online,Palaash Bhat,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/2703,8826268287,DRO,Sama Hospital,Bimla devi,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3478,8569857876,Digital,Sama Hospital,Sumit Dhiman,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3538,8130381420,DRO,Dr Abhimanyu Rana's Clinic,Karam singh,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3531,9811331819,DRO,Sama Hospital,Veer singh,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DARC/3566,9999916341,Organic,Dr Abhimanyu Rana's Clinic,Samarendra Das,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3562,9852637679,Digital,Dr Abhimanyu Rana's Clinic,Manjay Kumar Yadav,2024-03-19,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/DARC/3561,9871287493,DRO,Dr Abhimanyu Rana's Clinic,Baldev Parsad Male,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3540,9560272602,DRO,Dr Abhimanyu Rana's Clinic,Chander Pal,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/IC/3570,9810009068,Organic,Impact Clinic,Parminder Singh,2024-03-19,Dr. Praneet Singh,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3567,9051520117,Digital,Dr Abhimanyu Rana's Clinic,Supratik Chakraborty,2024-03-19,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3533,7752973487,Digital,Dr Abhimanyu Rana's Clinic,Priya Rai,2024-03-19,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
-RHPL/ON/3568,8250493870,Digital,Online,C L Sharma,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/MV/3569,8505955614,Digital,Mayur Vihar,Shefta Khan,2024-03-19,Fardeen Mirza,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3547,9266771525,DRO,Dr Abhimanyu Rana's Clinic,Bhagwati Devi,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3542,8383891599,Digital,Dr Abhimanyu Rana's Clinic,Sheela Rawat,2024-03-19,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DARC/3564,9311005033,Digital,Dr Abhimanyu Rana's Clinic,Ajay Yadav,2024-03-19,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
-RHPL/YC/3535,9953264732,Digital,Yash Clinic,Archana Saini,2024-03-19,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3557,9716375891,Digital,Sama Hospital,Subah Agrawal,2024-03-19,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
-RHPL/IP/3553,7042441137,Digital,IPSC,Nani maiya,2024-03-19,Dr Pankaj Surange,0.0,0.0,,,,3.0
-RHPL/SH/3520,8700115412,Digital,Sama Hospital,Mr. Chedup Sherpa,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3512,9312221980,Organic,Sama Hospital,Mrs. Raj Khosla,2024-03-19,Dr Rohit Gulati,500.0,350.0,0.7,cash,Location,3.0
-RHPL/SH/3539,8076131448,DRO,Sama Hospital,Mr. Ravi Kant,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3545,8851658823,Digital,Sama Hospital,Mr Kulwinder Kaur,2024-03-19,Dr Rohit Gulati,750.0,525.0,0.7,online,Location,3.0
-RHPL/GH/3543,8447852534,Digital,Dummy Hospital,laxmi devi,2024-03-19,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/SH/3534,9125005204,DRO,Sama Hospital,Shagun tiwari .,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3520,8700115412,Digital,Sama Hospital,Mr. Chedup Sherpa,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DM/3548,9811903078,Digital,Sama Hospital,Nutan Nakra,2024-03-19,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
-RHPL/SH/3536,9871700469,Digital,Sama Hospital,Suman Sher,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3348,9599439717,DRO,Sama Hospital,Mrs kusum .,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/IC/3549,9717466999,Digital,Impact Clinic,Kamal Kapur,2024-03-19,Dr. Praneet Singh,0.0,0.0,,,,3.0
-RHPL/SH/3541,7024484297,Digital,Sama Hospital,Dr. Dharmesh Answered Call,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3530,8130906936,DRO,Sama Hospital,chandra Devi,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3463,9311170310,Organic,Sama Hospital,Manjeet Kaur,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/DM/3572,8800801970,Digital,Dard Mantra,Rachna Dabas,2024-03-20,Dr Garima Gupta,750.0,525.0,0.7,online,Location,3.0
-RHPL/SH/3563,8882727944,DRO,Yash Clinic,Amit Kumar,2024-03-20,Dr Abhimanyu Rana,200.0,140.0,0.7,cash,Location,3.0
-RHPL/YC/3582,9350844393,Digital,Yash Clinic,Renu Bali,2024-03-20,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/SH/3576,9810062578,Organic,Sama Hospital,SS Bindra,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3571,9718745557,Digital,Dr Abhimanyu Rana's Clinic,Shefta Nikhat,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3583,8910431771,Digital,Online,Answered Call,2024-03-20,Dr. Praneet Singh,0.0,0.0,,,,3.0
-RHPL/IC/3589,8810517174,DRO,Impact Clinic,Shravan Kumar,2024-03-20,Dr. Praneet Singh,0.0,0.0,,,,3.0
-RHPL/ON/3594,8058407388,,Mayur Vihar,Kartik Singhal,2024-03-20,Fardeen Mirza,1000.0,700.0,0.7,online,Location,3.0
-RHPL/ON/3594,8058407388,,Online,Kartik Singhal,2024-03-20,Fardeen Mirza,1000.0,700.0,0.7,online,Location,3.0
-RHPL/SH/3580,9313081775,Digital,Sama Hospital,Shruti,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3501,6280411015,Digital,Sama Hospital,Hardeik Hardeik,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/YC/3585,9910680444,Digital,Yash Clinic,Faqir Chand Behl,2024-03-20,Dr Janani,200.0,140.0,0.7,cash,Location,3.0
-RHPL/YC/3578,9811550992,Digital,Yash Clinic,Sonia Nagpal,2024-03-20,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
-RHPL/DM/2779,9810859349,Digital,Dard Mantra,Rohan Sharma,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3551,9910986545,DRO,Dummy Hospital,Narendra kumar Sharma,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3577,9050639685,Organic,Dummy Hospital,Mrs Kamlesh,2024-03-20,Dr Garima Gupta,350.0,244.99999999999997,0.7,online,,3.0
-RHPL/GH/3560,9868811939,DRO,Gauri Hospital,Rakesh Kumar Gupta,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DM/3462,9811988705,Digital,Dard Mantra,Pradeep Gambhir,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3461,9818462631,Organic,Dummy Hospital,Bharti Mehta,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3513,9310944112,DRO,Dummy Hospital,Bhram Singh,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/IC/3581,9811114150,Digital,Impact Clinic,Rana kamra,2024-03-20,Dr. Praneet Singh,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DM/3494,8178060291,Digital,Dard Mantra,Vicky Kumar,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DM/3591,9971706486,Digital,Dard Mantra,Rati goyal,2024-03-20,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/DM/3590,9971706480,Organic,Dard Mantra,Anish Goyal,2024-03-20,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
-RHPL/ON/3481,9811800424,Digital,Online,harsh gupta,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/GH/3332,9968288299,DRO,Dummy Hospital,Anju .,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DM/3586,7827159536,Digital,Dard Mantra,Abhishek chaudhary,2024-03-20,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
-RHPL/DARC/3597,8795536652,Digital,Dr Abhimanyu Rana's Clinic,Mrs. Rupam Gupta,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3603,9555555527,Digital,Dr Abhimanyu Rana's Clinic,Gaurav Chopra,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3550,9432224525,Digital,Dr Abhimanyu Rana's Clinic,Snighdha Ghoshal,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3592,9818025860,DRO,Dr Abhimanyu Rana's Clinic,Harcharan Singh,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3593,8285466782,DRO,Dr Abhimanyu Rana's Clinic,Mr. Lila Chander,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3484,9212676904,DRO,Dr Abhimanyu Rana's Clinic,Kamal Pratap Mrs. Neeraj,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3547,9266771525,DRO,Dr Abhimanyu Rana's Clinic,Bhagwati Devi,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3559,9953858897,DRO,Dr Abhimanyu Rana's Clinic,Anuradha Rathi,2024-03-21,Dr Abhimanyu Rana,,,,,,3.0
-RHPL/YC/3596,9582246389,Digital,Yash Clinic,Vandana kaur,2024-03-21,Dr Janani,0.0,0.0,,,,3.0
-RHPL/DARC/3607,8285568084,DRO,Dr Abhimanyu Rana's Clinic,Sukla sethi,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3610,7665091828,Digital,Sama Hospital,Krishna Devi,2024-03-21,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3606,7838611618,Digital,Sama Hospital,Sonia Malhotra,2024-03-21,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3544,9891040570,DRO,Sama Hospital,Mr Bansal .,2024-03-21,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/ON/3129,9845676544,Social,Online,Ghw hB Aj k,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/ON/3609,9999224441,Organic,Online,Amrit Gaur,2024-03-21,Dr. Praneet Singh,0.0,0.0,,,,3.0
-RHPL/IC/3608,9953504161,Digital,Impact Clinic,Neelam,2024-03-21,Dr Pradeep Jain,0.0,0.0,,,,3.0
-RHPL/SH/3317,9540795380,DRO,Sama Hospital,Santra devi .,2024-03-21,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3598,9958636442,DRO,Sama Hospital,Ramawati devi .,2024-03-21,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3595,9810181109,Digital,Sama Hospital,Sadhna Goyal,2024-03-21,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
-RHPL/SH/3602,9892090821,Digital,Sama Hospital,Vijayant Singh,2024-03-21,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
-RHPL/SH/3358,9582335752,DRO,Sama Hospital,Anita Gupta .,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3599,9773555662,Digital,Dr Abhimanyu Rana's Clinic,Premlata Sharma,2024-03-22,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DARC/3611,9868603677,DRO,Dr Abhimanyu Rana's Clinic,BEGWATI Devi,2024-03-22,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/DM/3587,9910482880,DRO,Dard Mantra,Naresh kumari,2024-03-22,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DM/3573,9999808726,DRO,Dard Mantra,Raj pal Mahrouliya|| Wife,2024-03-22,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/GH/3574,9968786276,DRO,Dummy Hospital,Shambhu Thakur,2024-03-22,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/DARC/3600,9625954099,Digital,Dr Abhimanyu Rana's Clinic,Mrs. Priyanka Sharma Kapoor,2024-03-22,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
-RHPL/SH/3579,9968277921,DRO,Sama Hospital,Dharam Pal,2024-03-23,Dr Rohit Gulati,0.0,0.0,,,,3.0
-RHPL/SH/3601,9910304843,DRO,Sama Hospital,Bhagwan ji manshi,2024-03-23,Dr Rohit Gulati,,,,,,3.0
-RHPL/SH/3517,9811189503,DRO,Sama Hospital,Zahra Tanveer,2024-03-23,Dr Rohit Gulati,,,,,,3.0
-RHPL/SH/3584,9868217685,DRO,Sama Hospital,Mr Saurabh,2024-03-23,Dr Rohit Gulati,,,,,,3.0
-,9868135701,DRO,,Narayani Sharma,2024-03-24,Dr Garima Gupta,0.0,0.0,,,,3.0
-RHPL/IC/3604,9810330635,Digital,Impact Clinic,Avtar Kaur,2024-03-25,Dr. Praneet Singh,0.0,0.0,,,,3.0
-RHPL/SH/2764,8800541227,DRO,Sama Hospital,Kamlesh Kumari,2024-03-26,Ankit Singh,0.0,0.0,,,,3.0
-RHPL/SH/2764,8800541227,DRO,Sama Hospital,Kamlesh Kumari,2024-03-26,Ankit Singh,0.0,0.0,,,,3.0
-RHPL/SH/3565,8920745813,DRO,Sama Hospital,Ramesh Ji (WIFE),2024-03-26,Dr Rohit Gulati,0.0,0.0,,,,3.0
+Patient Id,Phone Number,Patient source,Centre,Patient Name,Category,1st PMS Consult Date,PMS,TotalGMV,Nivaan Share,Percentage,Payment_Mode,Amount_With,Month
+RHPL/GH/3071,9811016036,Digital,Gauri Hospital,Sunil Kumar Agarwal,B2B,2024-03-01,Riya Kumari,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DA/3070,8377022453,DRO,Dard Mantra,Mahaveer Singh,B2B,2024-03-01,Dr Garima Gupta,0.0,0.0,,,Location,3.0
+RHPL/ON/3080,9920221923,Organic,Online,Usha,B2C,2024-03-01,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/ON/3080,9920221923,Organic,Online,Usha,B2C,2024-03-01,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/ON/3080,9920221923,Organic,Online,Usha,B2C,2024-03-01,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/DARC/2823,7983887162,Digital,Dr Abhimanyu Rana's Clinic,Yadram Verma,B2C,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3055,9756554408,Digital,Dr Abhimanyu Rana's Clinic,Asha Devi,B2B,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3057,8368903877,DRO,Dr Abhimanyu Rana's Clinic,Ramjhari Devi,B2B,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3064,9378181981,Digital,Dr Abhimanyu Rana's Clinic,Kajal Mohanty,B2B,2024-03-01,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3064,9378181981,Digital,Dr Abhimanyu Rana's Clinic,Kajal Mohanty,B2B,2024-03-01,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+,8368017105,Digital,,Anju,B2C,2024-03-01,Dr Pradeep Jain,0.0,0.0,,,,3.0
+RHPL/DARC/3083,9811856988,Digital,Dr Abhimanyu Rana's Clinic,Anil Setia,B2C,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/2468,9920188340,Organic,Dr Abhimanyu Rana's Clinic,Karuna Malhotra,B2B,2024-03-01,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/2819,8860064080,DRO,Dr Abhimanyu Rana's Clinic,Tarachand .,B2C,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3058,8448341063,DRO,Dr Abhimanyu Rana's Clinic,Charano Devi,B2B,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/GH/2810,9818942005,DRO,Dummy Hospital,Kamlesh Devi,B2C,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3074,9910148394,DRO,Dr Abhimanyu Rana's Clinic,Chander pal Singh,B2C,2024-03-01,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/GH/3072,9873402420,Digital,Gauri Hospital,Dipti Arora,B2B,2024-03-01,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/GH/2810,9818942005,DRO,Dummy Hospital,Kamlesh Devi,B2C,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3066,8586874190,Digital,Dummy Hospital,Renu Goyal,B2B,2024-03-01,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3062,9711544272,DRO,Sama Hospital,Mrs. Kamlesh w/o shiv kumar,B2C,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3061,9711544271,DRO,Sama Hospital,Mr. Shiv Kumar,B2C,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/2812,9311181441,Organic,Dummy Hospital,Pooja Aggarwal,B2C,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/ON/3068,9810507344,Digital,Online,Madhu saran,B2B,2024-03-01,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3056,9599157923,Organic,Sama Hospital,Sarabjeet Dhillon,B2C,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DA/2782,9911223536,Organic,Dard Mantra,Roop Chand,B2C,2024-03-01,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DPRC/3073,9891307023,Digital,Delhi Pain Relieve,Gaurav Sharma,B2B,2024-03-01,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/MV/3054,9868246455,Digital,Dr Abhimanyu Rana's Clinic,Kartick Gopal,B2B,2024-03-01,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/SH/3050,8882985122,DRO,Sama Hospital,Reshma Khan,B2C,2024-03-01,Dr Rohit Gulati,0.0,0.0,,,,3.0
+,9560557520,Digital,,Teena Pruthi,B2C,2024-03-01,Dr Pradeep Jain,0.0,0.0,,,,3.0
+RHPL/SH/3067,9760233333,Digital,Sama Hospital,Naman Kansal,B2C,2024-03-01,Dr Rohit Gulati,1000.0,700.0,0.7,cash,,3.0
+RHPL/SH/2832,9899764555,Digital,Sama Hospital,Mrs. kajal sasmal,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3100,8920836580,Organic,Online,Mrs. Radha .. Female 47,B2C,2024-03-02,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/SH/1809,1545235325,,Sama Hospital,CRM NivaantoCRMNida,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3096,7678524035,Digital,Sama Hospital,Anjam baby,B2B,2024-03-02,Dr Rohit Gulati,500.0,350.0,0.7,cash,Location,3.0
+RHPL/ON/3104,9811152798,Digital,Online,Krishan Ladia,B2B,2024-03-02,Dr G N Goyal,750.0,525.0,0.7,online,Location,3.0
+RHPL/DDB&SC/3107,9811973331,Organic,Dr. Dang's Brain & Spine Clinic,Nida Choudhary,B2B,2024-03-02,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3075,9811658294,DRO,Dr Abhimanyu Rana's Clinic,Mrs. Mehrul Nisha Female 60,B2C,2024-03-02,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/IP/3092,9911861756,Organic,Impact Clinic,Shagufta,B2C,2024-03-02,Fardeen Mirza,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3091,8766305022,Organic,Sama Hospital,Yogender .,B2C,2024-03-02,Dr Rohit Gulati,350.0,244.99999999999997,0.7,cash,AdminProfile,3.0
+RHPL/NS/3084,9810576657,Digital,NSPC-Paschim Vihar,Meenakshi chawla,B2B,2024-03-02,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3060,9999597559,Digital,Sama Hospital,Sandeep Singhal,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3089,9811973330,Digital,Dr. Dang's Brain & Spine Clinic,Saba Khaliq,B2B,2024-03-02,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3077,9868899063,DRO,Sama Hospital,Suresh Kumar kashyap .,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/2553,7503445084,DRO,Sama Hospital,Poonam Mishra,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3088,9452033547,Digital,Online,Dhiraj Mishra,B2C,2024-03-02,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3049,8860962801,DRO,Sama Hospital,Shikha dhar .,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3082,9868592456,DRO,Sama Hospital,Pramod .,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3069,9910233888,DRO,Sama Hospital,Mr. Jaswant lal,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/NS/3090,9312958812,Digital,NSPC-Paschim Vihar,Raman Mehta,B2C,2024-03-02,Dr G N Goyal,0.0,0.0,,,,3.0
+RHPL/SH/3094,9990023536,Digital,Sama Hospital,Ritu Malhotra,B2B,2024-03-02,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3094,9990023536,Digital,Sama Hospital,Ritu Malhotra,B2B,2024-03-02,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3077,9868899063,DRO,Sama Hospital,Suresh Kumar kashyap .,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3077,9868899063,DRO,Sama Hospital,Suresh Kumar kashyap .,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/1147,8860909476,DRO,Sama Hospital,SOURAV KANOJIA,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3081,9958049646,DRO,Sama Hospital,Mr. Ajay Kumar Saroj,B2C,2024-03-02,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/2791,9717687693,DRO,Dummy Hospital,Mewa Rani Devi,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3086,9899540144,Organic,Dard Mantra,R.K Advani,B2B,2024-03-03,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3118,8287453462,Digital,Online,Shalu Gupta,B2C,2024-03-03,Dr Garima Gupta,700.0,489.99999999999994,0.7,online,,3.0
+RHPL/GH/3114,9999722529,DRO,Dummy Hospital,Santosh Kapoor,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3079,8587069262,DRO,Dummy Hospital,Saira Banu,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3095,7827067585,Digital,Dummy Hospital,Himanshu Chaudhary,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/NS/3113,9266896996,Digital,NSPC-Paschim Vihar,Baby Anisha Verma,B2B,2024-03-03,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3111,9899547633,Organic,Online,Jayanti Ranjan,B2C,2024-03-03,Dr Abhimanyu Rana,1000.0,700.0,0.7,online,,3.0
+RHPL/ON/3111,9899547633,Organic,Online,Jayanti Ranjan,B2C,2024-03-03,Dr Abhimanyu Rana,1000.0,700.0,0.7,online,,3.0
+RHPL/ON/3112,9953954348,Organic,Online,Nancy,B2B,2024-03-03,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
+RHPL/GH/2794,9818376637,DRO,Dummy Hospital,Asha Sharma .,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3051,8800690835,DRO,Dummy Hospital,Vijay Kumar,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/2794,9818376637,DRO,Dummy Hospital,Asha Sharma .,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3087,9810849526,DRO,Dard Mantra,Mr Birender saxena,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3085,9312188771,DRO,Dummy Hospital,Kamla devi .,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/2797,9582486996,DRO,Dummy Hospital,Dinesh kumar,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3105,9899258214,DRO,Dummy Hospital,Meena Singh 62,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3063,8108466392,DRO,Dummy Hospital,Vimla Choubey,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3098,8447565942,DRO,Dummy Hospital,N.I Agnihotri,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3097,9625668300,DRO,Dummy Hospital,Renu Yadav,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3065,8459050359,DRO,Dummy Hospital,Vijay Sharma,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3059,9278320230,DRO,Dummy Hospital,Shakuntala .,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3101,9811344450,DRO,Dummy Hospital,Satya pal Singh Male 76,B2C,2024-03-03,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3110,7060628525,Digital,Dr Abhimanyu Rana's Clinic,Jyoti Kumari,B2B,2024-03-04,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3137,9811271250,DRO,Dr Abhimanyu Rana's Clinic,Anita Arora,B2C,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3099,9213791676,DRO,Dr Abhimanyu Rana's Clinic,Anil kumar . Male 50,B2C,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3093,9818064307,DRO,Dr Abhimanyu Rana's Clinic,Shiv Dutt Male 56,B2C,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3106,9818512214,DRO,Dr Abhimanyu Rana's Clinic,Suresho Devi,B2B,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,Location,3.0
+RHPL/DPRC/3119,9868244434,Digital,Delhi Pain Relieve,Anita Arora,B2B,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DPRC/3146,8368901953,Digital,Delhi Pain Relieve,Santosh Vedwal,B2B,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DPRC/3146,8368901953,Digital,Delhi Pain Relieve,Santosh Vedwal,B2B,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DPRC/3146,8368901953,Digital,Delhi Pain Relieve,Santosh Vedwal,B2B,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DPRC/3119,9868244434,Digital,Delhi Pain Relieve,Anita Arora,B2B,2024-03-04,Dr Pradeep Jain,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3141,8470057910,Digital,Dr Abhimanyu Rana's Clinic,Mohd imran,B2B,2024-03-04,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3106,9818512214,DRO,Dr Abhimanyu Rana's Clinic,Suresho Devi,B2B,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,Location,3.0
+RHPL/DARC/3141,8470057910,Digital,Dr Abhimanyu Rana's Clinic,Mohd imran,B2B,2024-03-04,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/GH/3138,9717926804,Digital,Dummy Hospital,Inderjeet verma,B2B,2024-03-04,Riya Kumari,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DARC/3122,9711481101,Digital,Dr Abhimanyu Rana's Clinic,Shail Khullar,B2C,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3120,7292060524,Digital,Sama Hospital,Ami Kala,B2C,2024-03-04,Dr Rohit Gulati,1000.0,700.0,0.7,online,,3.0
+RHPL/GH/3121,9810331474,DRO,Sama Hospital,Rajshri  Goyal,B2C,2024-03-04,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3130,8882508075,Digital,Online,Reena Aggarwal,B2C,2024-03-04,Dr Garima Gupta,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3127,9313732781,Digital,Sama Hospital,Anju Dhingra,B2C,2024-03-04,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3128,7827476254,Digital,Sama Hospital,Jhilam Ghoshal,B2C,2024-03-04,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/SH/3120,7292060524,Digital,Sama Hospital,Ami Kala,B2C,2024-03-04,Dr Rohit Gulati,1000.0,700.0,0.7,online,,3.0
+RHPL/ON/3135,8800092040,Digital,Online,Kripal Singh,B2B,2024-03-04,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
+,8510818182,Digital,,Vishal Soni Male 30,B2C,2024-03-04,Dr G N Goyal,0.0,0.0,,,,3.0
+RHPL/DARC/3126,8178578663,Digital,Dr Abhimanyu Rana's Clinic,Premvati,B2C,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3143,9911417203,Digital,Dr Abhimanyu Rana's Clinic,Ravinder Singh,B2B,2024-03-04,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DA/3124,9210305061,Digital,Dard Mantra,Kavita Sethi,B2B,2024-03-04,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DA/3124,9210305061,Digital,Dard Mantra,Kavita Sethi,B2B,2024-03-04,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DARC/3136,9868803867,DRO,Dr Abhimanyu Rana's Clinic,Amresh Devi,B2C,2024-03-04,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3149,9599548017,Digital,Online,Javed,B2B,2024-03-05,Dr Ishan Bhatia,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3169,9911602241,DRO,Dr Abhimanyu Rana's Clinic,Laxman Singh,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3169,9911602241,DRO,Dr Abhimanyu Rana's Clinic,Laxman Singh,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3144,9560369504,DRO,Dr Abhimanyu Rana's Clinic,Rajender Bhati,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3102,9582961977,DRO,Dr Abhimanyu Rana's Clinic,Shiv Devi Sharma,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3103,9810096164,DRO,Dr Abhimanyu Rana's Clinic,Subramanyam .,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3148,9718736406,DRO,Dr Abhimanyu Rana's Clinic,Rajkumar Sharma,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3150,8178883967,DRO,Dr Abhimanyu Rana's Clinic,Pushpa Devi,B2B,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,Location,3.0
+RHPL/DARC/3168,9911602245,DRO,Dr Abhimanyu Rana's Clinic,Asha Devi,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3168,9911602245,DRO,Dr Abhimanyu Rana's Clinic,Asha Devi,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3142,8368948650,DRO,Dr Abhimanyu Rana's Clinic,Dhani Ram,B2C,2024-03-05,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3149,9599548017,Digital,Online,Javed,B2B,2024-03-05,Dr Ishan Bhatia,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3164,9312555848,Digital,Online,Afak,B2B,2024-03-05,Dr Ishan Bhatia,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3117,9873311395,Digital,Sama Hospital,Babli Gupta Gupta,B2C,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/1546,9891528246,Digital,Sama Hospital,Nitesh Kumar,B2C,2024-03-05,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/SH/1546,9891528246,Digital,Sama Hospital,Nitesh Kumar,B2C,2024-03-05,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/DARC/3152,9871086644,Digital,Dr Abhimanyu Rana's Clinic,Sunita Vashishtha,B2B,2024-03-05,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
+RHPL/SH/3154,8882438957,Digital,Sama Hospital,Shakuntala Devi Female,B2C,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3132,9958367852,Digital,Sama Hospital,Surendra Singh,B2C,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3145,8527821339,Digital,Sama Hospital,Priyanka yadav,B2C,2024-03-05,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3131,9910812580,Organic,Sama Hospital,Yogita Tayal,B2B,2024-03-05,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3131,9910812580,Organic,Sama Hospital,Yogita Tayal,B2B,2024-03-05,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3151,7906654445,Digital,Dr Abhimanyu Rana's Clinic,Gargi Chhabra,B2B,2024-03-05,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3172,7006116538,Digital,Dard Mantra,Ameer Ali,B2B,2024-03-06,Dr Ishan Bhatia,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/ON/3196,9910398505,Digital,Online,Anjali Bhardwaj,B2C,2024-03-06,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/ON/3191,9718411372,Digital,Online,Shikha Das,B2B,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
+RHPL/ON/3191,9718411372,Digital,Online,Shikha Das,B2B,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
+RHPL/SH/3180,9999350116,DRO,Sama Hospital,Rupinder Kaur,B2C,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DA/3233,9971808390,Digital,Dard Mantra,Tarkeshwar,B2B,2024-03-06,Fardeen Mirza,500.0,350.0,0.7,cash,Location,3.0
+RHPL/ON/3198,9818092102,Digital,Online,Ragini Malhotra,B2C,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3185,9911277227,DRO,Sama Hospital,Vijay Mittal,B2C,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3181,8826150414,DRO,Sama Hospital,Sushila .,B2C,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3172,7006116538,Digital,Dard Mantra,Ameer Ali,B2B,2024-03-06,Dr Ishan Bhatia,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3170,9560957018,Organic,Dr Abhimanyu Rana's Clinic,Rakesh Aggarwal,B2B,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
+RHPL/SH/3174,9910683179,DRO,Sama Hospital,Matwari Devi,B2C,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3180,9999350116,DRO,Sama Hospital,Rupinder Kaur,B2C,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3195,9873487575,Digital,Online,Rohit Bansal,B2B,2024-03-06,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/GH/3079,8587069262,DRO,Dummy Hospital,Saira Banu,B2C,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3155,9810827298,DRO,Dummy Hospital,Vinod Kumar,B2C,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3155,9810827298,DRO,Dummy Hospital,Vinod Kumar,B2C,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3178,9911806299,DRO,Dummy Hospital,Madhu Kumari,B2C,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3162,9999618499,DRO,Sama Hospital,Chandan Singh,B2C,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3195,9873487575,Digital,Online,Rohit Bansal,B2B,2024-03-06,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3182,8130789776,Digital,Online,Kamal Prabha Sharma,B2C,2024-03-06,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/ON/3171,9599599202,Digital,Online,Brijesh,B2C,2024-03-06,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/SH/2667,9871001052,Organic,Dummy Hospital,Pallavi Manchanda,B2B,2024-03-06,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DA/3192,9971808392,Digital,Dard Mantra,Manju Devi,B2B,2024-03-06,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DA/3183,9716203376,DRO,Dard Mantra,Geeta,B2C,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3165,9871594011,Digital,Dummy Hospital,Jitesh Kumar,B2C,2024-03-06,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3162,9999618499,DRO,Sama Hospital,Chandan Singh,B2C,2024-03-06,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3232,9899262890,Digital,Dr Abhimanyu Rana's Clinic,Prashant Panchal,B2B,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3224,8171926665,Digital,Online,Aakash Bindu,B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3226,9818034684,Organic,Dummy Hospital,Jyoti Mehra,B2B,2024-03-07,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3206,8384032907,Digital,Online,Mamta Sholapurkar,B2C,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,,3.0
+RHPL/ON/3236,9650235531,Organic,Online,Ram Sunder Prakhar,B2B,2024-03-07,Dr Ishan Bhatia,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3232,9899262890,Digital,Dr Abhimanyu Rana's Clinic,Prashant Panchal,B2B,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3230,9810155069,Digital,Dr Abhimanyu Rana's Clinic,Sanjeev bhayana,B2B,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DPRC/3203,9015294770,Digital,Delhi Pain Relieve,Raveena Ali,B2B,2024-03-07,Dr Pradeep Jain,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3213,9810313877,DRO,Dr Abhimanyu Rana's Clinic,P.L. Sharma,B2C,2024-03-07,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3222,9716406316,DRO,Dr Abhimanyu Rana's Clinic,Padda Rani,B2B,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/DARC/3237,9560381023,DRO,Dr Abhimanyu Rana's Clinic,Mithilesh,B2B,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/DPRC/3210,9880663733,Digital,Delhi Pain Relieve,Siraj Ahmed,B2B,2024-03-07,Dr Pradeep Jain,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3227,9899689357,Organic,Online,Gunjan Mehra,B2B,2024-03-07,Dr Ishan Bhatia,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3231,7976151306,Digital,Online,Dimpy Batra Kohli,B2C,2024-03-07,Dr Pradeep Jain,1000.0,700.0,0.7,cash,,3.0
+RHPL/DARC/3225,8750998836,Digital,Dr Abhimanyu Rana's Clinic,Sumitra,B2C,2024-03-07,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3227,9899689357,Organic,Online,Gunjan Mehra,B2B,2024-03-07,Dr Ishan Bhatia,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3205,9971452567,Digital,Dr Abhimanyu Rana's Clinic,Sher Singh,B2B,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/ON/3211,9149559776,Digital,Online,Ankit Ramola,B2B,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/ASHL/3200,7085084959,Digital,Aashlok Hospital,Mezhunuo Solo,B2B,2024-03-07,Dr Naveen Talwar,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3208,9883219095,Digital,Online,Ghuncha Nikhar,B2C,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/ON/3208,9883219095,Digital,Online,Ghuncha Nikhar,B2C,2024-03-07,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/DARC/3205,9971452567,Digital,Dr Abhimanyu Rana's Clinic,Sher Singh,B2B,2024-03-07,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/SH/3202,9311326292,DRO,Sama Hospital,Mrs. Sunita Davi,B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3189,8580844592,DRO,Sama Hospital,Mrs Maya rani,B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3189,8580844592,DRO,Sama Hospital,Mrs Maya rani,B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3204,9958886697,Digital,Online,Bhanu Dua,B2C,2024-03-07,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,,3.0
+RHPL/SH/3209,9810189294,DRO,Sama Hospital,Mrs. Kiran Devi [w/o-Amar chand],B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3187,9810189293,DRO,Sama Hospital,Amar Chand,B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/NS/3215,9999235687,Digital,NSPC-Paschim Vihar,Madhu Sharma,B2B,2024-03-07,Dr G N Goyal,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3214,9910939936,DRO,Dr Abhimanyu Rana's Clinic,Keshav Rawat,B2B,2024-03-07,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3212,9910939933,DRO,Dr Abhimanyu Rana's Clinic,Seema Rawat,B2B,2024-03-07,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3159,9810736607,DRO,Sama Hospital,Sumitra Devi .,B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3163,9899250315,DRO,Sama Hospital,Rajvati ji,B2C,2024-03-07,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DDB&SC/3258,9810786295,Digital,Dr. Dang's Brain & Spine Clinic,Didar Singh,B2B,2024-03-08,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DDB&SC/3255,9811107459,Digital,Dr. Dang's Brain & Spine Clinic,Jatinder Kaur,B2B,2024-03-08,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/PH/3254,9873076649,Digital,Physioactiv,Yogesh saini,B2C,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+,9868525553,Digital,,Parminder Singh Bagga,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/ON/2626,8802039688,Inbound Call,Physioactiv,Mrs. Priyanka .,B2C,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DARC/3262,9650380083,Digital,Dr Abhimanyu Rana's Clinic,Neena Batra,B2B,2024-03-08,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3260,9871147085,Digital,Dr Abhimanyu Rana's Clinic,Rajpal Vaid,B2B,2024-03-08,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/DARC/3247,9868836994,DRO,Dr Abhimanyu Rana's Clinic,Amod Kumar Singh,B2C,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/MV/3264,9811574382,,Mayur Vihar,Kajal,B2B,2024-03-08,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3139,9873741758,DRO,Dr Abhimanyu Rana's Clinic,Munish Pal,B2C,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3246,9315033887,DRO,Dr Abhimanyu Rana's Clinic,Neelam tulli,B2C,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3235,7678277639,DRO,Dr Abhimanyu Rana's Clinic,Rajeev batra,B2C,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/WD/3259,7503480545,Digital,WS Clinic,Madhvi,B2B,2024-03-08,Fardeen Mirza,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/MV/3264,9811574382,,Mayur Vihar,Kajal,B2B,2024-03-08,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
+RHPL/MV/3264,9811574382,,Mayur Vihar,Kajal,B2B,2024-03-08,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3224,8171926665,Digital,Online,Aakash Bindu,B2C,2024-03-08,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/DARC/3228,7065827003,DRO,Dr Abhimanyu Rana's Clinic,Veena Sharma,B2C,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+,8318068553,Digital,,Arjun,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3235,7678277639,DRO,Dr Abhimanyu Rana's Clinic,Rajeev batra,B2C,2024-03-08,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/GH/3249,8815252718,Digital,Dummy Hospital,Bharat Singh,B2B,2024-03-08,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3216,8368592363,DRO,Sama Hospital,Naresh Chander Singh Male 70,B2C,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3177,9654356837,DRO,Dummy Hospital,Rajveer Singh Male 40,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/ON/3244,9999600265,Digital,Online,Anand Kumar,B2C,2024-03-08,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/GH/3220,9891979090,DRO,Dummy Hospital,Nepal Singh,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3220,9891979090,DRO,Dummy Hospital,Nepal Singh,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3243,9312056437,DRO,Sama Hospital,Daulat Singh Negi .,B2C,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3220,9891979090,DRO,Dummy Hospital,Nepal Singh,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3219,7062012717,DRO,Sama Hospital,Vijay Singh .,B2C,2024-03-08,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3153,9711290824,DRO,Gauri Hospital,Suresh Sharma,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3173,7291089887,DRO,Dummy Hospital,Nirmal Mittal & Renu Mittal (wife) Male 64,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3242,7310343441,Digital,Dummy Hospital,Naaz,B2B,2024-03-08,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
+RHPL/GH/3242,7310343441,Digital,Dummy Hospital,Naaz,B2B,2024-03-08,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
+RHPL/GH/3234,9654842661,DRO,Dummy Hospital,Mrs. Prakashwati .,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3175,9999923582,DRO,Gauri Hospital,Satpal khanna,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3175,9999923582,DRO,Gauri Hospital,Satpal khanna,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3175,9999923582,DRO,Gauri Hospital,Satpal khanna,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3194,9818550758,DRO,Dummy Hospital,krishan pal singh .,B2C,2024-03-08,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/ON/3248,9555240543,Digital,Online,Ritu Berry,B2C,2024-03-08,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3252,7477023920,DRO,Sama Hospital,Mrs. Neetu Devi,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3275,9770449910,Digital,Online,Praveen Saxena,B2C,2024-03-09,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/NS/3289,8377996366,Digital,NSPC-Paschim Vihar,Jyoti Mahtta,B2B,2024-03-09,Dr G N Goyal,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3276,7838433431,Digital,Sama Hospital,Sakshi Bhola,B2C,2024-03-09,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3291,9975328586,Digital,Sama Hospital,Yogendra Mehta,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3252,7477023920,DRO,Sama Hospital,Mrs. Neetu Devi,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DDB&SC/3292,9910580220,Digital,Dr. Dang's Brain & Spine Clinic,Ujjwal Ray,B2B,2024-03-09,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3285,9810299110,Digital,Dr Abhimanyu Rana's Clinic,JayPrakash Gupta,B2C,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3251,9811843839,DRO,Sama Hospital,Mrs. Sunita Davi,B2C,2024-03-09,Dr Ishan Bhatia,0.0,0.0,,,,3.0
+RHPL/DARC/3299,9650884335,Digital,Dr Abhimanyu Rana's Clinic,Vivek,B2C,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/DARC/3287,9958020052,Digital,Dr Abhimanyu Rana's Clinic,Chanda Devi,B2C,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3278,9868639014,DRO,Dr Abhimanyu Rana's Clinic,Prempal Singh,B2C,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3274,9893465869,Digital,Dr Abhimanyu Rana's Clinic,Deepchand Sijeria,B2B,2024-03-09,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3271,9971092554,Digital,Dr Abhimanyu Rana's Clinic,Raj saxena,B2C,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3275,9770449910,Digital,Online,Praveen Saxena,B2C,2024-03-09,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/DDB&SC/3525,9580101160,Digital,Dr. Dang's Brain & Spine Clinic,Prabhat,B2B,2024-03-09,Fardeen Mirza,500.0,350.0,0.7,cash,Location,3.0
+RHPL/BABC/3257,9650755017,DRO,Birth and Bliss Clinic,Sulekha Sharma,B2C,2024-03-09,Dr Ishan Bhatia,0.0,0.0,,,,3.0
+RHPL/ON/3275,9770449910,Digital,Online,Praveen Saxena,B2C,2024-03-09,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/SH/3291,9975328586,Digital,Sama Hospital,Yogendra Mehta,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3280,6264984653,Digital,Sama Hospital,Shishank Kumar Singh,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3277,9811184554,Digital,Sama Hospital,Sonal Chowdhary Female,B2C,2024-03-09,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3207,9911163779,DRO,Sama Hospital,Madhu Chandra,B2C,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3188,9717647074,DRO,Sama Hospital,Neelam Dhawan Female 55,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3125,9582073785,DRO,Sama Hospital,Sushila devi,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3125,9582073785,DRO,Sama Hospital,Sushila devi,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3125,9582073785,DRO,Sama Hospital,Sushila devi,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3125,9582073785,DRO,Sama Hospital,Sushila devi,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DARC/3270,8742905253,Digital,Dr Abhimanyu Rana's Clinic,Kajal,B2C,2024-03-09,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3268,9811978666,DRO,Sama Hospital,Mrs Sona devi .,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3140,9711033526,DRO,Sama Hospital,Mrs Geeta .,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3147,8700442856,DRO,Sama Hospital,Mr Vinay sharma and Meena sharma .,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3272,9718373456,DRO,Sama Hospital,Bipin Kumar,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3166,9953608214,DRO,Sama Hospital,Mr. Devendra Kumar Female 55,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3158,8627954458,DRO,Sama Hospital,Abhay dev gupta and mithlesh .,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GGN/0249,8930988663,Digital,Online,Swaranjeet Singh,B2B,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
+RHPL/GGN/0249,8930988663,Digital,Online,Swaranjeet Singh,B2B,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
+RHPL/GGN/0249,8930988663,Digital,Online,Swaranjeet Singh,B2B,2024-03-09,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
+RHPL/SH/3193,9968293203,DRO,Sama Hospital,Mrs Chandramukhi and Dr teekam singh .,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3283,9899846646,DRO,Sama Hospital,Mr Shyam babu .,B2C,2024-03-09,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3304,9935342102,Digital,Online,SUMAN,B2C,2024-03-10,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/DA/3288,9013435733,DRO,Dard Mantra,rama devi,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3288,9013435733,DRO,Dard Mantra,rama devi,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3305,9312216875,Digital,Dard Mantra,Inder Prakash,B2B,2024-03-10,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/ON/3309,9873028882,Organic,Online,RK Sharma,B2C,2024-03-10,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DA/3087,9810849526,DRO,Dard Mantra,Mr Birender saxena,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3308,9212820210,Digital,Dard Mantra,Suniti Sharma,B2B,2024-03-10,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+,9210010061,Digital,,Mamta Jain,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3300,7303118374,Digital,Dard Mantra,Lata rani,B2B,2024-03-10,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
+,7827842465,Digital,,Manisha Parmar,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3315,0921168651,DRO,Gauri Hospital,Ram Kumar,B2C,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
+RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,B2C,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
+RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,B2C,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
+RHPL/DA/3190,8510991440,DRO,Dard Mantra,bimla devi,B2C,2024-03-10,Riya Kumari,0.0,0.0,,,,3.0
+RHPL/GH/3123,9810560928,DRO,Dummy Hospital,Radha Devi,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3284,8368287548,DRO,Dummy Hospital,Sneha Bala,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3223,9999671003,DRO,Dummy Hospital,Mayank Chabbra,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3297,9211686519,DRO,Dummy Hospital,Omvati,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3238,9999074627,Digital,Dummy Hospital,Shalini Kumar,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3184,9868288264,DRO,Dummy Hospital,Prakash Chand,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3298,9968895846,DRO,Dummy Hospital,Mr Nannu .,B2C,2024-03-10,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3314,9211686510,DRO,Dummy Hospital,Mr Ram kumar,B2C,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3339,9315437688,DRO,Dummy Hospital,Abhishek  Rohilla,B2C,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3313,9013551282,DRO,Sama Hospital,Mr Mohan Singh,B2C,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3261,9212253545,DRO,Gauri Hospital,Rk Nanda,B2C,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3307,8368220520,Digital,Dummy Hospital,Mrs. Surinder Kaur,B2B,2024-03-11,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3321,9910233332,Digital,Sama Hospital,Dhruv Chawla,B2C,2024-03-11,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/SH/3302,9953790271,DRO,Sama Hospital,Sakizan .,B2C,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3218,9717024741,Digital,Sama Hospital,Mrs. Reena Sharma,B2C,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3324,7000174308,Organic,Online,Shivangi Singh,B2C,2024-03-11,Dr Rohit Gulati,350.0,244.99999999999997,0.7,online,,3.0
+RHPL/ON/3327,9810212850,Digital,Online,R K Malhotra,B2C,2024-03-11,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/SH/3295,8383926940,DRO,Sama Hospital,Vag Devi,B2C,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3317,9540795380,DRO,Sama Hospital,Santra devi .,B2C,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/WD/3352,9810846817,DRO,WS Clinic,Mr. Vijay,B2C,2024-03-11,Fardeen Mirza,0.0,0.0,,,,3.0
+RHPL/IC/3179,7503960432,DRO,Impact Clinic,Sudesh Berry,B2C,2024-03-11,Dr Pradeep Jain,0.0,0.0,,,,3.0
+RHPL/DARC/3336,9911357677,Digital,Dr Abhimanyu Rana's Clinic,Pradeep kumar Bajaj,B2B,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3340,8882235945,Digital,Dr Abhimanyu Rana's Clinic,Amit Kumar,B2B,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3335,8273762511,Organic,Dr Abhimanyu Rana's Clinic,Faizan Khan,B2B,2024-03-11,Dr Abhimanyu Rana,500.0,350.0,0.7,cash,Location,3.0
+RHPL/ON/3326,9953510013,Digital,Online,Manisha Kharayat,B2B,2024-03-11,Dr Abhimanyu Rana,500.0,350.0,0.7,online,Location,3.0
+RHPL/DARC/3338,8527604868,Digital,Dr Abhimanyu Rana's Clinic,Shyam Kumari,B2B,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3338,8527604868,Digital,Dr Abhimanyu Rana's Clinic,Shyam Kumari,B2B,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3328,9899495959,Digital,Online,Vineet Garg,B2C,2024-03-11,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,,3.0
+,8448025102,DRO,,Mrs. Ishwarkali .,B2C,2024-03-11,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3306,9868705071,Digital,Sama Hospital,Mrs. Rakhi Gupta,B2C,2024-03-11,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DARC/3337,9891135305,Digital,Dr Abhimanyu Rana's Clinic,Punita jain,B2B,2024-03-11,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/WD/3361,9899691995,Digital,WS Clinic,Rupa Bakshi,B2B,2024-03-12,Fardeen Mirza,1000.0,700.0,0.7,cash,Location,3.0
+,8595660474,Digital,,Mrs. Anita .,B2C,2024-03-12,Dr. Praneet Singh,0.0,0.0,,,,3.0
+RHPL/DARC/3217,9891370611,DRO,Dr Abhimanyu Rana's Clinic,Mehar Singh,B2C,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3279,9716486242,DRO,Dr Abhimanyu Rana's Clinic,Kaushalya Devi,B2C,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3346,9811705163,Digital,Online,Monica Fernandez,B2B,2024-03-12,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3347,9810357269,Digital,Online,Shalini Rastogi.,B2B,2024-03-12,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3344,9899833844,Digital,Impact Clinic,Megha Jain,B2C,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3354,9810462102,Organic,Sama Hospital,Ajay Deep Gupta,B2C,2024-03-12,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3349,9650033294,Digital,Sama Hospital,Masud Ansari,B2C,2024-03-12,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/ON/3345,9968523977,Digital,Online,Swadesh Pathak,B2C,2024-03-12,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/SH/3322,9873130856,DRO,Sama Hospital,Rajveer .,B2C,2024-03-12,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DARC/3176,9899245876,DRO,Dr Abhimanyu Rana's Clinic,Ved Prakash Male 60,B2C,2024-03-12,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DA/3370,9717243883,DRO,Dard Mantra,Joginder Singh,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3370,9717243883,DRO,Dard Mantra,Joginder Singh,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DA/3363,9250816862,DRO,Dard Mantra,Gopal Kishan Kataria,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3366,9899315299,DRO,Sama Hospital,Rambir Singh,B2C,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3375,8700332156,DRO,Sama Hospital,Inderpal singh,B2C,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3371,8963073390,Digital,Sama Hospital,Mr. Shariq Hussain,B2C,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3381,8076561751,Digital,Online,Jitender Singh,B2C,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3369,7683020886,Digital,Sama Hospital,Jatinder Dawar,B2C,2024-03-13,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/ON/3384,8178762666,Digital,Yash Clinic,Aarti,B2B,2024-03-13,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+,7455873305,Social,,Mukesh Rawat,B2C,2024-03-13,Dr. Praneet Singh,0.0,0.0,,,,3.0
+RHPL/ON/3386,9289572416,Digital,Online,Raazia Arif,B2C,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+,9810074039,Digital,,Dinesh Sharma,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3362,9812132346,DRO,Sama Hospital,Mr Sandeep,B2C,2024-03-13,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DA/3320,8800195533,Digital,Dard Mantra,Yagyavalkya shukla,B2B,2024-03-13,Dr Garima Gupta,800.0,560.0,0.7,cash,Location,3.0
+RHPL/ON/3379,7618784226,Digital,Online,Govind Sharma,B2C,2024-03-13,Dr Garima Gupta,500.0,350.0,0.7,cash,,3.0
+RHPL/ITPC/3378,9953723431,Digital,Impact Clinic,Shashi Abrol,B2B,2024-03-13,Dr. Praneet Singh,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/GH/3377,8396887740,DRO,Gauri Hospital,Mr. Dasrath .,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3343,9891349479,DRO,Dummy Hospital,Iqbal Ahmed .,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3343,9891349479,DRO,Dummy Hospital,Iqbal Ahmed .,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3343,9891349479,DRO,Dummy Hospital,Iqbal Ahmed .,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3343,9891349479,DRO,Dummy Hospital,Iqbal Ahmed .,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3223,9999671003,DRO,Dummy Hospital,Mayank Chabbra,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3332,9968288299,DRO,Gauri Hospital,Anju .,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3372,9013309753,Social,Gauri Hospital,Sunita Balyan,B2B,2024-03-13,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/GH/3368,9213400348,Digital,Dummy Hospital,Shannam Kaur,B2B,2024-03-13,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3364,8287869191,Digital,Online,Dipanshu Lakra,B2C,2024-03-13,Dr Garima Gupta,500.0,350.0,0.7,online,,3.0
+RHPL/GH/3376,9811435509,Organic,Gauri Hospital,Aryan Puri,B2B,2024-03-13,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/GH/3079,8587069262,DRO,Dummy Hospital,Saira Banu,B2C,2024-03-13,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3238,9999074627,Digital,Dummy Hospital,Shalini Kumar,B2B,2024-03-13,Dr Garima Gupta,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/GH/3360,9650268666,Digital,Dummy Hospital,Sunil,B2B,2024-03-13,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3411,9810561352,Digital,Dr Abhimanyu Rana's Clinic,Sapna Kaushik,B2B,2024-03-14,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3402,8368708733,DRO,Dr Abhimanyu Rana's Clinic,Kamlesh Singh,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3279,9716486242,DRO,Dr Abhimanyu Rana's Clinic,Kaushalya Devi,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3217,9891370611,DRO,Dr Abhimanyu Rana's Clinic,Mehar Singh,B2C,2024-03-14,Fardeen Mirza,0.0,0.0,,,,3.0
+RHPL/ON/3412,9811109161,Digital,Online,Deepak Kumar,B2B,2024-03-14,Dr. Praneet Singh,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ON/3481,9811800424,Digital,Online,harsh gupta,B2B,2024-03-14,Fardeen Mirza,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/ON/2760,9540593149,Digital,Dr Abhimanyu Rana's Clinic,Ajay singh,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/IC/3401,8802165945,Social,Impact Clinic,Sumati dhingra,B2B,2024-03-14,Dr. Praneet Singh,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/1901,8750963300,,Mayur Vihar,Vishwajit Singh,B2B,2024-03-14,Fardeen Mirza,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DARC/1901,8750963300,,Mayur Vihar,Vishwajit Singh,B2B,2024-03-14,Fardeen Mirza,500.0,350.0,0.7,cash,Location,3.0
+RHPL/ON/3481,9811800424,Digital,Online,harsh gupta,B2B,2024-03-14,Fardeen Mirza,350.0,244.99999999999997,0.7,online,Location,3.0
+RHPL/DARC/3408,9127475269,DRO,Dr Abhimanyu Rana's Clinic,Charan singh,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3356,9971605919,DRO,Dr Abhimanyu Rana's Clinic,Kaushalya Devi,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3312,9711187827,DRO,Dr Abhimanyu Rana's Clinic,Mr. Dayanand Popli,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3403,8368771137,DRO,Dr Abhimanyu Rana's Clinic,Pratima Devi,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3382,9871096123,Digital,Sama Hospital,Ritu Dhar,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3382,9871096123,Digital,Sama Hospital,Ritu Dhar,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3383,7065158628,DRO,Sama Hospital,Mr.Nathu Ram,B2C,2024-03-14,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3394,9810785700,Digital,Online,SURESH MANOCHA,B2C,2024-03-14,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/SH/3399,8368144085,Organic,Sama Hospital,Visnu Prasad,B2C,2024-03-14,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3396,9650444377,Digital,Online,Bhupinder Kumar,B2C,2024-03-14,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/ON/3381,8076561751,Digital,Online,Jitender Singh,B2C,2024-03-14,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/SH/3365,9810250237,DRO,Sama Hospital,Mr Naresh Kumar Parashar,B2C,2024-03-14,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3406,7869330411,Digital,Online,Sarita Prakash,B2B,2024-03-14,Dr. Praneet Singh,500.0,350.0,0.7,cash,Location,3.0
+RHPL/DARC/2790,9818034960,Organic,Dr Abhimanyu Rana's Clinic,Bipin Behari,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3416,9599955482,Digital,Dr Abhimanyu Rana's Clinic,Mohd Shadab,B2B,2024-03-14,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3382,9871096123,Digital,Sama Hospital,Ritu Dhar,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/YC/3415,9315698431,Digital,Yash Clinic,Mr. Anil Shongra,B2B,2024-03-14,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3420,9127475268,DRO,Dr Abhimanyu Rana's Clinic,Jagrati devi,B2C,2024-03-14,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DDB&SC/3417,9717601001,Organic,Dr. Dang's Brain & Spine Clinic,Rajender Ji,B2B,2024-03-14,Dr Ramandeep Dang,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/YC/3413,9718814176,Digital,Yash Clinic,Parvesh WATI,B2C,2024-03-14,Dr Janani,0.0,0.0,,,,3.0
+RHPL/DDB&SC/3414,9304667002,Digital,Dr. Dang's Brain & Spine Clinic,Akansha Sharma,B2B,2024-03-14,Dr Ramandeep Dang,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DM/3437,9899184096,Organic,Dard Mantra,Sonia Kumari,B2B,2024-03-15,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DM/3437,9899184096,Organic,Dard Mantra,Sonia Kumari,B2B,2024-03-15,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DM/3435,8860871499,DRO,Dard Mantra,Rani Dhingra,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+,8860713525,DRO,,Mrs Binni,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3447,7217650062,Digital,Dr Abhimanyu Rana's Clinic,Vandana Ji,B2B,2024-03-15,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3422,9653487782,Digital,Online,anita anita patwa,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3438,9013377580,DRO,Sama Hospital,Sheela devi .,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/YC/3445,9654978855,Digital,Yash Clinic,Kavita,B2C,2024-03-15,Dr Janani,0.0,0.0,,,,3.0
+RHPL/DM/3423,9968307392,DRO,Dard Mantra,Mr. Dharampal Singh,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3434,9667102197,DRO,Dr Abhimanyu Rana's Clinic,Muni Roy,B2C,2024-03-15,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3434,9667102197,DRO,Dr Abhimanyu Rana's Clinic,Muni Roy,B2C,2024-03-15,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3429,9999013524,Digital,Dr Abhimanyu Rana's Clinic,Ajay Rustagi,B2B,2024-03-15,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/ASHL/3588,9811410806,,Aashlok Hospital,Jyotsna Seth,B2B,2024-03-15,Fardeen Mirza,0.0,0.0,,,Location,3.0
+RHPL/DARC/3446,7065486325,DRO,Dr Abhimanyu Rana's Clinic,Champa Devi,B2C,2024-03-15,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DM/3374,8800983729,DRO,Dard Mantra,Jagdish .,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3434,9667102197,DRO,Dr Abhimanyu Rana's Clinic,Muni Roy,B2C,2024-03-15,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DM/3404,9210873366,DRO,Dard Mantra,Raj Kumar,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DM/3374,8800983729,DRO,Dard Mantra,Jagdish .,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3409,9958576613,DRO,Dummy Hospital,Ravindra Kumar,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3428,9999206435,DRO,Sama Hospital,Arvind Sharma .,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3426,9811136859,Digital,Gauri Hospital,Pardeep Kumar,B2B,2024-03-15,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/GH/3393,8860568956,DRO,Dummy Hospital,NARENDER JI,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3358,9582335752,DRO,Sama Hospital,Anita Gupta .,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3334,9873143237,Digital,Sama Hospital,Mrs. Jyoti Kant,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3334,9873143237,Digital,Sama Hospital,Mrs. Jyoti Kant,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DARC/3447,7217650062,Digital,Dr Abhimanyu Rana's Clinic,Vandana Ji,B2B,2024-03-15,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/GH/3397,9911303092,DRO,Dummy Hospital,Guru Charan Gupta,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3433,9312999528,Organic,Sama Hospital,Ramprakash Gupta,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3332,9968288299,DRO,Gauri Hospital,Anju .,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3427,9717386501,Digital,Dummy Hospital,Bharat  Sharma,B2B,2024-03-15,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3400,8130828777,Digital,Sama Hospital,Anjana Sharma,B2B,2024-03-15,Dr Rohit Gulati,750.0,525.0,0.7,online,Location,3.0
+RHPL/GH/3432,9250277277,Digital,Gauri Hospital,Gaurav,B2C,2024-03-15,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3425,9643643970,DRO,Sama Hospital,Mr.kirori Singh,B2C,2024-03-15,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3385,9910077863,Digital,Sama Hospital,Rashmi Katyal,B2B,2024-03-15,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3407,9869407079,Digital,Sama Hospital,Rajeev Das,B2C,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3469,9873776498,Organic,Sama Hospital,Roshnara ali,B2C,2024-03-16,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/ON/3473,9606084639,Organic,Online,Geeta Gupta,B2C,2024-03-16,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/ON/3473,9606084639,Organic,Online,Geeta Gupta,B2C,2024-03-16,Dr Abhimanyu Rana,750.0,525.0,0.7,online,,3.0
+RHPL/DARC/3458,9911490907,Digital,Dr Abhimanyu Rana's Clinic,Akshay .,B2C,2024-03-16,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/YC/3464,9654074861,Digital,Yash Clinic,Sunita,B2B,2024-03-16,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3468,8423395793,Organic,Online,Tariq khan,B2C,2024-03-16,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/DARC/3479,9625048518,Organic,Dr Abhimanyu Rana's Clinic,N M Kulkarni,B2B,2024-03-16,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3479,9625048518,Organic,Dr Abhimanyu Rana's Clinic,N M Kulkarni,B2B,2024-03-16,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/ON/3477,9811850598,Digital,Online,Veena Dang,B2B,2024-03-16,Dr Abhimanyu Rana,1000.0,700.0,0.7,online,Location,3.0
+RHPL/YC/3445,9654978855,Digital,Yash Clinic,Kavita,B2B,2024-03-16,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/YC/3476,7838598258,Digital,Yash Clinic,Abhishek Bansal,B2B,2024-03-16,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3186,7838987563,DRO,Sama Hospital,Rohit kumar,B2C,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3444,9711695684,Digital,Sama Hospital,Omprakash ojha,B2C,2024-03-16,Dr Rohit Gulati,700.0,489.99999999999994,0.7,online,,3.0
+RHPL/DDB&SC/3430,8826132812,Digital,Dr. Dang's Brain & Spine Clinic,Mr. Roopendra kumar,B2C,2024-03-16,Dr Ramandeep Dang,0.0,0.0,,,,3.0
+RHPL/SH/3455,7838333909,Digital,Sama Hospital,Rohit puri,B2B,2024-03-16,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3453,7985406125,Digital,Sama Hospital,Sagar Singh,B2C,2024-03-16,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3465,7011104652,DRO,Sama Hospital,Chandra Prabha,B2C,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3341,9814102745,DRO,Sama Hospital,Mrs anju sundar .,B2C,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3431,9352176975,Digital,Sama Hospital,Rekha,B2B,2024-03-16,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3456,8882143005,DRO,Sama Hospital,Shanti Devi,B2C,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3329,8920823510,DRO,Sama Hospital,Usha .,B2C,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3442,8800720999,Organic,Dummy Hospital,Ila Ila,B2C,2024-03-16,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/ON/3457,7428334454,Digital,Online,Vasundhra Pandey,B2C,2024-03-16,Dr Rohit Gulati,500.0,350.0,0.7,online,,3.0
+RHPL/DM/3404,9210873366,DRO,Dard Mantra,Raj Kumar,B2C,2024-03-16,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3367,9818840080,Digital,Sama Hospital,Pankaj Kumar,B2C,2024-03-16,Dr Rohit Gulati,1000.0,700.0,0.7,online,,3.0
+RHPL/DDB&SC/3430,8826132812,Digital,Dr. Dang's Brain & Spine Clinic,Mr. Roopendra kumar,B2C,2024-03-16,Dr Ramandeep Dang,0.0,0.0,,,,3.0
+RHPL/SH/3443,9871243522,DRO,Sama Hospital,Mr. Baldev Raj Seth Dr RG,B2C,2024-03-16,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3490,9650907464,Digital,Online,Seema,B2C,2024-03-17,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/ON/3489,9891015351,Digital,Online,Sarika khanna Female 48,B2B,2024-03-17,Dr. Praneet Singh,500.0,350.0,0.7,cash,Location,3.0
+RHPL/GH/3330,9711303107,DRO,Dummy Hospital,Premlata // Neetu (CGHS),B2C,2024-03-17,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3496,9810194658,Digital,Sama Hospital,Baldev Raj,B2C,2024-03-18,Dr Rohit Gulati,750.0,525.0,0.7,online,,3.0
+RHPL/DM/3507,6205919978,Digital,Dard Mantra,Ashutosh,B2B,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,online,Location,3.0
+RHPL/IC/3499,9250484928,Digital,Impact Clinic,Sushama Sharma,B2B,2024-03-18,Dr. Praneet Singh,0.0,0.0,,,Location,3.0
+RHPL/DM/3523,9871413042,Digital,Dard Mantra,Kamaljeet Singh,B2C,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/YC/3514,9999386924,Digital,Yash Clinic,Tejveer singh yadav,B2B,2024-03-18,Dr Janani,1000.0,700.0,0.7,online,Location,3.0
+RHPL/DARC/3529,8368570990,Organic,Dr Abhimanyu Rana's Clinic,Sunita Sunita,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/WD/3528,9811464595,Digital,Birth and Bliss Clinic,Vandana Mishra,B2B,2024-03-18,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
+RHPL/WD/3528,9811464595,Digital,WS Clinic,Vandana Mishra,B2B,2024-03-18,Fardeen Mirza,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3527,7651916194,Digital,Dr Abhimanyu Rana's Clinic,Shahzadi,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3526,7290984265,Digital,Dr Abhimanyu Rana's Clinic,Priyanka Sharma,B2B,2024-03-18,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/YC/3519,9811225805,Digital,Yash Clinic,Girish Gandhi,B2B,2024-03-18,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3509,9968659026,DRO,Dr Abhimanyu Rana's Clinic,Rohtas singh,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3510,9953298800,DRO,Dr Abhimanyu Rana's Clinic,Govindi Bisht,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3502,8368570997,Digital,Dr Abhimanyu Rana's Clinic,Shushma Sharma,B2B,2024-03-18,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3493,8860000430,Digital,Dr Abhimanyu Rana's Clinic,Ashok Kumar,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3532,9990489999,Digital,Online,Arun tiwari,B2C,2024-03-18,Dr Ishan Bhatia,1000.0,700.0,0.7,online,,3.0
+RHPL/DARC/3518,9971350324,DRO,Dr Abhimanyu Rana's Clinic,Mohan lal,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3518,9971350324,DRO,Dr Abhimanyu Rana's Clinic,Mohan lal,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3483,9958329006,Digital,Dr Abhimanyu Rana's Clinic,Mala Choudhary,B2B,2024-03-18,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3508,9911755447,Digital,Dr Abhimanyu Rana's Clinic,Noman Haider,B2C,2024-03-18,Dr Abhimanyu Rana,,,,,,3.0
+RHPL/DARC/3508,9911755447,Digital,Dr Abhimanyu Rana's Clinic,Noman Haider,B2C,2024-03-18,Dr Abhimanyu Rana,,,,,,3.0
+RHPL/IC/3482,8348686066,Digital,Impact Clinic,Mr. PRASHANT KUMAR TIWARI,B2B,2024-03-18,Dr. Praneet Singh,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DM/3524,9311222740,Digital,Dard Mantra,Bhushan Arora,B2B,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,online,Location,3.0
+RHPL/DM/3459,9212147526,Digital,Dard Mantra,Neha Gupta,B2B,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DM/3492,9971422258,Digital,Dard Mantra,Shalu Garg,B2B,2024-03-18,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3478,8569857876,Digital,Sama Hospital,Sumit Dhiman,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3454,9711842078,Digital,Dummy Hospital,Anandi Devi,B2C,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3506,6009943276,Organic,Dummy Hospital,Daniel Reang,B2B,2024-03-18,Dr Garima Gupta,1000.0,700.0,0.7,online,Location,3.0
+RHPL/GH/3488,7982489611,Organic,Gauri Hospital,Mrs. Rajwati .,B2B,2024-03-18,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/GH/3488,7982489611,Organic,Gauri Hospital,Mrs. Rajwati .,B2B,2024-03-18,Dr Garima Gupta,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3486,9560443749,DRO,Sama Hospital,Manorama Devi,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DARC/3471,8968221944,Digital,Dr Abhimanyu Rana's Clinic,Paras,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3467,9811085921,Digital,Sama Hospital,Prem lata Bajaj,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3393,8860568956,DRO,Dummy Hospital,NARENDER JI,B2C,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3498,9811026247,Digital,Dummy Hospital,Sushma Soni,B2B,2024-03-18,Dr Garima Gupta,0.0,0.0,,,Location,3.0
+RHPL/SH/3497,8670668781,DRO,Sama Hospital,Amar rathor and kamla bai Rathor,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3466,9810081567,DRO,Sama Hospital,A k barik & Savita barik,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3486,9560443749,DRO,Sama Hospital,Manorama Devi,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/2703,8826268287,DRO,Sama Hospital,Bimla devi,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/2703,8826268287,DRO,Sama Hospital,Bimla devi,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3516,9560454698,Digital,Online,Onkarnath Upadhyay,B2C,2024-03-18,Dr Abhimanyu Rana,500.0,350.0,0.7,online,,3.0
+RHPL/ON/3511,8691998592,Digital,Online,Palaash Bhat,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3491,8750405716,Digital,Sama Hospital,Archana Kasana,B2B,2024-03-18,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3487,9811081389,Digital,Dr Abhimanyu Rana's Clinic,Rakesh Hasija,B2C,2024-03-18,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/GH/3449,9891197670,Digital,Dummy Hospital,Navita malik,B2B,2024-03-18,Dr Garima Gupta,1000.0,700.0,0.7,online,Location,3.0
+RHPL/SH/3470,8010132944,DRO,Sama Hospital,Devender Gupta,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/GH/3485,9873973943,DRO,Dummy Hospital,Ram Prasad,B2C,2024-03-18,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/2703,8826268287,DRO,Sama Hospital,Bimla devi,B2C,2024-03-18,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3491,8750405716,Digital,Sama Hospital,Archana Kasana,B2B,2024-03-18,Dr Rohit Gulati,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3538,8130381420,DRO,Dr Abhimanyu Rana's Clinic,Karam singh,B2C,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3531,9811331819,DRO,Sama Hospital,Veer singh,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DARC/3566,9999916341,Organic,Dr Abhimanyu Rana's Clinic,Samarendra Das,B2C,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3562,9852637679,Digital,Dr Abhimanyu Rana's Clinic,Manjay Kumar Yadav,B2B,2024-03-19,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/DARC/3561,9871287493,DRO,Dr Abhimanyu Rana's Clinic,Baldev Parsad Male,B2C,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3540,9560272602,DRO,Dr Abhimanyu Rana's Clinic,Chander Pal,B2C,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/IC/3570,9810009068,Organic,Impact Clinic,Parminder Singh,B2B,2024-03-19,Dr. Praneet Singh,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3567,9051520117,Digital,Dr Abhimanyu Rana's Clinic,Supratik Chakraborty,B2B,2024-03-19,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3533,7752973487,Digital,Dr Abhimanyu Rana's Clinic,Priya Rai,B2B,2024-03-19,Dr Abhimanyu Rana,350.0,244.99999999999997,0.7,cash,Location,3.0
+RHPL/ON/3568,8250493870,Digital,Online,C L Sharma,B2C,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/MV/3569,8505955614,Digital,Mayur Vihar,Shefta Khan,B2B,2024-03-19,Fardeen Mirza,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3547,9266771525,DRO,Dr Abhimanyu Rana's Clinic,Bhagwati Devi,B2C,2024-03-19,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/YC/3535,9953264732,Digital,Yash Clinic,Archana Saini,B2B,2024-03-19,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/DARC/3564,9311005033,Digital,Dr Abhimanyu Rana's Clinic,Ajay Yadav,B2B,2024-03-19,Dr Abhimanyu Rana,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DARC/3542,8383891599,Digital,Dr Abhimanyu Rana's Clinic,Sheela Rawat,B2B,2024-03-19,Dr Abhimanyu Rana,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3557,9716375891,Digital,Sama Hospital,Subah Agrawal,B2B,2024-03-19,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
+RHPL/IP/3553,7042441137,Digital,IPSC,Nani maiya,B2C,2024-03-19,Dr Pankaj Surange,0.0,0.0,,,,3.0
+RHPL/SH/3520,8700115412,Digital,Sama Hospital,Mr. Chedup Sherpa,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3512,9312221980,Organic,Sama Hospital,Mrs. Raj Khosla,B2B,2024-03-19,Dr Rohit Gulati,500.0,350.0,0.7,cash,Location,3.0
+RHPL/SH/3539,8076131448,DRO,Sama Hospital,Mr. Ravi Kant,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3545,8851658823,Digital,Sama Hospital,Mr Kulwinder Kaur,B2B,2024-03-19,Dr Rohit Gulati,750.0,525.0,0.7,online,Location,3.0
+RHPL/GH/3543,8447852534,Digital,Dummy Hospital,laxmi devi,B2C,2024-03-19,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/SH/3534,9125005204,DRO,Sama Hospital,Shagun tiwari .,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3520,8700115412,Digital,Sama Hospital,Mr. Chedup Sherpa,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/DM/3548,9811903078,Digital,Sama Hospital,Nutan Nakra,B2B,2024-03-19,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3463,9311170310,Organic,Sama Hospital,Manjeet Kaur,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3541,7024484297,Digital,Sama Hospital,Dr. Dharmesh Answered Call,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3530,8130906936,DRO,Sama Hospital,chandra Devi,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3348,9599439717,DRO,Sama Hospital,Mrs kusum .,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3536,9871700469,Digital,Sama Hospital,Suman Sher,B2C,2024-03-19,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/IC/3549,9717466999,Digital,Impact Clinic,Kamal Kapur,B2C,2024-03-19,Dr. Praneet Singh,0.0,0.0,,,,3.0
+RHPL/SH/3580,9313081775,Digital,Sama Hospital,Shruti,B2C,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DM/3572,8800801970,Digital,Dard Mantra,Rachna Dabas,B2B,2024-03-20,Dr Garima Gupta,750.0,525.0,0.7,online,Location,3.0
+RHPL/SH/3563,8882727944,DRO,Yash Clinic,Amit Kumar,B2B,2024-03-20,Dr Abhimanyu Rana,200.0,140.0,0.7,cash,Location,3.0
+RHPL/YC/3582,9350844393,Digital,Yash Clinic,Renu Bali,B2B,2024-03-20,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/SH/3576,9810062578,Organic,Sama Hospital,SS Bindra,B2C,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3571,9718745557,Digital,Dr Abhimanyu Rana's Clinic,Shefta Nikhat,B2C,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3501,6280411015,Digital,Sama Hospital,Hardeik Hardeik,B2C,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3583,8910431771,Digital,Online,Answered Call,B2C,2024-03-20,Dr. Praneet Singh,,,,,,3.0
+RHPL/YC/3578,9811550992,Digital,Yash Clinic,Sonia Nagpal,B2B,2024-03-20,Dr Janani,1000.0,700.0,0.7,cash,Location,3.0
+RHPL/ON/3594,8058407388,,Mayur Vihar,Kartik Singhal,B2B,2024-03-20,Fardeen Mirza,1000.0,700.0,0.7,online,Location,3.0
+RHPL/ON/3594,8058407388,,Online,Kartik Singhal,B2B,2024-03-20,Fardeen Mirza,1000.0,700.0,0.7,online,Location,3.0
+RHPL/YC/3585,9910680444,Digital,Yash Clinic,Faqir Chand Behl,B2B,2024-03-20,Dr Janani,200.0,140.0,0.7,cash,Location,3.0
+RHPL/IC/3589,8810517174,DRO,Impact Clinic,Shravan Kumar,B2C,2024-03-20,Dr. Praneet Singh,0.0,0.0,,,,3.0
+RHPL/DM/3586,7827159536,Digital,Dard Mantra,Abhishek chaudhary,B2B,2024-03-20,Dr Garima Gupta,500.0,350.0,0.7,cash,Location,3.0
+RHPL/ON/3583,8910431771,Digital,Online,Answered Call,B2C,2024-03-20,Dr. Praneet Singh,,,,,,3.0
+RHPL/DM/2779,9810859349,Digital,Dard Mantra,Rohan Sharma,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3551,9910986545,DRO,Dummy Hospital,Narendra kumar Sharma,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3513,9310944112,DRO,Dummy Hospital,Bhram Singh,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3577,9050639685,Organic,Dummy Hospital,Mrs Kamlesh,B2C,2024-03-20,Dr Garima Gupta,350.0,244.99999999999997,0.7,online,,3.0
+RHPL/GH/3560,9868811939,DRO,Gauri Hospital,Rakesh Kumar Gupta,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DM/3462,9811988705,Digital,Dard Mantra,Pradeep Gambhir,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3461,9818462631,Digital,Gauri Hospital,Bharti Mehta,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3577,9050639685,Organic,Dummy Hospital,Mrs Kamlesh,B2C,2024-03-20,Dr Garima Gupta,350.0,244.99999999999997,0.7,online,,3.0
+RHPL/IC/3581,9811114150,Digital,Impact Clinic,Rana kamra,B2B,2024-03-20,Dr. Praneet Singh,500.0,350.0,0.7,cash,Location,3.0
+RHPL/GH/3332,9968288299,DRO,Gauri Hospital,Anju .,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/ON/3481,9811800424,Digital,Online,harsh gupta,B2C,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3481,9811800424,Digital,Online,harsh gupta,B2C,2024-03-20,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DM/2779,9810859349,Digital,Dard Mantra,Rohan Sharma,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DM/3590,9971706480,Organic,Dard Mantra,Anish Goyal,B2B,2024-03-20,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DM/3591,9971706486,Digital,Dard Mantra,Rati goyal,B2B,2024-03-20,Dr Garima Gupta,750.0,525.0,0.7,cash,Location,3.0
+RHPL/DM/3494,8178060291,Digital,Dard Mantra,Vicky Kumar,B2C,2024-03-20,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3603,9555555527,Digital,Dr Abhimanyu Rana's Clinic,Gaurav Chopra,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3592,9818025860,DRO,Dr Abhimanyu Rana's Clinic,Harcharan Singh,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3593,8285466782,DRO,Dr Abhimanyu Rana's Clinic,Mr. Lila Chander,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3484,9212676904,DRO,Dr Abhimanyu Rana's Clinic,Kamal Pratap Mrs. Neeraj,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3547,9266771525,DRO,Dr Abhimanyu Rana's Clinic,Bhagwati Devi,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3559,9953858897,DRO,Dr Abhimanyu Rana's Clinic,Anuradha Rathi,B2C,2024-03-21,Dr Abhimanyu Rana,,,,,,3.0
+RHPL/DARC/3559,9953858897,DRO,Dr Abhimanyu Rana's Clinic,Anuradha Rathi,B2C,2024-03-21,Dr Abhimanyu Rana,,,,,,3.0
+RHPL/YC/3596,9582246389,Digital,Yash Clinic,Vandana kaur,B2C,2024-03-21,Dr Janani,0.0,0.0,,,,3.0
+RHPL/DARC/3597,8795536652,Digital,Dr Abhimanyu Rana's Clinic,Mrs. Rupam Gupta,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3550,9432224525,Digital,Dr Abhimanyu Rana's Clinic,Snighdha Ghoshal,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3607,8285568084,DRO,Dr Abhimanyu Rana's Clinic,Sukla sethi,B2C,2024-03-21,Dr Abhimanyu Rana,,,,,,3.0
+RHPL/SH/3610,7665091828,Digital,Sama Hospital,Krishna Devi,B2C,2024-03-21,Dr Rohit Gulati,,,,,,3.0
+RHPL/SH/3606,7838611618,Digital,Sama Hospital,Sonia Malhotra,B2C,2024-03-21,Dr Rohit Gulati,,,,,,3.0
+RHPL/SH/3544,9891040570,DRO,Sama Hospital,Mr Bansal .,B2C,2024-03-21,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/ON/3129,9845676544,Social,Online,Ghw hB Aj k,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/ON/3609,9999224441,Organic,Online,Amrit Gaur,B2C,2024-03-21,Dr. Praneet Singh,,,,,,3.0
+RHPL/IC/3608,9953504161,Digital,Impact Clinic,Neelam,B2C,2024-03-21,Dr Pradeep Jain,0.0,0.0,,,,3.0
+RHPL/SH/3317,9540795380,DRO,Sama Hospital,Santra devi .,B2C,2024-03-21,Dr Rohit Gulati,,,,,,3.0
+RHPL/SH/3598,9958636442,DRO,Sama Hospital,Ramawati devi .,B2C,2024-03-21,Dr Rohit Gulati,,,,,,3.0
+RHPL/SH/3595,9810181109,Digital,Sama Hospital,Sadhna Goyal,B2B,2024-03-21,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3602,9892090821,Digital,Sama Hospital,Vijayant Singh,B2B,2024-03-21,Dr Rohit Gulati,750.0,525.0,0.7,cash,Location,3.0
+RHPL/SH/3358,9582335752,DRO,Sama Hospital,Anita Gupta .,B2C,2024-03-21,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3599,9773555662,Digital,Dr Abhimanyu Rana's Clinic,Premlata Sharma,B2C,2024-03-22,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/DARC/3611,9868603677,DRO,Dr Abhimanyu Rana's Clinic,Beghwati,B2C,2024-03-22,Dr Abhimanyu Rana,,,,,,3.0
+RHPL/DM/3587,9910482880,DRO,Dard Mantra,Naresh kumari,B2C,2024-03-22,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DM/3573,9999808726,DRO,Dard Mantra,Raj pal Mahrouliya|| Wife,B2C,2024-03-22,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/GH/3574,9968786276,DRO,Dummy Hospital,Shambhu Thakur,B2C,2024-03-22,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/DARC/3600,9625954099,Digital,Dr Abhimanyu Rana's Clinic,Priyanka Sharma Kapoor,B2C,2024-03-22,Dr Abhimanyu Rana,0.0,0.0,,,,3.0
+RHPL/SH/3579,9968277921,DRO,Sama Hospital,Dharam Pal,B2C,2024-03-23,Dr Rohit Gulati,0.0,0.0,,,,3.0
+RHPL/SH/3601,9910304843,DRO,Sama Hospital,Bhagwan ji manshi,B2C,2024-03-23,Dr Rohit Gulati,,,,,,3.0
+RHPL/SH/3517,9811189503,DRO,Sama Hospital,Zahra Tanveer,B2C,2024-03-23,Dr Rohit Gulati,,,,,,3.0
+RHPL/SH/3584,9868217685,DRO,Sama Hospital,Mr Saurabh,B2C,2024-03-23,Dr Rohit Gulati,,,,,,3.0
+RHPL/ON/3410,9868135701,DRO,Dard Mantra,Narayani Sharma,B2C,2024-03-24,Dr Garima Gupta,0.0,0.0,,,,3.0
+RHPL/IC/3604,9810330635,Digital,Impact Clinic,Avtar Kaur,B2C,2024-03-25,Dr. Praneet Singh,0.0,0.0,,,,3.0
+RHPL/SH/2764,8800541227,DRO,Sama Hospital,Kamlesh Kumari,B2C,2024-03-26,Ankit Singh,0.0,0.0,,,,3.0
+RHPL/SH/2764,8800541227,DRO,Sama Hospital,Kamlesh Kumari,B2C,2024-03-26,Ankit Singh,0.0,0.0,,,,3.0
+RHPL/SH/3565,8920745813,DRO,Sama Hospital,Ramesh Ji (WIFE),B2C,2024-03-26,Dr Rohit Gulati,0.0,0.0,,,,3.0
