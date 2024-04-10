@@ -31,7 +31,8 @@ sql_query_prod = """
    url.lead_sub_source AS lead_sub_source,
    url.channel_name  AS channel_name,
   url.mobile as mobile,
-  url.utm_campaign as utm_campaign
+  url.utm_campaign as utm_campaign,
+   url.lead_form as lead_form
   FROM 
     nivaancare_production.user_registration_lead url
 WHERE 
@@ -44,7 +45,7 @@ df_LEAD = pd.read_sql_query(sql_query_prod,mydb_prod)
 
 
 df_LEAD['Rank_Status'] = df_LEAD.groupby(['mobile'])['modified_time'].rank("dense", ascending=False)
-df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign']]
+df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign','lead_form']]
 print(df_FINAL)
 
 df_FINAL.to_csv('Nivaan_LEAD.csv',index = False)
