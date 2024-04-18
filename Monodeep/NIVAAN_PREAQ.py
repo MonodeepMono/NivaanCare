@@ -23,7 +23,7 @@ conn_prod = mycursor_prod.execute
 
 sql_query_prod = """
   SELECT 
-   DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
+  #  DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
    url.created_time as created_time,
    url.modified_time  as modified_time,
    url.utm_source as UTM_SOURCE,
@@ -45,10 +45,13 @@ WHERE
 
 """
 df_LEAD = pd.read_sql_query(sql_query_prod,mydb_prod)
+df_LEAD['Date']= df_LEAD["created_time"].dt.date
+df_LEAD['Month']= df_LEAD["created_time"].dt.month
+
 
 
 df_LEAD['Rank_Status'] = df_LEAD.groupby(['mobile'])['modified_time'].rank("dense", ascending=False)
-df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign','lead_form','onboarding_status']]
+df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign','lead_form','onboarding_status','Month']]
 print(df_FINAL)
 
 df_FINAL.to_csv('Nivaan_LEAD.csv',index = False)
@@ -69,7 +72,7 @@ spreadsheetId = '1eni28VWN7hluEUImtROeHL9YoIUyw5Jxh196PgxZ4ic'
 sheetName = 'LEAD'        # Please set sheet name you want to put the CSV data.
 csvFile = 'Nivaan_LEAD.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'LEAD'!A2:X")
+sh.values_clear("'LEAD'!A2:M")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
