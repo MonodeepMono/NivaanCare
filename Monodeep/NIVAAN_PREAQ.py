@@ -32,11 +32,14 @@ sql_query_prod = """
    url.channel_name  AS channel_name,
   url.mobile as mobile,
   url.utm_campaign as utm_campaign,
-   url.lead_form as lead_form
+   url.lead_form as lead_form,
+   up.onboarding_status as onboarding_status
   FROM 
     nivaancare_production.user_registration_lead url
+  LEFT JOIN 
+            user_profile up ON url.mobile = up.phone
 WHERE 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-03-01' and DATE_FORMAT(url.created_time, '%Y-%m-%d') <=  '2024-04-08';
+    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-03-01' and DATE_FORMAT(url.created_time, '%Y-%m-%d') <=  '2024-04-17';
   
    
 
@@ -45,7 +48,7 @@ df_LEAD = pd.read_sql_query(sql_query_prod,mydb_prod)
 
 
 df_LEAD['Rank_Status'] = df_LEAD.groupby(['mobile'])['modified_time'].rank("dense", ascending=False)
-df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign','lead_form']]
+df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign','lead_form','onboarding_status']]
 print(df_FINAL)
 
 df_FINAL.to_csv('Nivaan_LEAD.csv',index = False)

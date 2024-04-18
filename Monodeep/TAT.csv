@@ -1,0 +1,1090 @@
+PatientId,PatientName,Mobile,LeadSource,lead_new_status,lead_new_sub_status,Gender,Age,owner_name,lead_created_time,consult_datetime,TAT,AVG_TAT
+RHPL/SH/2534,Ginny Gujral,9910113372,Digital,L1 MDT No Show,Clinic Visit,female,56,Himanshu Sharma,2024-02-13 16:38:36,2024-02-15 15:30:00.000,1.0,18.09326705829191
+RHPL/GH/2542,Rama Chandriah,9770922762,DRO,Junk,Others,male,,KS Santosh,2024-02-16 08:39:49,2024-02-16 10:00:00.000,0.0,18.09326705829191
+RHPL/ON/2719,Jyoti Vinayak ( Shilpa ),9811442556,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,65,Tauheed Hussain,2024-02-23 11:24:16,2024-02-23 22:00:00.000,0.0,18.09326705829191
+RHPL/GH/3712,Mr jai Prakash,9818317808,DRO,L6 - New Lead,Day3Call2,male,,Arpita Tripathi,2024-03-05 19:07:16,2024-03-27 11:00:00.000,21.0,18.09326705829191
+RHPL/SH/3853,Ritu Mittal Malhotra,9971208880,Digital,Lead Dead - PD,Not interested at the moment,female,,Akash Mishra,2024-02-09 12:43:50,2024-03-29 11:40:00.000,48.0,18.09326705829191
+RHPL/SH/3646,MD Naushad Alam,9625739511,Digital,Lead Dead - PD,Not interested at the moment,male,35,Akash Mishra,2024-01-19 00:31:04,2024-04-26 10:40:00.000,98.0,18.09326705829191
+RHPL/IC/3418,Sarabjeet Singh,9315248521,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Roshni Sheikh,2024-03-14 17:17:28,2024-03-14 11:20:00.000,-1.0,18.09326705829191
+RHPL/MV/3265,Sanjeev Kumar,0205318901,,,,male,,,,2024-03-08 21:44:00.000,,18.09326705829191
+RHPL/DARC/3764,Drishtant,8708483131,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,25,Dilshad Alam,2024-03-26 20:43:06,2024-03-28 19:00:00.000,1.0,18.09326705829191
+RHPL/SH/4265,Umed singh,9810060674,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-04-10 18:23:48,2024-04-11 15:20:00.000,0.0,18.09326705829191
+RHPL/SH/4300,Rekha Verma,8602050655,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Harsh Prasad,2024-04-11 12:08:04,2024-04-13 12:20:00.000,2.0,18.09326705829191
+RHPL/ON/2583,Nirmala rani,9891453232,Social,L1 - MDT Consult Scheduled,Online Consultation,female,55,Abhishek .Chaudhary,2024-02-17 00:04:22,2024-02-17 14:30:00.000,0.0,18.09326705829191
+RHPL/ON/2610,Deepak Sharma,9625752804,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,28,Aditi  Bhardwaj,2024-02-17 16:31:27,2024-02-18 20:00:00.000,1.0,18.09326705829191
+RHPL/GH/2797,Dinesh kumar,9582486996,DRO,Junk,Duplicate Lead,female,,Harsh  Bharadwaj,2024-02-27 19:41:12,2024-03-03 10:30:00.000,4.0,18.09326705829191
+RHPL/SH/3125,Sushila devi,9582073785,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,53,Harsh  Bharadwaj,2024-02-28 21:59:23,2024-03-09 10:30:00.000,9.0,18.09326705829191
+RHPL/DARC/3246,Neelam tulli,9315033887,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-08 11:44:19,2024-03-08 18:30:00.000,0.0,18.09326705829191
+RHPL/DARC/3617,Dinesh,9810637001,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-03-21 14:13:27,2024-03-22 19:40:00.000,1.0,18.09326705829191
+RHPL/BABC/3843,BK Anshul,9625855510,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Roshni Sheikh,2024-03-27 17:04:14,2024-03-28 17:30:00.000,1.0,18.09326705829191
+RHPL/SH/3924,Mukesh Kumar Sharma,8447689054,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,72,Himanshu Sharma,2024-03-27 16:52:40,2024-04-01 15:20:00.000,4.0,18.09326705829191
+RHPL/DARC/4175,Indra Kapoor,9911017623,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Himanshu_H,2024-04-04 13:22:24,2024-04-08 19:45:00.000,4.0,18.09326705829191
+RHPL/DC/4297,Shalu  Malhotra,9891015441,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,46,Ankit Kumar,2024-04-11 15:15:17,2024-04-14 16:20:00.000,3.0,18.09326705829191
+RHPL/SH/2664,Neetu,8468014545,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,48,Ankur Gulati,2024-02-20 01:12:07,2024-02-20 15:15:00.000,0.0,18.09326705829191
+RHPL/GH/2516,Sadhna Sharma,9811739484,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,47,Harsh  Bharadwaj,2024-02-12 20:42:47,2024-02-25 11:30:00.000,12.0,18.09326705829191
+RHPL/SH/2710,Niharika,9818864763,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,43,Roshni Sheikh,2024-02-20 08:00:41,2024-02-22 20:10:00.000,2.0,18.09326705829191
+RHPL/GH/3488,Mrs. Rajwati .,7982489611,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,51,Abhishek .Chaudhary,2024-03-17 13:07:03,2024-03-18 10:30:00.000,0.0,18.09326705829191
+RHPL/IC/3549,Kamal Kapur,9717466999,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Dilshad Alam,2024-03-10 15:02:04,2024-03-19 12:30:00.000,8.0,18.09326705829191
+RHPL/IP/2682,Sushila,7840029008,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,35,Himanshu Sharma,2024-02-21 10:43:47,2024-02-21 09:00:00.000,-1.0,18.09326705829191
+RHPL/SH/2629,KARTAR SINGH,9560932893,,,,male,,,,2024-03-01 00:22:00.000,,18.09326705829191
+RHPL/GH/3644,Anni,6350682301,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,19,Abhishek .Chaudhary,2024-03-22 12:41:47,2024-03-22 12:00:00.000,-1.0,18.09326705829191
+RHPL/SH/3958,Dipti Agrawal,7905881312,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Roshni Sheikh,2024-04-02 07:02:59,2024-04-02 10:20:00.000,0.0,18.09326705829191
+RHPL/DM/3404,Raj Kumar,9210873366,DRO,L5 - Pitched,Call1,female,,Arpita Tripathi,2024-03-04 21:52:05,2024-03-15 14:30:00.000,10.0,18.09326705829191
+RHPL/DM/3897,Mr. Nriupma .,9431064235,DRO,L5 - Pitched,Call1,male,36,Manshi Gupta,2024-03-08 11:05:39,2024-04-01 16:00:00.000,24.0,18.09326705829191
+RHPL/IC/3273,Priyanka,7838761294,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,34,Tauheed Hussain,2024-03-09 10:31:00,2024-03-09 10:20:00.000,-1.0,18.09326705829191
+RHPL/ON/3394,SURESH MANOCHA,9810785700,Digital,Lead Dead - PD,Didn't show up for MDT,male,60,Abhishek .Chaudhary,2024-03-14 10:39:51,2024-03-14 11:30:00.000,0.0,18.09326705829191
+RHPL/ON/3406,Sarita Prakash,7869330411,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,70,Tauheed Hussain,2024-03-14 12:28:54,2024-03-14 13:00:00.000,0.0,18.09326705829191
+RHPL/WD/3528,Vandana Mishra,9811464595,Organic,L1 - MDT Consult Scheduled,,female,52,Aditi  Bhardwaj,2024-03-16 01:48:07,2024-03-18 18:00:00.000,2.0,18.09326705829191
+RHPL/GH/3774,Jaspal Kaur,9312235600,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,65,shaan ahmad,2024-03-27 12:38:20,2024-03-27 10:40:00.000,-1.0,18.09326705829191
+RHPL/DC/4287,Shree Bhagwan  Das Yadav,9868825525,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-04-10 12:20:28,2024-04-12 16:20:00.000,2.0,18.09326705829191
+RHPL/SH/2619,Mrs. Shobhana Rajput,9868421424,DRO,L1 MDT No Show,Clinic Visit,female,55,Manshi Gupta,2024-02-19 11:01:01,2024-02-19 11:00:00.000,-1.0,18.09326705829191
+RHPL/ON/2675,Jyot Roy,9971747743,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,27,Ankur Gulati,2024-02-20 14:02:30,2024-02-20 19:30:00.000,0.0,18.09326705829191
+RHPL/ON/2681,Pooja Garg,9971397566,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,34,Roshni Sheikh,2024-02-19 10:59:34,2024-02-21 11:00:00.000,2.0,18.09326705829191
+RHPL/DA/2774,Satyawati,9899663840,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Himanshu Sharma,2024-02-10 17:42:05,2024-02-26 14:30:00.000,15.0,18.09326705829191
+RHPL/ND/1301,Ramji Lal,9250700653,WATI,L1 - MDT Consult Scheduled,Clinic Visit,male,,Arpita Tripathi,2023-09-28 21:17:00,2024-02-24 00:00:00.000,148.0,18.09326705829191
+RHPL/GH/3440,Kundan,9968454533,,,,male,,,,2024-03-15 01:04:00.000,,18.09326705829191
+RHPL/GH/3731,Shashi Bansal,9873717575,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,58,Roshni Sheikh,2024-03-08 20:35:40,2024-03-27 12:40:00.000,18.0,18.09326705829191
+RHPL/SH/2759,Ramesh,9650054485,,,,male,,,,2024-02-24 19:00:00.000,,18.09326705829191
+RHPL/DARC/2745,Devinder Pahuja ( Honey ),8826618628,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,47,Tauheed Hussain,2024-02-23 18:54:50,2024-02-24 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3044,Santosh Kohli,9212367729,Organic,L1 - MDT Consult Scheduled,,female,60,Aditi  Bhardwaj,2024-02-29 08:21:58,2024-02-29 12:30:00.000,0.0,18.09326705829191
+RHPL/ON/3198,Ragini Malhotra,9818092102,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,60,Ankit Kumar,2024-02-18 19:52:58,2024-03-06 19:00:00.000,16.0,18.09326705829191
+RHPL/SH/3291,Yogendra Mehta,9975328586,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,41,Tauheed Hussain,2024-03-04 21:42:59,2024-03-09 15:30:00.000,4.0,18.09326705829191
+RHPL/GH/3339,Abhishek  Rohilla,9315437688,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,24,Manshi Gupta,2024-02-26 20:47:41,2024-03-11 11:30:00.000,13.0,18.09326705829191
+RHPL/MV/3569,Shefta Khan,8505955614,,,,female,,,,2024-03-19 21:00:00.000,,18.09326705829191
+RHPL/ON/3675,Samriddhi,8527215131,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,24,Tauheed Hussain,2024-03-23 12:59:12,2024-03-23 18:40:00.000,0.0,18.09326705829191
+RHPL/SH/3096,Anjam baby,7678524035,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,42,Himanshu Sharma,2024-02-05 14:42:15,2024-03-02 15:00:00.000,26.0,18.09326705829191
+RHPL/SH/3630,vijay kumar,9871972001,Digital,L5 - Pitched,Call3,male,,Himanshu Sharma,2024-03-19 19:20:22,2024-03-21 18:00:00.000,1.0,18.09326705829191
+RHPL/SH/4113,SHRI CHAND SINGH RAWAT,8851850913,DRO,L5 - Pitched,Call1,male,,Manshi Gupta,2024-03-18 18:16:37,2024-04-05 11:20:00.000,17.0,18.09326705829191
+RHPL/SH/2633,SHARDHA JAIN,9899499494,,,,female,,,,2024-03-01 06:00:00.000,,18.09326705829191
+RHPL/SH/4014,Ujal .,7678477665,Inbound Call,L1 - MDT Consult Scheduled,Clinic Visit,male,27,KS Santosh,2024-04-03 16:21:12,2024-04-04 10:20:00.000,0.0,18.09326705829191
+RHPL/DARC/2722,Kawar Pal,9319785560,DRO,L6 - New Lead,New,male,,Manshi Gupta,2024-02-23 18:28:45,2024-02-23 21:00:00.000,0.0,18.09326705829191
+RHPL/ON/2727,Bala Ganeshan ( Chandrika ),9999416372,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Abhishek .Chaudhary,2024-02-23 06:50:32,2024-02-23 21:50:00.000,0.0,18.09326705829191
+RHPL/SH/3094,Ritu Malhotra,9990023536,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,43,Tauheed Hussain,2024-03-02 07:49:50,2024-03-02 12:30:00.000,0.0,18.09326705829191
+RHPL/SH/3530,chandra Devi,8130906936,DRO,L5 - Pitched,Call1,female,,Arpita Tripathi,2024-03-09 09:49:49,2024-03-19 12:30:00.000,10.0,18.09326705829191
+RHPL/SH/3813,Mrs. Misra Laxmi,9935272868,Digital,Lead Dead - PD,Not interested at the moment,female,,KS Santosh,2023-09-09 08:12:08,2024-03-28 10:20:00.000,201.0,18.09326705829191
+RHPL/GH/4320,Sunita .,8860810665,Referred by Doctor,Lead Dead - PD,Day4Call2,female,,Garima  Mittal,2023-12-16 22:04:29,2024-04-12 11:40:00.000,117.0,18.09326705829191
+RHPL/SH/3301,SHILPA VINAYAK,8700035660,,,,female,,,,2024-03-09 18:00:00.000,,18.09326705829191
+RHPL/YC/3519,Girish Gandhi,9811225805,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Ankit Kumar,2024-03-14 23:01:46,2024-03-18 18:00:00.000,3.0,18.09326705829191
+RHPL/GH/4029,Prem bhatia,9718339899,,,,female,,,,2024-04-03 13:40:00.000,,18.09326705829191
+RHPL/SH/4389,Yashoda,9990255349,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Roshni Sheikh,2024-04-14 07:05:19,2024-04-15 12:40:00.000,1.0,18.09326705829191
+RHPL/SH/3062,Mrs. Kamlesh w/o shiv kumar,9711544272,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-03-01 11:27:06,2024-03-01 12:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3237,Mithilesh,9560381023,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-03-07 18:56:49,2024-03-07 19:00:00.000,0.0,18.09326705829191
+RHPL/SH/3520,Mr. Chedup Sherpa,8700115412,Digital,L1 MDT No Show,Clinic Visit,male,42,Abhishek .Chaudhary,2024-03-17 12:44:08,2024-03-18 06:00:00.000,0.0,18.09326705829191
+RHPL/GH/4051,Anita Gupta,9868838485,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,58,Himanshu_H,2024-03-27 14:21:21,2024-04-05 11:40:00.000,8.0,18.09326705829191
+RHPL/DDB&SC/2512,Usha Chandel,9329773919,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,72,Abhishek .Chaudhary,2024-02-11 11:46:33,2024-02-14 19:30:00.000,3.0,18.09326705829191
+RHPL/SH/2576,Veena Khurana,9911412825,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,66,Aditi  Bhardwaj,2024-02-14 08:25:43,2024-02-17 12:30:00.000,3.0,18.09326705829191
+RHPL/SH/2624,Sunita Julka,9871191111,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,54,Tauheed Hussain,2024-02-12 10:51:07,2024-02-19 13:30:00.000,7.0,18.09326705829191
+RHPL/DARC/2673,Rama Gautam,9560020210,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,36,Tauheed Hussain,2024-02-20 16:32:46,2024-02-20 18:00:00.000,0.0,18.09326705829191
+RHPL/ON/3104,Krishan Ladia,9811152798,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,57,Abhishek .Chaudhary,2024-01-27 14:53:15,2024-03-02 19:00:00.000,35.0,18.09326705829191
+RHPL/GH/3297,Omvati,9211686519,DRO,L6 - New Lead,Followup call1,female,,Arpita Tripathi,2024-03-02 19:12:28,2024-03-10 11:30:00.000,7.0,18.09326705829191
+RHPL/DARC/3402,Kamlesh Singh,8368708733,DRO,L6 - New Lead,Followup call1,female,,Manshi Gupta,2024-02-23 13:00:06,2024-03-14 18:30:00.000,20.0,18.09326705829191
+RHPL/SH/3869,Mrs kushum Lata .,9560477618,DRO,L5 - Pitched,Call1,female,,Arpita Tripathi,2024-03-04 09:59:11,2024-03-30 12:00:00.000,26.0,18.09326705829191
+RHPL/SH/3354,Ajay Deep Gupta,9810462102,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Tauheed Hussain,2024-03-12 11:42:58,2024-03-12 15:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3502,Shushma Sharma,8368570997,Digital,Junk,Duplicate Lead,female,,Kshama  Sharma,2024-03-17 22:33:36,2024-03-18 18:30:00.000,0.0,18.09326705829191
+RHPL/GH/3635,Chanderpal Singh,9717446722,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,54,KS Santosh,2024-03-19 09:02:58,2024-03-22 13:00:00.000,3.0,18.09326705829191
+RHPL/DARC/3904,Priya,9971261653,Organic,Junk,Duplicate Lead,female,,Roshni Sheikh,2024-03-27 09:55:42,2024-03-27 07:15:00.000,-1.0,18.09326705829191
+RHPL/SH/2532,Kriti gupta .,9911232321,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,43,Arpita Tripathi,2024-02-15 12:35:33,2024-02-15 12:30:00.000,-1.0,18.09326705829191
+RHPL/DA/2820,Anju Meena,9650339235,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Manshi Gupta,2024-02-28 15:11:02,2024-02-28 14:30:00.000,-1.0,18.09326705829191
+RHPL/DM/3374,Jagdish .,8800983729,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh  Bharadwaj,2024-02-17 20:46:05,2024-03-15 15:00:00.000,26.0,18.09326705829191
+RHPL/YC/3514,Tejveer singh yadav,9999386924,Digital,L1 - MDT Consult Scheduled,,male,59,Ankit Kumar,2024-03-16 13:17:24,2024-03-18 17:30:00.000,2.0,18.09326705829191
+RHPL/GH/3775,Harjinder Singh,9312235609,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,68,Tauheed Hussain,2024-03-21 14:40:47,2024-03-27 11:40:00.000,5.0,18.09326705829191
+RHPL/DARC/4147,Tej Singh Gautam,8826188130,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-04-06 13:53:40,2024-04-06 19:00:00.000,0.0,18.09326705829191
+RHPL/NV/2591,Ajmer Singh,7337668662,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Abhishek .Chaudhary,2024-02-10 08:22:12,2024-02-18 09:30:00.000,8.0,18.09326705829191
+RHPL/ON/3537,Anuradha,9560370309,Digital,Lead Dead - PD,Not responding after Pitched,female,,Akash Mishra,2024-01-29 12:21:46,2024-03-18 14:06:00.000,49.0,18.09326705829191
+RHPL/DC/4401,Govind Ram Gupta,9210336749,Digital,Junk,Not a Pain Patient,male,,Arpita Tripathi,2023-10-11 14:56:08,2024-04-14 17:40:00.000,186.0,18.09326705829191
+RHPL/SH/3496,Baldev Raj,9810194658,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Kshama  Sharma,2024-03-15 14:16:56,2024-03-18 10:00:00.000,2.0,18.09326705829191
+RHPL/SH/3472,Gordan Lal,0701110465,,,,male,,,,2024-03-16 07:00:00.000,,18.09326705829191
+RHPL/DM/3671,Pinki Rajput,8860182091,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,35,Roshni Sheikh,2024-03-10 11:16:56,2024-03-24 15:00:00.000,14.0,18.09326705829191
+RHPL/SH/4196,Kesar devi .,9716303019,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-31 21:58:32,2024-04-11 13:20:00.000,10.0,18.09326705829191
+RHPL/SH/4411,Lokesh kumar . kumar,9910017553,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Himanshu_H,2024-04-15 10:53:31,2024-04-15 15:40:00.000,0.0,18.09326705829191
+RHPL/SH/2742,Mrs Gulab .,9650544585,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,77,Harsh Prasad,2024-02-21 23:01:50,2024-02-24 18:00:00.000,2.0,18.09326705829191
+RHPL/ON/3490,Seema,9650907464,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,45,Tauheed Hussain,2024-03-17 12:42:41,2024-03-17 19:00:00.000,0.0,18.09326705829191
+RHPL/DM/3590,Anish Goyal,9971706480,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,48,Ankit Kumar,2024-03-20 16:11:00,2024-03-20 16:00:00.000,-1.0,18.09326705829191
+RHPL/DM/3698,Rekha Dubey,9643550547,Digital,L6 - New Lead,Day2Call2,female,,Abhishek .Chaudhary,2024-03-16 16:22:20,2024-03-24 10:00:00.000,7.0,18.09326705829191
+RHPL/ND/1795,Kiran Arora,9990199494,Digital,L1 MDT No Show,Clinic Visit,male,60,Himanshu Sharma,2024-01-31 07:36:19,2024-03-23 07:30:00.000,51.0,18.09326705829191
+RHPL/DARC/3955,Anand Aggarwal,9968097144,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Manshi Gupta,2024-03-31 18:27:37,2024-04-02 19:00:00.000,2.0,18.09326705829191
+RHPL/ON/3728,Pratap Narain Seth,9810130750,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,82,Harsh Prasad,2024-03-26 10:21:18,2024-03-26 10:40:00.000,0.0,18.09326705829191
+RHPL/SH/3651,Md Hamza,9469221111,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,58,Aditi  Bhardwaj,2024-03-22 15:39:32,2024-03-22 11:20:00.000,-1.0,18.09326705829191
+RHPL/DARC/4028,Mahendri Rani,8882677018,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-04-03 18:40:21,2024-04-04 18:45:00.000,1.0,18.09326705829191
+RHPL/DARC/2806,Ranjan Maitra,9868521354,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,47,Harsh  Bharadwaj,2024-02-20 16:13:22,2024-02-29 18:30:00.000,9.0,18.09326705829191
+RHPL/DPRC/3073,Gaurav Sharma,9891307023,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,42,KS Santosh,2024-02-25 17:50:20,2024-03-01 15:00:00.000,4.0,18.09326705829191
+RHPL/SH/3174,Matwari Devi,9910683179,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,77,Harsh  Bharadwaj,2023-12-23 22:45:49,2024-03-06 17:30:00.000,73.0,18.09326705829191
+RHPL/SH/3909,Ankit Kashyap,9953674571,Digital,L5 - Pitched,Call3,male,26,Roshni Sheikh,2024-03-05 03:30:32,2024-03-30 18:40:00.000,25.0,18.09326705829191
+RHPL/DM/3437,Sonia Kumari,9899184096,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,35,Tauheed Hussain,2024-03-14 09:07:34,2024-03-15 16:00:00.000,1.0,18.09326705829191
+RHPL/SH/3686,Gulshan kumar,0981006183,,,,male,,,,2024-03-23 10:40:00.000,,18.09326705829191
+RHPL/GH/3834,Namrata Sethi,9810687057,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,62,KS Santosh,2024-03-28 15:38:34,2024-04-01 10:00:00.000,3.0,18.09326705829191
+RHPL/DARC/3878,Ram Gopal,8076948251,,,,male,,,,2024-03-28 19:45:00.000,,18.09326705829191
+RHPL/SH/2520,Surinder Singh Tony,9650710281,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Harsh  Bharadwaj,2024-02-07 16:38:08,2024-02-15 11:00:00.000,7.0,18.09326705829191
+RHPL/DARC/2604,Sanjeev,9899145789,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,44,Abhishek .Chaudhary,2024-02-17 22:41:51,2024-02-19 18:00:00.000,1.0,18.09326705829191
+RHPL/ON/3410,Narayani Sharma,9868135701,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2024-03-13 22:47:41,2024-04-01 15:20:00.000,18.0,18.09326705829191
+RHPL/SH/3951,Trilok singh bakshi,9873965980,Organic,Lead Dead - PD,Not interested at the moment,male,,Akash Mishra,2024-01-19 16:15:13,2024-03-30 19:00:00.000,71.0,18.09326705829191
+RHPL/SH/3618,HARISH GROVER,9717011309,Digital,Lead Dead - PD,Not responding after Pitched,male,63,Abhishek .Chaudhary,2024-03-12 05:40:30,2024-03-22 10:40:00.000,10.0,18.09326705829191
+RHPL/SH/4404,Kusum Sharma,8076452891,Digital,L6 - New Lead,Day4Call1,female,55,Roshni Sheikh,2024-03-14 10:15:16,2024-04-15 13:00:00.000,32.0,18.09326705829191
+RHPL/ON/3750,Noushad,7982475213,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,30,Harsh Prasad,2024-03-25 16:06:01,2024-03-26 19:00:00.000,1.0,18.09326705829191
+RHPL/IC/3802,Vidya .,9625979432,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Arpita Tripathi,2024-03-27 14:54:05,2024-03-28 19:00:00.000,1.0,18.09326705829191
+RHPL/DARC/4090,Sameena,7840014487,,,,female,,,,2024-04-04 19:00:00.000,,18.09326705829191
+RHPL/SKM&RC/4356,Gyanti Rai,9958192321,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,62,Manshi Gupta,2024-04-13 11:23:44,2024-04-13 19:15:00.000,0.0,18.09326705829191
+RHPL/DARC/2555,Nidhi Aggarwal,9873410806,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Abhishek .Chaudhary,2024-02-16 15:21:06,2024-02-16 18:45:00.000,0.0,18.09326705829191
+RHPL/GH/2693,Kapil Kumar,9891558890,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Manshi Gupta,2024-02-21 12:40:39,2024-02-21 12:00:00.000,-1.0,18.09326705829191
+RHPL/ON/3195,Rohit Bansal,9873487575,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,30,Roshni Sheikh,2024-03-04 15:51:34,2024-03-06 17:30:00.000,2.0,18.09326705829191
+RHPL/DA/3087,Mr Birender saxena,9810849526,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,61,Arpita Tripathi,2024-03-01 23:05:54,2024-03-10 15:30:00.000,8.0,18.09326705829191
+RHPL/DARC/3735,Aruna Malhotra Gaur,9899470314,Digital,L5 - Pitched,Call1,female,,Harsh Prasad,2024-03-20 15:49:42,2024-03-27 18:00:00.000,7.0,18.09326705829191
+RHPL/DM/4282,mrs upendra singh arora,9599306920,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Himanshu_H,2024-04-11 12:02:22,2024-04-12 16:00:00.000,1.0,18.09326705829191
+RHPL/DARC/2800,Munish Chand,9868665342,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Manshi Gupta,2024-02-27 15:57:41,2024-02-27 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3131,Yogita Tayal,9910812580,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,45,KS Santosh,2024-03-04 09:18:07,2024-03-05 10:00:00.000,1.0,18.09326705829191
+RHPL/GH/3238,Shalini Kumar,9999074627,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,61,KS Santosh,2024-03-02 19:22:07,2024-03-13 11:30:00.000,10.0,18.09326705829191
+RHPL/MV/3424,Madhu Gaur,9818034961,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,53,Kshama  Sharma,2024-02-12 20:03:32,2024-03-14 20:00:00.000,30.0,18.09326705829191
+RHPL/SH/3317,Santra devi .,9540795380,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Harsh  Bharadwaj,2024-03-07 23:13:08,2024-03-21 11:30:00.000,13.0,18.09326705829191
+RHPL/DM/3685,Mrs. Satyawati,9873669476,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,KS Santosh,2024-03-22 19:40:05,2024-03-24 15:40:00.000,1.0,18.09326705829191
+RHPL/IC/3997,Swarn Chauhan,9999943630,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,68,Harsh Prasad,2024-03-29 12:03:56,2024-04-03 12:00:00.000,4.0,18.09326705829191
+RHPL/SH/4036,Krishna devi .,9599333338,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-04-04 10:04:27,2024-04-04 12:40:00.000,0.0,18.09326705829191
+RHPL/DM/3960,Kavita Vij,9910294265,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Kshama  Sharma,2024-04-01 21:11:24,2024-04-05 17:20:00.000,3.0,18.09326705829191
+RHPL/DARC/4168,Navita Kaushik,7042138068,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,35,Harsh Prasad,2024-03-28 17:34:06,2024-04-06 18:30:00.000,9.0,18.09326705829191
+RHPL/IC/4274,Mr. Pravesh Raghav,9958253371,Digital,Junk,Not a Pain Patient,female,,Harsh Prasad,2024-04-14 19:24:35,2024-04-10 19:00:00.000,-5.0,18.09326705829191
+RHPL/DARC/2524,N.K Prasad,9810309818,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-02-07 17:56:53,2024-02-15 18:30:00.000,8.0,18.09326705829191
+RHPL/DARC/2539,Valsala Nair,9560325743,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Aditi  Bhardwaj,2024-02-14 10:07:02,2024-02-15 18:30:00.000,1.0,18.09326705829191
+RHPL/SH/2551,Shobha Baldev,9440445212,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-02-15 13:36:22,2024-02-16 12:00:00.000,0.0,18.09326705829191
+RHPL/GH/2504,Ram Chandra Singh,8076980333,DRO,L1 MDT No Show,Clinic Visit,male,65,Manshi Gupta,2024-01-23 19:21:32,2024-02-16 00:00:00.000,23.0,18.09326705829191
+RHPL/GH/3121,Rajshri  Goyal,9810331474,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-01-23 14:00:53,2024-03-04 11:30:00.000,40.0,18.09326705829191
+RHPL/SH/3127,Anju Dhingra,9313732781,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-03-03 12:17:51,2024-03-04 12:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3205,Sher Singh,9971452567,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Roshni Sheikh,2024-03-06 18:05:21,2024-03-07 10:00:00.000,0.0,18.09326705829191
+RHPL/YC/3535,Archana Saini,9953264732,Digital,L1 MDT No Show,,female,30,Kshama  Sharma,2024-03-17 08:43:28,2024-03-18 01:00:00.000,0.0,18.09326705829191
+RHPL/ON/3710,Renu Jaiswal,9419024917,Digital,Lead Dead - PD,Not interested at the moment,female,,Arpita Tripathi,2023-12-24 14:49:44,2024-03-26 18:10:00.000,93.0,18.09326705829191
+RHPL/SH/4112,RITU,0931084702,,,,female,,,,2024-04-05 10:00:00.000,,18.09326705829191
+RHPL/DARC/3856,Ashish thakur,9717898872,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,48,Ankit Kumar,2024-03-29 11:47:37,2024-04-11 19:15:00.000,13.0,18.09326705829191
+RHPL/DC/4339,Mahesh Aggarwal,9312646349,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,Kshama  Sharma,2024-04-12 15:00:34,2024-04-14 17:00:00.000,2.0,18.09326705829191
+RHPL/GH/2581,Shaista khan,8287255469,Social,L6 - New Lead,Day4Call1,female,,Roshni Sheikh,2024-02-14 18:26:50,2024-02-17 13:30:00.000,2.0,18.09326705829191
+RHPL/SH/2817,Radhey Shyam,9650414863,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-02-28 13:02:51,2024-02-28 17:30:00.000,0.0,18.09326705829191
+RHPL/DA/3190,bimla devi,8510991440,DRO,L1 MDT No Show,Clinic Visit,female,62,Harsh  Bharadwaj,2024-02-18 22:52:15,2024-03-10 00:00:00.000,20.0,18.09326705829191
+RHPL/IC/3504,Mr. Shri ram Jii,9354239653,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-03-18 08:30:16,2024-03-18 06:30:00.000,-1.0,18.09326705829191
+RHPL/GH/3316,Dhani Ram,7827144753,,,,male,,,,2024-03-10 10:40:00.000,,18.09326705829191
+RHPL/BABC/3765,Prem Shila,9654757186,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,62,KS Santosh,2024-03-22 19:10:54,2024-04-04 18:10:00.000,12.0,18.09326705829191
+RHPL/IC/4169,Monica Ji,8851979833,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,45,shaan ahmad,2024-04-08 11:24:24,2024-04-06 19:00:00.000,-2.0,18.09326705829191
+RHPL/GH/2599,Naresh Sharma,9643778668,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Kshama  Sharma,2024-02-18 11:00:14,2024-02-18 12:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3299,Vivek,9650884335,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Roshni Sheikh,2024-03-09 17:41:00,2024-03-09 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3428,Arvind Sharma .,9999206435,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh  Bharadwaj,2024-03-14 22:49:12,2024-03-15 11:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3864,Manoj,8800644874,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,43,Ankit Kumar,2024-03-21 07:00:24,2024-03-29 19:15:00.000,8.0,18.09326705829191
+RHPL/IC/3991,Subhash Chauhan,9999943634,Organic,L1 - MDT Consult Scheduled,,male,75,Harsh Prasad,2024-04-03 10:40:33,2024-04-03 12:20:00.000,0.0,18.09326705829191
+RHPL/DM/4008,Vikas,7678158875,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,43,Himanshu Sharma,2024-04-02 11:02:30,2024-04-03 15:40:00.000,1.0,18.09326705829191
+RHPL/DARC/3902,Amar Prasad,9313281396,,,,male,,,,2024-03-27 18:45:00.000,,18.09326705829191
+RHPL/IP/2822,Dharmendra Agarwal,9674573739,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,Himanshu Sharma,2024-01-31 22:33:11,2024-02-28 16:00:00.000,27.0,18.09326705829191
+RHPL/SH/4242,Mrs Saraswati .,9013975995,Referred by Doctor,Lead Dead - PD,Outstation Lead,female,,Garima  Mittal,2023-12-15 15:58:53,2024-04-13 10:20:00.000,119.0,18.09326705829191
+RHPL/MV/3818,Aparna Lal,8826510113,,,,female,,,,2024-03-21 19:00:00.000,,18.09326705829191
+RHPL/ON/2597,Sarita Kumari,9582960602,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,61,Tauheed Hussain,2024-02-18 10:10:33,2024-02-18 11:30:00.000,0.0,18.09326705829191
+RHPL/NS/2651,Mona dhir,9099160333,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Aditi  Bhardwaj,2024-02-18 12:48:22,2024-02-20 12:00:00.000,1.0,18.09326705829191
+RHPL/DARC/2736,Anju Bala,9818420431,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Harsh  Bharadwaj,2024-02-24 13:03:59,2024-02-26 18:00:00.000,2.0,18.09326705829191
+RHPL/ON/3080,Usha,9920221923,Digital,L1 MDT No Show,Online Consultation,female,70,Himanshu Sharma,2024-02-27 16:47:15,2024-03-01 20:00:00.000,3.0,18.09326705829191
+RHPL/SH/3060,Sandeep Singhal,9999597559,Digital,L1 MDT No Show,Clinic Visit,male,40,Roshni Sheikh,2024-02-28 23:07:09,2024-03-02 22:00:00.000,2.0,18.09326705829191
+RHPL/ON/3468,Tariq khan,8423395793,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,34,Tauheed Hussain,2024-03-16 12:03:49,2024-03-16 15:00:00.000,0.0,18.09326705829191
+RHPL/SH/3649,Geena,7042626466,Organic,L1 MDT No Show,Clinic Visit,female,47,Ankit Kumar,2024-03-22 14:22:24,2024-03-27 12:00:00.000,4.0,18.09326705829191
+RHPL/GH/3998,Jagan Nath,9871927369,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,73,Aditi  Bhardwaj,2024-03-29 13:43:18,2024-04-03 13:20:00.000,4.0,18.09326705829191
+RHPL/SKM&RC/4288,Bipin Kumar,7088194558,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,28,Abhishek .Chaudhary,2024-04-11 12:42:30,2024-04-11 19:30:00.000,0.0,18.09326705829191
+RHPL/SH/4403,Renu vaid,8130833118,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,59,KS Santosh,2024-04-14 22:04:35,2024-04-15 13:40:00.000,0.0,18.09326705829191
+RHPL/GH/2612,Piyush Jajoria,7838737948,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,22,Abhishek .Chaudhary,2024-02-08 16:58:15,2024-02-18 10:00:00.000,9.0,18.09326705829191
+RHPL/DARC/2798,Paramjeet Kaur,8076330455,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Himanshu Sharma,2024-02-27 13:45:45,2024-02-27 18:30:00.000,0.0,18.09326705829191
+RHPL/ON/3396,Bhupinder Kumar,9650444377,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,54,shaan ahmad,2024-03-13 06:12:47,2024-03-14 12:00:00.000,1.0,18.09326705829191
+RHPL/IC/3419,Mrs saroj Sabharwal,8595536440,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-14 13:52:16,2024-03-15 12:40:00.000,0.0,18.09326705829191
+RHPL/SH/3739,JASWINDER KAUR,8826388431,,,,female,,,,2024-03-26 12:20:00.000,,18.09326705829191
+RHPL/BABC/4045,Neeru Vig,9911330320,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,60,KS Santosh,2024-04-03 13:25:36,2024-04-05 18:10:00.000,2.0,18.09326705829191
+RHPL/GH/4065,Ankur talan,9990027394,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,34,Roshni Sheikh,2024-04-04 13:22:54,2024-04-05 11:20:00.000,0.0,18.09326705829191
+RHPL/SH/4160,Y s Verma,9310917644,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Roshni Sheikh,2024-04-02 08:10:45,2024-04-08 12:20:00.000,6.0,18.09326705829191
+RHPL/DARC/4146,Kiran Wati,9315275781,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Manshi Gupta,2024-04-06 15:33:47,2024-04-06 19:30:00.000,0.0,18.09326705829191
+RHPL/SH/2667,Pallavi Manchanda,9871001052,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,35,Tauheed Hussain,2024-02-19 14:11:37,2024-03-06 14:00:00.000,15.0,18.09326705829191
+RHPL/SH/3770,Mr. Niranjan Kumar,9910814561,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Harsh  Bharadwaj,2024-03-26 23:02:25,2024-03-29 11:00:00.000,2.0,18.09326705829191
+RHPL/DARC/3861,Kanchan Devi,9625146731,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Kshama  Sharma,2024-03-29 13:51:47,2024-03-30 19:30:00.000,1.0,18.09326705829191
+RHPL/DARC/2671,DP  Bhanot,8700409231,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Manshi Gupta,2024-02-20 18:02:37,2024-02-20 18:00:00.000,-1.0,18.09326705829191
+RHPL/SH/3400,Anjana Sharma,8130828777,Digital,Junk,Not a Pain Patient,female,,Ankit Kumar,2024-03-06 02:12:06,2024-03-15 13:00:00.000,9.0,18.09326705829191
+RHPL/SH/3443,Mr. Baldev Raj Seth Dr RG,9871243522,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,83,Arpita Tripathi,2024-03-11 22:34:39,2024-03-16 12:00:00.000,4.0,18.09326705829191
+RHPL/SH/4007,Suman Malhotra,9811457774,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Roshni Sheikh,2024-04-02 15:02:13,2024-04-03 19:00:00.000,1.0,18.09326705829191
+RHPL/IC/3392,Anju Khanna,9811156785,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,48,KS Santosh,2024-03-13 12:11:11,2024-03-13 12:40:00.000,0.0,18.09326705829191
+RHPL/IC/4079,Anita Malik,9891929470,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Manshi Gupta,2024-03-14 19:06:39,2024-04-05 18:30:00.000,21.0,18.09326705829191
+RHPL/SH/3161,MANSA RAM,9015110206,,,,male,,,,2024-03-05 12:40:00.000,,18.09326705829191
+RHPL/ON/3244,Anand Kumar,9999600265,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,81,Abhishek .Chaudhary,2024-03-07 16:11:15,2024-03-08 11:00:00.000,0.0,18.09326705829191
+RHPL/SH/3923,Divya jyoti Bhatia,9999432823,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Kshama  Sharma,2024-04-01 08:03:47,2024-04-01 15:00:00.000,0.0,18.09326705829191
+RHPL/IC/3807,Saroj Kumari,9873349350,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Harsh  Bharadwaj,2024-03-23 10:05:35,2024-03-28 11:00:00.000,5.0,18.09326705829191
+RHPL/GH/2111,Shauraaj Sharma,7011870690,DRO,L1 MDT No Show,Clinic Visit,male,55,Manshi Gupta,2023-12-12 16:44:21,2024-02-21 00:00:00.000,70.0,18.09326705829191
+RHPL/DARC/2780,Deepiksha .,9958486536,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,49,Manshi Gupta,2024-02-24 10:47:31,2024-02-26 18:30:00.000,2.0,18.09326705829191
+RHPL/GH/3071,Sunil Kumar Agarwal,9811016036,Organic,Lead Dead - PD,Not responding,male,,Dilshad Alam,2024-02-26 12:49:59,2024-03-01 00:00:00.000,3.0,18.09326705829191
+RHPL/ON/3111,Jayanti Ranjan,9899547633,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-03-02 14:54:20,2024-03-03 11:30:00.000,0.0,18.09326705829191
+RHPL/IC/3794,Neetu Sharma,8447537355,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,42,Ankit Kumar,2024-03-25 23:07:13,2024-03-27 19:00:00.000,1.0,18.09326705829191
+RHPL/SH/4032,vijay Sharma,9999938535,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,52,Kshama  Sharma,2024-04-04 08:18:28,2024-04-04 12:20:00.000,0.0,18.09326705829191
+RHPL/IC/4044,PARMILA DEVI,8588831589,,,,female,,,,2024-04-03 10:40:00.000,,18.09326705829191
+RHPL/SKM&RC/4350,Urmila Devi,9911870118,,,,female,,,,2024-04-12 19:30:00.000,,18.09326705829191
+RHPL/DARC/2582,Om Prakash Gupta,9868206727,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-02-16 14:19:38,2024-02-19 18:00:00.000,3.0,18.09326705829191
+RHPL/DARC/2789,Prem Vati,9911476659,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,64,KS Santosh,2024-02-25 19:04:55,2024-02-27 14:00:00.000,1.0,18.09326705829191
+RHPL/DDB&SC/3107,Nida Choudhary,9811973331,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Kshama  Sharma,2024-03-02 17:47:44,2024-03-02 17:30:00.000,-1.0,18.09326705829191
+RHPL/GGN/0249,Swaranjeet Singh,8930988663,Digital,L1 - MDT Consult Scheduled,,female,31,Harsh Prasad,2024-03-09 07:19:39,2024-03-09 12:30:00.000,0.0,18.09326705829191
+RHPL/ON/3481,harsh gupta,9811800424,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,65,Himanshu Sharma,2024-02-28 19:27:09,2024-03-14 20:30:00.000,15.0,18.09326705829191
+RHPL/SKM&RC/4319,Lalsa Devi,6205049605,DRO,Lead Dead - PD,Not interested at the moment,female,,Harsh Prasad,2024-02-24 16:43:03,2024-04-13 19:00:00.000,49.0,18.09326705829191
+RHPL/SH/2261,CRMAppointment Nida 12,3243243212,,,,male,,,,2024-02-16 00:00:00.000,,18.09326705829191
+RHPL/SH/3713,Tapsi Thapa,8800145330,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,26,KS Santosh,2024-03-26 05:35:30,2024-03-26 14:20:00.000,0.0,18.09326705829191
+RHPL/BABC/4126,Ankit Sharma,8802639158,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,27,Roshni Sheikh,2024-04-06 08:04:14,2024-04-06 17:50:00.000,0.0,18.09326705829191
+RHPL/SH/3209,Mrs. Kiran Devi [w/o-Amar chand],9810189294,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-03-07 11:41:19,2024-03-07 11:30:00.000,-1.0,18.09326705829191
+RHPL/ON/3227,Gunjan Mehra,9899689357,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,41,Tauheed Hussain,2024-03-07 12:45:26,2024-03-07 15:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3230,Sanjeev bhayana,9810155069,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Roshni Sheikh,2024-03-07 11:36:55,2024-03-07 18:00:00.000,0.0,18.09326705829191
+RHPL/IC/3503,Savita Sharma,9891553231,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,36,Kshama  Sharma,2024-03-17 12:00:11,2024-03-18 06:00:00.000,0.0,18.09326705829191
+RHPL/IP/2686,Mukesh Kumar,8084958703,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,24,Tauheed Hussain,2024-02-20 12:34:25,2024-04-24 09:15:00.000,63.0,18.09326705829191
+RHPL/SH/3555,Ravi Kant,9149332456,,,,male,,,,2024-03-19 08:00:00.000,,18.09326705829191
+RHPL/SH/3657,Shalu Arora,9711937683,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Himanshu Sharma,2024-03-22 17:15:37,2024-03-22 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/4127,Rekha Devi,9873770964,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,43,Ankit Kumar,2024-04-05 19:49:40,2024-04-06 13:40:00.000,0.0,18.09326705829191
+RHPL/GH/4291,Rajni devi,8700145976,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,62,Himanshu_H,2024-04-11 13:56:01,2024-04-12 11:00:00.000,0.0,18.09326705829191
+RHPL/DARC/2568,Neelam Chibbar,9868072189,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,75,Arpita Tripathi,2024-02-15 13:33:23,2024-02-17 10:00:00.000,1.0,18.09326705829191
+RHPL/SH/2575,R.k Kalra,9212256228,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-02-16 20:16:45,2024-02-23 22:54:00.000,7.0,18.09326705829191
+RHPL/ON/3248,Ritu Berry,9555240543,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,41,Tauheed Hussain,2024-03-06 21:57:23,2024-03-08 13:00:00.000,1.0,18.09326705829191
+RHPL/DDB&SC/3258,Didar Singh,9810786295,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,40,Ankit Kumar,2024-02-27 22:57:55,2024-03-08 18:00:00.000,9.0,18.09326705829191
+RHPL/SH/2761,Ravindranath Bairangi,8368055900,DRO,Lead Dead - PD,Not responding after Pitched,male,,Harsh  Bharadwaj,2024-02-20 07:57:38,2024-02-26 03:00:00.000,5.0,18.09326705829191
+RHPL/DA/3370,Joginder Singh,9717243883,DRO,Junk,Duplicate Lead,male,70,Anubhuti Raj,2024-03-13 22:45:41,2024-03-13 15:30:00.000,-1.0,18.09326705829191
+RHPL/YC/3445,Kavita,9654978855,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,39,Roshni Sheikh,2024-03-14 22:35:40,2024-03-16 18:30:00.000,1.0,18.09326705829191
+RHPL/DARC/3877,Santosh kumari,9811531146,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-03-31 11:24:51,2024-03-29 18:15:00.000,-2.0,18.09326705829191
+RHPL/IC/4064,Manmohan Pal singh,9625703376,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,72,Manshi Gupta,2024-04-01 10:41:42,2024-04-08 17:40:00.000,7.0,18.09326705829191
+RHPL/SH/4357,Prem Chand,9868118640,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-04-13 11:33:52,2024-04-13 11:40:00.000,0.0,18.09326705829191
+RHPL/NV/2598,Harsh,8210675143,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,26,Roshni Sheikh,2024-02-11 21:51:08,2024-02-18 11:00:00.000,6.0,18.09326705829191
+RHPL/SH/2644,Chaman Singh,9013677528,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Manshi Gupta,2024-02-15 08:07:57,2024-02-20 11:00:00.000,5.0,18.09326705829191
+RHPL/DA/2802,Ved Prakash Meena,9650339234,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Manshi Gupta,2024-02-22 18:35:58,2024-02-28 14:30:00.000,5.0,18.09326705829191
+RHPL/DARC/3136,Amresh Devi,9868803867,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Harsh  Bharadwaj,2024-02-29 19:02:42,2024-03-04 18:00:00.000,3.0,18.09326705829191
+RHPL/SH/3491,Archana Kasana,8750405716,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,44,KS Santosh,2024-03-16 23:46:27,2024-03-18 13:00:00.000,1.0,18.09326705829191
+RHPL/IC/3781,Sapna Bhasin,9555518751,Digital,L5 - Pitched,Call3,female,51,Roshni Sheikh,2024-03-14 08:39:11,2024-03-28 13:20:00.000,14.0,18.09326705829191
+RHPL/SH/3108,Sunita,0876630502,,,,female,,,,2024-03-02 12:44:00.000,,18.09326705829191
+RHPL/DARC/2507,Shalini Goyal,8130045643,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,53,Tauheed Hussain,2024-02-06 15:28:47,2024-02-13 19:30:00.000,7.0,18.09326705829191
+RHPL/GH/2515,Sanjeev Chauhan,9871115554,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,53,Aditi  Bhardwaj,2024-02-09 17:31:01,2024-02-14 12:30:00.000,4.0,18.09326705829191
+RHPL/SH/2737,Sandhaya .,7780984067,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,32,Arpita Tripathi,2024-02-24 12:58:56,2024-02-24 17:00:00.000,0.0,18.09326705829191
+RHPL/ON/2739,Arvind,9899784899,Digital,L1 MDT No Show,Online Consultation,male,45,Himanshu Sharma,2024-02-14 11:15:05,2024-02-24 22:09:00.000,10.0,18.09326705829191
+RHPL/GH/3376,Aryan Puri,9811435509,Digital,L6 - New Lead,Day1Call2,male,,Aditi  Bhardwaj,2024-03-07 21:33:24,2024-03-13 13:00:00.000,5.0,18.09326705829191
+RHPL/GH/3332,Anju .,9968288299,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-03-04 19:52:51,2024-03-20 12:30:00.000,15.0,18.09326705829191
+RHPL/GH/3123,Radha Devi,9810560928,DRO,L1 MDT No Show,Clinic Visit,female,70,Harsh  Bharadwaj,2024-03-01 22:19:21,2024-04-07 11:00:00.000,36.0,18.09326705829191
+RHPL/DARC/2723,Munni rawat,0989916023,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,66,Harsh  Bharadwaj,2024-02-23 14:16:55,2024-04-23 18:00:00.000,60.0,18.09326705829191
+RHPL/ON/3386,Raazia Arif,9289572416,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,48,KS Santosh,2024-03-12 19:51:10,2024-03-13 20:30:00.000,1.0,18.09326705829191
+RHPL/DARC/3274,Deepchand Sijeria,9893465869,Digital,Junk,Duplicate Lead,male,,Ankit Kumar,2024-03-09 10:23:23,2024-03-09 18:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3732,Narendra Jani,9810852131,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,63,Himanshu Sharma,2024-03-26 14:06:53,2024-03-26 19:40:00.000,0.0,18.09326705829191
+RHPL/SH/4271,Manish,9911970417,Digital,Junk,Duplicate Lead,male,,Himanshu Sharma,2024-04-11 08:03:22,2024-04-11 11:00:00.000,0.0,18.09326705829191
+RHPL/SH/4406,Solomon Kamai,8415994852,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Kshama  Sharma,2024-04-13 20:40:05,2024-04-15 14:00:00.000,1.0,18.09326705829191
+RHPL/SH/4082,Satish Ojha,9621207734,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,28,Roshni Sheikh,2024-04-02 09:47:25,2024-04-15 10:00:00.000,13.0,18.09326705829191
+RHPL/DARC/2656,Shanti Pandey,8770471439,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,48,Roshni Sheikh,2024-02-19 10:47:59,2024-02-20 12:00:00.000,1.0,18.09326705829191
+RHPL/SH/2815,Mrs. Angoori Devi,8076364078,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-02-28 09:07:18,2024-02-29 11:00:00.000,1.0,18.09326705829191
+RHPL/ON/3326,Manisha Kharayat,9953510013,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,65,Tauheed Hussain,2024-03-10 06:02:48,2024-03-11 15:00:00.000,1.0,18.09326705829191
+RHPL/SH/3351,Bharpai,9873527205,,,,female,,,,2024-03-12 19:00:00.000,,18.09326705829191
+RHPL/SH/2753,Kishani Devi,9717136057,Digital,Lead Dead - PD,Others,female,,Ankit Kumar,2024-03-12 10:40:46,2024-02-25 18:30:00.000,-16.0,18.09326705829191
+RHPL/DARC/3055,Asha Devi,9756554408,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Tauheed Hussain,2024-03-01 10:04:19,2024-03-01 19:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3235,Rajeev batra,7678277639,DRO,L1 MDT No Show,Clinic Visit,male,64,Arpita Tripathi,2024-03-07 12:51:20,2024-03-14 21:00:00.000,7.0,18.09326705829191
+RHPL/DARC/3607,Sukla sethi,8285568084,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-21 12:39:14,2024-03-21 18:00:00.000,0.0,18.09326705829191
+RHPL/GH/3461,Bharti Mehta,9818462631,Organic,L1 MDT No Show,,female,63,Dilshad Alam,2024-03-15 12:24:35,2024-04-03 13:00:00.000,19.0,18.09326705829191
+RHPL/DM/3922,Kavita,9911360750,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Roshni Sheikh,2024-04-01 05:19:36,2024-04-01 16:20:00.000,0.0,18.09326705829191
+RHPL/IC/4039,Ravinder Kaur,8586990305,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Roshni Sheikh,2024-04-04 10:36:56,2024-04-04 12:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3820,Baldev Raj Sethi,8285568085,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-21 18:58:13,2024-03-21 07:00:00.000,-1.0,18.09326705829191
+RHPL/ON/4083,Renuka Rustagi,9971083368,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,28,Ankit Kumar,2024-04-03 22:04:58,2024-04-05 17:15:00.000,1.0,18.09326705829191
+RHPL/GH/2548,Parvati Negi,9315125173,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,63,Arpita Tripathi,2024-02-16 11:17:38,2024-02-16 11:30:00.000,0.0,18.09326705829191
+RHPL/ON/2730,Anshuman Singh Shekhawat,9928937921,Digital,L1 - MDT Consult Scheduled,,male,35,Aditi  Bhardwaj,2024-02-23 00:15:50,2024-02-24 21:00:00.000,1.0,18.09326705829191
+RHPL/ON/2818,Rekha Arora,7988782189,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,36,Kshama  Sharma,2024-02-18 16:28:11,2024-02-28 13:30:00.000,9.0,18.09326705829191
+RHPL/SH/3189,Mrs Maya rani,8580844592,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2023-12-06 14:50:51,2024-03-07 11:00:00.000,91.0,18.09326705829191
+RHPL/GH/3242,Naaz,7310343441,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,21,Roshni Sheikh,2024-03-05 23:08:04,2024-03-08 12:00:00.000,2.0,18.09326705829191
+RHPL/SH/3302,Sakizan .,9953790271,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,47,Harsh  Bharadwaj,2024-03-10 10:43:47,2024-03-11 12:30:00.000,1.0,18.09326705829191
+RHPL/SH/3470,Devender Gupta,8010132944,DRO,L6 - New Lead,Day2Call2,male,,Manshi Gupta,2024-03-18 10:28:23,2024-04-02 12:20:00.000,15.0,18.09326705829191
+RHPL/GH/3992,Rohit Gupta,9871765807,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,29,Dilshad Alam,2024-04-03 08:56:00,2024-04-07 10:40:00.000,4.0,18.09326705829191
+RHPL/IC/4180,Md Shameem,7619091303,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,65,Aditi  Bhardwaj,2024-04-07 15:05:51,2024-04-08 12:20:00.000,0.0,18.09326705829191
+RHPL/DARC/2242,Ram Raj,8076194096,Organic,L1 MDT No Show,Clinic Visit,male,56,Arpita Tripathi,2024-01-29 17:05:33,2024-04-05 19:30:00.000,67.0,18.09326705829191
+RHPL/ON/3149,Javed,9599548017,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,27,Himanshu Sharma,2024-03-05 09:48:24,2024-03-05 17:30:00.000,0.0,18.09326705829191
+RHPL/GH/3307,Mrs. Surinder Kaur,8368220520,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Abhishek .Chaudhary,2024-03-09 23:28:06,2024-03-11 12:00:00.000,1.0,18.09326705829191
+RHPL/DARC/4059,Namita Agrawal,8505966070,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,44,Akash Mishra,2024-03-27 16:00:19,2024-04-06 18:15:00.000,10.0,18.09326705829191
+RHPL/DC/4396,Neeraj Kumar,8447452455,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,38,Roshni Sheikh,2024-04-14 10:04:27,2024-04-14 17:20:00.000,0.0,18.09326705829191
+RHPL/SH/2617,Ashok Kumar Malik,9582521196,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-01-04 14:01:04,2024-02-19 12:00:00.000,45.0,18.09326705829191
+RHPL/SH/2701,Ramesh chandra,9910581127,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,Kshama  Sharma,2024-02-19 11:39:47,2024-02-22 13:30:00.000,3.0,18.09326705829191
+RHPL/DARC/3336,Pradeep kumar Bajaj,9911357677,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Abhishek .Chaudhary,2024-02-15 17:51:26,2024-03-11 19:00:00.000,25.0,18.09326705829191
+RHPL/YC/3415,Mr. Anil Shongra,9315698431,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,36,Abhishek .Chaudhary,2024-03-14 15:38:01,2024-03-14 18:00:00.000,0.0,18.09326705829191
+RHPL/DM/3435,Rani Dhingra,8860871499,Inbound Call,L1 - MDT Consult Scheduled,,female,53,Arpita Tripathi,2024-03-15 14:38:35,2024-03-15 16:00:00.000,0.0,18.09326705829191
+RHPL/IC/3342,Savita gupta Savita,9810141459,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,62,Dilshad Alam,2024-03-11 12:27:14,2024-03-11 12:00:00.000,-1.0,18.09326705829191
+RHPL/ASHL/3588,Jyotsna Seth,9811410806,,,,male,,,,2024-03-15 20:14:00.000,,18.09326705829191
+RHPL/ON/3609,Amrit Gaur,9999224441,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,67,Tauheed Hussain,2024-03-21 12:30:39,2024-03-21 13:00:00.000,0.0,18.09326705829191
+RHPL/IC/3714,Narender Kumar Joshi,9968246017,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-03-20 18:54:44,2024-03-26 12:20:00.000,5.0,18.09326705829191
+RHPL/DARC/3936,Neeraj Devi,9868806447,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,57,Himanshu_H,2024-03-28 14:12:03,2024-04-02 18:45:00.000,5.0,18.09326705829191
+RHPL/SH/4031,Shivangi Poddar,8506989898,Digital,L1 MDT No Show,Clinic Visit,female,34,Himanshu Sharma,2024-04-03 22:45:46,2024-04-06 18:40:00.000,2.0,18.09326705829191
+RHPL/IC/4143,Rekha Kapoor,9968339347,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,37,Ankit Kumar,2024-04-06 13:12:36,2024-04-06 13:40:00.000,0.0,18.09326705829191
+RHPL/ON/3088,Dhiraj Mishra,9452033547,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,31,Abhishek .Chaudhary,2024-03-02 08:28:22,2024-03-02 11:30:00.000,0.0,18.09326705829191
+RHPL/IP/3167,Kunal Kant,9821694758,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,68,KS Santosh,2024-02-07 17:00:43,2024-03-06 21:00:00.000,28.0,18.09326705829191
+RHPL/SH/3341,Mrs anju sundar .,9814102745,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Manshi Gupta,2024-03-10 23:14:14,2024-03-16 12:00:00.000,5.0,18.09326705829191
+RHPL/DARC/3382,Ritu Dhar,9871096123,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,59,Ankit Kumar,2024-03-12 21:39:20,2024-03-14 18:00:00.000,1.0,18.09326705829191
+RHPL/ON/3910,Saroj vasu Goyal,9911331567,Digital,L5 - Pitched,Call2,female,,Aditi  Bhardwaj,2023-11-25 22:59:47,2024-03-30 18:15:00.000,125.0,18.09326705829191
+RHPL/DARC/3946,Anita Kapoor,9904705974,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,43,Kshama  Sharma,2024-03-28 19:08:39,2024-04-01 18:30:00.000,3.0,18.09326705829191
+RHPL/SH/4068,Richi Gupta,9871983688,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,38,Akash Mishra,2024-03-28 20:53:00,2024-04-06 18:20:00.000,8.0,18.09326705829191
+RHPL/SKM&RC/4366,Sanghmitra mukhreji,9871166915,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-04-13 13:12:17,2024-04-13 18:45:00.000,0.0,18.09326705829191
+RHPL/SH/2552,Mrs. Narayani Devi,9818150317,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,66,Harsh  Bharadwaj,2024-02-16 13:11:36,2024-02-17 12:00:00.000,0.0,18.09326705829191
+RHPL/DA/2756,Urmil Katyal,9312292162,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Tauheed Hussain,2024-02-23 14:30:01,2024-02-25 15:00:00.000,2.0,18.09326705829191
+RHPL/WD/1492,Manish Dhawan,8826932372,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,36,Abhishek .Chaudhary,2023-11-29 13:12:18,2024-12-24 11:00:00.000,390.0,18.09326705829191
+RHPL/GH/3223,Mayank Chabbra,9999671003,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,35,Harsh  Bharadwaj,2024-02-24 20:34:00,2024-03-13 11:00:00.000,17.0,18.09326705829191
+RHPL/SH/3383,Mr.Nathu Ram,7065158628,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Manshi Gupta,2024-03-12 22:56:38,2024-03-14 11:00:00.000,1.0,18.09326705829191
+RHPL/SH/3444,Omprakash ojha,9711695684,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,40,Dilshad Alam,2024-03-03 11:58:26,2024-03-16 13:30:00.000,13.0,18.09326705829191
+RHPL/DARC/3660,Adarsh Bala,9810759693,DRO,L5 - Pitched,Call2,female,65,Manshi Gupta,2024-03-06 23:52:19,2024-03-22 19:20:00.000,15.0,18.09326705829191
+RHPL/SH/4086,Mrs Seema,9971038009,DRO,L6 - New Lead,Day3Call1,female,,Manshi Gupta,2024-03-06 23:16:03,2024-04-05 10:40:00.000,29.0,18.09326705829191
+RHPL/BABC/3737,Kamlesh Sharma,8178355442,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,54,Himanshu Sharma,2024-03-24 07:43:26,2024-03-26 17:50:00.000,2.0,18.09326705829191
+RHPL/IC/3767,Prem uppal,9555222666,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,47,Ankit Kumar,2024-03-27 11:10:40,2024-03-27 13:00:00.000,0.0,18.09326705829191
+RHPL/DM/3782,Krishna ji,9899795931,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Harsh  Bharadwaj,2024-03-27 11:13:48,2024-03-27 15:20:00.000,0.0,18.09326705829191
+RHPL/IC/4075,Sumitra Bhushan,9212739622,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,53,Manshi Gupta,2024-04-04 15:38:40,2024-04-06 11:00:00.000,1.0,18.09326705829191
+RHPL/SH/2527,Promila Verma,9873034290,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,54,Tauheed Hussain,2024-01-26 13:56:59,2024-02-14 18:00:00.000,19.0,18.09326705829191
+RHPL/DARC/2658,Shivam Dubey,9519945192,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,31,Roshni Sheikh,2024-02-10 15:55:50,2024-02-20 12:00:00.000,9.0,18.09326705829191
+RHPL/DA/3070,Mahaveer Singh,8377022453,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,61,Manshi Gupta,2024-01-20 22:09:11,2024-03-01 21:30:00.000,40.0,18.09326705829191
+RHPL/SH/3277,Sonal Chowdhary Female,9811184554,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,40,Roshni Sheikh,2024-03-06 13:04:53,2024-03-09 13:00:00.000,2.0,18.09326705829191
+RHPL/ON/3347,Shalini Rastogi.,9810357269,Digital,Lead Dead - PD,Clinic location not suitable,female,,Aditi  Bhardwaj,2024-01-25 13:36:09,2024-03-12 19:30:00.000,47.0,18.09326705829191
+RHPL/ON/3859,Sucharita Pattnaik,9777777175,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,44,shaan ahmad,2024-03-24 14:15:05,2024-03-30 18:00:00.000,6.0,18.09326705829191
+RHPL/SH/3690,Jatinder,9306546421,Digital,Junk,Duplicate Lead,male,,Aditi  Bhardwaj,2024-03-20 18:29:38,2024-03-21 19:00:00.000,1.0,18.09326705829191
+RHPL/ON/3845,Avdesh,9430939850,,,,male,,,,2024-03-24 15:20:00.000,,18.09326705829191
+RHPL/IC/4020,SHIV SUNDER DEVI,7678524095,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,64,Harsh  Bharadwaj,2024-03-20 20:49:24,2024-04-05 10:20:00.000,15.0,18.09326705829191
+RHPL/IC/4123,Megha khanna,9899768234,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,38,Roshni Sheikh,2024-04-06 09:15:29,2024-04-06 10:00:00.000,0.0,18.09326705829191
+RHPL/SKM&RC/4318,Priya Bika,9136658298,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,34,Tauheed Hussain,2024-03-16 17:01:35,2024-04-11 19:00:00.000,26.0,18.09326705829191
+RHPL/SH/2571,Neelam varma .,9711707351,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Arpita Tripathi,2024-02-16 19:33:54,2024-02-17 12:00:00.000,0.0,18.09326705829191
+RHPL/GH/2769,Ambika Devi,9510476288,Digital,L5 - Pitched,Call1,female,61,Roshni Sheikh,2024-02-24 22:27:04,2024-02-25 03:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3213,P.L. Sharma,9810313877,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,80,Manshi Gupta,2024-03-06 23:55:51,2024-03-07 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3334,Mrs. Jyoti Kant,9873143237,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,63,Abhishek .Chaudhary,2024-03-11 16:16:33,2024-03-15 11:30:00.000,3.0,18.09326705829191
+RHPL/SH/3773,Bhim Sain,9873076435,DRO,L6 - New Lead,Followup call1,male,,Manshi Gupta,2024-02-28 21:32:35,2024-03-28 13:20:00.000,28.0,18.09326705829191
+RHPL/SH/3241,Anokhi Devi,9811053209,,,,female,,,,2024-03-07 07:00:00.000,,18.09326705829191
+RHPL/DA/3319,Bal kishan,0851099144,,,,male,,,,2024-03-10 02:05:00.000,,18.09326705829191
+RHPL/BABC/3866,Sachin,8860038175,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,42,Himanshu Sharma,2024-03-29 16:16:17,2024-03-29 18:50:00.000,0.0,18.09326705829191
+RHPL/SH/4102,Sarojani devi .,9971217317,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-04-05 11:28:31,2024-04-05 13:20:00.000,0.0,18.09326705829191
+RHPL/ON/2521,Vijay Nayak,9829012922,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,39,Kshama  Sharma,2024-02-14 13:03:14,2024-02-14 19:00:00.000,0.0,18.09326705829191
+RHPL/DARC/2692,Ram lakhan,9891208443,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,45,Arpita Tripathi,2024-02-21 11:47:43,2024-02-23 23:00:00.000,2.0,18.09326705829191
+RHPL/GH/3153,Suresh Sharma,9711290824,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,63,Arpita Tripathi,2024-03-04 20:01:28,2024-03-08 11:00:00.000,3.0,18.09326705829191
+RHPL/SH/3186,Rohit kumar,7838987563,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh  Bharadwaj,2024-03-04 09:58:11,2024-03-30 14:20:00.000,26.0,18.09326705829191
+RHPL/IC/3282,Kanika,9818311058,Organic,L5 - Pitched,Call2,female,,Aditi  Bhardwaj,2024-03-06 13:28:11,2024-04-09 10:40:00.000,33.0,18.09326705829191
+RHPL/ON/2792,Rita Devi,8882435310,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Abhishek .Chaudhary,2024-02-25 23:19:16,2024-04-05 19:45:00.000,39.0,18.09326705829191
+RHPL/DARC/2699,Jyoti Rani,8377043123,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,56,KS Santosh,2024-01-31 14:55:46,2024-04-22 18:15:00.000,82.0,18.09326705829191
+RHPL/ON/3328,Vineet Garg,9899495959,Digital,Junk,Duplicate Lead,male,,Abhishek .Chaudhary,2024-03-11 13:48:41,2024-03-11 16:00:00.000,0.0,18.09326705829191
+RHPL/GH/3819,Rakesh Bhatia,9811138780,,,,male,,,,2024-03-22 12:40:00.000,,18.09326705829191
+RHPL/IC/3450,Parul Singh,7827103547,,,,female,,,,2024-03-13 10:40:00.000,,18.09326705829191
+RHPL/DARC/2650,HARINDER SHARMA,9968078170,DRO,Junk,Duplicate Lead,male,,Arpita Tripathi,2024-03-15 06:55:41,2024-02-20 18:30:00.000,-24.0,18.09326705829191
+RHPL/DARC/3148,Rajkumar Sharma,9718736406,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-05 10:55:51,2024-03-05 18:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3170,Rakesh Aggarwal,9560957018,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,58,KS Santosh,2024-03-05 19:04:56,2024-03-06 18:00:00.000,0.0,18.09326705829191
+RHPL/IC/3401,Sumati dhingra,8802165945,Social,L1 - MDT Consult Scheduled,Clinic Visit,female,42,Abhishek .Chaudhary,2024-03-14 11:57:42,2024-03-14 20:00:00.000,0.0,18.09326705829191
+RHPL/DM/3524,Bhushan Arora,9311222740,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Aditi  Bhardwaj,2023-09-12 06:44:50,2024-03-18 15:30:00.000,188.0,18.09326705829191
+RHPL/DDB&SC/3525,Prabhat,9580101160,Referred by Doctor,Junk,Wrong Detail,male,,Sahil Kukreja,2023-09-18 14:12:03,2024-03-09 20:00:00.000,173.0,18.09326705829191
+RHPL/SH/3563,Amit Kumar,8882727944,DRO,L5 - Pitched,Call4,male,,Manshi Gupta,2023-12-15 14:44:07,2024-03-20 17:30:00.000,96.0,18.09326705829191
+,Suresh Arora,9868787712,Organic,Lead Dead - PD,Not interested at the moment,female,,Himanshu Sharma,2024-02-01 13:20:19,2024-03-23 18:00:00.000,51.0,18.09326705829191
+RHPL/SH/4069,Mr. Arjun Rawat,8076117806,DRO,Lead Dead - PD,Not interested at the moment,male,,Akash Mishra,2024-01-11 21:42:20,2024-04-04 13:40:00.000,83.0,18.09326705829191
+RHPL/MV/3982,SC Jain,9868227870,,,,male,,,,2024-04-02 07:00:00.000,,18.09326705829191
+RHPL/SH/4094,Neeraj Batra,9310847020,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,51,Kshama  Sharma,2024-04-05 05:29:44,2024-04-05 11:00:00.000,0.0,18.09326705829191
+RHPL/SH/4212,Dr.Rakesh - RANI SHARMA,9711348178,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-04-09 13:30:51,2024-04-11 12:40:00.000,1.0,18.09326705829191
+RHPL/ON/2713,Harish Chand,8851654424,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,43,Abhishek .Chaudhary,2024-02-12 22:49:16,2024-02-22 20:00:00.000,9.0,18.09326705829191
+RHPL/DPRC/3046,Neeru Sayal,9650088355,Digital,L1 - MDT Consult Scheduled,,male,56,Dilshad Alam,2024-02-28 15:43:15,2024-02-29 20:00:00.000,1.0,18.09326705829191
+RHPL/DARC/3106,Suresho Devi,9818512214,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Harsh  Bharadwaj,2024-02-27 20:52:37,2024-03-04 19:00:00.000,5.0,18.09326705829191
+RHPL/GH/3114,Santosh Kapoor,9999722529,DRO,L1 - MDT Consult Scheduled,,female,70,Harsh Prasad,2024-02-15 20:55:37,2024-03-03 13:00:00.000,16.0,18.09326705829191
+RHPL/ON/3172,Ameer Ali,7006116538,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,48,Himanshu Sharma,2024-03-05 20:38:08,2024-03-06 17:30:00.000,0.0,18.09326705829191
+RHPL/MV/3689,Vinay Kumar,9971981763,Digital,Lead Dead - PD,Not interested at the moment,male,,Akash Mishra,2024-01-18 01:41:38,2024-03-21 19:30:24.935,63.0,18.09326705829191
+RHPL/DARC/3518,Mohan lal,9971350324,DRO,Junk,Duplicate Lead,male,,Anubhuti Raj,2024-03-20 10:14:19,2024-03-18 19:00:00.000,-2.0,18.09326705829191
+RHPL/GH/3971,Neetu kumar,8447746060,,,,female,,,,2024-04-01 10:40:00.000,,18.09326705829191
+RHPL/DARC/4157,Sanjeev Sharma,9315246060,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,45,Dilshad Alam,2024-04-07 11:42:25,2024-04-08 18:15:00.000,1.0,18.09326705829191
+RHPL/NV/2621,Meena Aggarwal,9210485786,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Abhishek .Chaudhary,2024-02-16 22:32:41,2024-02-19 16:30:00.000,2.0,18.09326705829191
+RHPL/DA/2746,Ratan Lal,7838996120,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Harsh  Bharadwaj,2024-01-11 21:45:21,2024-02-25 14:30:00.000,44.0,18.09326705829191
+RHPL/ON/2784,Mithilesh Kumar,8199982006,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,43,Himanshu Sharma,2024-02-02 22:48:34,2024-02-26 19:30:00.000,23.0,18.09326705829191
+RHPL/SH/3067,Naman Kansal,9760233333,Digital,L1 - MDT Consult Scheduled,,male,32,Aditi  Bhardwaj,2024-03-01 10:57:32,2024-03-01 13:00:00.000,0.0,18.09326705829191
+RHPL/SD/1298,Vishnu Dutt,9818827313,Referred by Doctor,Junk,Wrong Detail,male,,Aditi  Bhardwaj,2024-01-05 23:05:04,2024-04-07 10:00:00.000,92.0,18.09326705829191
+RHPL/GH/3642,Amit Khurana,9999745948,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Roshni Sheikh,2024-03-22 09:15:59,2024-03-22 11:20:00.000,0.0,18.09326705829191
+RHPL/DARC/4034,Priyesh Vashist,9811014319,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,74,Dilshad Alam,2024-04-04 08:39:26,2024-04-04 18:15:00.000,0.0,18.09326705829191
+RHPL/SH/4095,Meenakshi .,9541298414,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-04-04 19:00:18,2024-04-06 10:20:00.000,1.0,18.09326705829191
+RHPL/GH/2565,Tej Singh Negi,9868222529,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-02-02 19:11:59,2024-02-16 20:00:00.000,14.0,18.09326705829191
+RHPL/NS/3289,Jyoti Mahtta,8377996366,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,35,Abhishek .Chaudhary,2024-03-09 07:50:28,2024-03-09 14:30:00.000,0.0,18.09326705829191
+RHPL/DARC/3447,Vandana Ji,7217650062,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,48,shaan ahmad,2024-03-15 12:37:40,2024-03-15 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3512,Mrs. Raj Khosla,9312221980,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,64,KS Santosh,2024-03-16 21:46:09,2024-03-19 10:30:00.000,2.0,18.09326705829191
+RHPL/BABC/3719,Ghulam Hassan Mir,9717987003,Digital,L5 - Pitched,Call1,male,63,Roshni Sheikh,2024-03-20 09:38:09,2024-03-26 17:30:00.000,6.0,18.09326705829191
+RHPL/GH/2508,OM prakash,0868858156,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-02-14 11:29:04,2024-02-14 12:00:00.000,0.0,18.09326705829191
+RHPL/TE/2676,Ravi Test,9643243200,Organic,Lead Dead - PD,Medicine resistance,male,55,Akash Mishra,2024-02-21 14:00:18,2024-02-28 00:00:00.000,6.0,18.09326705829191
+RHPL/ON/3112,Nancy,9953954348,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,34,Tauheed Hussain,2024-03-03 09:40:52,2024-03-03 11:30:00.000,0.0,18.09326705829191
+RHPL/SH/3809,Ahliya Devi,7982707298,DRO,L6 - New Lead,Followup call3,female,,Manshi Gupta,2024-02-20 21:46:55,2024-03-28 10:40:00.000,36.0,18.09326705829191
+RHPL/GH/3498,Sushma Soni,9811026247,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Arpita Tripathi,2024-03-18 10:22:22,2024-03-18 02:06:00.000,-1.0,18.09326705829191
+RHPL/IC/3788,M L Chawala,9873323034,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-20 20:46:23,2024-03-27 20:40:00.000,6.0,18.09326705829191
+RHPL/SH/3966,Tej Narayan Dubey,9716866069,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,57,Aditi  Bhardwaj,2024-04-02 11:27:19,2024-04-02 12:40:00.000,0.0,18.09326705829191
+,Rahul Banerjee,9748975250,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,30,shaan ahmad,2024-03-22 15:42:05,2024-03-22 10:00:00.000,-1.0,18.09326705829191
+RHPL/SH/3999,Mrs. Manjeet Gupta,9910997531,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,62,KS Santosh,2024-04-02 20:21:36,2024-04-06 10:00:00.000,3.0,18.09326705829191
+RHPL/SH/4191,Bulbul Chand,8851151434,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,53,Himanshu_H,2024-04-04 14:14:08,2024-04-09 11:40:00.000,4.0,18.09326705829191
+RHPL/BABC/4214,Arjun Bariya,8920482293,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,34,Arpita Tripathi,2024-04-06 14:04:19,2024-04-11 17:30:00.000,5.0,18.09326705829191
+RHPL/SH/4307,Asha Gupta,9968079848,Digital,Junk,Duplicate Lead,female,,Aditi  Bhardwaj,2024-04-11 12:05:24,2024-04-11 18:20:00.000,0.0,18.09326705829191
+RHPL/SH/4395,Vijay,9821877556,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Dilshad Alam,2024-04-13 20:34:50,2024-04-15 10:40:00.000,1.0,18.09326705829191
+RHPL/GH/2690,Tameshwari devi .,8860160770,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,74,Arpita Tripathi,2024-02-21 12:29:00,2024-02-21 12:00:00.000,-1.0,18.09326705829191
+RHPL/ON/2795,Vijay Pal,8860235545,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,53,KS Santosh,2024-02-08 17:41:47,2024-02-27 13:00:00.000,18.0,18.09326705829191
+RHPL/DARC/3169,Laxman Singh,9911602241,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Arpita Tripathi,2024-03-05 19:05:59,2024-03-05 19:00:00.000,-1.0,18.09326705829191
+,Shakuntla Vasandani,9971727575,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Dilshad Alam,2024-04-01 17:15:46,2024-04-02 13:20:00.000,0.0,18.09326705829191
+RHPL/SH/3959,Rajesh sharma,9971143701,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Kshama  Sharma,2024-04-02 08:47:24,2024-04-02 11:20:00.000,0.0,18.09326705829191
+RHPL/IC/4269,Mr. Harry,9953881905,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,37,Abhishek .Chaudhary,2024-04-10 19:49:59,2024-04-11 19:20:00.000,0.0,18.09326705829191
+RHPL/SH/3366,Rambir Singh,9899315299,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Arpita Tripathi,2023-11-16 13:28:18,2024-03-13 17:00:00.000,118.0,18.09326705829191
+RHPL/GH/3426,Pardeep Kumar,9811136859,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,35,Tauheed Hussain,2024-03-13 13:25:16,2024-03-15 11:00:00.000,1.0,18.09326705829191
+RHPL/DARC/2424,Bala Devi,9654736237,DRO,Lead Dead - PD,Didn't show up for MDT,female,45,Akash Mishra,2024-02-08 20:59:49,2024-02-14 19:45:00.000,5.0,18.09326705829191
+RHPL/DARC/4114,Satpal Singh,6398015056,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,45,Kshama  Sharma,2024-04-05 13:29:25,2024-04-05 17:00:00.000,0.0,18.09326705829191
+RHPL/DARC/2562,Gurmeet Kaur,9811568490,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Himanshu Sharma,2024-02-14 20:50:37,2024-02-16 19:00:00.000,1.0,18.09326705829191
+RHPL/SH/3162,Chandan Singh,9999618499,DRO,L1 - MDT Consult Scheduled,,male,65,Harsh Prasad,2024-02-24 00:09:02,2024-03-06 13:00:00.000,11.0,18.09326705829191
+RHPL/DARC/3260,Rajpal Vaid,9871147085,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,63,KS Santosh,2024-03-07 14:18:48,2024-03-08 18:00:00.000,1.0,18.09326705829191
+RHPL/DA/3308,Suniti Sharma,9212820210,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Ankit Kumar,2024-03-08 18:07:02,2024-03-10 16:00:00.000,1.0,18.09326705829191
+RHPL/SH/3486,Manorama Devi,9560443749,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2024-03-13 11:35:50,2024-03-18 11:00:00.000,4.0,18.09326705829191
+RHPL/ON/3516,Onkarnath Upadhyay,9560454698,Digital,L5 - Pitched,Call1,male,,KS Santosh,2024-03-17 05:41:58,2024-03-18 14:00:00.000,1.0,18.09326705829191
+RHPL/GH/3715,Shlok,9718189607,Digital,Lead Dead - PD,Not interested at the moment,male,,Tauheed Hussain,2024-03-09 13:27:26,2024-03-27 13:20:00.000,17.0,18.09326705829191
+RHPL/SH/3156,RAKA TIWARI,0926832878,,,,female,,,,2024-03-05 16:00:00.000,,18.09326705829191
+RHPL/ON/3696,Prachi Chopra,9810328002,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,48,Tauheed Hussain,2024-03-23 14:38:49,2024-03-26 18:00:00.000,3.0,18.09326705829191
+RHPL/IC/3995,Savita Choudhary/Anita,9528192977,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,45,Aditi  Bhardwaj,2024-03-28 20:50:03,2024-04-02 12:20:00.000,4.0,18.09326705829191
+RHPL/SH/2579,Rakesh Mishra,0750344508,,,,male,,,,2024-02-17 11:40:00.000,,18.09326705829191
+RHPL/ON/2561,Jasvinder kaur .,8368144277,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-02-09 19:29:48,2024-02-16 18:00:00.000,6.0,18.09326705829191
+RHPL/SH/2585,Rita Ji,7428778104,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Aditi  Bhardwaj,2024-02-15 16:12:28,2024-02-17 15:30:00.000,1.0,18.09326705829191
+RHPL/SH/2731,Raj Rani,9958669244,DRO,L5 - Pitched,Call3,female,60,Harsh  Bharadwaj,2024-02-22 15:28:30,2024-02-24 17:30:00.000,2.0,18.09326705829191
+RHPL/NS/3084,Meenakshi chawla,9810576657,Digital,L1 - MDT Consult Scheduled,,female,54,Aditi  Bhardwaj,2024-02-28 19:27:39,2024-03-02 16:00:00.000,2.0,18.09326705829191
+RHPL/ON/3100,Mrs. Radha .. Female 47,8920836580,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,47,Abhishek .Chaudhary,2024-03-02 12:52:20,2024-03-02 14:30:00.000,0.0,18.09326705829191
+RHPL/ON/3204,Bhanu Dua,9958886697,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,38,Kshama  Sharma,2024-03-06 14:43:16,2024-03-07 11:00:00.000,0.0,18.09326705829191
+RHPL/SH/3276,Sakshi Bhola,7838433431,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,31,Roshni Sheikh,2024-03-04 16:17:44,2024-03-09 13:30:00.000,4.0,18.09326705829191
+RHPL/SH/3431,Rekha,9352176975,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,34,KS Santosh,2024-03-14 21:58:19,2024-03-16 12:00:00.000,1.0,18.09326705829191
+RHPL/SH/4166,Urmila .,7838751091,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-04-08 10:16:59,2024-04-08 10:00:00.000,-1.0,18.09326705829191
+RHPL/DARC/4230,Badshah ( Amaan ),8287474690,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,42,Aditi  Bhardwaj,2024-04-08 22:46:55,2024-04-10 18:00:00.000,1.0,18.09326705829191
+RHPL/DARC/2799,Gajendra,9958424353,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Tauheed Hussain,2024-02-27 14:34:56,2024-02-27 14:00:00.000,-1.0,18.09326705829191
+RHPL/SH/3077,Suresh Kumar kashyap .,9868899063,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Harsh  Bharadwaj,2024-02-28 22:02:26,2024-03-02 12:30:00.000,2.0,18.09326705829191
+RHPL/ON/3191,Shikha Das,9718411372,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,53,Abhishek .Chaudhary,2024-03-01 18:26:34,2024-03-06 18:00:00.000,4.0,18.09326705829191
+RHPL/SH/3870,Raj Kumar,9971306254,DRO,L5 - Pitched,Call1,male,,Arpita Tripathi,2024-03-05 19:57:11,2024-03-30 10:40:00.000,24.0,18.09326705829191
+RHPL/DA/3320,Yagyavalkya shukla,8800195533,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,48,KS Santosh,2024-03-10 20:57:13,2024-03-13 15:00:00.000,2.0,18.09326705829191
+RHPL/GH/3343,Iqbal Ahmed .,9891349479,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,66,Harsh  Bharadwaj,2024-03-10 11:25:23,2024-03-13 11:00:00.000,2.0,18.09326705829191
+RHPL/SH/3557,Subah Agrawal,9716375891,Digital,L1 MDT No Show,,female,51,Himanshu Sharma,2024-03-12 13:19:12,2024-03-19 06:00:00.000,6.0,18.09326705829191
+RHPL/DM/3697,RB Gupta,9810019782,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Tauheed Hussain,2024-03-20 11:24:45,2024-03-24 16:00:00.000,4.0,18.09326705829191
+RHPL/ON/3629,Pradeep suri,9816020414,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,69,Himanshu Sharma,2024-03-20 19:08:09,2024-03-21 18:40:00.000,0.0,18.09326705829191
+RHPL/SH/3898,URMILA DEVI,9968095988,,,,female,,,,2024-03-30 13:20:00.000,,18.09326705829191
+RHPL/DARC/4025,Vikas Khanna,9899532690,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,45,Ankur Gulati,2024-04-03 17:52:04,2024-04-03 19:15:00.000,0.0,18.09326705829191
+RHPL/GH/3138,Inderjeet verma,9717926804,Digital,Lead Dead - PD,Not interested at the moment,male,,Akash Mishra,2024-02-10 21:14:19,2024-03-04 00:00:00.000,22.0,18.09326705829191
+RHPL/ON/3211,Ankit Ramola,9149559776,Digital,L5 - Pitched,Call2,male,34,KS Santosh,2024-02-29 17:42:57,2024-03-07 12:30:00.000,6.0,18.09326705829191
+RHPL/ON/3324,Shivangi Singh,7000174308,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,36,Roshni Sheikh,2024-03-11 13:10:00,2024-03-11 13:00:00.000,-1.0,18.09326705829191
+RHPL/GH/3826,Sunita kapoor,0981810407,,,,female,,,,2024-03-22 13:20:00.000,,18.09326705829191
+RHPL/DARC/4071,Amit Singh,9013503571,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Dilshad Alam,2024-03-28 08:43:33,2024-04-06 18:30:00.000,9.0,18.09326705829191
+RHPL/DC/4354,Rajendra kumar,9911121258,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Abhishek .Chaudhary,2024-04-13 00:33:25,2024-04-14 15:40:00.000,1.0,18.09326705829191
+RHPL/NV/2536,Kunal Saini,9990778416,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,26,Kshama  Sharma,2024-01-28 16:49:40,2024-02-16 15:30:00.000,18.0,18.09326705829191
+RHPL/ON/2558,Suresh Arora,9811056782,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Tauheed Hussain,2024-02-10 18:22:16,2024-02-16 17:00:00.000,5.0,18.09326705829191
+RHPL/ON/2757,Anthony Dsouza,9821142670,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,52,Kshama  Sharma,2024-02-25 17:18:21,2024-02-25 18:00:00.000,0.0,18.09326705829191
+RHPL/DARC/2823,Yadram Verma,7983887162,Digital,L1 MDT No Show,Clinic Visit,male,57,Himanshu Sharma,2024-02-29 09:50:26,2024-03-01 21:11:00.000,1.0,18.09326705829191
+RHPL/SH/3438,Sheela devi .,9013377580,DRO,Junk,Duplicate Lead,female,55,Harsh  Bharadwaj,2024-03-15 18:36:42,2024-03-15 18:00:00.000,-1.0,18.09326705829191
+RHPL/DARC/4259,Soni devi,8130915703,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Manshi Gupta,2024-04-02 23:46:02,2024-04-11 18:30:00.000,8.0,18.09326705829191
+RHPL/SH/4270,Divya Bhist,9555860911,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,37,Himanshu Sharma,2024-04-08 14:52:22,2024-04-11 15:40:00.000,3.0,18.09326705829191
+RHPL/GH/2688,Kamlesh,9811844985,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Arpita Tripathi,2024-02-21 12:03:13,2024-02-23 11:00:00.000,1.0,18.09326705829191
+RHPL/NS/2653,Suhas Jotwani,8851752230,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Ankur Gulati,2024-02-07 12:41:20,2024-02-20 03:00:00.000,12.0,18.09326705829191
+RHPL/SH/3556,Indu Pathania,8851311236,,,,female,,,,2024-03-19 09:00:00.000,,18.09326705829191
+RHPL/IC/4072,Mr. Shashi Bhushan,9212739621,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Manshi Gupta,2024-04-03 20:42:21,2024-04-06 11:40:00.000,2.0,18.09326705829191
+RHPL/SH/4314,Prakash chand,9911246424,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Kshama  Sharma,2024-04-11 21:58:38,2024-04-11 17:01:00.000,-1.0,18.09326705829191
+RHPL/SKM&RC/4345,Poonam Bajaj,9899646158,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,44,Aditi  Bhardwaj,2024-04-08 10:37:36,2024-04-12 18:45:00.000,4.0,18.09326705829191
+,Harjeet Kaur,9711066174,Organic,L1 MDT No Show,Clinic Visit,female,45,Tauheed Hussain,2024-02-16 18:11:42,2024-02-17 10:30:00.000,0.0,18.09326705829191
+RHPL/GH/2574,RK Jain,9899070878,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Abhishek .Chaudhary,2024-02-17 09:28:17,2024-02-18 10:00:00.000,1.0,18.09326705829191
+RHPL/DARC/3526,Priyanka Sharma,7290984265,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,38,Himanshu Sharma,2024-03-18 11:51:58,2024-03-18 18:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3673,Mahima Shikhawat,8802232901,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,29,KS Santosh,2024-03-22 21:39:51,2024-03-23 19:20:00.000,0.0,18.09326705829191
+RHPL/IC/3793,Chinu Sharma,9990949753,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,37,Harsh Prasad,2024-03-27 00:04:56,2024-03-27 19:40:00.000,0.0,18.09326705829191
+RHPL/SH/4171,Mahesh Sharma,9810179227,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Manshi Gupta,2024-04-05 13:25:36,2024-04-08 13:40:00.000,3.0,18.09326705829191
+RHPL/SH/4294,Anita Malhotra,9818674439,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,64,Aditi  Bhardwaj,2024-04-11 14:17:46,2024-04-12 11:00:00.000,0.0,18.09326705829191
+RHPL/SKM&RC/4333,Kanta Devi,9868639933,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-04-03 08:44:32,2024-04-12 18:30:00.000,9.0,18.09326705829191
+RHPL/DARC/2660,D.P. Dhanaut,8700409230,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-02-20 12:13:58,2024-02-20 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/2749,Vinod Nirala,8377880776,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,32,Kshama  Sharma,2024-02-10 20:59:47,2024-02-25 17:30:00.000,14.0,18.09326705829191
+RHPL/SH/3045,Mrs. Mohan Devi,9717015111,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,61,KS Santosh,2024-02-29 09:29:48,2024-02-29 11:30:00.000,0.0,18.09326705829191
+RHPL/DARC/2790,Bipin Behari,9818034960,Digital,L5 - Pitched,Call2,male,53,Kshama  Sharma,2024-02-12 20:03:32,2024-03-14 18:30:00.000,30.0,18.09326705829191
+RHPL/IP/2513,Akhilesh kumar,9811731797,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Tauheed Hussain,2024-02-13 13:53:45,2024-02-14 09:15:00.000,0.0,18.09326705829191
+RHPL/GH/3226,Jyoti Mehra,9818034684,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Tauheed Hussain,2024-03-07 13:50:38,2024-03-07 15:30:00.000,0.0,18.09326705829191
+RHPL/ON/3994,Sneh Jain,9810747387,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,45,Aditi  Bhardwaj,2024-04-03 09:18:16,2024-04-03 19:45:00.000,0.0,18.09326705829191
+RHPL/IC/3263,Durgesh Nandini,9873178940,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-08 17:40:56,2024-03-12 10:20:00.000,3.0,18.09326705829191
+,Mrs. Indu .,9891984464,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,52,KS Santosh,2024-03-09 13:31:04,2024-03-13 11:20:00.000,3.0,18.09326705829191
+RHPL/DARC/4187,Malem lan,8730908496,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,27,Aditi  Bhardwaj,2024-04-06 02:04:24,2024-04-08 19:00:00.000,2.0,18.09326705829191
+RHPL/SKM&RC/4385,Rani Devi,9212665459,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Abhishek .Chaudhary,2024-04-13 17:29:19,2024-04-13 19:45:00.000,0.0,18.09326705829191
+RHPL/GH/1850,Manoj Kumar,9560248436,Referred by Doctor,L1 - MDT Consult Scheduled,Clinic Visit,male,,Kshama  Sharma,2024-01-09 14:36:07,2024-03-11 00:00:00.000,61.0,18.09326705829191
+RHPL/DARC/3126,Premvati,8178578663,Digital,L1 MDT No Show,,female,40,Aditi  Bhardwaj,2023-11-24 21:26:22,2024-03-11 20:48:00.000,107.0,18.09326705829191
+RHPL/SH/3385,Rashmi Katyal,9910077863,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,49,KS Santosh,2024-03-13 18:29:37,2024-03-15 14:00:00.000,1.0,18.09326705829191
+RHPL/IC/3353,Mrs. Sunita Narula,9810987637,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Abhishek .Chaudhary,2024-03-11 20:52:35,2024-03-12 00:00:00.000,0.0,18.09326705829191
+RHPL/YC/3578,Sonia Nagpal,9811550992,Digital,L6 - New Lead,Day3Call2,female,,Abhishek .Chaudhary,2024-03-13 21:58:53,2024-03-20 19:15:00.000,6.0,18.09326705829191
+RHPL/SH/3610,Krishna Devi,7665091828,Digital,Lead Dead - PD,Not interested at the moment,female,,Tauheed Hussain,2023-10-12 22:40:37,2024-03-21 15:30:00.000,160.0,18.09326705829191
+RHPL/SH/3667,Rakesh Kumar,8447968179,DRO,L6 - New Lead,Day1Call1,male,,Arpita Tripathi,2024-03-15 07:00:13,2024-03-23 12:20:00.000,8.0,18.09326705829191
+RHPL/ITPC/3357,Jasbir Singh,9599470807,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Roshni Sheikh,2024-03-12 16:38:22,2024-03-12 11:20:00.000,-1.0,18.09326705829191
+RHPL/DARC/3823,Sunita,9711195414,Digital,Lead Dead - PD,Not interested at the moment,female,50,Akash Mishra,2024-01-18 11:19:17,2024-03-21 07:15:00.000,62.0,18.09326705829191
+RHPL/SH/3650,Neelam Nagpal,9810061836,,,,female,,,,2024-03-23 11:40:00.000,,18.09326705829191
+RHPL/DARC/3645,Rashmi Anil Narayan,9821819961,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,49,Kshama  Sharma,2024-03-20 14:28:25,2024-03-23 19:00:00.000,3.0,18.09326705829191
+RHPL/SH/4054,Rakesh Jain,7982407243,Digital,L1 MDT No Show,Online Consultation,male,45,Roshni Sheikh,2024-04-02 15:15:09,2024-04-06 19:20:00.000,4.0,18.09326705829191
+RHPL/SH/3691,Shilpa,9968262171,,,,female,,,,2024-03-23 18:46:41.587,,18.09326705829191
+RHPL/SH/4331,Ishwar Chand Goyal,9990433921,Referred by Doctor,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-04-12 12:58:47,2024-04-12 12:20:00.000,-1.0,18.09326705829191
+RHPL/ON/2600,Angela,8130532679,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,61,Tauheed Hussain,2024-02-18 11:32:53,2024-02-18 12:00:00.000,0.0,18.09326705829191
+RHPL/ON/3379,Govind Sharma,7618784226,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,37,Tauheed Hussain,2024-03-13 14:14:00,2024-03-13 14:00:00.000,-1.0,18.09326705829191
+RHPL/MV/3648,Megha D Acharya,9999340543,Digital,L5 - Pitched,Call1,female,35,Roshni Sheikh,2024-03-17 23:46:32,2024-03-23 18:00:00.000,5.0,18.09326705829191
+RHPL/BABC/3883,Rajender Singh,9868854724,DRO,L5 - Pitched,Call1,male,65,Harsh  Bharadwaj,2024-03-05 16:22:50,2024-03-30 17:50:00.000,25.0,18.09326705829191
+RHPL/GH/2751,Poonam,9210473038,,,,female,,,,2024-02-25 12:30:00.000,,18.09326705829191
+RHPL/MV/3267,Rajveer,0560381023,,,,male,,,,2024-03-07 20:44:00.000,,18.09326705829191
+RHPL/DARC/3838,Shweta Tripathi,8076948250,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,34,Harsh Prasad,2024-03-28 08:30:56,2024-03-26 19:00:00.000,-2.0,18.09326705829191
+RHPL/DARC/3984,Sukhbir Singh,9868806448,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,61,Himanshu_H,2024-04-02 17:41:16,2024-04-02 18:30:00.000,0.0,18.09326705829191
+RHPL/DARC/4076,Jyoti,8178028310,Social,L1 - MDT Consult Scheduled,Online Consultation,female,46,Harsh Prasad,2024-04-04 15:18:46,2024-04-05 17:30:00.000,1.0,18.09326705829191
+RHPL/DM/4252,Pratap Singh,9911495838,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Arpita Tripathi,2024-04-09 18:41:38,2024-04-10 16:20:00.000,0.0,18.09326705829191
+RHPL/SH/4321,Afreen Saleem,9870285822,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,46,Harsh Prasad,2024-04-11 12:09:12,2024-04-12 15:40:00.000,1.0,18.09326705829191
+RHPL/DARC/2468,Karuna Malhotra,9920188340,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Roshni Sheikh,2024-02-06 19:06:30,2024-03-01 18:30:00.000,23.0,18.09326705829191
+RHPL/DARC/1901,Vishwajit Singh,8750963300,Digital,Lead Dead - PD,Not responding after Pitched,male,51,Akash Mishra,2024-01-09 09:50:58,2024-03-14 20:17:00.000,65.0,18.09326705829191
+RHPL/GH/4153,Sharda Devi,9811770321,Digital,L6 - New Lead,Followup call3,female,75,Abhishek .Chaudhary,2024-02-26 07:21:15,2024-04-05 13:00:00.000,39.0,18.09326705829191
+RHPL/SH/3185,Vijay Mittal,9911277227,DRO,L1 - MDT Consult Scheduled,,male,44,Harsh Prasad,2024-03-05 20:09:50,2024-03-06 19:30:00.000,0.0,18.09326705829191
+RHPL/ON/3208,Ghuncha Nikhar,9883219095,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,51,Abhishek .Chaudhary,2024-03-06 05:02:46,2024-03-07 10:00:00.000,1.0,18.09326705829191
+RHPL/ON/3457,Vasundhra Pandey,7428334454,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,34,Tauheed Hussain,2024-03-15 20:55:22,2024-03-16 11:30:00.000,0.0,18.09326705829191
+RHPL/SH/3465,Chandra Prabha,7011104652,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Manshi Gupta,2024-03-16 09:06:29,2024-03-16 13:00:00.000,0.0,18.09326705829191
+RHPL/DM/3507,Ashutosh,6205919978,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,34,Roshni Sheikh,2024-03-18 09:53:09,2024-03-18 16:00:00.000,0.0,18.09326705829191
+RHPL/BABC/4139,Nirmala Devi,9968265361,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-04-06 11:12:29,2024-04-06 19:10:00.000,0.0,18.09326705829191
+RHPL/DC/4336,Poonam shegal,9873065255,,,,female,,,,2024-04-12 16:40:00.000,,18.09326705829191
+RHPL/GH/2518,Pushpa Rani,0981139922,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-02-14 13:24:15,2024-02-14 13:30:00.000,0.0,18.09326705829191
+RHPL/ON/3130,Reena Aggarwal,8882508075,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,56,Tauheed Hussain,2024-03-03 15:40:36,2024-03-04 12:00:00.000,0.0,18.09326705829191
+RHPL/ON/3135,Kripal Singh,8800092040,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,55,Tauheed Hussain,2024-03-04 15:56:40,2024-03-04 15:00:00.000,-1.0,18.09326705829191
+RHPL/ON/3196,Anjali Bhardwaj,9910398505,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,50,Abhishek .Chaudhary,2024-03-06 16:58:31,2024-03-06 18:00:00.000,0.0,18.09326705829191
+RHPL/DPRC/3210,Siraj Ahmed,9880663733,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,47,Dilshad Alam,2024-03-03 06:56:50,2024-03-07 19:00:00.000,4.0,18.09326705829191
+RHPL/DARC/3918,Santosh Malhotra,9555659717,DRO,L5 - Pitched,Call1,male,,Harsh Prasad,2024-03-06 23:34:07,2024-04-02 18:00:00.000,26.0,18.09326705829191
+RHPL/GH/3184,Prakash Chand,9868288264,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,64,Harsh  Bharadwaj,2024-03-04 19:48:18,2024-04-01 10:20:00.000,27.0,18.09326705829191
+RHPL/SH/4136,Mamta,9717693188,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,43,Roshni Sheikh,2024-04-04 16:15:14,2024-04-08 10:40:00.000,3.0,18.09326705829191
+RHPL/SKM&RC/4262,Ganga Sharan,8130996820,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,78,Arpita Tripathi,2024-04-10 16:14:51,2024-04-11 18:15:00.000,1.0,18.09326705829191
+RHPL/SH/3240,Syed Naqvi,9811199777,Digital,Lead Dead - PD,Not responding,male,,Kshama  Sharma,2024-03-07 10:51:04,2024-03-07 06:00:00.000,-1.0,18.09326705829191
+RHPL/IC/3570,Parminder Singh,9810009068,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,45,KS Santosh,2024-03-19 19:37:30,2024-03-19 20:00:00.000,0.0,18.09326705829191
+RHPL/IC/3742,Ram Kumari,9870518036,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,78,Arpita Tripathi,2024-03-26 15:42:42,2024-03-26 11:20:00.000,-1.0,18.09326705829191
+RHPL/GH/3905,Yashpal Khaneja,9811859742,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Dilshad Alam,2024-03-30 12:13:47,2024-04-01 12:40:00.000,2.0,18.09326705829191
+RHPL/DM/3947,Sudesh Kumar Kalra,9311283095,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,66,Harsh Prasad,2024-03-22 18:00:09,2024-04-05 16:40:00.000,13.0,18.09326705829191
+RHPL/DARC/4198,Harish Sharma,9873636222,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,45,KS Santosh,2024-04-09 07:57:15,2024-04-09 19:00:00.000,0.0,18.09326705829191
+RHPL/NS/3113,Baby Anisha Verma,9266896996,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,20,Tauheed Hussain,2024-03-03 10:19:47,2024-03-03 12:00:00.000,0.0,18.09326705829191
+RHPL/GH/3249,Bharat Singh,8815252718,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,20,Roshni Sheikh,2024-03-08 09:50:34,2024-03-08 13:00:00.000,0.0,18.09326705829191
+RHPL/WD/3259,Madhvi,7503480545,Digital,L1 - MDT Consult Scheduled,,female,52,Aditi  Bhardwaj,2024-03-08 13:49:14,2024-03-08 20:00:00.000,0.0,18.09326705829191
+RHPL/ITPC/3378,Shashi Abrol,9953723431,Digital,L5 - Pitched,Call3,female,,Himanshu Sharma,2024-02-29 21:58:08,2024-03-13 14:00:00.000,12.0,18.09326705829191
+RHPL/NS/2734,Ankush,7678255184,,,,male,,,,2024-02-24 12:30:00.000,,18.09326705829191
+RHPL/DDB&SC/3417,Rajender Ji,9717601001,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,47,Tauheed Hussain,2024-03-13 11:13:12,2024-03-14 16:00:00.000,1.0,18.09326705829191
+RHPL/ON/3473,Geeta Gupta,9606084639,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,42,KS Santosh,2024-03-13 17:34:29,2024-03-16 16:00:00.000,2.0,18.09326705829191
+RHPL/SH/3606,Sonia Malhotra,7838611618,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,46,Abhishek .Chaudhary,2024-03-21 11:02:31,2024-03-21 15:00:00.000,0.0,18.09326705829191
+RHPL/ON/4058,Komal,7633088952,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,24,Kshama  Sharma,2024-04-04 13:37:07,2024-04-04 14:40:00.000,0.0,18.09326705829191
+RHPL/ON/4213,Keshav Tiwari,9582591779,Organic,L1 MDT No Show,Clinic Visit,male,69,KS Santosh,2024-04-09 13:59:23,2024-04-09 18:15:00.000,0.0,18.09326705829191
+RHPL/DC/4329,Vinay Bhatiya,9999151900,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-03-30 20:20:10,2024-04-12 15:20:00.000,12.0,18.09326705829191
+RHPL/SH/2709,JAYA,8447175853,Organic,L6 - New Lead,New,female,,Tauheed Hussain,2024-02-22 16:54:17,2024-02-22 21:00:00.000,0.0,18.09326705829191
+RHPL/GH/2814,Naval Singh,9871331372,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-02-28 12:10:36,2024-02-28 11:00:00.000,-1.0,18.09326705829191
+RHPL/DARC/3429,Ajay Rustagi,9999013524,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Roshni Sheikh,2024-03-02 08:42:03,2024-03-15 19:30:00.000,13.0,18.09326705829191
+RHPL/ON/3489,Sarika khanna Female 48,9891015351,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,48,shaan ahmad,2024-03-05 00:54:51,2024-03-17 17:30:00.000,12.0,18.09326705829191
+RHPL/DARC/3533,Priya Rai,7752973487,Digital,L6 - New Lead,Day1Call2,female,,KS Santosh,2024-03-17 00:18:52,2024-03-19 19:30:00.000,2.0,18.09326705829191
+RHPL/SH/3534,Shagun tiwari .,9125005204,DRO,L6 - New Lead,New,female,,Manshi Gupta,2024-03-18 10:35:01,2024-03-19 11:30:00.000,1.0,18.09326705829191
+RHPL/BABC/3911,M.L. Sharma,7683008709,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,72,Manshi Gupta,2024-03-28 13:02:39,2024-03-30 18:10:00.000,2.0,18.09326705829191
+RHPL/BABC/3957,Renu Devi,9871842428,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,44,Aditi  Bhardwaj,2024-03-29 17:23:55,2024-04-01 18:50:00.000,3.0,18.09326705829191
+RHPL/SH/4003,Mrs munni Devi,7827501194,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Manshi Gupta,2024-04-03 11:31:11,2024-04-04 10:40:00.000,0.0,18.09326705829191
+RHPL/DARC/4236,Pooja Bhatia,9868822379,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,32,Manshi Gupta,2024-04-09 13:43:41,2024-04-09 19:45:00.000,0.0,18.09326705829191
+RHPL/SH/3738,OMAR FARUK,8801350401,,,,male,,,,2024-03-26 15:00:00.000,,18.09326705829191
+RHPL/SH/2533,Kamaljeet Kaur,9873337798,Digital,L1 MDT No Show,Clinic Visit,female,54,Himanshu Sharma,2024-02-05 18:11:23,2024-02-15 15:30:00.000,9.0,18.09326705829191
+RHPL/SH/2708,Ashok Bhatia,9810020749,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,41,Roshni Sheikh,2024-02-21 17:30:49,2024-02-22 10:00:00.000,0.0,18.09326705829191
+RHPL/DA/2752,Mala Sharma,9560889960,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,52,Roshni Sheikh,2024-02-21 18:21:50,2024-02-25 14:00:00.000,3.0,18.09326705829191
+RHPL/DA/3288,rama devi,9013435733,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,57,Harsh  Bharadwaj,2024-02-29 21:46:48,2024-03-10 14:30:00.000,9.0,18.09326705829191
+RHPL/YC/3585,Faqir Chand Behl,9910680444,DRO,Junk,Duplicate Lead,male,,Manshi Gupta,2024-03-19 21:32:13,2024-03-20 17:30:00.000,0.0,18.09326705829191
+RHPL/GH/3974,Brij mohan,9899766811,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh  Bharadwaj,2024-04-02 12:45:19,2024-04-05 10:40:00.000,2.0,18.09326705829191
+RHPL/DARC/4156,Neeraj Sinha,9871405226,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,63,Kshama  Sharma,2024-03-28 17:56:51,2024-04-08 18:00:00.000,11.0,18.09326705829191
+RHPL/DARC/4172,Ravi Bhat,9810936213,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Roshni Sheikh,2024-04-03 15:23:02,2024-04-08 19:30:00.000,5.0,18.09326705829191
+RHPL/SH/4432,Himmat Rana,9910993970,,,,male,,,,2024-04-15 10:20:00.000,,18.09326705829191
+RHPL/GH/2569,Yog Bhasin / Anju Bhasin,9717284233,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,83,Harsh  Bharadwaj,2024-02-12 21:30:08,2024-02-17 15:00:00.000,4.0,18.09326705829191
+RHPL/DARC/2570,Kamaljeet chibbar,0986807218,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-02-17 10:51:57,2024-02-17 10:00:00.000,-1.0,18.09326705829191
+RHPL/ON/2606,Dhruv Ahuja,9873228234,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,33,Aditi  Bhardwaj,2024-02-18 11:25:27,2024-02-18 16:30:00.000,0.0,18.09326705829191
+RHPL/WD/3359,Rohtash Singh,9289653557,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Dilshad Alam,2024-03-12 14:27:48,2024-03-12 21:00:00.000,0.0,18.09326705829191
+RHPL/SH/3405,Vishnu Prasad,9999021922,,,,male,,,,2024-03-14 00:00:00.000,,18.09326705829191
+RHPL/DARC/4179,Kamlesh Devi,9968116193,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Himanshu_H,2024-04-03 08:16:24,2024-04-09 19:30:00.000,6.0,18.09326705829191
+RHPL/IC/3589,Shravan Kumar,8810517174,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-19 15:57:18,2024-03-20 19:00:00.000,1.0,18.09326705829191
+RHPL/BABC/3708,Mrs. Monica Garg,8447856699,Digital,L1 - MDT Consult Scheduled,,female,34,Abhishek .Chaudhary,2024-03-26 09:42:02,2024-03-26 18:30:00.000,0.0,18.09326705829191
+RHPL/DARC/3949,GD Kothari,8587901881,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,78,Himanshu_H,2024-03-28 13:18:38,2024-04-02 19:30:00.000,5.0,18.09326705829191
+RHPL/GH/4010,Tileshwar Pandey,9717656417,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Dilshad Alam,2024-04-03 13:00:37,2024-04-03 17:40:00.000,0.0,18.09326705829191
+RHPL/SH/4302,Mrs. Shimla .,9999688249,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Manshi Gupta,2024-04-11 16:51:10,2024-04-11 11:20:00.000,-1.0,18.09326705829191
+RHPL/SH/4358,Anguri devi,9868118641,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Manshi Gupta,2024-04-13 11:37:40,2024-04-13 11:20:00.000,-1.0,18.09326705829191
+RHPL/SH/2519,Luvkush,9873569171,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Harsh  Bharadwaj,2024-02-09 08:29:05,2024-02-14 17:30:00.000,5.0,18.09326705829191
+RHPL/SH/3061,Mr. Shiv Kumar,9711544271,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Manshi Gupta,2024-03-01 10:03:09,2024-03-01 12:00:00.000,0.0,18.09326705829191
+RHPL/GH/3066,Renu Goyal,8586874190,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Dilshad Alam,2024-02-25 18:54:44,2024-03-01 12:00:00.000,4.0,18.09326705829191
+RHPL/ND/1855,Mohd Ayyub,9971145390,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,49,Abhishek .Chaudhary,2024-02-05 19:58:19,2024-03-07 22:00:00.000,31.0,18.09326705829191
+RHPL/DDB&SC/3292,Ujjwal Ray,9910580220,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,37,Kshama  Sharma,2024-03-09 01:23:54,2024-03-09 16:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3416,Mohd Shadab,9599955482,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Roshni Sheikh,2024-03-12 02:22:22,2024-03-14 16:00:00.000,2.0,18.09326705829191
+RHPL/DARC/3542,Sheela Rawat,8383891599,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Abhishek .Chaudhary,2024-03-19 06:37:19,2024-03-19 18:45:00.000,0.0,18.09326705829191
+RHPL/SH/3760,Shyam sundar,9811133336,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,73,Arpita Tripathi,2024-03-27 09:49:36,2024-03-28 11:40:00.000,1.0,18.09326705829191
+RHPL/GH/3695,Karuna Kaur,8447268821,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,48,Aditi  Bhardwaj,2024-03-22 04:09:10,2024-03-24 10:20:00.000,2.0,18.09326705829191
+RHPL/GH/3693,B S Chauhan,9899107898,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh  Bharadwaj,2024-03-22 13:39:44,2024-03-24 11:40:00.000,1.0,18.09326705829191
+RHPL/DM/3989,Sushila devi,9899790093,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,85,Kshama  Sharma,2024-04-03 00:16:14,2024-04-03 15:20:00.000,0.0,18.09326705829191
+RHPL/SH/3996,Mrs anjana sa .,8910844081,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-03-31 22:04:32,2024-04-06 11:00:00.000,5.0,18.09326705829191
+RHPL/DARC/4061,Mateen Ahemad,7840014486,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-28 14:10:32,2024-04-04 18:00:00.000,7.0,18.09326705829191
+RHPL/GH/4154,Ritika,9700715454,Digital,L1 MDT No Show,Clinic Visit,female,30,Akash Mishra,2024-03-25 23:33:38,2024-04-05 15:20:00.000,10.0,18.09326705829191
+RHPL/DARC/4232,Rajkumar Negi,9911368878,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Roshni Sheikh,2024-04-07 22:41:52,2024-04-09 18:30:00.000,1.0,18.09326705829191
+RHPL/SKM&RC/4296,Deepti Rama,8010778277,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,39,Himanshu Sharma,2024-04-09 13:31:10,2024-04-12 19:00:00.000,3.0,18.09326705829191
+RHPL/GH/2523,Ratni Devi,9467440523,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-02-10 19:05:02,2024-02-16 10:30:00.000,5.0,18.09326705829191
+RHPL/SH/2738,K L SHARMA .,8800195445,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Harsh  Bharadwaj,2024-02-24 12:09:29,2024-02-24 17:30:00.000,0.0,18.09326705829191
+RHPL/SH/3348,Mrs kusum .,9599439717,DRO,Lead Dead - PD,Pricing,female,,Harsh Prasad,2024-02-19 22:33:07,2024-03-12 12:00:00.000,21.0,18.09326705829191
+RHPL/ON/3206,Mamta Sholapurkar,8384032907,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,52,Himanshu Sharma,2024-03-06 18:47:23,2024-03-07 15:30:00.000,0.0,18.09326705829191
+RHPL/SH/3369,Jatinder Dawar,7683020886,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,43,Roshni Sheikh,2024-03-02 08:30:55,2024-03-13 18:00:00.000,11.0,18.09326705829191
+RHPL/DARC/3420,Jagrati devi,9127475268,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-14 18:20:02,2024-03-14 18:00:00.000,-1.0,18.09326705829191
+RHPL/BABC/3746,Asmita Kiran Kanda,9999198496,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,19,Kshama  Sharma,2024-03-26 16:35:03,2024-03-26 19:10:00.000,0.0,18.09326705829191
+RHPL/IC/3795,Mr. Rakesh Kumar,9911045618,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-27 13:50:10,2024-03-28 10:20:00.000,0.0,18.09326705829191
+RHPL/DARC/2511,B.S. RAWAT,9818862673,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-02-07 17:53:53,2024-02-14 19:00:00.000,7.0,18.09326705829191
+RHPL/DARC/3337,Punita jain,9891135305,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,62,Dilshad Alam,2024-03-09 23:57:29,2024-03-11 18:00:00.000,1.0,18.09326705829191
+RHPL/DARC/3855,Vimlesh Jain,9868227873,DRO,L6 - New Lead,Day1Call1,female,,Harsh  Bharadwaj,2024-03-21 06:53:24,2024-03-30 19:15:00.000,9.0,18.09326705829191
+RHPL/IC/3398,Manjeet Kaur,9212731277,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,47,Tauheed Hussain,2024-03-13 12:54:14,2024-03-14 11:00:00.000,0.0,18.09326705829191
+RHPL/GH/2767,Ranjan Chabbra,9811080944,,,,male,,,,2024-02-25 02:00:00.000,,18.09326705829191
+RHPL/SH/3872,Sarika Yadav,9711997535,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,KS Santosh,2024-03-28 22:12:24,2024-04-05 11:40:00.000,7.0,18.09326705829191
+RHPL/ON/2540,Varun Chaddha,8800630777,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,56,Kshama  Sharma,2024-02-15 18:13:26,2024-02-15 17:00:00.000,-1.0,18.09326705829191
+RHPL/SH/2654,Shashikala Sachdeva,9873957382,Digital,Junk,Duplicate Lead,female,,KS Santosh,2024-02-11 13:31:52,2024-02-20 10:30:00.000,8.0,18.09326705829191
+RHPL/GH/2794,Asha Sharma .,9818376637,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,43,Harsh  Bharadwaj,2024-02-26 20:46:40,2024-03-03 11:00:00.000,5.0,18.09326705829191
+RHPL/WD/3352,Mr. Vijay,9810846817,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Manshi Gupta,2024-03-12 13:30:25,2024-03-11 22:00:00.000,-1.0,18.09326705829191
+RHPL/ON/3381,Jitender Singh,8076561751,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,40,Kshama  Sharma,2024-03-13 06:35:02,2024-03-14 12:00:00.000,1.0,18.09326705829191
+RHPL/GH/3733,Bimla Devi,9868842597,DRO,L5 - Pitched,Call6,female,76,Harsh  Bharadwaj,2024-02-23 21:40:53,2024-03-29 11:00:00.000,34.0,18.09326705829191
+RHPL/IC/4078,Mrs. Prem Malhotra,7011788576,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Ankit Kumar,2024-04-03 17:16:22,2024-04-06 19:20:00.000,3.0,18.09326705829191
+RHPL/SH/4240,Usha Prasad,9999743427,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,60,Harsh Prasad,2024-03-19 20:40:22,2024-04-11 18:40:00.000,22.0,18.09326705829191
+RHPL/SH/2788,Indu Prakash,8860108930,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,66,KS Santosh,2024-02-27 11:18:53,2024-02-29 12:00:00.000,2.0,18.09326705829191
+RHPL/NS/2824,Tabassum,8851069738,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,46,Himanshu Sharma,2024-02-29 10:14:11,2024-02-29 15:00:00.000,0.0,18.09326705829191
+RHPL/SH/2825,Alok Gupta,9810035059,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Himanshu Sharma,2023-11-21 11:21:59,2024-02-29 12:00:00.000,100.0,18.09326705829191
+RHPL/IP/3134,Daksh Kumar,9811553977,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,19,Dilshad Alam,2024-03-04 11:51:56,2024-03-04 21:00:00.000,0.0,18.09326705829191
+RHPL/NS/3215,Madhu Sharma,9999235687,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,40,Dilshad Alam,2024-03-05 00:19:02,2024-03-07 12:00:00.000,2.0,18.09326705829191
+RHPL/SH/3250,MRINAL KANTI,9899600053,Digital,Lead Dead - PD,Not responding after Pitched,male,60,Akash Mishra,2024-01-04 20:32:03,2024-03-08 00:30:00.000,63.0,18.09326705829191
+RHPL/DARC/3403,Pratima Devi,8368771137,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Manshi Gupta,2024-02-18 14:36:06,2024-03-14 19:00:00.000,25.0,18.09326705829191
+RHPL/SH/2732,Mr. Harkishan Gahlot,8447997470,DRO,L1 MDT No Show,Clinic Visit,male,67,Arpita Tripathi,2024-02-24 12:17:04,2024-04-02 12:00:00.000,37.0,18.09326705829191
+RHPL/SH/3154,Shakuntala Devi Female,8882438957,,,,female,,,,2024-03-05 13:00:00.000,,18.09326705829191
+RHPL/ON/3827,Geeta Gupta,8800690402,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,74,Ankit Kumar,2024-03-28 14:24:22,2024-03-28 10:40:00.000,-1.0,18.09326705829191
+RHPL/GH/4161,Ramesh,9289924350,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Roshni Sheikh,2024-04-07 12:00:24,2024-04-07 12:40:00.000,0.0,18.09326705829191
+RHPL/SH/4185,Mr. Yashpal Tomar,9811927644,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,58,Manshi Gupta,2024-03-18 18:17:38,2024-04-09 10:40:00.000,21.0,18.09326705829191
+RHPL/GH/3962,Yasmin,9810486749,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Roshni Sheikh,2024-04-02 10:46:25,2024-04-10 11:00:00.000,8.0,18.09326705829191
+,Mamta Chanana,8882553616,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,62,KS Santosh,2024-02-12 12:47:42,2024-02-16 14:00:00.000,4.0,18.09326705829191
+RHPL/GH/2781,Krishan Kumar,9560740153,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,48,KS Santosh,2024-02-25 15:06:27,2024-02-26 17:00:00.000,1.0,18.09326705829191
+RHPL/DA/3192,Manju Devi,9971808392,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,47,Ankur Gulati,2024-03-06 15:35:02,2024-03-06 15:00:00.000,-1.0,18.09326705829191
+RHPL/SH/3601,Bhagwan ji manshi,9910304843,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Himanshu_H,2024-02-19 11:12:47,2024-03-23 11:20:00.000,33.0,18.09326705829191
+RHPL/DARC/2641,Gouri Devi,0818965611,,,,female,,,,2024-02-19 18:00:00.000,,18.09326705829191
+RHPL/SH/3558,Kalu Ram,9953333352,,,,male,,,,2024-03-19 14:00:00.000,,18.09326705829191
+RHPL/GH/4290,Nashattar Kaur .,8447164797,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,51,Himanshu_H,2024-04-10 20:56:23,2024-04-12 10:40:00.000,1.0,18.09326705829191
+RHPL/IP/2655,Poonam Saini,9990378999,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Aditi  Bhardwaj,2024-01-20 11:15:10,2024-02-20 00:00:00.000,30.0,18.09326705829191
+RHPL/DARC/3538,Karam singh,8130381420,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-19 10:05:28,2024-03-19 18:00:00.000,0.0,18.09326705829191
+RHPL/GH/3387,Radha Rani,0981143550,,,,female,,,,2024-03-13 10:40:00.000,,18.09326705829191
+RHPL/DARC/4091,Prem Lata,0999750051,,,,female,,,,2024-04-04 19:45:00.000,,18.09326705829191
+RHPL/SH/4096,Uday singh .,9953278485,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,38,Arpita Tripathi,2024-04-04 08:53:32,2024-04-06 14:00:00.000,2.0,18.09326705829191
+RHPL/SH/4193,Tapesh kumar chand,8851151435,DRO,L1 MDT No Show,Clinic Visit,male,67,Himanshu_H,2024-04-08 17:02:47,2024-04-09 11:20:00.000,0.0,18.09326705829191
+RHPL/ON/2586,Deepak Sharma,9873587800,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,43,Tauheed Hussain,2024-02-17 12:47:04,2024-02-17 16:00:00.000,0.0,18.09326705829191
+RHPL/DARC/2640,Vishal Kapoor,8920610142,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,32,Aditi  Bhardwaj,2024-02-18 11:25:25,2024-02-19 18:30:00.000,1.0,18.09326705829191
+RHPL/SH/3268,Mrs Sona devi .,9811978666,DRO,L1 MDT No Show,Clinic Visit,female,67,Arpita Tripathi,2024-03-09 09:48:49,2024-03-09 06:00:00.000,-1.0,18.09326705829191
+RHPL/GH/3432,Gaurav,9250277277,Digital,L1 MDT No Show,,male,41,Roshni Sheikh,2024-03-10 05:54:21,2024-03-22 11:00:00.000,12.0,18.09326705829191
+RHPL/GH/4013,Anil Kumar,9250516217,DRO,L5 - Pitched,Call1,male,,Harsh  Bharadwaj,2024-03-02 19:13:59,2024-04-07 10:20:00.000,35.0,18.09326705829191
+RHPL/DARC/3718,Jagir Singh,9313208330,DRO,L6 - New Lead,New,male,,Ankur Gulati,2024-03-19 23:08:19,2024-03-23 07:00:00.000,3.0,18.09326705829191
+RHPL/SH/4228,Sushila .,7292050467,DRO,L6 - New Lead,Day3Call1,female,,Himanshu_H,2024-02-07 22:29:21,2024-04-11 14:00:00.000,63.0,18.09326705829191
+RHPL/GH/3388,Aziz Ahmad,0858706926,,,,male,,,,2024-03-13 01:09:00.000,,18.09326705829191
+RHPL/SH/3721,Hav Raj Bodh,9797065645,,,,male,,,,2024-03-26 12:40:00.000,,18.09326705829191
+RHPL/SH/4053,Mrs. Kusum Agrawal,9831145676,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,64,KS Santosh,2024-04-04 11:15:15,2024-04-06 12:20:00.000,2.0,18.09326705829191
+RHPL/SH/4311,Mr. Babulal Solanki,9654033561,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,66,Anubhuti Raj,2024-04-10 21:06:03,2024-04-12 10:40:00.000,1.0,18.09326705829191
+RHPL/SH/4303,Mahua .,9911111562,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Abhishek .Chaudhary,2024-04-11 16:52:22,2024-04-11 16:21:00.000,-1.0,18.09326705829191
+RHPL/GH/4310,Harjeetkaur,7494999791,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,66,KS Santosh,2024-04-10 19:17:37,2024-04-14 12:00:00.000,3.0,18.09326705829191
+RHPL/DARC/3217,Mehar Singh,9891370611,DRO,L1 MDT No Show,Clinic Visit,male,57,Harsh  Bharadwaj,2024-03-06 22:56:28,2024-03-14 18:39:00.000,7.0,18.09326705829191
+RHPL/IC/3919,Girija Devi,8810209377,DRO,L5 - Pitched,Call1,female,,Harsh  Bharadwaj,2024-03-06 19:58:00,2024-04-04 13:00:00.000,28.0,18.09326705829191
+RHPL/DARC/3064,Kajal Mohanty,9378181981,,,,female,,,,2024-03-01 19:00:00.000,,18.09326705829191
+RHPL/IC/3847,Joginder Pal Sharma,9968278651,DRO,L6 - New Lead,New,male,,Arpita Tripathi,2024-03-28 15:36:50,2024-03-29 12:00:00.000,0.0,18.09326705829191
+RHPL/IC/3763,SUNITA,9467636123,,,,female,,,,2024-03-21 11:00:00.000,,18.09326705829191
+RHPL/ON/2609,Mir Afzal Haq Kanth,9858289483,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,73,Abhishek .Chaudhary,2024-02-12 23:37:09,2024-02-19 10:30:00.000,6.0,18.09326705829191
+RHPL/GH/3097,Renu Yadav,9625668300,DRO,L1 - MDT Consult Scheduled,,female,57,Harsh Prasad,2024-03-01 22:16:51,2024-03-03 11:00:00.000,1.0,18.09326705829191
+RHPL/ON/3384,Aarti,8178762666,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,35,Roshni Sheikh,2024-03-10 01:44:11,2024-03-13 19:00:00.000,3.0,18.09326705829191
+RHPL/ON/3532,Arun tiwari,9990489999,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,37,Tauheed Hussain,2024-03-16 14:51:19,2024-03-18 19:00:00.000,2.0,18.09326705829191
+RHPL/SH/3362,Mr Sandeep,9812132346,DRO,Lead Dead - PD,Not responding after Pitched,male,34,Harsh Prasad,2024-03-07 22:26:08,2024-04-11 14:20:00.000,34.0,18.09326705829191
+RHPL/IC/4022,Shiv sunder devi,7678524096,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2024-04-03 17:20:30,2024-04-05 10:40:00.000,1.0,18.09326705829191
+RHPL/SH/4315,Sushila Devi,0966793936,,,,female,,,,2024-04-11 17:40:00.000,,18.09326705829191
+RHPL/ITPC/2809,Jalpa Gaur,9268097206,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,48,KS Santosh,2024-02-27 19:39:20,2024-02-28 19:30:00.000,0.0,18.09326705829191
+RHPL/GH/3284,Sneha Bala,8368287548,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,74,Harsh  Bharadwaj,2024-02-15 22:05:28,2024-03-10 11:30:00.000,23.0,18.09326705829191
+RHPL/GH/3449,Navita malik,9891197670,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Abhishek .Chaudhary,2024-03-15 18:53:51,2024-03-18 12:00:00.000,2.0,18.09326705829191
+RHPL/SH/3475,Shanti Devi,7503486453,,,,female,,,,2024-03-16 08:00:00.000,,18.09326705829191
+RHPL/SH/3290,Uma Devi,9654495010,,,,female,,,,2024-03-10 07:00:00.000,,18.09326705829191
+RHPL/SH/3778,Shubhi,9711275509,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,21,Roshni Sheikh,2024-03-25 23:17:44,2024-03-28 11:00:00.000,2.0,18.09326705829191
+RHPL/SH/3899,Mrs. shreemati jay devi,8700879006,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-03-18 18:06:35,2024-04-01 10:20:00.000,13.0,18.09326705829191
+RHPL/DARC/4121,Banke Ram,9810207478,DRO,Junk,Duplicate Lead,male,,Manshi Gupta,2024-04-06 13:52:08,2024-04-05 18:00:00.000,-1.0,18.09326705829191
+RHPL/SH/4241,Mr jagan nath .,9811610695,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,76,Arpita Tripathi,2024-04-10 11:23:36,2024-04-11 10:00:00.000,0.0,18.09326705829191
+RHPL/NS/2634,Maninder Kaur,7048909407,Digital,L1 MDT No Show,Clinic Visit,female,66,Himanshu Sharma,2024-02-14 07:40:14,2024-02-19 15:00:00.000,5.0,18.09326705829191
+RHPL/SD/1918,Shalu,9873147754,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,29,Kshama  Sharma,2024-02-09 20:21:44,2024-03-22 18:30:00.000,41.0,18.09326705829191
+RHPL/ON/3327,R K Malhotra,9810212850,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,63,Ankit Kumar,2024-03-09 17:43:28,2024-03-11 14:00:00.000,1.0,18.09326705829191
+RHPL/GH/3079,Saira Banu,8587069262,DRO,L1 MDT No Show,Clinic Visit,female,67,Arpita Tripathi,2024-03-01 16:49:10,2024-03-13 13:00:00.000,11.0,18.09326705829191
+RHPL/DM/3423,Mr. Dharampal Singh,9968307392,DRO,Junk,Duplicate Lead,male,,Arpita Tripathi,2024-03-23 20:03:02,2024-03-15 15:30:00.000,-9.0,18.09326705829191
+RHPL/BABC/4299,Amit Samanta,9958277997,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,48,Harsh Prasad,2024-04-11 12:11:03,2024-04-13 17:30:00.000,2.0,18.09326705829191
+RHPL/SH/4330,Amit yadav,8287158838,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,20,Himanshu Sharma,2024-03-17 01:15:47,2024-04-13 11:00:00.000,27.0,18.09326705829191
+RHPL/ON/2687,Ishrat Begum,6290957827,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-02-20 13:18:30,2024-02-21 12:00:00.000,0.0,18.09326705829191
+RHPL/GH/2689,Gurmeet Kaur,8851571675,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-02-21 12:35:11,2024-02-21 12:30:00.000,-1.0,18.09326705829191
+RHPL/DA/3086,R.K Advani,9899540144,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Dilshad Alam,2024-03-02 10:44:02,2024-03-03 17:00:00.000,1.0,18.09326705829191
+RHPL/GH/3175,Satpal khanna,9999923582,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Harsh  Bharadwaj,2024-02-17 20:50:37,2024-03-08 12:00:00.000,19.0,18.09326705829191
+RHPL/SH/3283,Mr Shyam babu .,9899846646,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Harsh  Bharadwaj,2024-03-05 23:09:34,2024-03-09 13:00:00.000,3.0,18.09326705829191
+RHPL/ON/3345,Swadesh Pathak,9968523977,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,76,Ankit Kumar,2024-03-12 11:13:52,2024-03-12 12:30:00.000,0.0,18.09326705829191
+RHPL/DARC/3559,Anuradha Rathi,9953858897,DRO,L5 - Pitched,Call1,female,,Manshi Gupta,2024-02-07 17:49:53,2024-03-21 18:00:00.000,43.0,18.09326705829191
+RHPL/BABC/3663,Pankaj Rohilla,9999494791,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,34,KS Santosh,2024-03-21 18:06:47,2024-03-23 18:10:00.000,2.0,18.09326705829191
+RHPL/GH/3854,Sonia Bharadwaj,9210774344,,,,female,,,,2024-03-24 12:20:00.000,,18.09326705829191
+RHPL/DARC/3875,Lissy Jose,9873800998,,,,female,,,,2024-03-28 07:00:00.000,,18.09326705829191
+RHPL/BABC/4131,Jai Prakash,9971138038,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,40,Manshi Gupta,2024-04-06 11:51:40,2024-04-06 18:50:00.000,0.0,18.09326705829191
+RHPL/SKM&RC/4264,L D Makhija,9810920108,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-04-10 17:06:10,2024-04-11 18:45:00.000,1.0,18.09326705829191
+RHPL/SH/4341,Shiva,9999687514,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,31,Aditi  Bhardwaj,2024-04-12 15:21:39,2024-04-12 13:00:00.000,-1.0,18.09326705829191
+RHPL/SKM&RC/4351,Saroj Vati,9811138237,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,53,Himanshu_H,2024-04-04 00:20:21,2024-04-13 18:30:00.000,9.0,18.09326705829191
+RHPL/SKM&RC/4359,Kailash Rai,9958192322,Inbound Call,L1 - MDT Consult Scheduled,Clinic Visit,male,,Manshi Gupta,2024-04-13 11:40:22,2024-04-13 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/2700,Ameeta Gupta,9810158006,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,61,KS Santosh,2024-02-20 19:50:55,2024-02-22 18:00:00.000,1.0,18.09326705829191
+RHPL/GH/2716,Manish Jain,9810025133,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Tauheed Hussain,2024-02-18 09:30:24,2024-02-23 10:00:00.000,5.0,18.09326705829191
+RHPL/DARC/2728,Raj Rani,9319785561,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Manshi Gupta,2024-02-23 18:28:45,2024-02-23 21:29:00.000,0.0,18.09326705829191
+RHPL/DARC/3057,Ramjhari Devi,8368903877,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Manshi Gupta,2024-02-29 19:32:03,2024-03-01 19:00:00.000,0.0,18.09326705829191
+RHPL/GH/3155,Vinod Kumar,9810827298,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-03-02 18:20:58,2024-03-06 11:00:00.000,3.0,18.09326705829191
+RHPL/GH/3220,Nepal Singh,9891979090,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-03-07 12:30:01,2024-03-08 11:00:00.000,0.0,18.09326705829191
+RHPL/DDB&SC/3255,Jatinder Kaur,9811107459,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,47,Dilshad Alam,2024-03-06 20:01:16,2024-03-08 16:00:00.000,1.0,18.09326705829191
+RHPL/SH/2796,SUNIL SHARMA,0828553019,,,,male,,,,2024-02-27 16:00:00.000,,18.09326705829191
+RHPL/SH/4099,Sudhir kumar,9911022339,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,42,KS Santosh,2024-04-04 19:50:55,2024-04-05 12:40:00.000,0.0,18.09326705829191
+RHPL/SH/4093,JP Singh,9818105555,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Kshama  Sharma,2024-03-27 02:02:34,2024-04-06 11:20:00.000,10.0,18.09326705829191
+RHPL/DDB&SC/2494,Ashutosh,9810331657,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,41,Abhishek .Chaudhary,2024-02-13 05:45:28,2024-02-13 19:00:00.000,0.0,18.09326705829191
+RHPL/SH/2763,Cs walia .,8527440077,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,90,Harsh Prasad,2024-02-20 22:00:34,2024-02-27 11:30:00.000,6.0,18.09326705829191
+RHPL/YC/3476,Abhishek Bansal,7838598258,Digital,L6 - New Lead,Day2Call1,male,,Roshni Sheikh,2024-03-09 19:12:33,2024-03-16 17:30:00.000,6.0,18.09326705829191
+,Sanjeev Chitkara,9873272117,Digital,Lead Dead - PD,Not interested at the moment,male,,Aditi  Bhardwaj,2024-02-18 11:36:38,2024-03-27 11:00:00.000,37.0,18.09326705829191
+RHPL/DARC/3434,Muni Roy,9667102197,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Arpita Tripathi,2024-03-15 06:23:19,2024-03-15 19:00:00.000,0.0,18.09326705829191
+RHPL/SH/3545,Mr Kulwinder Kaur,8851658823,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,29,Himanshu Sharma,2024-03-18 15:05:20,2024-03-19 11:30:00.000,0.0,18.09326705829191
+RHPL/MV/3688,Suresh Bala,9910358469,,,,female,,,,2024-03-21 19:50:32.202,,18.09326705829191
+RHPL/DARC/4132,Amit Kumar,9654830320,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,40,Manshi Gupta,2024-03-30 13:47:28,2024-04-06 19:15:00.000,7.0,18.09326705829191
+RHPL/SH/4173,Nitin Mathur,9560086516,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,42,Himanshu Sharma,2024-04-08 11:23:39,2024-04-08 14:00:00.000,0.0,18.09326705829191
+RHPL/SH/4286,Sarla Devi Jain,9911246425,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Kshama  Sharma,2024-04-11 12:09:31,2024-04-11 13:00:00.000,0.0,18.09326705829191
+RHPL/BABC/4327,Shaline Rathore,9571749470,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,53,Himanshu Sharma,2024-04-11 22:59:40,2024-04-12 18:10:00.000,0.0,18.09326705829191
+RHPL/SH/2499,I B Taneja,9899688008,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,64,KS Santosh,2024-02-07 14:44:12,2024-02-14 17:00:00.000,7.0,18.09326705829191
+RHPL/GH/2544,Brijender Singh,9871981115,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Aditi  Bhardwaj,2024-02-14 11:04:32,2024-02-16 10:30:00.000,1.0,18.09326705829191
+RHPL/GH/2771,Ranjan Chabbra,9811080150,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,48,Abhishek .Chaudhary,2024-02-23 16:13:55,2024-02-26 13:30:00.000,2.0,18.09326705829191
+,Alpana das,8826560685,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-01-26 20:43:39,2024-02-27 17:00:00.000,31.0,18.09326705829191
+RHPL/ON/3047,Azeez,7303777187,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,35,KS Santosh,2024-02-10 18:56:54,2024-02-29 15:00:00.000,18.0,18.09326705829191
+RHPL/IP/2778,Narender Arora,9971447664,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Aditi  Bhardwaj,2024-02-25 17:41:25,2024-02-26 22:55:00.000,1.0,18.09326705829191
+RHPL/SH/3056,Sarabjeet Dhillon,9599157923,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Roshni Sheikh,2024-02-08 03:48:41,2024-03-01 14:00:00.000,22.0,18.09326705829191
+RHPL/DARC/3168,Asha Devi,9911602245,DRO,Junk,Duplicate Lead,male,,Manshi Gupta,2024-03-06 23:36:39,2024-03-05 18:00:00.000,-2.0,18.09326705829191
+RHPL/YC/3582,Renu Bali,9350844393,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,66,Himanshu Sharma,2024-03-20 12:03:44,2024-03-20 18:00:00.000,0.0,18.09326705829191
+RHPL/ON/3594,Kartik Singhal,8058407388,Digital,Lead Dead - PD,Not interested at the moment,male,34,Tauheed Hussain,2024-03-19 10:01:46,2024-03-20 20:00:00.000,1.0,18.09326705829191
+RHPL/IC/3717,Sartaj,7355714312,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,36,Himanshu Sharma,2024-03-25 13:39:39,2024-03-26 13:00:00.000,0.0,18.09326705829191
+,Mrs Amrit Kaur,8954013121,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-04-01 12:36:28,2024-04-01 13:40:00.000,0.0,18.09326705829191
+RHPL/SH/4373,Mr Gyan Chand Sharma,9818843048,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Arpita Tripathi,2024-04-13 14:29:07,2024-04-13 13:40:00.000,-1.0,18.09326705829191
+RHPL/ON/2517,Yahya Khan,9899108786,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,48,Himanshu Sharma,2024-02-14 07:45:15,2024-02-14 13:00:00.000,0.0,18.09326705829191
+RHPL/DARC/2525,Parwati .,9582814915,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Harsh  Bharadwaj,2024-02-05 19:11:29,2024-02-15 18:00:00.000,9.0,18.09326705829191
+RHPL/ON/2603,Sonia Rana,8219071410,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,45,Himanshu Sharma,2024-02-18 13:12:25,2024-02-18 15:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3110,Jyoti Kumari,7060628525,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,33,Abhishek .Chaudhary,2024-03-02 19:29:06,2024-03-04 19:00:00.000,1.0,18.09326705829191
+RHPL/GH/3442,Ila Ila,8800720999,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,78,Dilshad Alam,2024-03-14 12:39:39,2024-03-16 11:30:00.000,1.0,18.09326705829191
+RHPL/YC/3464,Sunita,9654074861,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Harsh Prasad,2024-03-15 21:58:45,2024-03-16 18:00:00.000,0.0,18.09326705829191
+RHPL/GH/2538,Raj Kumar Yadav,9971825526,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,58,Harsh  Bharadwaj,2024-01-03 21:40:55,2024-02-18 10:00:00.000,45.0,18.09326705829191
+RHPL/DARC/3102,Shiv Devi Sharma,9582961977,DRO,L1 - MDT Consult Scheduled,,female,68,Harsh Prasad,2024-03-01 22:37:07,2024-03-05 18:00:00.000,3.0,18.09326705829191
+RHPL/DARC/3151,Gargi Chhabra,7906654445,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,63,Himanshu Sharma,2024-01-30 18:40:26,2024-03-05 17:00:00.000,34.0,18.09326705829191
+RHPL/SH/3280,Shishank Kumar Singh,6264984653,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Roshni Sheikh,2024-03-09 08:45:12,2024-03-09 13:00:00.000,0.0,18.09326705829191
+RHPL/SH/3322,Rajveer .,9873130856,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Harsh  Bharadwaj,2024-03-10 23:10:12,2024-03-12 11:30:00.000,1.0,18.09326705829191
+RHPL/GH/3551,Narendra kumar Sharma,9910986545,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,61,Manshi Gupta,2024-02-12 19:15:12,2024-03-20 10:30:00.000,36.0,18.09326705829191
+RHPL/DARC/3611,Beghwati,9868603677,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2024-03-21 11:59:36,2024-03-22 18:20:00.000,1.0,18.09326705829191
+RHPL/BABC/3624,Sunil kher,8826203090,Digital,L5 - Pitched,Call3,male,,Aditi  Bhardwaj,2024-03-18 12:17:36,2024-03-21 18:30:00.000,3.0,18.09326705829191
+RHPL/SH/3474,Naseem,9873776299,,,,female,,,,2024-03-16 02:07:00.000,,18.09326705829191
+RHPL/SH/3976,Satyajit Dey,9910043621,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,80,Ankit Kumar,2024-03-27 12:04:00,2024-04-08 11:20:00.000,11.0,18.09326705829191
+RHPL/IC/4060,Javed,8285869576,,,,male,,,,2024-03-18 11:00:00.000,,18.09326705829191
+RHPL/SH/4149,Mr Pawan Ahuja .,9873737577,DRO,L1 MDT No Show,Clinic Visit,male,50,Manshi Gupta,2024-04-06 16:24:24,2024-04-08 12:40:00.000,1.0,18.09326705829191
+RHPL/SKM&RC/4316,Mahrajuddin Salmani,9213145113,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Roshni Sheikh,2024-04-12 07:12:50,2024-04-12 18:15:00.000,0.0,18.09326705829191
+RHPL/SH/2635,Liza Daime,9310123997,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Himanshu Sharma,2024-02-17 13:41:47,2024-02-19 13:00:00.000,1.0,18.09326705829191
+RHPL/SH/2691,Prerna Chandeliya,9560032587,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,47,Himanshu Sharma,2024-02-20 19:39:08,2024-02-21 17:30:00.000,0.0,18.09326705829191
+RHPL/DA/3305,Inder Prakash,9312216875,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Roshni Sheikh,2024-03-08 17:15:03,2024-03-10 15:00:00.000,1.0,18.09326705829191
+RHPL/ON/3309,RK Sharma,9873028882,Organic,L1 MDT No Show,Clinic Visit,male,54,Tauheed Hussain,2024-03-10 16:43:43,2024-03-10 20:45:00.000,0.0,18.09326705829191
+RHPL/GH/3928,Kamlesh Devi,9213360553,DRO,Lead Dead - PD,Not interested at the moment,female,,Harsh Prasad,2024-03-01 22:25:56,2024-04-01 12:00:00.000,30.0,18.09326705829191
+RHPL/IC/4218,Naseem Khattar,7011494849,Digital,Lead Dead - PD,Not interested at the moment,female,,Arpita Tripathi,2023-12-16 18:59:46,2024-04-09 17:20:00.000,114.0,18.09326705829191
+RHPL/SH/3602,Vijayant Singh,9892090821,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,shaan ahmad,2024-03-18 20:15:44,2024-03-21 10:00:00.000,2.0,18.09326705829191
+RHPL/DARC/3783,Seema arora,8468073850,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,52,Tauheed Hussain,2024-03-26 15:30:23,2024-03-28 18:40:00.000,2.0,18.09326705829191
+RHPL/SH/3666,GC agarwal,9811516177,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Dilshad Alam,2024-03-21 19:50:58,2024-04-06 15:00:09.174,15.0,18.09326705829191
+RHPL/GH/4258,Kishu,9821223729,,,,female,,,,2024-04-10 11:20:00.000,,18.09326705829191
+RHPL/GH/2564,T.k sawhney .,9999105355,DRO,Lead Dead - PD,Not responding,male,,Arpita Tripathi,2023-12-27 09:10:35,2024-02-16 20:00:00.000,51.0,18.09326705829191
+RHPL/GH/2584,Manisha rohilla,0870033989,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Manshi Gupta,2024-02-17 15:03:52,2024-02-17 15:00:00.000,-1.0,18.09326705829191
+RHPL/ON/3364,Sunita devi,8287869191,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,19,Tauheed Hussain,2024-03-13 09:30:27,2024-03-13 12:30:00.000,0.0,18.09326705829191
+RHPL/SH/3365,Mr Naresh Kumar Parashar,9810250237,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-13 11:08:33,2024-03-14 11:00:00.000,0.0,18.09326705829191
+RHPL/GH/3377,Mr. Dasrath .,8396887740,DRO,L6 - New Lead,New,male,,Ankur Gulati,2024-03-13 22:55:13,2024-03-13 15:00:00.000,-1.0,18.09326705829191
+RHPL/SH/3749,Anand singh .,9868979055,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,59,Harsh  Bharadwaj,2024-03-23 23:46:35,2024-04-02 11:00:00.000,9.0,18.09326705829191
+RHPL/DARC/4047,Satpal Saluja,9999750051,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Himanshu Sharma,2024-04-03 18:56:30,2024-04-04 19:30:00.000,1.0,18.09326705829191
+,Ajit Kumar,8789573272,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,25,Ankit Kumar,2024-04-06 07:18:59,2024-04-06 13:00:00.000,0.0,18.09326705829191
+RHPL/ON/2541,Rati Krushna Nanda,7008052907,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,65,Himanshu Sharma,2024-02-15 18:54:26,2024-02-15 19:30:00.000,0.0,18.09326705829191
+RHPL/DARC/2545,Swatantrata Kumar,9312875336,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,75,Harsh  Bharadwaj,2024-02-15 22:59:34,2024-02-27 18:00:00.000,11.0,18.09326705829191
+RHPL/ON/3304,SUMAN,9935342102,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Roshni Sheikh,2024-03-10 08:38:23,2024-03-10 14:30:00.000,0.0,18.09326705829191
+RHPL/IC/3482,Mr. PRASHANT KUMAR TIWARI,8348686066,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,34,Abhishek .Chaudhary,2024-03-16 20:08:14,2024-03-18 20:00:00.000,1.0,18.09326705829191
+RHPL/ON/3583,Poonam Singh,8910431771,Digital,L6 - New Lead,New,female,,Ankit Kumar,2024-03-19 10:51:08,2024-03-20 19:00:00.000,1.0,18.09326705829191
+RHPL/DM/3591,Rati goyal,9971706486,Digital,L6 - New Lead,New,male,,Ankit Kumar,2024-03-18 20:54:41,2024-03-20 16:00:00.000,1.0,18.09326705829191
+RHPL/GH/3632,Sunny .,7301153583,Digital,L6 - New Lead,New,male,,Aditi  Bhardwaj,2024-03-18 18:19:37,2024-03-22 10:40:00.000,3.0,18.09326705829191
+RHPL/IC/4260,Mr.Ajay Kumar,8130314518,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-04-06 19:29:22,2024-04-10 17:00:00.000,3.0,18.09326705829191
+RHPL/DARC/2563,Kush,9654465419,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,27,Himanshu Sharma,2024-02-15 18:23:27,2024-02-16 19:00:00.000,1.0,18.09326705829191
+RHPL/DARC/2649,Manju Anand,9560728558,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Himanshu Sharma,2024-02-18 18:10:40,2024-02-20 07:30:00.000,1.0,18.09326705829191
+RHPL/NS/2743,Poonam Arora,8851599759,Organic,L1 - MDT Consult Scheduled,,female,60,Aditi  Bhardwaj,2024-02-01 16:17:08,2024-02-24 23:00:00.000,23.0,18.09326705829191
+RHPL/DARC/2804,S.G. Rawat,9350310568,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-02-23 13:03:08,2024-02-27 18:30:00.000,4.0,18.09326705829191
+RHPL/DARC/2808,Santosh Kumari,9899007811,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,37,Kshama  Sharma,2024-02-10 16:46:29,2024-02-27 19:00:00.000,17.0,18.09326705829191
+RHPL/SH/3887,Mr Fakir Chand .,9654096423,DRO,L6 - New Lead,Followup call1,male,,Manshi Gupta,2024-03-07 23:06:37,2024-03-30 11:40:00.000,22.0,18.09326705829191
+RHPL/GH/3692,Tanu  Negi,9813173590,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,20,KS Santosh,2024-03-17 09:23:40,2024-03-24 10:40:00.000,7.0,18.09326705829191
+RHPL/SH/3089,Saba Khaliq,9811973330,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,39,Kshama  Sharma,2024-02-15 18:08:06,2024-03-02 20:30:00.000,16.0,18.09326705829191
+RHPL/DM/3572,Rachna Dabas,8800801970,Digital,L6 - New Lead,Day1Call1,female,,Ankit Kumar,2024-03-18 19:41:13,2024-03-20 17:30:00.000,1.0,18.09326705829191
+RHPL/DM/3586,Abhishek chaudhary,7827159536,Digital,L5 - Pitched,Call1,male,26,Roshni Sheikh,2024-03-20 08:47:44,2024-03-20 16:30:00.000,0.0,18.09326705829191
+RHPL/IC/3873,Savinder,9554828283,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,51,KS Santosh,2024-03-28 21:18:43,2024-03-29 12:20:00.000,0.0,18.09326705829191
+RHPL/GH/3816,Poonam Kapoor,9312256178,,,,female,,,,2024-03-22 12:20:00.000,,18.09326705829191
+RHPL/DARC/4035,Ramesh Kumari,8510066446,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Roshni Sheikh,2024-04-03 20:15:34,2024-04-06 18:00:00.000,2.0,18.09326705829191
+RHPL/DARC/2550,Jayanti Rana,9899107245,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,64,KS Santosh,2024-02-13 17:13:53,2024-02-16 19:00:00.000,3.0,18.09326705829191
+RHPL/GH/2557,Mojib Ansari,9560741087,Digital,L1 MDT No Show,Clinic Visit,male,50,Aditi  Bhardwaj,2024-02-14 23:25:25,2024-02-16 16:30:00.000,1.0,18.09326705829191
+RHPL/ON/2637,Sunny Munjal,6397188743,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,36,Abhishek .Chaudhary,2024-02-19 15:54:18,2024-02-19 16:45:00.000,0.0,18.09326705829191
+RHPL/WD/3294,Mrs. Veena .,9871805648,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,66,Manshi Gupta,2024-03-08 21:09:22,2024-03-11 20:00:00.000,2.0,18.09326705829191
+RHPL/SH/3786,Archana Rehani,9871755562,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Dilshad Alam,2024-03-27 00:56:47,2024-03-28 15:00:00.000,1.0,18.09326705829191
+RHPL/BABC/3812,Ms. Nupur Mahapatra,8287000640,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-03-27 21:30:28,2024-03-30 19:20:00.000,2.0,18.09326705829191
+RHPL/SH/4343,Vinod prashad Singh .,9899241380,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-04-12 16:44:01,2024-04-13 12:00:00.000,0.0,18.09326705829191
+RHPL/SH/2528,Azra Aziz,8005640238,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,54,Aditi  Bhardwaj,2024-02-13 22:40:14,2024-02-14 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/2683,Ram Kishore,8527432807,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Manshi Gupta,2024-02-20 22:02:37,2024-02-24 17:30:00.000,3.0,18.09326705829191
+RHPL/SH/3243,Daulat Singh Negi .,9312056437,DRO,L6 - New Lead,New,male,,Manshi Gupta,2024-03-08 10:46:28,2024-03-08 10:30:00.000,-1.0,18.09326705829191
+RHPL/IC/3815,Sangeeta batra,9871358994,Digital,Lead Dead - PD,Not responding,female,,Himanshu Sharma,2024-02-17 14:24:44,2024-03-29 19:00:00.000,41.0,18.09326705829191
+RHPL/DARC/3411,Sapna Kaushik,9810561352,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,42,Himanshu Sharma,2024-03-12 13:49:41,2024-03-14 19:00:00.000,2.0,18.09326705829191
+RHPL/GH/3916,Jyoti Jhamb,9810838200,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Roshni Sheikh,2024-03-31 12:51:09,2024-04-01 11:40:00.000,0.0,18.09326705829191
+RHPL/SH/3968,Tej Narayan Dubey .,7982707299,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-03-28 10:49:57,2024-04-02 11:40:00.000,5.0,18.09326705829191
+RHPL/ON/2573,Rani Madan,9810069901,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,69,Aditi  Bhardwaj,2024-02-16 19:06:26,2024-02-17 21:00:00.000,1.0,18.09326705829191
+RHPL/DARC/2707,Umang Shankar,9873074088,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,43,Himanshu Sharma,2024-02-18 12:35:21,2024-02-22 18:30:00.000,4.0,18.09326705829191
+RHPL/DPRC/3203,Raveena Ali,9015294770,Digital,Lead Dead - PD,Not interested at the moment,female,,Tauheed Hussain,2023-11-04 06:01:53,2024-03-07 19:00:00.000,124.0,18.09326705829191
+RHPL/SH/3313,Mr Mohan Singh,9013551282,Referred by Doctor,Lead Dead - PD,Others,male,,Manshi Gupta,2024-01-05 21:06:40,2024-03-11 11:30:00.000,65.0,18.09326705829191
+RHPL/DARC/3356,Kaushalya Devi,9971605919,DRO,L5 - Pitched,Call4,female,,Harsh Prasad,2024-01-20 12:11:26,2024-03-14 19:00:00.000,54.0,18.09326705829191
+RHPL/GH/3970,Shushila,9899766810,DRO,L5 - Pitched,Call6,female,60,Harsh  Bharadwaj,2024-01-15 22:38:27,2024-04-05 10:20:00.000,80.0,18.09326705829191
+RHPL/SH/2758,Ram Ji Lal,9582963626,Organic,Junk,Duplicate Lead,male,,Abhishek .Chaudhary,2024-02-24 17:26:11,2024-02-24 18:30:00.000,0.0,18.09326705829191
+RHPL/DARC/3152,Sunita Vashishtha,9871086644,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,66,Tauheed Hussain,2024-03-05 08:01:36,2024-03-05 13:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3338,Shyam Kumari,8527604868,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Kshama  Sharma,2024-03-10 18:07:50,2024-03-11 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3665,Rakesh Satija,9910020368,DRO,L6 - New Lead,Day4Call1,male,,Harsh  Bharadwaj,2024-03-08 20:07:39,2024-03-22 10:20:00.000,13.0,18.09326705829191
+RHPL/SH/3780,Anju .,8178049122,DRO,Junk,Duplicate Lead,female,58,Arpita Tripathi,2024-03-25 23:28:50,2024-03-28 13:40:00.000,2.0,18.09326705829191
+RHPL/DARC/3990,Sunita Bhargava,9514452430,,,,male,,,,2024-04-02 19:45:00.000,,18.09326705829191
+RHPL/SH/2547,Jagjeet singh,9811371647,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Roshni Sheikh,2024-02-12 09:23:05,2024-02-16 11:30:00.000,4.0,18.09326705829191
+RHPL/GH/2816,RV Singh .,9810137348,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh  Bharadwaj,2024-02-21 19:18:48,2024-02-28 13:00:00.000,6.0,18.09326705829191
+RHPL/ON/3068,Madhu saran,9810507344,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,62,Tauheed Hussain,2024-03-01 08:15:09,2024-03-01 21:00:00.000,0.0,18.09326705829191
+RHPL/SH/3772,Syed Ali,9650094206,,,,male,,,,2024-03-23 13:00:00.000,,18.09326705829191
+RHPL/ON/3913,Narendra Mohan Goel,9911331569,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,80,Aditi  Bhardwaj,2024-03-30 15:51:04,2024-03-30 18:30:00.000,0.0,18.09326705829191
+RHPL/ON/4338,Jitendra Kumar,7351798534,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,35,Abhishek .Chaudhary,2024-04-12 13:32:45,2024-04-12 18:00:00.000,0.0,18.09326705829191
+RHPL/MV/3054,Kartick Gopal,9868246455,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,71,Himanshu Sharma,2024-02-01 11:23:23,2024-03-01 15:00:00.000,29.0,18.09326705829191
+RHPL/DARC/3232,Prashant Panchal,9899262890,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Kshama  Sharma,2024-03-07 01:48:14,2024-03-07 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3640,Nitin Chaudhary,9654040400,Organic,Lead Dead - PD,Not responding,male,,KS Santosh,2024-03-02 21:44:11,2024-03-22 12:40:00.000,19.0,18.09326705829191
+RHPL/DARC/3600,Priyanka Sharma Kapoor,9625954099,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,31,Abhishek .Chaudhary,2024-03-21 01:15:05,2024-03-27 18:20:00.000,6.0,18.09326705829191
+RHPL/BABC/3906,Priyanka sharma,8178769182,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,38,Ankit Kumar,2024-03-25 14:12:23,2024-04-01 17:50:00.000,7.0,18.09326705829191
+RHPL/SH/3628,Mr. Kartik .,9958060956,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,21,Abhishek .Chaudhary,2024-03-21 12:32:34,2024-03-21 18:20:00.000,0.0,18.09326705829191
+RHPL/SH/4272,RAJESH puri,9810102823,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,46,Kshama  Sharma,2024-04-11 07:28:53,2024-04-11 14:40:00.000,0.0,18.09326705829191
+RHPL/SKM&RC/4355,Beena Devi,9818511929,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Himanshu_H,2024-04-12 23:24:49,2024-04-13 19:30:00.000,0.0,18.09326705829191
+RHPL/ON/2607,Ritu Singhal,9871595948,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-02-17 17:03:31,2024-02-18 15:30:00.000,0.0,18.09326705829191
+RHPL/DARC/4011,SSN Rao,9871178933,DRO,L6 - New Lead,Followup call3,male,,Harsh  Bharadwaj,2024-02-28 22:00:25,2024-04-05 18:15:00.000,36.0,18.09326705829191
+RHPL/SH/3433,Ramprakash Gupta,9312999528,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,54,Ankit Kumar,2024-03-15 09:23:05,2024-03-15 12:30:00.000,0.0,18.09326705829191
+RHPL/SH/3469,Roshnara ali,9873776498,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Ankur Gulati,2024-03-16 14:45:36,2024-03-16 15:30:00.000,0.0,18.09326705829191
+RHPL/DARC/3912,Sheela Maini,9868227874,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2024-03-30 19:04:56,2024-03-30 19:00:00.000,-1.0,18.09326705829191
+RHPL/GH/4001,Shilpa Sahni,9711880849,Organic,L6 - New Lead,New,female,,Ankur Gulati,2024-04-03 12:35:46,2024-04-03 11:40:00.000,-1.0,18.09326705829191
+RHPL/ON/4009,Jatin,8607875212,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,38,Akash Mishra,2024-04-03 14:15:46,2024-04-03 19:30:00.000,0.0,18.09326705829191
+RHPL/ON/2628,Mrs. Radhika Devi,9818661965,Digital,L1 MDT No Show,Online Consultation,female,71,Abhishek .Chaudhary,2024-02-15 19:25:43,2024-02-19 15:00:00.000,3.0,18.09326705829191
+RHPL/ON/3182,Kamal Prabha Sharma,8130789776,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,45,Abhishek .Chaudhary,2024-03-06 11:52:30,2024-03-06 12:30:00.000,0.0,18.09326705829191
+RHPL/GH/3315,Ram Kumar,0921168651,,,,male,,,,2024-03-10 13:00:00.000,,18.09326705829191
+RHPL/SH/3846,Prashant Gupta,9718661444,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,33,Kshama  Sharma,2024-03-29 08:17:48,2024-03-29 10:40:00.000,0.0,18.09326705829191
+RHPL/IC/3930,Neeru Raturi,8076727036,Digital,L1 MDT No Show,Clinic Visit,female,53,Kshama  Sharma,2024-03-21 09:19:25,2024-04-01 19:00:00.000,11.0,18.09326705829191
+RHPL/DM/3993,vibha jha,9899169000,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,48,KS Santosh,2024-03-18 22:46:00,2024-04-07 16:40:00.000,19.0,18.09326705829191
+RHPL/SH/2413,Shyam Singh Matela,0965074872,,,,male,,,,2024-02-22 14:20:00.000,,18.09326705829191
+RHPL/IP/3092,Shagufta,9911861756,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,40,Dilshad Alam,2024-03-02 11:40:11,2024-03-02 22:00:00.000,0.0,18.09326705829191
+RHPL/SH/3187,Amar Chand,9810189293,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,68,Manshi Gupta,2024-03-04 01:06:39,2024-03-07 11:30:00.000,3.0,18.09326705829191
+RHPL/IC/3927,Neelam Singh,9818809196,Digital,L5 - Pitched,Call4,female,,Dilshad Alam,2024-03-07 22:03:21,2024-04-01 13:20:00.000,24.0,18.09326705829191
+RHPL/GH/3239,Kunal Jain,9910435519,,,,male,,,,2024-03-07 21:01:00.000,,18.09326705829191
+RHPL/DARC/3769,Ravinder Kathuria,9868332468,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,shaan ahmad,2024-03-25 21:07:16,2024-03-27 19:40:00.000,1.0,18.09326705829191
+RHPL/DM/3933,Somnath  Sahgal,8178239262,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Manshi Gupta,2024-03-27 00:08:57,2024-04-01 15:40:00.000,5.0,18.09326705829191
+RHPL/GH/4151,Vishnu dutt  Pandey,8860050723,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-04-04 19:28:40,2024-04-07 12:00:00.000,2.0,18.09326705829191
+RHPL/SH/4289,Hemant singh,9910167414,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,40,Aditi  Bhardwaj,2024-04-11 12:45:06,2024-04-11 13:40:00.000,0.0,18.09326705829191
+RHPL/DA/2755,Anita Tayal,8630729740,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,58,Tauheed Hussain,2024-02-22 14:36:48,2024-02-25 15:00:00.000,3.0,18.09326705829191
+RHPL/DA/2782,Roop Chand,9911223536,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,58,KS Santosh,2024-03-01 18:00:44,2024-02-26 14:00:00.000,-5.0,18.09326705829191
+RHPL/SH/1674,Mr. Sunil Dutta,9212198314,DRO,Lead Dead - PD,Didn't show up for MDT,male,65,Akash Mishra,2023-12-07 17:19:56,2024-04-11 11:40:00.000,125.0,18.09326705829191
+RHPL/MV/3264,Kajal,9811574382,,,,female,,,,2024-03-08 21:00:00.000,,18.09326705829191
+RHPL/SH/3456,Shanti Devi,8882143005,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,76,Arpita Tripathi,2024-03-16 11:17:03,2024-03-16 12:00:00.000,0.0,18.09326705829191
+RHPL/SH/3805,Answered Call,8826059888,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Ankit Kumar,2024-03-27 20:25:40,2024-03-28 12:40:00.000,0.0,18.09326705829191
+RHPL/SH/4015,Jassi arora,7004429028,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Kshama  Sharma,2024-04-03 16:23:17,2024-04-11 15:00:00.000,7.0,18.09326705829191
+RHPL/DARC/3058,Charano Devi,8448341063,DRO,L1 MDT No Show,Reschedule Call 1,female,70,Manshi Gupta,2024-02-26 17:36:08,2024-03-01 18:00:00.000,4.0,18.09326705829191
+RHPL/DARC/3212,Seema Rawat,9910939933,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-03-07 12:01:16,2024-03-07 12:00:00.000,-1.0,18.09326705829191
+RHPL/SH/1197,Ram bharose,9667939363,Referred by Doctor,L1 MDT No Show,Clinic Visit,male,,Manshi Gupta,2023-10-26 11:19:04,2024-04-11 16:41:00.000,168.0,18.09326705829191
+RHPL/GH/4377,Ramesh Chand,9818271020,Digital,L5 - Pitched,Call2,male,,Himanshu Sharma,2024-03-05 18:52:54,2024-04-14 11:20:00.000,39.0,18.09326705829191
+RHPL/GH/0695,Shikha Sudha,9999618084,,,,female,,,,2024-04-01 10:00:00.000,,18.09326705829191
+RHPL/SH/2622,Mrs Kamlesh,9999899605,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-02-18 23:02:52,2024-02-20 10:00:00.000,1.0,18.09326705829191
+RHPL/SH/2783,Raj Bala Devi,9050151521,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-02-21 20:26:22,2024-02-27 04:00:00.000,5.0,18.09326705829191
+RHPL/SH/3180,Rupinder Kaur,9999350116,DRO,L6 - New Lead,Day1Call1,female,,Manshi Gupta,2024-03-01 11:59:43,2024-03-06 18:00:00.000,5.0,18.09326705829191
+RHPL/DARC/3757,Vimlesh Devi,8700462171,DRO,L6 - New Lead,Followup call1,female,,Harsh Prasad,2024-02-17 20:12:42,2024-03-26 18:40:00.000,37.0,18.09326705829191
+RHPL/DARC/3479,N M Kulkarni,9625048518,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,62,KS Santosh,2024-03-16 18:47:50,2024-03-16 18:30:00.000,-1.0,18.09326705829191
+RHPL/SH/3517,Zahra Tanveer,9811189503,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2024-03-16 21:00:04,2024-03-23 12:00:00.000,6.0,18.09326705829191
+RHPL/DM/3762,Veer Bhan,9899795930,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,80,Harsh  Bharadwaj,2024-03-27 00:12:59,2024-03-27 15:00:00.000,0.0,18.09326705829191
+RHPL/GH/4105,Seema Garg,9211040404,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,47,Ankit Kumar,2024-04-05 12:44:17,2024-04-05 13:40:00.000,0.0,18.09326705829191
+RHPL/SH/4125,Mrs. Pramila Devi,9990572012,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,50,KS Santosh,2024-03-17 17:39:19,2024-04-06 13:00:00.000,19.0,18.09326705829191
+RHPL/DARC/4194,Sushil chandra kapoor,9911017624,Referred by Doctor,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-04-08 17:15:39,2024-04-08 18:45:00.000,0.0,18.09326705829191
+RHPL/SH/1546,Nitesh Kumar,9891528246,Digital,Lead Dead - PD,Not responding after Pitched,male,45,Roshni Sheikh,2023-12-11 22:10:20,2024-03-05 15:00:00.000,84.0,18.09326705829191
+RHPL/SH/4189,Yogesh,9313851118,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,35,Roshni Sheikh,2024-03-29 00:22:27,2024-04-09 18:00:00.000,11.0,18.09326705829191
+RHPL/SKM&RC/4346,Riyasat Ali,7838352992,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Arpita Tripathi,2024-04-12 18:26:33,2024-04-12 19:45:00.000,0.0,18.09326705829191
+RHPL/SH/2478,Akanksha Keshav,0965074492,,,,female,,,,2024-03-04 13:20:00.000,,18.09326705829191
+RHPL/DARC/3137,Anita Arora,9811271250,DRO,Junk,Duplicate Lead,female,,Harsh  Bharadwaj,2024-03-04 20:12:06,2024-03-04 18:30:00.000,-1.0,18.09326705829191
+RHPL/DARC/3141,Mohd imran,8470057910,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,shaan ahmad,2024-03-03 01:21:55,2024-03-04 18:30:00.000,1.0,18.09326705829191
+RHPL/IP/2335,Pradeep Gupta,9213692324,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,45,Abhishek .Chaudhary,2024-02-04 22:12:48,2024-03-11 20:00:00.000,35.0,18.09326705829191
+RHPL/ON/3477,Veena Dang,9811850598,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,50,Kshama  Sharma,2024-03-15 16:35:27,2024-03-16 18:30:00.000,1.0,18.09326705829191
+RHPL/DARC/3625,Arun Kumar Verma,8527492753,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,83,Tauheed Hussain,2024-03-19 13:27:37,2024-03-21 19:45:00.000,2.0,18.09326705829191
+RHPL/SH/3953,Kamla Nandwani,9811024606,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Ankit Kumar,2024-03-24 20:19:42,2024-04-03 18:00:00.000,9.0,18.09326705829191
+RHPL/DDB&SC/2442,Raksha Fatania,9999828704,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,63,Himanshu Sharma,2024-02-10 00:51:19,2024-02-28 18:00:00.000,18.0,18.09326705829191
+RHPL/ON/3053,Arun Lata,9811341145,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,56,Abhishek .Chaudhary,2024-02-29 16:06:06,2024-02-29 18:30:00.000,0.0,18.09326705829191
+RHPL/SH/3128,Jhilam Ghoshal,7827476254,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,43,Tauheed Hussain,2024-03-04 10:45:55,2024-03-04 12:30:00.000,0.0,18.09326705829191
+RHPL/GH/3261,Rk Nanda,9212253545,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,75,Harsh  Bharadwaj,2024-03-08 16:51:39,2024-03-11 11:30:00.000,2.0,18.09326705829191
+RHPL/SH/3331,Geeta Saifi,0995379027,,,,female,,,,2024-03-11 18:00:00.000,,18.09326705829191
+RHPL/GH/3577,Mrs Kamlesh,9050639685,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Tauheed Hussain,2024-03-19 14:13:10,2024-03-20 11:30:00.000,0.0,18.09326705829191
+RHPL/GH/4158,Priyanka,9773609107,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,25,Roshni Sheikh,2024-04-07 10:11:22,2024-04-07 11:20:00.000,0.0,18.09326705829191
+RHPL/ON/2577,SK Sanan,9899130006,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,81,Aditi  Bhardwaj,2024-02-14 13:38:32,2024-02-17 19:00:00.000,3.0,18.09326705829191
+RHPL/DARC/3048,Samrat singh,9999402809,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,44,Himanshu Sharma,2024-02-29 15:37:17,2024-02-29 18:30:00.000,0.0,18.09326705829191
+RHPL/DPRC/3052,Urmila Arora,8291863449,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Himanshu Sharma,2024-02-29 18:23:22,2024-02-29 18:00:00.000,-1.0,18.09326705829191
+RHPL/DARC/3214,Keshav Rawat,9910939936,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-07 12:05:35,2024-03-07 12:00:00.000,-1.0,18.09326705829191
+RHPL/DARC/3408,Charan singh,9127475269,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Arpita Tripathi,2024-03-14 14:03:09,2024-03-14 18:30:00.000,0.0,18.09326705829191
+RHPL/IC/3973,Kiran Chugh,9999671338,DRO,L5 - Pitched,Call1,female,,Manshi Gupta,2024-03-20 22:22:34,2024-04-02 13:40:00.000,12.0,18.09326705829191
+RHPL/IC/4052,Surinder kaur,9911736004,Digital,L6 - New Lead,Day2Call2,female,,Aditi  Bhardwaj,2024-03-01 22:44:29,2024-04-04 12:40:00.000,33.0,18.09326705829191
+RHPL/DA/3318,ishwar kali,9650224821,,,,female,,,,2024-03-10 01:08:00.000,,18.09326705829191
+RHPL/DARC/3704,Ashok Paliwal,9871931528,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Ankit Kumar,2024-03-26 07:58:08,2024-03-26 18:20:00.000,0.0,18.09326705829191
+RHPL/IC/4167,Mr. Ashok Sharma,9968306316,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,74,Manshi Gupta,2024-04-03 20:37:49,2024-04-08 18:40:00.000,4.0,18.09326705829191
+RHPL/ASHL/3200,Mezhunuo Solo,7085084959,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,45,KS Santosh,2024-03-06 19:01:56,2024-03-07 14:00:00.000,0.0,18.09326705829191
+RHPL/GH/2791,Mewa Rani Devi,9717687693,DRO,L1 MDT No Show,Clinic Visit,female,88,Arpita Tripathi,2024-02-26 20:53:44,2024-03-06 12:00:00.000,8.0,18.09326705829191
+RHPL/SH/3626,Sangeeta Bharti,9811112863,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,58,Kshama  Sharma,2024-03-19 08:35:01,2024-03-22 11:00:00.000,3.0,18.09326705829191
+RHPL/SH/3680,Mrs Shweta,9911279359,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,35,Dilshad Alam,2024-03-23 13:38:46,2024-03-26 11:40:00.000,2.0,18.09326705829191
+RHPL/SH/3808,Satya Pal Tohani,9810813588,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,87,Kshama  Sharma,2024-03-28 09:34:21,2024-03-28 15:40:00.000,0.0,18.09326705829191
+RHPL/DARC/3876,Shashi Bala Tanwar,9818397423,,,,female,,,,2024-03-28 08:00:00.000,,18.09326705829191
+RHPL/DA/3233,Tarkeshwar,9971808390,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,51,Tauheed Hussain,2024-03-05 14:51:24,2024-03-06 22:00:00.000,1.0,18.09326705829191
+RHPL/GH/3253,Devender Kumar Arora,9811737396,Digital,Lead Dead - PD,Not responding,male,72,Akash Mishra,2024-02-09 22:25:52,2024-03-06 18:00:00.000,25.0,18.09326705829191
+RHPL/SH/3367,Pankaj Kumar,9818840080,Digital,Junk,Duplicate Lead,male,,Kshama  Sharma,2024-03-15 08:57:45,2024-03-16 10:30:00.000,1.0,18.09326705829191
+RHPL/DM/3492,Shalu Garg,9971422258,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,44,KS Santosh,2024-03-17 17:09:41,2024-03-18 17:30:00.000,1.0,18.09326705829191
+RHPL/IC/3552,Shankar Laal Jaat,8618712295,,,,male,,,,2024-03-18 08:00:00.000,,18.09326705829191
+RHPL/SH/4115,Chandrakanta Maratha,9810611629,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,70,Kshama  Sharma,2024-04-05 11:40:35,2024-04-06 13:20:00.000,1.0,18.09326705829191
+RHPL/DPRC/3146,Santosh Vedwal,8368901953,Digital,Junk,Others,male,,Tauheed Hussain,2023-07-14 10:02:06,2024-03-04 20:00:00.000,234.0,18.09326705829191
+RHPL/SH/2661,PSK Sharma,9818189213,,,,male,,,,2024-03-01 18:00:00.000,,18.09326705829191
+RHPL/SH/3349,Masud Ansari,9650033294,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,Kshama  Sharma,2024-03-12 10:44:47,2024-03-12 13:00:00.000,0.0,18.09326705829191
+RHPL/GH/3560,Rakesh Kumar Gupta,9868811939,DRO,L6 - New Lead,New,male,55,Ankur Gulati,2024-03-20 12:29:43,2024-03-20 12:00:00.000,-1.0,18.09326705829191
+RHPL/ON/3612,Yogender Kumar Aggarwal,9319071947,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,67,Ankit Kumar,2024-03-20 10:36:00,2024-03-21 12:00:00.000,1.0,18.09326705829191
+RHPL/GH/3751,Bansi lal Ahuja,8800514024,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,71,Harsh  Bharadwaj,2024-03-23 20:05:03,2024-04-03 12:40:00.000,10.0,18.09326705829191
+RHPL/IC/3269,Manohar Lal,9911075345,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-03-09 10:33:30,2024-03-11 11:00:00.000,2.0,18.09326705829191
+RHPL/ON/4103,Sangeeta Gaur,9990003610,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,34,Ankit Kumar,2024-04-05 10:26:35,2024-04-05 13:40:00.000,0.0,18.09326705829191
+RHPL/SH/4145,SB Gurjar,9810288140,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Roshni Sheikh,2024-04-06 08:45:27,2024-04-08 12:00:00.000,2.0,18.09326705829191
+RHPL/IP/2735,Sangeeta,9818426101,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Tauheed Hussain,2024-02-24 10:01:31,2024-02-24 22:00:00.000,0.0,18.09326705829191
+RHPL/SH/3595,Sadhna Goyal,9810181109,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,57,Dilshad Alam,2024-03-21 07:37:51,2024-03-21 10:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3756,Sapna Grover,9999799353,Organic,L5 - Pitched,Call4,female,43,Aditi  Bhardwaj,2024-03-17 13:03:23,2024-03-28 18:20:00.000,11.0,18.09326705829191
+RHPL/DM/3907,Umang Shukla,9711944356,Digital,Lead Dead - PD,Not interested at the moment,male,,Ankit Kumar,2024-03-12 19:33:08,2024-04-07 15:00:00.000,25.0,18.09326705829191
+RHPL/SH/4033,Ram Nivas Sharma,7011029647,Referred by Doctor,Junk,Not a Pain Patient,male,,Garima  Mittal,2023-12-18 16:35:17,2024-04-04 11:40:00.000,107.0,18.09326705829191
+RHPL/SH/2631,Kamlesh Malik,9818677285,,,,female,,,,2024-03-01 00:26:00.000,,18.09326705829191
+RHPL/DM/3943,Shefali singh,9582445353,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,28,Harsh  Bharadwaj,2024-04-01 12:34:14,2024-04-01 16:40:00.000,0.0,18.09326705829191
+RHPL/SH/4202,Deepak,9354500991,Digital,Junk,Duplicate Lead,male,,Ankit Kumar,2024-04-07 22:07:27,2024-04-11 10:40:00.000,3.0,18.09326705829191
+RHPL/DARC/2503,Jyoti Sareen,7503003338,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,42,Abhishek .Chaudhary,2024-01-31 10:46:58,2024-02-13 18:00:00.000,13.0,18.09326705829191
+RHPL/GH/2596,Zarina Bano,8810619056,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Manshi Gupta,2024-02-18 10:43:28,2024-02-18 10:00:00.000,-1.0,18.09326705829191
+RHPL/DARC/2747,Jag Tarni Devi,9931719734,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,78,Harsh  Bharadwaj,2024-02-23 12:59:06,2024-02-26 19:30:00.000,3.0,18.09326705829191
+RHPL/ON/3236,Ram Sunder Prakhar,9650235531,Organic,L1 - MDT Consult Scheduled,Online Consultation,male,81,Dilshad Alam,2024-03-01 15:08:31,2024-03-07 18:00:00.000,6.0,18.09326705829191
+RHPL/GH/3360,Sunil,9650268666,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,45,Kshama  Sharma,2024-03-11 20:16:58,2024-03-13 10:00:00.000,1.0,18.09326705829191
+RHPL/IC/3581,Rana kamra,9811114150,Digital,L1 - MDT Consult Scheduled,,male,72,Aditi  Bhardwaj,2024-03-18 21:24:09,2024-03-20 13:00:00.000,1.0,18.09326705829191
+RHPL/GH/3747,Sarmesh,9718704142,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,59,Roshni Sheikh,2024-03-26 17:24:13,2024-03-27 11:20:00.000,0.0,18.09326705829191
+RHPL/BABC/4208,Ram Avtar Yadav,9990984009,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh Prasad,2024-04-09 12:20:01,2024-04-09 19:10:00.000,0.0,18.09326705829191
+RHPL/GH/4231,Terlochan Singh,8447088200,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,63,Roshni Sheikh,2024-04-09 12:18:09,2024-04-10 10:40:00.000,0.0,18.09326705829191
+RHPL/ASHL/2662,Archana Kashyap,9958636397,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,62,KS Santosh,2024-02-19 12:58:00,2024-02-20 14:00:00.000,1.0,18.09326705829191
+RHPL/GH/2715,Daya Ram Singh,9582550668,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-02-15 07:31:35,2024-02-28 11:00:00.000,13.0,18.09326705829191
+RHPL/DARC/3222,Padda Rani,9716406316,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-03-06 23:40:41,2024-03-07 18:30:00.000,0.0,18.09326705829191
+RHPL/MV/3681,Kanta Gupta,9650388990,Digital,Lead Dead - PD,Not interested at the moment,female,,Tauheed Hussain,2023-12-11 20:00:58,2024-03-23 19:40:00.000,102.0,18.09326705829191
+RHPL/DM/3459,Neha Gupta,9212147526,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,62,Ankit Kumar,2024-03-15 19:56:29,2024-03-18 15:00:00.000,2.0,18.09326705829191
+RHPL/SH/3703,Nitesh James,8588822573,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,46,Roshni Sheikh,2024-03-22 00:43:32,2024-03-26 12:00:00.000,4.0,18.09326705829191
+RHPL/GH/3934,Sunil Rastogi,9310767675,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,56,shaan ahmad,2024-04-01 12:04:07,2024-04-01 13:00:00.000,0.0,18.09326705829191
+RHPL/GH/4257,Sarla,9582303907,,,,female,,,,2024-04-10 10:20:00.000,,18.09326705829191
+RHPL/DM/4248,Sudesh Kumar kalra,9811270114,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-04-10 10:50:17,2024-04-14 16:00:00.000,4.0,18.09326705829191
+RHPL/ON/3224,Aakash Bindu,8171926665,Digital,L5 - Pitched,Call2,male,27,Dilshad Alam,2024-03-05 10:13:22,2024-03-08 15:00:00.000,3.0,18.09326705829191
+RHPL/IC/3505,Vandana Sehgal,9911051964,Digital,Lead Dead - PD,Not interested at the moment,female,78,Sahil Kukreja,2023-08-25 11:45:05,2024-03-18 05:00:00.000,205.0,18.09326705829191
+RHPL/ON/3412,Deepak Kumar,9811109161,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,70,Abhishek .Chaudhary,2024-03-14 11:50:12,2024-03-14 19:00:00.000,0.0,18.09326705829191
+RHPL/GH/1896,Shobha Kapoor,9910262693,,,,female,,,,2024-04-07 13:03:04.119,,18.09326705829191
+RHPL/SKM&RC/4263,Jagwati .,8130996821,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-04-10 17:05:13,2024-04-11 18:00:00.000,1.0,18.09326705829191
+RHPL/DARC/2639,Sheela Gupta,9810316410,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,78,Manshi Gupta,2024-02-16 14:22:08,2024-02-20 18:00:00.000,4.0,18.09326705829191
+RHPL/DARC/2659,R.S. Rawat,9899160236,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Harsh  Bharadwaj,2024-02-20 12:37:10,2024-02-20 19:30:00.000,0.0,18.09326705829191
+RHPL/SH/2718,Amarpal Singh,9868778246,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Manshi Gupta,2024-02-20 22:03:37,2024-02-24 17:00:00.000,3.0,18.09326705829191
+RHPL/ON/2760,Ajay singh,9540593149,Digital,L1 MDT No Show,Clinic Visit,female,45,Kshama  Sharma,2024-03-13 02:07:54,2024-02-24 22:00:00.000,-18.0,18.09326705829191
+RHPL/SH/3069,Mr. Jaswant lal,9910233888,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,81,Manshi Gupta,2024-03-01 12:40:53,2024-03-02 12:00:00.000,0.0,18.09326705829191
+RHPL/DA/3124,Kavita Sethi,9210305061,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Tauheed Hussain,2024-02-29 22:07:29,2024-03-04 17:30:00.000,3.0,18.09326705829191
+RHPL/SH/3188,Neelam Dhawan Female 55,9717647074,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Manshi Gupta,2024-03-05 23:08:34,2024-03-09 10:30:00.000,3.0,18.09326705829191
+RHPL/SH/3455,Rohit puri,7838333909,Social,L6 - New Lead,New,male,,shaan ahmad,2024-03-16 10:55:40,2024-03-16 14:00:00.000,0.0,18.09326705829191
+RHPL/DARC/3508,Noman Haider,9911755447,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,Roshni Sheikh,2024-03-17 21:41:50,2024-03-18 19:30:00.000,0.0,18.09326705829191
+RHPL/SH/3779,Kamal Rathour,9958616968,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,26,Ankit Kumar,2024-03-26 00:09:16,2024-03-28 12:20:00.000,2.0,18.09326705829191
+RHPL/SH/3791,Sandeep Bahl,9899593000,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,37,Dilshad Alam,2024-03-25 20:49:19,2024-03-28 14:20:00.000,2.0,18.09326705829191
+RHPL/SH/3825,Purnima Mishra,9454187187,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,40,Aditi  Bhardwaj,2024-03-28 13:45:16,2024-03-28 14:00:00.000,0.0,18.09326705829191
+RHPL/DARC/4041,Rumali Devi,9250809514,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Himanshu_H,2024-04-04 11:02:09,2024-04-04 19:15:00.000,0.0,18.09326705829191
+RHPL/DARC/2787,Rekha Devi,9334193703,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Abhishek .Chaudhary,2024-02-26 11:20:33,2024-02-27 19:30:00.000,1.0,18.09326705829191
+RHPL/SH/3375,Inderpal singh,8700332156,Inbound Call,Junk,Not a Pain Patient,male,,KS Santosh,2024-02-20 19:56:11,2024-03-13 17:30:00.000,21.0,18.09326705829191
+RHPL/DARC/1906,Shashi Pahwa,9891318040,Inbound Call,L1 MDT No Show,Clinic Visit,female,,KS Santosh,2024-01-07 16:25:33,2024-03-23 07:15:00.000,75.0,18.09326705829191
+RHPL/DARC/2543,Md Jamal Uddin,9911944261,Digital,L1 - MDT Consult Scheduled,Clinic Visit,,27,Roshni Sheikh,2024-02-15 10:42:25,2024-04-16 18:00:00.000,61.0,18.09326705829191
+RHPL/DDB&SC/3414,Akansha Sharma,9304667002,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,20,Roshni Sheikh,2024-03-14 14:27:22,2024-03-14 17:30:00.000,0.0,18.09326705829191
+RHPL/GH/3427,Bharat  Sharma,9717386501,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,35,Dilshad Alam,2024-03-14 21:46:33,2024-03-15 13:00:00.000,0.0,18.09326705829191
+RHPL/IC/4201,Kailash Devi,9013711787,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,63,Harsh Prasad,2024-04-08 21:36:31,2024-04-09 19:00:00.000,0.0,18.09326705829191
+RHPL/SH/2491,Rksharma,9350878814,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,57,Kshama  Sharma,2024-02-09 14:07:39,2024-02-15 12:00:00.000,5.0,18.09326705829191
+RHPL/ON/3171,Brijesh,9599599202,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,35,Kshama  Sharma,2024-03-03 06:57:13,2024-03-06 14:00:00.000,3.0,18.09326705829191
+RHPL/DARC/3564,Ajay Yadav,9311005033,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Roshni Sheikh,2024-03-19 09:07:23,2024-03-19 18:00:00.000,0.0,18.09326705829191
+RHPL/DM/3655,Parvesh Pruthi,9953120969,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,58,Aditi  Bhardwaj,2024-03-18 19:03:57,2024-03-22 17:40:00.000,3.0,18.09326705829191
+RHPL/SH/3806,Mrs upma luthra .,9818541606,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Harsh  Bharadwaj,2024-03-21 11:00:24,2024-03-28 11:20:00.000,7.0,18.09326705829191
+RHPL/DM/4233,Renu Chopra,9873522954,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,34,Kshama  Sharma,2024-04-09 16:33:52,2024-04-10 15:20:00.000,0.0,18.09326705829191
+RHPL/DM/4247,Rakhi Saxena,9013359815,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-04-10 12:29:06,2024-04-10 16:00:00.000,0.0,18.09326705829191
+RHPL/NS/2741,Manjit kaur,9811826023,Digital,L1 - MDT Consult Scheduled,,female,63,Aditi  Bhardwaj,2024-02-23 17:28:04,2024-02-24 22:00:00.000,1.0,18.09326705829191
+RHPL/ON/3118,Shalu Gupta,8287453462,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,49,KS Santosh,2024-03-03 13:32:22,2024-03-03 15:30:00.000,0.0,18.09326705829191
+RHPL/DPRC/3119,Anita Arora,9868244434,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,49,Himanshu Sharma,2024-02-28 11:09:35,2024-03-04 20:00:00.000,5.0,18.09326705829191
+RHPL/ON/3229,Sonali Sharma,9310316230,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,30,Tauheed Hussain,2024-03-07 15:54:43,2024-03-07 21:00:00.000,0.0,18.09326705829191
+RHPL/DA/3300,Lata rani,7303118374,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,62,KS Santosh,2024-03-02 17:57:13,2024-03-10 18:00:00.000,8.0,18.09326705829191
+RHPL/WD/3361,Rupa Bakshi,9899691995,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,40,Tauheed Hussain,2024-03-12 11:19:10,2024-03-12 20:00:00.000,0.0,18.09326705829191
+RHPL/SH/3900,Sureshwati,9871721177,Digital,L5 - Pitched,Call1,female,,Himanshu Sharma,2024-03-21 10:45:44,2024-03-30 19:40:00.000,9.0,18.09326705829191
+RHPL/SH/3935,Mrs.sikhalo Devi,9013148232,DRO,L6 - New Lead,Day1Call2,female,,Arpita Tripathi,2024-03-18 18:21:39,2024-04-01 14:40:00.000,13.0,18.09326705829191
+RHPL/GH/3678,Ravi Saini,9811035140,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,42,Himanshu Sharma,2024-03-21 21:34:38,2024-03-24 13:40:00.000,2.0,18.09326705829191
+RHPL/GH/3814,Santosh Gupta,9643823417,,,,male,,,,2024-03-22 11:40:00.000,,18.09326705829191
+RHPL/SH/3880,Darshan Aggarwal,9711537435,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,65,Himanshu Sharma,2024-03-29 00:28:32,2024-03-30 18:00:00.000,1.0,18.09326705829191
+RHPL/SH/3722,TRIPTI,9818203430,,,,female,,,,2024-03-26 13:40:00.000,,18.09326705829191
+RHPL/NS/2775,Jugal Kishore,9267949997,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Dilshad Alam,2024-02-21 19:29:40,2024-02-26 14:30:00.000,4.0,18.09326705829191
+RHPL/GH/2810,Kamlesh Devi,9818942005,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,52,Harsh  Bharadwaj,2024-02-26 19:52:04,2024-03-01 11:00:00.000,3.0,18.09326705829191
+RHPL/DA/3363,Gopal Kishan Kataria,9250816862,DRO,L6 - New Lead,New,male,,Ankur Gulati,2024-03-13 22:43:10,2024-03-13 15:30:00.000,-1.0,18.09326705829191
+RHPL/GH/3389,Ram awadh pal,9868918410,DRO,Lead Dead - PD,Not interested at the moment,male,31,Akash Mishra,2024-02-12 07:42:04,2024-03-13 02:05:00.000,29.0,18.09326705829191
+RHPL/IC/3500,Mr. Vijay Kumar,9871594991,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Harsh  Bharadwaj,2024-03-16 22:14:30,2024-03-18 07:00:00.000,1.0,18.09326705829191
+RHPL/IC/3323,Rashmi Narula,9818376376,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,54,Tauheed Hussain,2024-03-08 10:17:58,2024-03-11 11:20:00.000,3.0,18.09326705829191
+RHPL/DARC/4165,Suresh Singh,9555459434,Digital,Lead Dead - PD,Not interested at the moment,male,,Sahil Kukreja,2023-08-28 21:38:41,2024-04-08 19:15:00.000,223.0,18.09326705829191
+RHPL/SH/2636,Dr Ajay Kumar,9350153966,,,,male,,,,2024-03-01 12:19:00.000,,18.09326705829191
+RHPL/SH/3881,Mamta .,9891120765,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,54,Arpita Tripathi,2024-03-30 10:29:30,2024-03-30 11:20:00.000,0.0,18.09326705829191
+RHPL/ON/4005,Rajesh Somani,9811596516,Digital,L1 - MDT Consult Scheduled,Online Consultation,male,54,Ankit Kumar,2024-04-03 11:50:18,2024-04-03 12:40:00.000,0.0,18.09326705829191
+RHPL/GH/4043,Redeemson Rongmei,9233904625,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,23,Harsh Prasad,2024-04-04 01:38:23,2024-04-05 12:00:00.000,1.0,18.09326705829191
+RHPL/SH/4207,ANJU AHUJA,0981197036,,,,female,,,,2024-04-11 12:20:00.000,,18.09326705829191
+RHPL/DARC/2506,Roshni Devi,8744007082,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,50,KS Santosh,2024-02-13 07:21:09,2024-02-13 19:00:00.000,0.0,18.09326705829191
+RHPL/ON/3231,Dimpy Batra Kohli,7976151306,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,34,Tauheed Hussain,2024-03-05 18:48:43,2024-03-07 20:30:00.000,2.0,18.09326705829191
+RHPL/DARC/3262,Neena Batra,9650380083,Digital,L1 - MDT Consult Scheduled,,female,55,Aditi  Bhardwaj,2024-03-07 22:20:24,2024-03-08 18:00:00.000,0.0,18.09326705829191
+RHPL/ON/3346,Monica Fernandez,9811705163,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,52,Tauheed Hussain,2024-03-11 17:34:37,2024-03-12 18:30:00.000,1.0,18.09326705829191
+RHPL/DARC/3446,Champa Devi,7065486325,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,60,Manshi Gupta,2024-03-15 06:11:38,2024-03-15 18:30:00.000,0.0,18.09326705829191
+RHPL/GH/3506,Daniel Reang,6009943276,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,23,shaan ahmad,2024-03-18 11:27:29,2024-03-18 10:30:00.000,-1.0,18.09326705829191
+RHPL/SH/3669,mukesh Mathur,9759113743,DRO,L6 - New Lead,New,male,,Harsh Prasad,2024-03-19 16:19:29,2024-03-23 18:20:00.000,4.0,18.09326705829191
+RHPL/DARC/3743,Asha Arora,9958791166,Digital,Lead Dead - PD,Not interested at the moment,female,,Tauheed Hussain,2024-03-16 13:20:03,2024-03-27 19:20:00.000,11.0,18.09326705829191
+RHPL/IC/3325,Anita Thakur,8851598955,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Roshni Sheikh,2024-03-10 09:50:21,2024-03-09 10:40:00.000,-1.0,18.09326705829191
+RHPL/BABC/3821,Babita Reji,9891090377,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Kshama  Sharma,2024-03-25 19:24:03,2024-03-29 19:10:00.000,3.0,18.09326705829191
+RHPL/GH/3178,Madhu Kumari,9911806299,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,50,Manshi Gupta,2024-02-12 19:16:42,2024-03-06 12:30:00.000,22.0,18.09326705829191
+RHPL/DARC/4216,Urmila Amola,9818393644,DRO,L6 - New Lead,Day1Call1,female,,Arpita Tripathi,2024-03-15 06:27:21,2024-04-09 19:15:00.000,25.0,18.09326705829191
+RHPL/DARC/3562,Manjay Kumar Yadav,9852637679,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,26,Kshama  Sharma,2024-03-18 20:24:31,2024-03-19 18:30:00.000,0.0,18.09326705829191
+RHPL/SH/3598,Ramawati devi .,9958636442,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Manshi Gupta,2024-03-21 10:55:53,2024-03-21 11:30:00.000,0.0,18.09326705829191
+RHPL/ASHL/3824,Rohit Kohli,9315245174,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,22,Abhishek .Chaudhary,2024-03-27 18:44:02,2024-03-30 15:00:00.000,2.0,18.09326705829191
+RHPL/DARC/3676,Mr Pawan,8766945427,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,65,Manshi Gupta,2024-03-28 13:22:09,2024-03-29 18:30:00.000,1.0,18.09326705829191
+RHPL/IC/3852,Kamlesh .,9873776031,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,57,Arpita Tripathi,2024-03-28 17:39:35,2024-03-29 19:20:00.000,1.0,18.09326705829191
+RHPL/SH/4304,Tulika .,7839511109,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Manshi Gupta,2024-04-11 16:46:52,2024-04-11 16:01:00.000,-1.0,18.09326705829191
+RHPL/SH/3252,Mrs. Neetu Devi,7477023920,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,38,Manshi Gupta,2024-03-07 21:01:43,2024-03-09 14:30:00.000,1.0,18.09326705829191
+RHPL/DM/3548,Nutan Nakra,9811903078,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Ankit Kumar,2024-03-14 15:13:48,2024-03-19 12:00:00.000,4.0,18.09326705829191
+RHPL/SH/4097,Sameer,9958952529,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,32,Akash Mishra,2024-04-05 10:14:22,2024-04-06 12:40:00.000,1.0,18.09326705829191
+RHPL/SH/4130,Renu Chopra,9810469791,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Aditi  Bhardwaj,2024-04-02 20:17:19,2024-04-06 12:00:00.000,3.0,18.09326705829191
+RHPL/SH/4073,Gulshaan kumar,9821945021,Digital,L1 MDT No Show,Clinic Visit,male,43,Ankit Kumar,2024-03-28 08:40:35,2024-04-06 19:00:00.000,9.0,18.09326705829191
+RHPL/SH/3296,Tejas Singh,0747702392,,,,male,,,,2024-03-09 12:40:00.000,,18.09326705829191
+RHPL/GH/2530,Sohan lal arora,9958765647,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-01-29 19:39:10,2024-02-16 10:30:00.000,17.0,18.09326705829191
+RHPL/SH/3272,Bipin Kumar,9718373456,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,59,Harsh  Bharadwaj,2024-03-08 20:18:16,2024-03-09 11:30:00.000,0.0,18.09326705829191
+RHPL/IC/4195,Adrash Singh,9921178886,Digital,Lead Dead - PD,Not interested at the moment,male,,Akash Mishra,2024-02-07 16:32:31,2024-04-08 19:00:00.000,61.0,18.09326705829191
+RHPL/SH/4301,Gyanti singh,9871817553,DRO,L5 - Pitched,Call1,female,50,Harsh  Bharadwaj,2024-03-04 01:00:38,2024-04-11 10:20:00.000,38.0,18.09326705829191
+RHPL/IC/3901,B P Dhaman,9540938751,DRO,L6 - New Lead,New,male,,Ankur Gulati,2024-03-30 13:43:24,2024-03-30 13:20:00.000,-1.0,18.09326705829191
+RHPL/DARC/4018,Ravi Singh,9990422682,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,Kshama  Sharma,2024-04-03 16:33:22,2024-04-05 18:45:00.000,2.0,18.09326705829191
+RHPL/GH/4293,Prem Lal,8447164798,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,62,Himanshu_H,2024-04-11 14:15:48,2024-04-12 11:20:00.000,0.0,18.09326705829191
+RHPL/SH/4324,Amna,9319031157,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,30,Roshni Sheikh,2024-04-08 14:39:28,2024-04-12 14:40:00.000,4.0,18.09326705829191
+RHPL/DARC/2677,SHAKUNTALA DEVI,9711904085,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,74,Harsh  Bharadwaj,2024-02-07 17:41:21,2024-02-22 18:30:00.000,15.0,18.09326705829191
+RHPL/SH/2750,Manish Mourya ( Akbar ),7869292004,Digital,L1 - MDT Consult Scheduled,,male,42,Aditi  Bhardwaj,2024-02-24 15:30:45,2024-02-25 17:30:00.000,1.0,18.09326705829191
+RHPL/DARC/3143,Ravinder Singh,9911417203,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,45,Dilshad Alam,2024-03-03 22:55:35,2024-03-04 18:30:00.000,0.0,18.09326705829191
+RHPL/DARC/3150,Pushpa Devi,8178883967,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,55,Harsh  Bharadwaj,2024-03-05 10:51:19,2024-03-05 18:00:00.000,0.0,18.09326705829191
+RHPL/SH/3216,Naresh Chander Singh Male 70,8368592363,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Manshi Gupta,2024-03-06 13:51:50,2024-03-08 10:30:00.000,1.0,18.09326705829191
+RHPL/GH/3368,Shannam Kaur,9213400348,Digital,L1 MDT No Show,Clinic Visit,male,52,Ankit Kumar,2024-03-11 14:21:11,2024-03-13 12:30:00.000,1.0,18.09326705829191
+RHPL/DARC/3483,Mala Choudhary,9958329006,Digital,Lead Dead - PD,Not interested at the moment,female,,Akash Mishra,2024-02-05 23:35:51,2024-03-18 19:00:00.000,41.0,18.09326705829191
+RHPL/IC/3766,Pritpal Singh,9811158595,Digital,Lead Dead - PD,Not responding after Pitched,male,,Akash Mishra,2024-02-12 15:06:15,2024-03-21 10:00:00.000,37.0,18.09326705829191
+RHPL/SH/4322,Mrs maya .,8447984839,DRO,Lead Dead - PD,Not interested at the moment,female,,Arpita Tripathi,2024-02-16 22:29:24,2024-04-13 12:40:00.000,56.0,18.09326705829191
+RHPL/SH/3109,KALPANA JAIN,9811322794,,,,female,,,,2024-03-02 12:29:00.000,,18.09326705829191
+RHPL/IC/3942,Pinki Bhateja,8130343542,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,52,Harsh Prasad,2024-03-28 23:56:53,2024-04-01 13:00:00.000,3.0,18.09326705829191
+RHPL/DARC/4037,Ramvati Devi,9250809512,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,72,Himanshu_H,2024-04-03 18:39:18,2024-04-04 18:30:00.000,0.0,18.09326705829191
+RHPL/IC/3421,Hari Ram Singh,9560216937,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,28,Ankit Kumar,2024-03-14 18:00:59,2024-03-15 10:40:00.000,0.0,18.09326705829191
+RHPL/DARC/4109,Meena Dhall,9811621470,Digital,L1 - MDT Consult Scheduled,Online Consultation,female,55,KS Santosh,2024-03-15 20:07:49,2024-04-05 19:00:00.000,20.0,18.09326705829191
+RHPL/SKM&RC/4323,Vijay Kapoor,8130091728,Digital,L1 MDT No Show,Clinic Visit,female,63,Himanshu Sharma,2024-04-09 15:37:01,2024-04-13 18:15:00.000,4.0,18.09326705829191
+RHPL/GH/2498,Hemant Kumar,8882344196,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,39,Roshni Sheikh,2024-02-13 00:15:40,2024-02-14 09:30:00.000,1.0,18.09326705829191
+RHPL/GH/2566,Rita .,9990950200,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,67,Arpita Tripathi,2024-02-16 20:37:01,2024-02-16 20:00:00.000,-1.0,18.09326705829191
+RHPL/SH/3091,Yogender .,8766305022,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,56,KS Santosh,2024-03-02 14:03:19,2024-03-02 13:30:00.000,-1.0,18.09326705829191
+RHPL/SH/3207,Madhu Chandra,9911163779,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,49,Harsh Prasad,2024-03-07 11:02:21,2024-03-09 10:30:00.000,1.0,18.09326705829191
+RHPL/ON/3275,Praveen Saxena,9770449910,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,58,KS Santosh,2024-03-07 20:35:28,2024-03-09 13:00:00.000,1.0,18.09326705829191
+RHPL/SH/3293,RAJIV,9811596115,Digital,Lead Dead - PD,Not interested at the moment,male,61,Akash Mishra,2024-02-15 22:57:47,2024-03-09 00:00:00.000,22.0,18.09326705829191
+RHPL/SH/3584,Mr Saurabh,9868217685,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,24,Manshi Gupta,2024-03-19 23:18:29,2024-03-23 12:40:00.000,3.0,18.09326705829191
+RHPL/IC/3829,Mrs. Kavita Sharma,9871620459,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,76,Abhishek .Chaudhary,2024-03-28 15:18:08,2024-03-29 11:00:00.000,0.0,18.09326705829191
+RHPL/GH/4378,Mr. Anees Ahmad .,9871285883,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,56,Arpita Tripathi,2024-04-13 16:05:48,2024-04-14 10:00:00.000,0.0,18.09326705829191
+RHPL/ON/3164,Afak,9312555848,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,42,Roshni Sheikh,2024-03-05 10:54:50,2024-03-05 17:00:00.000,0.0,18.09326705829191
+RHPL/GH/3969,Ganga Prasad,8851389911,DRO,L5 - Pitched,Call1,male,62,Harsh  Bharadwaj,2024-02-26 20:11:16,2024-04-01 13:20:00.000,34.0,18.09326705829191
+RHPL/DARC/4024,Ila khanna,9899532694,Digital,Lead Dead - PD,Not interested at the moment,female,,Aditi  Bhardwaj,2024-02-23 15:41:52,2024-04-03 18:45:00.000,40.0,18.09326705829191
+RHPL/IC/3350,Narinder Singh,9810017414,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,55,Kshama  Sharma,2024-03-07 15:13:14,2024-03-12 11:00:00.000,4.0,18.09326705829191
+RHPL/DARC/3768,Soni Gajraj,9990191435,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,40,Dilshad Alam,2024-03-26 17:29:28,2024-03-28 18:00:00.000,2.0,18.09326705829191
+RHPL/SH/3771,Mr. Desh Kumar Kakkar,9871889302,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,81,Abhishek .Chaudhary,2024-03-27 06:00:10,2024-03-28 13:00:00.000,1.0,18.09326705829191
+RHPL/DARC/3850,Pushpa Negi,7042293579,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,72,Aditi  Bhardwaj,2024-03-28 19:53:05,2024-03-29 19:30:00.000,0.0,18.09326705829191
+RHPL/IC/3964,Anju Sudarshan,8392914140,Social,L1 - MDT Consult Scheduled,Clinic Visit,female,37,Harsh Prasad,2024-04-01 23:52:01,2024-04-01 20:00:00.000,-1.0,18.09326705829191
+RHPL/DM/4281,Rajender Arora,9599306929,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,68,Himanshu_H,2024-04-09 18:48:43,2024-04-12 15:40:00.000,2.0,18.09326705829191
+RHPL/SH/4295,Kajal Massand,8800338474,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Himanshu Sharma,2024-04-01 22:13:58,2024-04-12 12:00:00.000,10.0,18.09326705829191
+RHPL/GH/3072,Dipti Arora,9873402420,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,49,Himanshu Sharma,2024-02-27 18:43:51,2024-03-01 18:00:00.000,2.0,18.09326705829191
+RHPL/SH/3120,Ami Kala,7292060524,Digital,L1 - MDT Consult Scheduled,,female,58,Aditi  Bhardwaj,2024-03-02 16:43:23,2024-03-04 10:00:00.000,1.0,18.09326705829191
+RHPL/DARC/3335,Faizan Khan,8273762511,Organic,L1 - MDT Consult Scheduled,Clinic Visit,male,29,Kshama  Sharma,2024-02-16 14:25:58,2024-03-11 18:00:00.000,24.0,18.09326705829191
+RHPL/GH/3372,Sunita Balyan,9013309753,Social,L1 - MDT Consult Scheduled,Online Consultation,female,53,Ankit Kumar,2024-03-12 20:38:27,2024-03-13 12:30:00.000,0.0,18.09326705829191
+RHPL/GH/3451,Ritu,8826897683,Digital,Lead Dead - PD,Not responding after Pitched,female,43,Akash Mishra,2024-01-11 00:05:40,2024-03-15 02:00:00.000,64.0,18.09326705829191
+RHPL/DM/2779,Rohan Sharma,9810859349,DRO,L5 - Pitched,Call4,male,26,Harsh  Bharadwaj,2024-02-24 20:59:14,2024-03-20 16:00:00.000,24.0,18.09326705829191
+RHPL/DARC/3575,Angrej Bahadur,9717293069,Digital,L1 - MDT Consult Scheduled,,male,68,Ankit Kumar,2024-03-20 00:13:10,2024-03-26 18:50:00.000,6.0,18.09326705829191
+RHPL/MV/3266,Bharat Bhushan,0315033887,,,,male,,,,2024-03-08 20:07:00.000,,18.09326705829191
+RHPL/SH/3679,Balwant,9911786001,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,70,Ankit Kumar,2024-03-22 00:11:39,2024-03-23 19:40:00.000,1.0,18.09326705829191
+RHPL/DM/4050,Deepak,9211845588,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,34,KS Santosh,2024-04-04 11:16:03,2024-04-05 16:00:00.000,1.0,18.09326705829191
+RHPL/SH/2648,Mr. Vikrant .,8930279452,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,50,Manshi Gupta,2024-02-20 08:28:56,2024-02-20 12:00:00.000,0.0,18.09326705829191
+RHPL/DARC/2697,Krishna Chavli,9818187146,Organic,L1 - MDT Consult Scheduled,Online Consultation,female,68,Tauheed Hussain,2024-02-22 10:52:15,2024-02-22 12:00:00.000,0.0,18.09326705829191
+RHPL/SH/2764,Kamlesh Kumari,8800541227,Referred by Doctor,Lead Dead - PD,Not interested at the moment,female,,Praison John,2023-10-27 17:03:55,2024-03-26 10:00:00.000,150.0,18.09326705829191
+RHPL/DARC/3247,Amod Kumar Singh,9868836994,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,62,Harsh  Bharadwaj,2023-12-16 21:58:28,2024-03-08 20:00:00.000,82.0,18.09326705829191
+RHPL/DARC/3340,Amit Kumar,8882235945,Digital,Lead Dead - PD,Not responding after Pitched,male,28,Abhishek .Chaudhary,2024-02-24 10:09:38,2024-03-11 18:30:00.000,16.0,18.09326705829191
+RHPL/SH/3439,Laxmi  Devi,9639059123,,,,female,,,,2024-03-15 07:00:00.000,,18.09326705829191
+RHPL/DARC/3849,Rahul Yadav,7827428682,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,22,Manshi Gupta,2024-03-28 13:23:10,2024-03-29 18:45:00.000,1.0,18.09326705829191
+RHPL/SH/4088,Rajat Goel,9560707213,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,23,Himanshu Sharma,2024-04-04 17:52:26,2024-04-04 19:20:00.000,0.0,18.09326705829191
+RHPL/GH/3574,Shambhu Thakur,9968786276,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,66,Anubhuti Raj,2024-03-19 19:45:29,2024-04-12 12:00:00.000,23.0,18.09326705829191
+RHPL/SKM&RC/4226,Prachi Kulshreshtha,9810522373,Digital,L1 - MDT Consult Scheduled,Clinic Visit,female,49,KS Santosh,2024-04-09 07:23:02,2024-04-11 19:45:00.000,2.0,18.09326705829191
+RHPL/SH/4326,Vinod Gupta .,9910578751,DRO,L1 - MDT Consult Scheduled,Clinic Visit,male,60,Manshi Gupta,2024-04-12 10:09:36,2024-04-12 12:40:00.000,0.0,18.09326705829191
+RHPL/DA/3390,Yogendra Gupta,9312085493,Digital,Junk,Duplicate Lead,male,,Dilshad Alam,2024-03-11 19:12:00,2024-03-13 12:00:00.000,1.0,18.09326705829191
+RHPL/SH/2703,Bimla devi,8826268287,DRO,L1 - MDT Consult Scheduled,Clinic Visit,female,56,Arpita Tripathi,2024-02-21 23:10:22,2024-02-24 18:00:00.000,2.0,18.09326705829191
+RHPL/IP/2623,Himanshu Sharma,7065581102,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,25,Aditi  Bhardwaj,2024-02-14 20:06:09,2024-02-19 14:00:00.000,4.0,18.09326705829191
+RHPL/SH/3321,Dhruv Chawla,9910233332,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,35,shaan ahmad,2024-03-10 11:41:26,2024-03-11 12:30:00.000,1.0,18.09326705829191
+RHPL/DARC/3567,Supratik Chakraborty,9051520117,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,34,KS Santosh,2024-03-19 17:22:26,2024-03-19 19:30:00.000,0.0,18.09326705829191
+RHPL/IC/3452,Rashika Abrol,7669095333,Organic,L1 - MDT Consult Scheduled,Clinic Visit,female,45,Aditi  Bhardwaj,2024-03-15 15:37:57,2024-03-15 11:40:00.000,-1.0,18.09326705829191
+,Prafull,7992252167,Digital,L1 - MDT Consult Scheduled,Clinic Visit,male,30,Himanshu Sharma,2024-04-05 14:22:46,2024-04-05 12:00:00.000,-1.0,18.09326705829191

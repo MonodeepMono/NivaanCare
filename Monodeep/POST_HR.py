@@ -23,107 +23,113 @@ conn_prod = mycursor_prod.execute
 
 sql_query_prod = """
  WITH pat_pres AS (
-            SELECT 
-                user_id,
-                DATE_ADD(DATE_ADD(MAX(updated_at) ,INTERVAL 5 hour),INTERVAL 30 minute) AS updated_at,
-                max(data) as data
-            FROM 
-                patient_prescription pp 
-            GROUP BY 
-                user_id
-        )
-        , profileanswer AS (
-            SELECT 
-                user_id,
-                MAX(CASE WHEN `key` = 'care_pathway' THEN answer END) AS "care_pathway",
-                MAX(CASE WHEN `key` = 'occupation' THEN answer END) AS "occupation",
-                MAX(CASE WHEN `key` = 'pain' THEN answer END) AS "pain",
-                MAX(CASE WHEN `key` = 'pain_since' THEN answer END) AS "pain_since",
-                MAX(CASE WHEN `key` = 'pain_site' THEN answer END) AS "pain_site",
-                MAX(CASE WHEN `key` = 'pain_type' THEN answer END) AS "pain_type",
-                MAX(CASE WHEN `key` = 'past_treatment' THEN answer END) AS "past_treatment",
-                MAX(CASE WHEN `key` = 'source' THEN answer END) AS "source",
-                MAX(CASE WHEN `key` = 'age' THEN answer END) AS "age",
-                MAX(CASE WHEN `key` LIKE '%next_followup_date%' THEN answer END) AS "nextfollowup"
-            FROM 
-                profile_answer
-            GROUP BY 
-                user_id
-        )
-        , consultation AS (
-            select c.user_id user_id,
-                   MAX(c.title) title,
-                   MAX(c.consult_type) consult_type,
-                   MAX(DATE_ADD(DATE_ADD(c.consult_datetime ,INTERVAL 5 hour),INTERVAL 30 minute)) consult_datetime,
-                   MAX(c.patient_attendance_status) patient_attendance_status,
-                   MAX(c.payment_type) payment_type,
-                   MAX(c.payment_mode) payment_mode,
-                   MAX(c.amount) amount,
-                   MAX(c.payment_from) payment_from,
-                   MAX(c.payment_with_source) payment_with_source,
-                   MAX(c.admin_id) admin_id
-            from consultation c
-            group by 1,date(c.created_at)
-        )
-        SELECT 
-            up.patient_id AS "Patient Id",
-            up.full_name AS "Patient Name",
-            up.address AS "Address",
-            pa.age as "Age",
-            up.gender AS "Gender",
-            up.phone AS "Phone",
-            up.pincode AS "Pincode",
-            pa.care_pathway AS "Care Pathway",
-            rs.title AS "Master Status",
-            pp.updated_at AS "PMS Consult Date",
-            pp.data as "Diagnosis",
-            pp.data as "ON_examination",
-            pa.occupation AS "Occupation",
-            pa.pain AS "Pain Score",
-            pa.pain_since AS "Pain Since",
-            pa.pain_site AS "Pain Site",
-            pa.pain_type AS "Pain Type",
-            pa.past_treatment AS "Past Treatment",
-            pa.source AS "Source",
-            up.onboarding_status AS "Onboarding Status",
-            c.title AS "Consultation Name",
-            c.consult_type AS "Consultation Type",
-            ap.full_name AS "Consulting Specialist",
-            c.consult_datetime AS "Consult Datetime",
-            c.patient_attendance_status AS "Patient Attendance Status",
-            c.payment_type AS "Payment Type",
-            c.payment_mode AS "Payment Mode",
-            c.amount AS "Amount",
-            c.payment_from AS "Payment From",
-            c.payment_with_source AS "Payment with",
-            l.name as "Clinic Name",
-            CONVERT_TZ(pa.nextfollowup, '+00:00', '+05:30') as NextFollowUpCM,
-            CONVERT_TZ(
-                STR_TO_DATE(
-                    JSON_UNQUOTE(JSON_EXTRACT(pp.data, '$[8].answer')),
-                    '%Y-%m-%dT%H:%i:%s'
-                ),
-                '+00:00',
-                '+05:30'
-            )AS "Follow_up_PMS_consultation"
-            
-        FROM 
-            user_profile up
-        LEFT JOIN 
-            consultation c ON up.id = c.user_id
-        LEFT JOIN 
-            resource_status rs ON up.status_id = rs.uuid
-        LEFT JOIN 
-            profileanswer pa ON up.id = pa.user_id
-        LEFT JOIN 
-            pat_pres pp ON up.id = pp.user_id
-        LEFT JOIN 
-            admin_profile ap ON c.admin_id = ap.id
-        LEFT JOIN 
-            user_profile_locations upl ON upl.userprofile_id = up.id
-        LEFT JOIN 
-            location l ON upl.location_id = l.id
-        ORDER BY c.consult_datetime DESC;
+    SELECT 
+        user_id,
+        DATE_ADD(DATE_ADD(MAX(updated_at) ,INTERVAL 5 hour),INTERVAL 30 minute) AS updated_at,
+        MAX(data) as data
+    FROM 
+        patient_prescription pp 
+    GROUP BY 
+        user_id
+),
+profileanswer AS (
+    SELECT 
+        user_id,
+        MAX(CASE WHEN `key` = 'care_pathway' THEN answer END) AS "care_pathway",
+        MAX(CASE WHEN `key` = 'occupation' THEN answer END) AS "occupation",
+        MAX(CASE WHEN `key` = 'pain' THEN answer END) AS "pain",
+        MAX(CASE WHEN `key` = 'pain_since' THEN answer END) AS "pain_since",
+        MAX(CASE WHEN `key` = 'pain_site' THEN answer END) AS "pain_site",
+        MAX(CASE WHEN `key` = 'pain_type' THEN answer END) AS "pain_type",
+        MAX(CASE WHEN `key` = 'past_treatment' THEN answer END) AS "past_treatment",
+        MAX(CASE WHEN `key` = 'source' THEN answer END) AS "source",
+        MAX(CASE WHEN `key` = 'age' THEN answer END) AS "age",
+        MAX(CASE WHEN `key` LIKE '%next_followup_date%' THEN answer END) AS "nextfollowup"
+    FROM 
+        profile_answer
+    GROUP BY 
+        user_id
+),
+consultation AS (
+    SELECT 
+        c.user_id user_id,
+        MAX(c.title) title,
+        MAX(c.consult_type) consult_type,
+        MAX(DATE_ADD(DATE_ADD(c.consult_datetime ,INTERVAL 5 hour),INTERVAL 30 minute)) consult_datetime,
+        MAX(c.patient_attendance_status) patient_attendance_status,
+        MAX(c.payment_type) payment_type,
+        MAX(c.payment_mode) payment_mode,
+        MAX(c.amount) amount,
+        MAX(c.payment_from) payment_from,
+        MAX(c.payment_with_source) payment_with_source,
+        MAX(c.admin_id) admin_id
+    FROM 
+        consultation c
+    GROUP BY 
+        1, DATE(c.created_at)
+)
+SELECT 
+    up.patient_id AS "Patient Id",
+    up.full_name AS "Patient Name",
+    up.address AS "Address",
+    pa.age as "Age",
+    up.gender AS "Gender",
+    up.phone AS "Phone",
+    up.pincode AS "Pincode",
+    pa.care_pathway AS "Care Pathway",
+    rs.title AS "Master Status",
+    pp.updated_at AS "PMS Consult Date",
+    pp.data as "Diagnosis",
+    pp.data as "ON_examination",
+    pa.occupation AS "Occupation",
+    pa.pain AS "Pain Score",
+    pa.pain_since AS "Pain Since",
+    pa.pain_site AS "Pain Site",
+    pa.pain_type AS "Pain Type",
+    pa.past_treatment AS "Past Treatment",
+    pa.source AS "Source",
+    up.onboarding_status AS "Onboarding Status",
+    c.title AS "Consultation Name",
+    c.consult_type AS "Consultation Type",
+    ap.full_name AS "Consulting Specialist",
+    c.consult_datetime AS "Consult Datetime",
+    c.patient_attendance_status AS "Patient Attendance Status",
+    c.payment_type AS "Payment Type",
+    c.payment_mode AS "Payment Mode",
+    c.amount AS "Amount",
+    c.payment_from AS "Payment From",
+    c.payment_with_source AS "Payment with",
+    l.name as "Clinic Name",
+    CONVERT_TZ(pa.nextfollowup, '+00:00', '+05:30') as NextFollowUpCM,
+    CONVERT_TZ(
+        STR_TO_DATE(
+            JSON_UNQUOTE(JSON_EXTRACT(pp.data, '$[8].answer')),
+            '%Y-%m-%dT%H:%i:%s'
+        ),
+        '+00:00',
+        '+05:30'
+    )AS "Follow_up_PMS_consultation"
+FROM 
+    user_profile up
+LEFT JOIN 
+    consultation c ON up.id = c.user_id
+LEFT JOIN 
+    resource_status rs ON up.status_id = rs.uuid
+LEFT JOIN 
+    profileanswer pa ON up.id = pa.user_id
+LEFT JOIN 
+    pat_pres pp ON up.id = pp.user_id
+LEFT JOIN 
+    admin_profile ap ON c.admin_id = ap.id
+LEFT JOIN 
+    user_profile_locations upl ON upl.userprofile_id = up.id
+LEFT JOIN 
+    location l ON upl.location_id = l.id
+WHERE 
+    DATE(c.consult_datetime) <= CURDATE() -- Filter consultations on or before the current day
+ORDER BY 
+    c.consult_datetime DESC;
+
 """
 df = pd.read_sql_query(sql_query_prod,mydb_prod)
 
