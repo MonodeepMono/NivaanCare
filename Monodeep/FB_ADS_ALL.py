@@ -22,7 +22,7 @@ sql_query = """
   SELECT 
   *
   FROM nivaancare_production.facebook_ads fa
-WHERE DATE_FORMAT(fa.date_start  , '%Y-%m-%d') >= '2024-03-01'  and DATE_FORMAT(fa.date_start  , '%Y-%m-%d') <= DATE(NOW())-1;
+WHERE DATE_FORMAT(fa.date_start  , '%Y-%m-%d') >= '2024-02-26'  and DATE_FORMAT(fa.date_start  , '%Y-%m-%d') <= DATE(NOW())-1;
 
   
    
@@ -48,7 +48,7 @@ spreadsheetId = '1eni28VWN7hluEUImtROeHL9YoIUyw5Jxh196PgxZ4ic'
 sheetName = 'FB_ADS_ALL'        # Please set sheet name you want to put the CSV data.
 csvFile = 'Nivaan_FB_ADS_ALL.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'FB_ADS_ALL'!A2:X")
+sh.values_clear("'FB_ADS_ALL'!A2:W")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})

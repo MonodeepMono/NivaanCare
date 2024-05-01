@@ -1,0 +1,1219 @@
+Id,Scheduled By,Full Name,Speciality,SUM of Visit per day,Final Visit
+1,Aditya Rao,abc,Orthopedic,0,0
+2,Aditya Rao,Dr Rahul Das (test),General Physician,0,0
+3,Aditya Rao,Dr. Harmesh Aggarwal,General Physician,0,0
+4,Aditya Rao,Dr. Kumar Gupta,Orthopedic,1,1
+5,Aditya Rao,Dr. Sujit Singh,General Physician,1,1
+6,Aditya Rao,sanjana,General Physician,0,0
+7,Arun Kumar,Dr Ashish Pandey,Physiotherapist,4,4
+8,Arun Kumar,Dr Deepak Soniyar,General Physician,7,7
+9,Arun Kumar,Dr Manoj Aggarwal,General Physician,1,1
+10,Arun Kumar,Dr Naresh Chawla,General Physician,4,4
+11,Arun Kumar,Dr R M Chhabra,General Physician,4,4
+12,Arun Kumar,Dr Virendra Kumar Tanwar,General Physician,7,7
+13,Arun Kumar,Dr. A K Budhiraja,General Physician,1,1
+14,Arun Kumar,Dr. A k Diwan,General Physician,6,6
+15,Arun Kumar,Dr. A K Surekha,General Physician,1,1
+16,Arun Kumar,Dr. Abhishek Parekh,General Physician,2,2
+17,Arun Kumar,Dr. Aghosh Pasricha,General Physician,14,7+
+18,Arun Kumar,Dr. AK Malhotra,General Physician,3,3
+19,Arun Kumar,Dr. AK Sukhija,General Physician,12,7+
+20,Arun Kumar,Dr. Alok Joshi,General Physician,2,2
+21,Arun Kumar,Dr. Alok Kalyani,Orthopedic,2,2
+22,Arun Kumar,Dr. Amardeep Sachdeva,General Physician,5,5
+23,Arun Kumar,Dr. Amit Singhal,General Physician,3,3
+24,Arun Kumar,Dr. Amreshwar Narayana,General Physician,13,7+
+25,Arun Kumar,Dr. Anil Aggarwal,General Physician,7,7
+26,Arun Kumar,Dr. Anil Jain,General Physician,2,2
+27,Arun Kumar,Dr. Ankita Garg,Obstetricians or Gynecologist (OBGYNs),8,7+
+28,Arun Kumar,Dr. Ankur Gupta,Orthopedic,0,0
+29,Arun Kumar,Dr. Ankur Rathi,General Physician,10,7+
+30,Arun Kumar,Dr. Ankur Sharma,Orthopedic,4,4
+31,Arun Kumar,Dr. Anuj Chanda,General Physician,27,7+
+32,Arun Kumar,Dr. Anupam Verma,General Physician,7,7
+33,Arun Kumar,Dr. Anupriya,General Physician,13,7+
+34,Arun Kumar,Dr. Arun Jain,General Physician,11,7+
+35,Arun Kumar,Dr. Ashish Deshwal,Physiotherapist,1,1
+36,Arun Kumar,Dr. Ashok Kaushik,General Physician,4,4
+37,Arun Kumar,Dr. Ashok Kumar Surekha,General Physician,1,1
+38,Arun Kumar,Dr. Ashok Pansari,General Physician,3,3
+39,Arun Kumar,Dr. Ashok Ratnani,Physiotherapist,1,1
+40,Arun Kumar,Dr. Azad Kumar,General Physician,9,7+
+41,Arun Kumar,Dr. B k Aggarwal,General Physician,5,5
+42,Arun Kumar,Dr. Baldev Chhabra,General Physician,7,7
+43,Arun Kumar,Dr. BKDubey,General Physician,14,7+
+44,Arun Kumar,Dr. Brij Mohan,General Physician,4,4
+45,Arun Kumar,Dr. Chetan Rijwani,General Physician,1,1
+46,Arun Kumar,Dr. Chhaya Tiwari,Physiotherapist,1,1
+47,Arun Kumar,Dr. Chitra Gupta,General Physician,2,2
+48,Arun Kumar,Dr. D K Dewan,General Physician,15,7+
+49,Arun Kumar,Dr. D K Diwan,General Physician,9,7+
+50,Arun Kumar,Dr. Deepak Gupta,General Physician,5,5
+51,Arun Kumar,Dr. Devendra Kumar,Physiotherapist,3,3
+52,Arun Kumar,Dr. Dinesh Bansal,Orthopedic,2,2
+53,Arun Kumar,Dr. Dinesh Mittal,Orthopedic,2,2
+54,Arun Kumar,Dr. DK Srivastava,#N/A,2,2
+55,Arun Kumar,Dr. DP Sarkar,General Physician,15,7+
+56,Arun Kumar,Dr. Eshan Srivastava,General Physician,16,7+
+57,Arun Kumar,Dr. Faizan Riyasat,General Physician,3,3
+58,Arun Kumar,Dr. Fatima,General Physician,8,7+
+59,Arun Kumar,Dr. Gagan N Jain,General Physician,12,7+
+60,Arun Kumar,Dr. Gunjan Jain,General Physician,8,7+
+61,Arun Kumar,Dr. Gurubax Singh,Neurologist,2,2
+62,Arun Kumar,Dr. Harpreet Kaur,General Physician,13,7+
+63,Arun Kumar,Dr. I G Goel,Neurologist,3,3
+64,Arun Kumar,Dr. J S Monga,General Physician,1,1
+65,Arun Kumar,Dr. Jagdeep Chugh,General Physician,1,1
+66,Arun Kumar,Dr. Jagjeet Singh,General Physician,2,2
+67,Arun Kumar,Dr. Jyoti Sethi,General Physician,9,7+
+68,Arun Kumar,Dr. K L Rijwani,General Physician,7,7
+69,Arun Kumar,Dr. Kamlesh Haldar,General Physician,1,1
+70,Arun Kumar,Dr. Kapil Dev Chhabra,General Physician,1,1
+71,Arun Kumar,Dr. Kapil Sethi,General Physician,6,6
+72,Arun Kumar,Dr. Kunal Aneja,Orthopedic,1,1
+73,Arun Kumar,Dr. M A khan,General Physician,10,7+
+74,Arun Kumar,Dr. M K Chawla,General Physician,19,7+
+75,Arun Kumar,Dr. M S Aggarwal,Physiotherapist,4,4
+76,Arun Kumar,Dr. Mahesh Garg,General Physician,10,7+
+77,Arun Kumar,Dr. Man Singh,General Physician,1,1
+78,Arun Kumar,Dr. Manish Kr Mittal,General Physician,6,6
+79,Arun Kumar,Dr. Manish Mathur,General Physician,3,3
+80,Arun Kumar,Dr. Manoj Aggarwal,General Physician,2,2
+81,Arun Kumar,Dr. Meera Thakur,General Physician,16,7+
+82,Arun Kumar,Dr. Megha Jain,General Physician,15,7+
+83,Arun Kumar,Dr. Megha Narula,Dentist,6,6
+84,Arun Kumar,Dr. Mehak Khurana,Dentist,1,1
+85,Arun Kumar,Dr. Mohit Luthra,General Physician,1,1
+86,Arun Kumar,Dr. MT Khan,General Physician,23,7+
+87,Arun Kumar,Dr. Mukta Midhha,Infectious Disease Physician,3,3
+88,Arun Kumar,Dr. N C Bhatt,General Physician,3,3
+89,Arun Kumar,Dr. N N jha,General Physician,6,6
+90,Arun Kumar,Dr. Naresh Pamnani,General Physician,4,4
+91,Arun Kumar,Dr. Naveen Verma,Physiotherapist,1,1
+92,Arun Kumar,Dr. Neha Bansal,General Physician,8,7+
+93,Arun Kumar,Dr. Nidhi,Orthopedic,11,7+
+94,Arun Kumar,Dr. Nisha singh,Physiotherapist,2,2
+95,Arun Kumar,Dr. Nishu Chanda,General Physician,22,7+
+96,Arun Kumar,Dr. Nitin Aggarwal,General Physician,1,1
+97,Arun Kumar,Dr. Pankaj Aneja,General Physician,4,4
+98,Arun Kumar,Dr. Parshant Jhakmola,Physiotherapist,2,2
+99,Arun Kumar,Dr. Parveen Garg,Obstetricians or Gynecologist (OBGYNs),10,7+
+100,Arun Kumar,Dr. Paryag Garg,General Physician,17,7+
+101,Arun Kumar,Dr. Pawan Kumar,General Physician,8,7+
+102,Arun Kumar,Dr. PK Goyal,General Physician,12,7+
+103,Arun Kumar,Dr. Prashant Bharti,Physiotherapist,1,1
+104,Arun Kumar,Dr. Puneet Gulati,Neurologist,3,3
+105,Arun Kumar,Dr. Puneet Rijwani,General Physician,4,4
+106,Arun Kumar,Dr. R L Nagrani,General Physician,3,3
+107,Arun Kumar,Dr. R M Bagga,Orthopedic,2,2
+108,Arun Kumar,Dr. Raj Kumar Sood,Physiotherapist,3,3
+109,Arun Kumar,Dr. Rajat Arora,Neurologist,0,0
+110,Arun Kumar,Dr. Rajiv Gupta,General Physician,1,1
+111,Arun Kumar,Dr. Rajiv Jindal,General Physician,0,0
+112,Arun Kumar,Dr. Rajiv Kaushik,General Physician,2,2
+113,Arun Kumar,Dr. Rajiv Pahwa,General Physician,4,4
+114,Arun Kumar,Dr. Rakesh Dua,Neurologist,1,1
+115,Arun Kumar,Dr. Rakesh Sapra,Orthopedic,1,1
+116,Arun Kumar,Dr. Rakesh Sharma,General Physician,5,5
+117,Arun Kumar,Dr. Rakesk Jain,General Physician,1,1
+118,Arun Kumar,Dr. Ramakant Kaushik,General Physician,7,7
+119,Arun Kumar,Dr. Raman,Physiotherapist,1,1
+120,Arun Kumar,Dr. Ramesh Datta,General Physician,2,2
+121,Arun Kumar,Dr. Ramesh Hari,General Physician,9,7+
+122,Arun Kumar,Dr. Rashmi Rijwani,General Physician,6,6
+123,Arun Kumar,Dr. Ravi Bansal,General Physician,4,4
+124,Arun Kumar,Dr. Renu Mathur,Dentist,2,2
+125,Arun Kumar,Dr. Ridhi Kathuriya,Obstetricians or Gynecologist (OBGYNs),7,7
+126,Arun Kumar,Dr. RKSankariya,Orthopedic,1,1
+127,Arun Kumar,Dr. Romil Yadav,General Physician,12,7+
+128,Arun Kumar,Dr. S D Rathi,General Physician,9,7+
+129,Arun Kumar,Dr. S Gupta,General Physician,1,1
+130,Arun Kumar,Dr. S K Mundra,General Physician,3,3
+131,Arun Kumar,Dr. S K Nagrani,General Physician,16,7+
+132,Arun Kumar,Dr. S K Singh,General Physician,1,1
+133,Arun Kumar,Dr. S Rajan,General Physician,18,7+
+134,Arun Kumar,Dr. S S Gupta,General Physician,10,7+
+135,Arun Kumar,Dr. Sadhana Srivastava,Obstetricians or Gynecologist (OBGYNs),3,3
+136,Arun Kumar,Dr. Sajal Agarwal,Physiotherapist,2,2
+137,Arun Kumar,Dr. Sandeep Datta,General Physician,2,2
+138,Arun Kumar,Dr. Sangeeta Maurya,General Physician,4,4
+139,Arun Kumar,Dr. Sanjay Aggarwal,General Physician,9,7+
+140,Arun Kumar,Dr. Sanjay Jain,General Physician,11,7+
+141,Arun Kumar,Dr. Sanjeev Singhal,Orthopedic,4,4
+142,Arun Kumar,Dr. Sanjeev Verma,Orthopedic,10,7+
+143,Arun Kumar,Dr. Sardeshu Srivastava,Physiotherapist,1,1
+144,Arun Kumar,Dr. Sardeshu Srivastava Gulabi bagh,Physiotherapist,1,1
+145,Arun Kumar,Dr. Sarita,General Physician,2,2
+146,Arun Kumar,Dr. Saurabh Moda,Orthopedic,1,1
+147,Arun Kumar,Dr. Seema Bhardwaj,Obstetricians or Gynecologist (OBGYNs),3,3
+148,Arun Kumar,Dr. Shailesh Jain,General Physician,9,7+
+149,Arun Kumar,Dr. Shashi Satija,General Physician,7,7
+150,Arun Kumar,Dr. Shipra,Physiotherapist,2,2
+151,Arun Kumar,Dr. Shitiz Bhardwaj,Orthopedic,2,2
+152,Arun Kumar,Dr. Shivam Tiwari,Physiotherapist,1,1
+153,Arun Kumar,Dr. Shobhit,General Physician,9,7+
+154,Arun Kumar,Dr. Shushil Karshna,General Physician,3,3
+155,Arun Kumar,Dr. Shweta,General Physician,6,6
+156,Arun Kumar,Dr. Shyamsundar Gupta,General Physician,7,7
+157,Arun Kumar,Dr. SK Mehta,General Physician,10,7+
+158,Arun Kumar,Dr. Somesh Chhabra,Psychiatrist,1,1
+159,Arun Kumar,Dr. Sonali Jain,Physiotherapist,9,7+
+160,Arun Kumar,Dr. Soniya,General Physician,6,6
+161,Arun Kumar,Dr. Subodh Gupta,General Physician,5,5
+162,Arun Kumar,Dr. Subodh Kansal,General Physician,7,7
+163,Arun Kumar,Dr. Suchin Bajaj,General Physician,7,7
+164,Arun Kumar,Dr. Sukeerti Azad,General Physician,6,6
+165,Arun Kumar,Dr. Sundar Rao,General Physician,2,2
+166,Arun Kumar,Dr. Sunita Sodi,General Physician,1,1
+167,Arun Kumar,Dr. Supiriya Gulyani,Physiotherapist,2,2
+168,Arun Kumar,Dr. Surbhi Azad,Obstetricians or Gynecologist (OBGYNs),4,4
+169,Arun Kumar,Dr. Suresh Munjal,General Physician,1,1
+170,Arun Kumar,Dr. Sushma Kauda,General Physician,14,7+
+171,Arun Kumar,Dr. Tarun Dubey,General Surgeon,13,7+
+172,Arun Kumar,Dr. V K Aggarwal,General Physician,15,7+
+173,Arun Kumar,Dr. V K Goyal,General Physician,20,7+
+174,Arun Kumar,Dr. V K Singh,General Physician,5,5
+175,Arun Kumar,Dr. Vijay Kathuriya,General Physician,11,7+
+176,Arun Kumar,Dr. Vijay Kumar,General Physician,27,7+
+177,Arun Kumar,Dr. Vikas Sharma,General Physician,3,3
+178,Arun Kumar,Dr. Vinay Chand,Physiotherapist,4,4
+179,Arun Kumar,Dr. Vineet Sabharwal,General Physician,0,0
+180,Arun Kumar,Dr. Vipin Saxena,General Physician,3,3
+181,Arun Kumar,Dr. Vipul Rustgi,General Physician,7,7
+182,Arun Kumar,Dr. Waseem Sidiqi,General Physician,14,7+
+183,Arun Kumar,Dr. Yudhveer Bansal,General Physician,5,5
+184,Atul Pandey,Dr. A. K. kathuria,General Physician,1,1
+185,Atul Pandey,Dr. A. k. sarkar,General Physician,4,4
+186,Atul Pandey,Dr. A. Massey,Physiotherapist,2,2
+187,Atul Pandey,Dr. A.k. goswami,General Physician,1,1
+188,Atul Pandey,Dr. A.k. Goyal,General Physician,12,7+
+189,Atul Pandey,Dr. abhinav Mishra,General Physician,12,7+
+190,Atul Pandey,Dr. Abhishek Jain,Orthopedic,4,4
+191,Atul Pandey,Dr. Aditi Singh,Physiotherapist,2,2
+192,Atul Pandey,Dr. Aditya Bhardwaj,General Physician,2,2
+193,Atul Pandey,Dr. Adnan khan,General Physician,11,7+
+194,Atul Pandey,Dr. Ajeeta Goel,Physiotherapist,2,2
+195,Atul Pandey,Dr. Akram Jawed,Orthopedic,0,0
+196,Atul Pandey,Dr. Alok Mathur,General Physician,2,2
+197,Atul Pandey,Dr. Amit choudhary,General Physician,8,7+
+198,Atul Pandey,Dr. Amit Kumar jha,Physiotherapist,1,1
+199,Atul Pandey,Dr. Amit kumar lakra,General Physician,1,1
+200,Atul Pandey,Dr. Amit Sharma,General Physician,1,1
+201,Atul Pandey,Dr. Amitabh Gosh,General Physician,1,1
+202,Atul Pandey,Dr. Amrish Soni,General Physician,3,3
+203,Atul Pandey,Dr. Amrita kumari,Physiotherapist,1,1
+204,Atul Pandey,Dr. Anant Parashar,General Physician,0,0
+205,Atul Pandey,Dr. Anant Parasher,#N/A,0,0
+206,Atul Pandey,Dr. Anil Bansal,General Physician,1,1
+207,Atul Pandey,Dr. Anil chindalia,General Physician,2,2
+208,Atul Pandey,Dr. Anil Kumar,Physiotherapist,3,3
+209,Atul Pandey,Dr. Anil Kumar chindalia,General Physician,2,2
+210,Atul Pandey,Dr. Anirudh Sharma,General Physician,5,5
+211,Atul Pandey,Dr. anita kumar,General Physician,1,1
+212,Atul Pandey,Dr. Anita Kumari,Physiotherapist,3,3
+213,Atul Pandey,Dr. Anita yadav,Obstetricians or Gynecologist (OBGYNs),7,7
+214,Atul Pandey,Dr. Ankhus kumar,Physiotherapist,2,2
+215,Atul Pandey,Dr. Ankit dutt sharma,Physiotherapist,1,1
+216,Atul Pandey,Dr. Anshu Alok,General Physician,1,1
+217,Atul Pandey,Dr. Anshuman Madaan,#N/A,1,1
+218,Atul Pandey,Dr. Anuj Chaudhary,General Physician,1,1
+219,Atul Pandey,Dr. Anuj Gupta,General Physician,9,7+
+220,Atul Pandey,Dr. Archna gupta,General Physician,1,1
+221,Atul Pandey,Dr. Arpit Sharma,ENT,0,0
+222,Atul Pandey,Dr. Arti ahuja,General Physician,4,4
+223,Atul Pandey,Dr. Arun Kumar,General Physician,1,1
+224,Atul Pandey,Dr. Arun Sharma,#N/A,4,4
+225,Atul Pandey,Dr. Arundhati,General Physician,2,2
+226,Atul Pandey,Dr. Arvind kumar,General Physician,11,7+
+227,Atul Pandey,Dr. Arvind tomar,General Physician,1,1
+228,Atul Pandey,Dr. Aseem Dhall,General Physician,3,3
+229,Atul Pandey,Dr. Aseem Gupta,General Physician,1,1
+230,Atul Pandey,Dr. Ashish Kala,General Physician,2,2
+231,Atul Pandey,Dr. Ashok mittal,General Physician,9,7+
+232,Atul Pandey,Dr. Ashok Rajput,General Physician,0,0
+233,Atul Pandey,Dr. Ashok Taneja,General Physician,0,0
+234,Atul Pandey,Dr. Avijeet Singh,General Physician,3,3
+235,Atul Pandey,Dr. Avinash Sharma,General Physician,3,3
+236,Atul Pandey,Dr. avnish sharma,General Physician,2,2
+237,Atul Pandey,Dr. B. B. Gupta,General Physician,11,7+
+238,Atul Pandey,Dr. B. S. arora,General Physician,11,7+
+239,Atul Pandey,Dr. B.R. sur,General Physician,1,1
+240,Atul Pandey,Dr. Bharat Bhushan hiteshi,General Physician,1,1
+241,Atul Pandey,Dr. bhavya arora,Physiotherapist,2,2
+242,Atul Pandey,Dr. C. S. nanda,General Physician,9,7+
+243,Atul Pandey,Dr. C.k. Gupta,General Physician,11,7+
+244,Atul Pandey,Dr. C.R. Sarangi,General Physician,3,3
+245,Atul Pandey,Dr. Chitra Shekhawat,Obstetricians or Gynecologist (OBGYNs),1,1
+246,Atul Pandey,Dr. D. s. lathwal,General Physician,1,1
+247,Atul Pandey,Dr. d.c. dhurvi,General Physician,7,7
+248,Atul Pandey,Dr. Darhana devi,General Physician,2,2
+249,Atul Pandey,Dr. Darshna devi,General Physician,3,3
+250,Atul Pandey,Dr. Dharam Singh,General Physician,0,0
+251,Atul Pandey,Dr. Dharveer,General Physician,3,3
+252,Atul Pandey,Dr. Dhruv kapoor,General Physician,9,7+
+253,Atul Pandey,Dr. Dinesh Chandra Gupta,General Physician,1,1
+254,Atul Pandey,Dr. Dinesh singh,General Physician,13,7+
+255,Atul Pandey,Dr. Dipu kumar Vishwas,General Physician,0,0
+256,Atul Pandey,Dr. Divya mangla,Physiotherapist,1,1
+257,Atul Pandey,Dr. DK Kathuria,General Physician,6,6
+258,Atul Pandey,Dr. Farooguee,General Physician,1,1
+259,Atul Pandey,Dr. G. haldar,General Physician,3,3
+260,Atul Pandey,Dr. G. k. verma,General Physician,1,1
+261,Atul Pandey,Dr. G. manchanda,General Physician,5,5
+262,Atul Pandey,Dr. Gajraj anand,General Physician,18,7+
+263,Atul Pandey,Dr. Gaurav malik,Physiotherapist,4,4
+264,Atul Pandey,Dr. Gaurav rana,Physiotherapist,1,1
+265,Atul Pandey,Dr. Gholam sarwar,Physiotherapist,2,2
+266,Atul Pandey,Dr. Gopal Bhagat,General Physician,2,2
+267,Atul Pandey,Dr. Gopal Krishan Gopal,#N/A,1,1
+268,Atul Pandey,Dr. Gopal Krishna,General Physician,2,2
+269,Atul Pandey,Dr. H. Deka,General Physician,2,2
+270,Atul Pandey,Dr. H. k. Sharma,General Physician,0,0
+271,Atul Pandey,Dr. H. S. Yadav,General Physician,11,7+
+272,Atul Pandey,Dr. Haresh sidwa,General Physician,3,3
+273,Atul Pandey,Dr. Hari Krishna sensua,General Physician,6,6
+274,Atul Pandey,Dr. Hari Kumar yadav,General Physician,0,0
+275,Atul Pandey,Dr. harish Grover,Physiotherapist,0,0
+276,Atul Pandey,Dr. Himanshu Bansal,Orthopedic,1,1
+277,Atul Pandey,Dr. Himanshu Saini,General Physician,1,1
+278,Atul Pandey,Dr. Irfan khan,General Physician,8,7+
+279,Atul Pandey,Dr. J. S. saini,General Physician,3,3
+280,Atul Pandey,Dr. j.k.ojha,General Physician,9,7+
+281,Atul Pandey,Dr. Jagdish singh,General Physician,1,1
+282,Atul Pandey,Dr. JAMilwani,General Physician,3,3
+283,Atul Pandey,Dr. Janak kumari,General Physician,6,6
+284,Atul Pandey,Dr. Jasjeet singh,General Physician,1,1
+285,Atul Pandey,Dr. jatin arora,General Physician,1,1
+286,Atul Pandey,Dr. JayChakraborty,General Physician,1,1
+287,Atul Pandey,Dr. jignesh Srivastava,Physiotherapist,1,1
+288,Atul Pandey,Dr. jitendar tomar,General Physician,10,7+
+289,Atul Pandey,Dr. jitesh Arora,General Physician,1,1
+290,Atul Pandey,Dr. K. P. singh,General Physician,3,3
+291,Atul Pandey,Dr. k. p. sinha,General Physician,1,1
+292,Atul Pandey,Dr. k.k.tyagi,General Physician,1,1
+293,Atul Pandey,Dr. kamal kumar,General Physician,2,2
+294,Atul Pandey,Dr. kashma Singh,General Physician,2,2
+295,Atul Pandey,Dr. Kiran Kumar,General Physician,17,7+
+296,Atul Pandey,Dr. KK Bajaj,#N/A,3,3
+297,Atul Pandey,Dr. Krishna verma,General Physician,2,2
+298,Atul Pandey,Dr. Kumar,Orthopedic,1,1
+299,Atul Pandey,Dr. Ladil Chatterjee,General Physician,0,0
+300,Atul Pandey,Dr. lalit Garg,Physiotherapist,13,7+
+301,Atul Pandey,Dr. Laxmi lodha,General Physician,9,7+
+302,Atul Pandey,Dr. M Ahamd,Orthopedic,3,3
+303,Atul Pandey,Dr. M. M. Paithankar,General Physician,11,7+
+304,Atul Pandey,Dr. M.k. mandal,General Physician,8,7+
+305,Atul Pandey,Dr. Madhu Nigam,General Physician,2,2
+306,Atul Pandey,Dr. Mahendar Sharma,General Physician,1,1
+307,Atul Pandey,Dr. mahima,General Physician,1,1
+308,Atul Pandey,Dr. Malti Malhotra,General Physician,1,1
+309,Atul Pandey,Dr. Man singh,General Physician,2,2
+310,Atul Pandey,Dr. Manish Mahajan,Neurologist,1,1
+311,Atul Pandey,Dr. Manoj jain,General Physician,3,3
+312,Atul Pandey,Dr. Manshi garg,General Physician,1,1
+313,Atul Pandey,Dr. manshwai kumar,General Physician,10,7+
+314,Atul Pandey,Dr. meenu goyal,Obstetricians or Gynecologist (OBGYNs),6,6
+315,Atul Pandey,Dr. Meenu Gupta,General Physician,1,1
+316,Atul Pandey,Dr. Meenu Virdi,General Physician,12,7+
+317,Atul Pandey,Dr. mohamd Safi,Physiotherapist,2,2
+318,Atul Pandey,Dr. Mohindra singh,General Physician,3,3
+319,Atul Pandey,Dr. Mukul,General Physician,1,1
+320,Atul Pandey,Dr. Muneendra Gupta,General Physician,1,1
+321,Atul Pandey,Dr. N. P. verma,General Physician,3,3
+322,Atul Pandey,Dr. N. R. jagannathan,General Physician,2,2
+323,Atul Pandey,Dr. n.s. Rawat,General Physician,7,7
+324,Atul Pandey,Dr. Narendar kumar kashyap,General Physician,1,1
+325,Atul Pandey,Dr. Narendra yadav,Physiotherapist,1,1
+326,Atul Pandey,Dr. naresh jakhar,General Physician,9,7+
+327,Atul Pandey,Dr. Naresh Pandit,Orthopedic,0,0
+328,Atul Pandey,Dr. Nasir subhag,General Physician,2,2
+329,Atul Pandey,Dr. Naveen Kumar,General Physician,15,7+
+330,Atul Pandey,Dr. Naveen Kumar sharma,General Physician,1,1
+331,Atul Pandey,Dr. NC Bansal,General Physician,1,1
+332,Atul Pandey,Dr. neetu rathi,Physiotherapist,1,1
+333,Atul Pandey,Dr. neha yadav,General Physician,1,1
+334,Atul Pandey,Dr. Nitu Garg,General Physician,4,4
+335,Atul Pandey,Dr. O.P.varma,ENT,2,2
+336,Atul Pandey,Dr. P. k. gupta,General Physician,5,5
+337,Atul Pandey,Dr. P. R. Goyal,General Physician,0,0
+338,Atul Pandey,Dr. pankaj agnihotri,General Physician,1,1
+339,Atul Pandey,Dr. pankaj kumar,Physiotherapist,6,6
+340,Atul Pandey,Dr. Pankaj Sayal,General Physician,1,1
+341,Atul Pandey,Dr. paras dhhaka,Physiotherapist,0,0
+342,Atul Pandey,Dr. Pawan Khanna,General Physician,3,3
+343,Atul Pandey,Dr. PD Pahwa,General Physician,1,1
+344,Atul Pandey,Dr. Pooja Soni,Physiotherapist,2,2
+345,Atul Pandey,Dr. Prabhat Goel,General Physician,2,2
+346,Atul Pandey,Dr. Prahlad Rai Dhokariya,#N/A,1,1
+347,Atul Pandey,Dr. Prakash Kumar Mishra,Physiotherapist,0,0
+348,Atul Pandey,Dr. Pramod Madan,General Physician,3,3
+349,Atul Pandey,Dr. Pramod Sharma,General Physician,2,2
+350,Atul Pandey,Dr. Prasant Bhatia,General Physician,1,1
+351,Atul Pandey,Dr. Prashant bhatia,General Physician,2,2
+352,Atul Pandey,Dr. pratibha kumari,General Physician,1,1
+353,Atul Pandey,Dr. Pratik Banerjee,General Physician,3,3
+354,Atul Pandey,Dr. Preeti Dhankhar,Obstetricians or Gynecologist (OBGYNs),1,1
+355,Atul Pandey,Dr. Preeti malik,Neurologist,1,1
+356,Atul Pandey,Dr. Priyadarshini,General Physician,2,2
+357,Atul Pandey,Dr. R. K. kapoor,General Physician,17,7+
+358,Atul Pandey,Dr. R. k. luthria,General Physician,3,3
+359,Atul Pandey,Dr. R. k. Vats,General Physician,4,4
+360,Atul Pandey,Dr. R. S. chandra,General Physician,4,4
+361,Atul Pandey,Dr. R. s. Chauhan,Physiotherapist,1,1
+362,Atul Pandey,Dr. r. tanwar,Physiotherapist,3,3
+363,Atul Pandey,Dr. R.P. wadhwa,General Physician,1,1
+364,Atul Pandey,Dr. Raghav kapoor,Neurologist,5,5
+365,Atul Pandey,Dr. Rahul Aggarwal,General Physician,1,1
+366,Atul Pandey,Dr. Rahul Kumar,Orthopedic,0,0
+367,Atul Pandey,Dr. Raj kumar,General Physician,2,2
+368,Atul Pandey,Dr. Raj Sharma,General Physician,15,7+
+369,Atul Pandey,Dr. Rajesh Bawaja,General Physician,2,2
+370,Atul Pandey,Dr. Rajesh Kakkar,General Physician,1,1
+371,Atul Pandey,Dr. Rajesh Ravi,General Physician,2,2
+372,Atul Pandey,Dr. Rajiv Sharma,Gastroenterologist,2,2
+373,Atul Pandey,Dr. Rajkumar karwani,General Physician,1,1
+374,Atul Pandey,Dr. Rajneesh Gupta,General Physician,1,1
+375,Atul Pandey,Dr. rajni sidhwa,Obstetricians or Gynecologist (OBGYNs),5,5
+376,Atul Pandey,Dr. Ram singh,General Physician,1,1
+377,Atul Pandey,Dr. Ranjana Nanda,Obstetricians or Gynecologist (OBGYNs),9,7+
+378,Atul Pandey,Dr. Ravinder yogi,General Physician,0,0
+379,Atul Pandey,Dr. Renu Mishra,General Physician,1,1
+380,Atul Pandey,Dr. RK Gupta,General Physician,2,2
+381,Atul Pandey,Dr. Roshan jha,Physiotherapist,1,1
+382,Atul Pandey,Dr. Rosy Dhall,Obstetricians or Gynecologist (OBGYNs),1,1
+383,Atul Pandey,Dr. RS Rawat,General Physician,2,2
+384,Atul Pandey,Dr. S Chauhan,Orthopedic,0,0
+385,Atul Pandey,Dr. s r. Agarwal,General Physician,1,1
+386,Atul Pandey,Dr. S. K. choudhary,General Physician,6,6
+387,Atul Pandey,Dr. S. k. Manchanda,General Physician,3,3
+388,Atul Pandey,Dr. S. k. Mathur,General Physician,0,0
+389,Atul Pandey,Dr. S. k. Puri,General Physician,1,1
+390,Atul Pandey,Dr. S. N. Gautam,General Physician,9,7+
+391,Atul Pandey,Dr. S. P. Gupta,General Physician,1,1
+392,Atul Pandey,Dr. S. P. jain,General Physician,16,7+
+393,Atul Pandey,Dr. S. prashad,General Physician,3,3
+394,Atul Pandey,Dr. S. R. Sarkar,Physiotherapist,5,5
+395,Atul Pandey,Dr. S. Sharma,General Physician,8,7+
+396,Atul Pandey,Dr. S.K sharmak,Orthopedic,2,2
+397,Atul Pandey,Dr. s.k.rao,General Physician,1,1
+398,Atul Pandey,Dr. s.k.rathour,Physiotherapist,1,1
+399,Atul Pandey,Dr. s.p. Agarwal,General Physician,2,2
+400,Atul Pandey,Dr. s.s.chhonkar,General Physician,1,1
+401,Atul Pandey,Dr. sachin yadav,Orthopedic,3,3
+402,Atul Pandey,Dr. Samir shud,General Physician,1,1
+403,Atul Pandey,Dr. Sandeep Chauhan,Orthopedic,0,0
+404,Atul Pandey,Dr. Sandeep deb,General Physician,2,2
+405,Atul Pandey,Dr. Sandip dev,General Physician,3,3
+406,Atul Pandey,Dr. Sangeeta Sharma,General Physician,1,1
+407,Atul Pandey,Dr. Sangita makwana,General Physician,8,7+
+408,Atul Pandey,Dr. Sanjay Dhaiya,General Physician,4,4
+409,Atul Pandey,Dr. Sanjay jain,General Physician,9,7+
+410,Atul Pandey,Dr. Sanjay Kalaan,General Physician,3,3
+411,Atul Pandey,Dr. Sanjeev Kumar Singhal,General Physician,7,7
+412,Atul Pandey,Dr. Sanjiv Sharma,General Physician,2,2
+413,Atul Pandey,Dr. Sankalp mohan,Neurologist,1,1
+414,Atul Pandey,Dr. santosh kumar,General Physician,1,1
+415,Atul Pandey,Dr. Sarita Dhawan,General Physician,4,4
+416,Atul Pandey,Dr. Sarthak Chakraborty,General Physician,2,2
+417,Atul Pandey,Dr. Sarthak chakravarty,General Physician,2,2
+418,Atul Pandey,Dr. Satish shah,Physiotherapist,1,1
+419,Atul Pandey,Dr. satveer Singh,General Physician,18,7+
+420,Atul Pandey,Dr. satyandra pal Gupta,General Physician,1,1
+421,Atul Pandey,Dr. seema sinha,General Physician,2,2
+422,Atul Pandey,Dr. Shashi goyal,Obstetricians or Gynecologist (OBGYNs),4,4
+423,Atul Pandey,Dr. Shatish kumar dixit,General Physician,2,2
+424,Atul Pandey,Dr. Shiv Kumar,General Physician,1,1
+425,Atul Pandey,Dr. Shivjeet Yadav,General Physician,2,2
+426,Atul Pandey,Dr. Shrawan kr azad,General Physician,0,0
+427,Atul Pandey,Dr. Sidhant Narula,#N/A,1,1
+428,Atul Pandey,Dr. SK Rao,General Physician,1,1
+429,Atul Pandey,Dr. SM Bansal,#N/A,0,0
+430,Atul Pandey,Dr. smriti thapa,Physiotherapist,4,4
+431,Atul Pandey,Dr. Subhash Talwar,General Physician,1,1
+432,Atul Pandey,Dr. Sujata Chandra,General Physician,11,7+
+433,Atul Pandey,Dr. Sumit Kumar,General Physician,3,3
+434,Atul Pandey,Dr. sunil kumar Chauhan,General Physician,9,7+
+435,Atul Pandey,Dr. Sunil Kumar yadav,General Physician,1,1
+436,Atul Pandey,Dr. Sunil.K baknsal,General Physician,4,4
+437,Atul Pandey,Dr. Suresh Prasad,General Physician,1,1
+438,Atul Pandey,Dr. sushil Kumar Chauhan,General Physician,5,5
+439,Atul Pandey,Dr. Sveta bharadwaja,General Physician,1,1
+440,Atul Pandey,Dr. swaroop nagi,General Physician,9,7+
+441,Atul Pandey,Dr. T. N. rao,General Physician,17,7+
+442,Atul Pandey,Dr. Tapan ghose,General Physician,4,4
+443,Atul Pandey,Dr. U. k. bansal,General Physician,16,7+
+444,Atul Pandey,Dr. Umesh Sehgal,General Physician,1,1
+445,Atul Pandey,Dr. Uttera sehgal,General Physician,10,7+
+446,Atul Pandey,Dr. V. k. Sinha,General Physician,6,6
+447,Atul Pandey,Dr. V. kumar,General Physician,0,0
+448,Atul Pandey,Dr. V. P. Sachar,General Physician,1,1
+449,Atul Pandey,Dr. Vandana Gutam,General Physician,11,7+
+450,Atul Pandey,Dr. Vegnesh Kathuria,General Physician,0,0
+451,Atul Pandey,Dr. Vijay Kapoor,General Physician,2,2
+452,Atul Pandey,Dr. Vijay Mittal,Orthopedic,0,0
+453,Atul Pandey,Dr. vikas kumar,Physiotherapist,1,1
+454,Atul Pandey,Dr. Vikrant,General Physician,2,2
+455,Atul Pandey,Dr. Vina Hyanki,General Physician,4,4
+456,Atul Pandey,Dr. Vinod Aanand,General Physician,4,4
+457,Atul Pandey,Dr. Vinod Saini,General Physician,2,2
+458,Atul Pandey,Dr. Vinod Wadhwa,General Physician,3,3
+459,Atul Pandey,Dr. Vipin Kumar,Orthopedic,2,2
+460,Atul Pandey,Dr. vishal Kapoor,ENT,1,1
+461,Atul Pandey,Dr. Yogandar kumar,General Physician,1,1
+462,Atul Pandey,Dr. Yogendra Kumar,General Physician,2,2
+463,Atul Pandey,Dr. Yogesh joshi,General Physician,3,3
+464,Atul Pandey,Dr. yogesh mittal,General Physician,1,1
+465,Atul Pandey,Dr.Durgesh,Physiotherapist,1,1
+466,Atul Pandey,Dr.K.L.kathuria,General Physician,1,1
+467,Atul Pandey,Dr.Prakash kumar,Physiotherapist,1,1
+468,Atul Pandey,Dr.Rajive Grover,General Physician,2,2
+469,Atul Pandey,Dr.Rekha soni,General Physician,1,1
+470,Atul Pandey,Mr. Mukesh Singh,General Physician,9,7+
+471,Harshita Sharma,ar Arun gupta,General Physician,0,0
+472,Harshita Sharma,Dr greesh manwani,General Physician,0,0
+473,Harshita Sharma,Dr Gurubax Singh,Neurologist,0,0
+474,Harshita Sharma,Dr Jatin Chaudhary,General Physician,0,0
+475,Harshita Sharma,Dr M D bhargava,General Physician,0,0
+476,Harshita Sharma,DR S KUMAR,General Physician,0,0
+477,Inder Pawar,Abhay Kumar Paul,General Physician,10,7+
+478,Inder Pawar,Ajay Kumar,General Physician,1,1
+479,Inder Pawar,AK Gupta,General Physician,2,2
+480,Inder Pawar,AK Malhotra,General Physician,7,7
+481,Inder Pawar,Amit Jindal,General Physician,0,0
+482,Inder Pawar,Anand Aggarwal,General Physician,2,2
+483,Inder Pawar,Anil Gomber,General Physician,5,5
+484,Inder Pawar,Anil K Monga,ENT,7,7
+485,Inder Pawar,Ashish,General Physician,19,7+
+486,Inder Pawar,Ashok Kaushik,General Physician,9,7+
+487,Inder Pawar,Ashok Wasan,ENT,2,2
+488,Inder Pawar,B. Nagpal,General Physician,13,7+
+489,Inder Pawar,CHANDRA PRAKASH,General Physician,1,1
+490,Inder Pawar,Chetan kumar Jain,General Physician,24,7+
+491,Inder Pawar,Dalbir Singh,General Physician,6,6
+492,Inder Pawar,Dheeraj Kumar Singh,General Physician,4,4
+493,Inder Pawar,Dilip Arora,General Physician,10,7+
+494,Inder Pawar,Dr. Akanksha,Physiotherapist,4,4
+495,Inder Pawar,Dr. Anuj Sharma,Physiotherapist,1,1
+496,Inder Pawar,Dr. Ashwani Saini,Physiotherapist,8,7+
+497,Inder Pawar,Dr. Deepesh Saxena,Physiotherapist,0,0
+498,Inder Pawar,Dr. Dinesh Yadav,Physiotherapist,6,6
+499,Inder Pawar,Dr. Divyansh singh,Physiotherapist,3,3
+500,Inder Pawar,Dr. DK Singh,Physiotherapist,7,7
+501,Inder Pawar,Dr. Jaya Rawat,Physiotherapist,2,2
+502,Inder Pawar,Dr. Jyotsana Batra Lohia,Physiotherapist,1,1
+503,Inder Pawar,Dr. Lovika Ahuja,Physiotherapist,2,2
+504,Inder Pawar,Dr. Mithun kr Garg,Physiotherapist,1,1
+505,Inder Pawar,Dr. Nikhil Aggarwal,Physiotherapist,2,2
+506,Inder Pawar,Dr. Rajesh K Ranjan,Physiotherapist,2,2
+507,Inder Pawar,Dr. Rakesh Garg,Physiotherapist,2,2
+508,Inder Pawar,Dr. Rashmi,Physiotherapist,1,1
+509,Inder Pawar,Dr. Ravi Kumar,Physiotherapist,3,3
+510,Inder Pawar,Dr. Sachin Tiwari,Physiotherapist,8,7+
+511,Inder Pawar,Dr. Shehzad,Physiotherapist,6,6
+512,Inder Pawar,Dr. Smriti,Physiotherapist,4,4
+513,Inder Pawar,Dr. Tanveer Akram,Physiotherapist,2,2
+514,Inder Pawar,Dr. Vinay Aggarwal,Physiotherapist,2,2
+515,Inder Pawar,DUCHHAN,General Physician,1,1
+516,Inder Pawar,Garima,General Physician,20,7+
+517,Inder Pawar,Gaurav Bhatia,General Physician,8,7+
+518,Inder Pawar,Gautam Arora,General Physician,2,2
+519,Inder Pawar,GS Gupta,General Physician,5,5
+520,Inder Pawar,GS Khandpur,General Physician,0,0
+521,Inder Pawar,Gurleen Kaur,General Physician,16,7+
+522,Inder Pawar,HARISH NARULA,General Physician,6,6
+523,Inder Pawar,IP Goel,Neurologist,2,2
+524,Inder Pawar,Jagdeep Chugh,General Physician,5,5
+525,Inder Pawar,JR Sharma,General Physician,0,0
+526,Inder Pawar,JS Monga,General Physician,8,7+
+527,Inder Pawar,Kalpana Chandra,General Physician,11,7+
+528,Inder Pawar,M D Grover,General Physician,10,7+
+529,Inder Pawar,Mahender Sadana,General Physician,19,7+
+530,Inder Pawar,Manish,General Physician,13,7+
+531,Inder Pawar,Mansi,General Physician,7,7
+532,Inder Pawar,MD Gupta,General Physician,4,4
+533,Inder Pawar,Meena Rani,General Physician,9,7+
+534,Inder Pawar,N. Singh,General Physician,6,6
+535,Inder Pawar,Nanak Dass Jolly,General Physician,10,7+
+536,Inder Pawar,Naveen Ailawadi,General Physician,0,0
+537,Inder Pawar,NM Saxena,General Physician,10,7+
+538,Inder Pawar,PK Sood,General Physician,9,7+
+539,Inder Pawar,Prakash Kalra,General Physician,3,3
+540,Inder Pawar,Pratibha,General Physician,19,7+
+541,Inder Pawar,R B Arya,General Physician,6,6
+542,Inder Pawar,Rajendra Gupta,General Physician,3,3
+543,Inder Pawar,Rajesh Prasad,General Physician,19,7+
+544,Inder Pawar,Rajni Tiwari,General Physician,8,7+
+545,Inder Pawar,Rakesh Mayor,General Physician,2,2
+546,Inder Pawar,RP Jain,General Physician,0,0
+547,Inder Pawar,Sameer Sethi,ENT,5,5
+548,Inder Pawar,Sandhya Verma,General Physician,8,7+
+549,Inder Pawar,Sanjeev Goyal,General Physician,0,0
+550,Inder Pawar,Satyapal Singh,General Physician,15,7+
+551,Inder Pawar,Seema Rastogi,General Physician,7,7
+552,Inder Pawar,Shailendra Kumar,General Physician,12,7+
+553,Inder Pawar,Shubhla Bansal,General Physician,4,4
+554,Inder Pawar,Shushila Gambhir,General Physician,8,7+
+555,Inder Pawar,Shyam Sunder Sharma,General Physician,8,7+
+556,Inder Pawar,Siddharth Gupta,General Physician,4,4
+557,Inder Pawar,SK Kanodia,ENT,5,5
+558,Inder Pawar,Subhash Chander Sapra,General Physician,8,7+
+559,Inder Pawar,Sumit Sethi,General Physician,2,2
+560,Inder Pawar,Sunita Gupta,General Physician,12,7+
+561,Inder Pawar,Sunita Rani Chhabra,General Physician,9,7+
+562,Inder Pawar,Sunita Verma,General Physician,2,2
+563,Inder Pawar,Sushil kumar gupta,Physiotherapist,1,1
+564,Inder Pawar,Sushila Gambhir,General Physician,5,5
+565,Inder Pawar,Vipin Prabhakar Verma,General Physician,10,7+
+566,Inder Pawar,Vivek Jha,General Physician,6,6
+567,Inder Pawar,VK Bali,General Physician,3,3
+568,Mithun Test,David D,Cardiologist,1,1
+569,Mithun Test,Harish,Nephrologist,1,1
+570,Mithun Test,Ravi,Physiotherapist,2,2
+571,Neeraj Bari,Dr Amarjeet Singh,General Physician,1,1
+572,Neeraj Bari,Dr Anjan Roy,General Physician,6,6
+573,Neeraj Bari,Dr Anurag,General Physician,3,3
+574,Neeraj Bari,Dr Harish thakkar,General Physician,4,4
+575,Neeraj Bari,Dr jagjit singh,General Physician,9,7+
+576,Neeraj Bari,Dr Jalaj Ranjan,General Physician,13,7+
+577,Neeraj Bari,Dr jitendra kumar,Physiotherapist,1,1
+578,Neeraj Bari,Dr Karam mehra,General Physician,1,1
+579,Neeraj Bari,Dr Kiran kukreja,General Physician,4,4
+580,Neeraj Bari,Dr mukesh,General Physician,3,3
+581,Neeraj Bari,Dr pK Bansal,General Physician,5,5
+582,Neeraj Bari,Dr PK Meena,General Physician,1,1
+583,Neeraj Bari,Dr Rahul Baliyan pt,Physiotherapist,19,7+
+584,Neeraj Bari,Dr Ratna Roay,General Physician,2,2
+585,Neeraj Bari,Dr Ritesh mishra,Physiotherapist,3,3
+586,Neeraj Bari,Dr RK sharma,General Physician,1,1
+587,Neeraj Bari,Dr Rohit Sharma,General Physician,1,1
+588,Neeraj Bari,Dr RS Chandna,General Physician,10,7+
+589,Neeraj Bari,Dr SG Grewal,General Physician,1,1
+590,Neeraj Bari,Dr SK gupta,General Physician,8,7+
+591,Neeraj Bari,Dr SK Pathak,General Physician,4,4
+592,Neeraj Bari,Dr Sumit kumar,General Physician,2,2
+593,Neeraj Bari,Dr Sunita Mahta,General Physician,3,3
+594,Neeraj Bari,Dr Vivek tan3ja,General Physician,2,2
+595,Neeraj Bari,Dr. A Mondal,#N/A,22,7+
+596,Neeraj Bari,Dr. Aazad,Dermatologist,3,3
+597,Neeraj Bari,Dr. Abhilasha,Physiotherapist,9,7+
+598,Neeraj Bari,Dr. Abhinav Garg,Orthopedic,1,1
+599,Neeraj Bari,Dr. AbuWasim,General Physician,13,7+
+600,Neeraj Bari,Dr. AK Bali,General Physician,2,2
+601,Neeraj Bari,Dr. AK Israni,General Physician,2,2
+602,Neeraj Bari,Dr. AK Sagal,General Physician,0,0
+603,Neeraj Bari,Dr. AK Singh,General Physician,6,6
+604,Neeraj Bari,Dr. Akansha Agarwal,General Physician,1,1
+605,Neeraj Bari,Dr. Alia Siddiqui,Physiotherapist,1,1
+606,Neeraj Bari,Dr. Amit Chugh,Orthopedic,1,1
+607,Neeraj Bari,Dr. Anamika Gupta,#N/A,18,7+
+608,Neeraj Bari,Dr. Anil Bhatia,General Physician,4,4
+609,Neeraj Bari,Dr. Anil sharma,General Physician,4,4
+610,Neeraj Bari,Dr. Anjali Nakra,General Physician,16,7+
+611,Neeraj Bari,Dr. Ankit Bhambri,Orthopedic,2,2
+612,Neeraj Bari,Dr. Ankur Goyal,Orthopedic,2,2
+613,Neeraj Bari,Dr. Anuja Juneja,Physiotherapist,4,4
+614,Neeraj Bari,Dr. Apurwa Pawar,Physiotherapist,5,5
+615,Neeraj Bari,Dr. Ashish Arora,Pulmonologist,1,1
+616,Neeraj Bari,Dr. Ashish Sharma,Physiotherapist,2,2
+617,Neeraj Bari,Dr. Ashok Bhat,#N/A,19,7+
+618,Neeraj Bari,Dr. Ashok Gupta,General Physician,11,7+
+619,Neeraj Bari,Dr. Ashraf,Physiotherapist,2,2
+620,Neeraj Bari,Dr. Asif A Siddiqui,General Physician,1,1
+621,Neeraj Bari,Dr. Asif Naqvi,#N/A,2,2
+622,Neeraj Bari,Dr. Atul Ahuja,Surgeon,11,7+
+623,Neeraj Bari,Dr. Atul Arora,General Physician,26,7+
+624,Neeraj Bari,Dr. Aushi kakkar,Physiotherapist,5,5
+625,Neeraj Bari,Dr. Avis Tayal,Physiotherapist,1,1
+626,Neeraj Bari,Dr. Bhavneet Kaur,Psychiatrist,4,4
+627,Neeraj Bari,Dr. Bhim Singh,Orthopedic,2,2
+628,Neeraj Bari,Dr. Biran Nandkarni,Orthopedic,1,1
+629,Neeraj Bari,Dr. Chandan Das,General Physician,12,7+
+630,Neeraj Bari,Dr. charan 5,General Physician,1,1
+631,Neeraj Bari,Dr. Chetan,General Physician,1,1
+632,Neeraj Bari,Dr. Das Gupta,General Physician,0,0
+633,Neeraj Bari,Dr. Debasish Dhar,General Physician,3,3
+634,Neeraj Bari,Dr. Deepa,General Physician,1,1
+635,Neeraj Bari,Dr. deepak,Physiotherapist,4,4
+636,Neeraj Bari,Dr. Deepti,General Physician,17,7+
+637,Neeraj Bari,Dr. Deppa Gupta,Gastroenterologist,1,1
+638,Neeraj Bari,Dr. Dheeraj nath,General Physician,1,1
+639,Neeraj Bari,Dr. dheeraj singh,General Physician,3,3
+640,Neeraj Bari,Dr. Gagan Thukral,Physiotherapist,3,3
+641,Neeraj Bari,Dr. Geeta Kalra,Orthopedic,4,4
+642,Neeraj Bari,Dr. GM mathur,General Physician,17,7+
+643,Neeraj Bari,Dr. Gupta Gupta,Orthopedic,1,1
+644,Neeraj Bari,Dr. Hariom Ahuja,General Physician,28,7+
+645,Neeraj Bari,Dr. Harjeet Singh Nanda,General Physician,17,7+
+646,Neeraj Bari,Dr. Harsh Goswami,Physiotherapist,16,7+
+647,Neeraj Bari,Dr. Himanshu Gour,Orthopedic,1,1
+648,Neeraj Bari,Dr. HL kantroo,General Physician,13,7+
+649,Neeraj Bari,Dr. HS Kapoor,General Physician,7,7
+650,Neeraj Bari,Dr. Jagmohan Singh,General Physician,4,4
+651,Neeraj Bari,Dr. Jahgir,General Physician,24,7+
+652,Neeraj Bari,Dr. JD Dua,General Physician,2,2
+653,Neeraj Bari,Dr. jeetu mishra,Physiotherapist,2,2
+654,Neeraj Bari,Dr. Jethani,General Physician,3,3
+655,Neeraj Bari,Dr. JPS Tulsi,General Physician,3,3
+656,Neeraj Bari,Dr. JS Lamba,General Physician,6,6
+657,Neeraj Bari,Dr. Kamaljit Singh,General Physician,2,2
+658,Neeraj Bari,Dr. Khusrshida Rehman,Physiotherapist,4,4
+659,Neeraj Bari,Dr. Kopal aggarwal,Physiotherapist,1,1
+660,Neeraj Bari,Dr. Kumar Gupta,Orthopedic,4,4
+661,Neeraj Bari,Dr. kunal vashisht and Dr. Kavita Mehta,Physiotherapist,0,0
+662,Neeraj Bari,Dr. LK Malhotra,Nephrologist,1,1
+663,Neeraj Bari,Dr. MA Shamsi,General Physician,1,1
+664,Neeraj Bari,Dr. Mahtab Rai,General Physician,13,7+
+665,Neeraj Bari,Dr. Manish Dhawan,Orthopedic,2,2
+666,Neeraj Bari,Dr. Manju Gupta,General Physician,1,1
+667,Neeraj Bari,Dr. Manoj Kumar,Physiotherapist,13,7+
+668,Neeraj Bari,Dr. Marib,Physiotherapist,2,2
+669,Neeraj Bari,Dr. Md Nasir Khan,General Physician,2,2
+670,Neeraj Bari,Dr. MD shadab,General Physician,2,2
+671,Neeraj Bari,Dr. MD Soheb,Physiotherapist,1,1
+672,Neeraj Bari,Dr. Meenakshi Sharma,Physiotherapist,16,7+
+673,Neeraj Bari,Dr. Meeta Chandra,General Physician,13,7+
+674,Neeraj Bari,Dr. ML Kalra,General Physician,5,5
+675,Neeraj Bari,Dr. MN Alam,General Physician,11,7+
+676,Neeraj Bari,Dr. Mohd Aslam,General Physician,1,1
+677,Neeraj Bari,Dr. Nadeem Ahmed,#N/A,12,7+
+678,Neeraj Bari,Dr. Nandani Sharma,General Physician,7,7
+679,Neeraj Bari,Dr. Navneet Kaur,General Physician,2,2
+680,Neeraj Bari,Dr. Nawab ahmad,General Physician,2,2
+681,Neeraj Bari,Dr. Neeraj Bangia,General Physician,1,1
+682,Neeraj Bari,Dr. NK Arora,General Physician,3,3
+683,Neeraj Bari,Dr. NK Sagar,General Physician,3,3
+684,Neeraj Bari,Dr. OP Singh,General Physician,12,7+
+685,Neeraj Bari,Dr. Pakta,General Physician,3,3
+686,Neeraj Bari,Dr. PK kulsestra,General Physician,3,3
+687,Neeraj Bari,Dr. PK Mukharjee,General Physician,2,2
+688,Neeraj Bari,Dr. pK sharma,General Physician,7,7
+689,Neeraj Bari,Dr. Poonam Puri,General Physician,2,2
+690,Neeraj Bari,Dr. Poonam Rathi,General Physician,4,4
+691,Neeraj Bari,Dr. Pradeep Gupta,General Physician,2,2
+692,Neeraj Bari,Dr. pradeep Sharma,Orthopedic,1,1
+693,Neeraj Bari,Dr. pradeep singh,General Physician,5,5
+694,Neeraj Bari,Dr. Prakash Jhuranay,General Physician,9,7+
+695,Neeraj Bari,Dr. Prav Mittal,Orthopedic,1,1
+696,Neeraj Bari,Dr. Praveen Kumar Varma,General Physician,2,2
+697,Neeraj Bari,Dr. pravesh kumar,Physiotherapist,1,1
+698,Neeraj Bari,Dr. Prerna mehto,Physiotherapist,8,7+
+699,Neeraj Bari,Dr. Priyanka Goswami,Dentist,2,2
+700,Neeraj Bari,Dr. Purnima Shukla,General Physician,31,7+
+701,Neeraj Bari,Dr. Rachna Kucheria,General Physician,1,1
+702,Neeraj Bari,Dr. Rahul Gupta,General Physician,1,1
+703,Neeraj Bari,Dr. Rahul Trihan,General Physician,7,7
+704,Neeraj Bari,Dr. Rajni Kant Varma,General Physician,1,1
+705,Neeraj Bari,Dr. Ranaa,Cardiologist,32,7+
+706,Neeraj Bari,Dr. Ravinder Dogra,General Physician,9,7+
+707,Neeraj Bari,Dr. Ravinder Kumar,General Physician,5,5
+708,Neeraj Bari,Dr. Rawat'S Clinic,General Physician,3,3
+709,Neeraj Bari,Dr. Reeta Mahesh,Physiotherapist,3,3
+710,Neeraj Bari,Dr. Richa,General Physician,20,7+
+711,Neeraj Bari,Dr. Richa Agarwal,General Physician,4,4
+712,Neeraj Bari,Dr. RK Luthra,General Physician,4,4
+713,Neeraj Bari,Dr. RK Mahajan,General Physician,2,2
+714,Neeraj Bari,Dr. Ruhi,General Physician,3,3
+715,Neeraj Bari,Dr. S Kumar,General Physician,2,2
+716,Neeraj Bari,Dr. S sain gupta,General Physician,2,2
+717,Neeraj Bari,Dr. Safdar imam,Physiotherapist,8,7+
+718,Neeraj Bari,Dr. Sakuntla Clinic,General Physician,1,1
+719,Neeraj Bari,Dr. Sandeep Singh,Orthopedic,1,1
+720,Neeraj Bari,Dr. Sanjay Bansal,General Physician,2,2
+721,Neeraj Bari,Dr. Sanjay Gupta and Dr Ashish yadav,Physiotherapist,2,2
+722,Neeraj Bari,Dr. Sanjay Shukla,General Physician,24,7+
+723,Neeraj Bari,Dr. Sanjay Verma,General Physician,1,1
+724,Neeraj Bari,Dr. Satish Kumar,General Physician,7,7
+725,Neeraj Bari,Dr. Saurabh Bansal,Endocrinologist,2,2
+726,Neeraj Bari,Dr. Seema Gupta,General Physician,21,7+
+727,Neeraj Bari,Dr. SG Grewal,General Physician,1,1
+728,Neeraj Bari,Dr. Shahid Akhtar,General Physician,10,7+
+729,Neeraj Bari,Dr. Shashi Bhushan joshi,Physiotherapist,3,3
+730,Neeraj Bari,Dr. Shashi Mohan,General Physician,2,2
+731,Neeraj Bari,Dr. Shiv Singh Bhati,#N/A,3,3
+732,Neeraj Bari,Dr. shivani Chaudhary,Physiotherapist,1,1
+733,Neeraj Bari,Dr. SN Pradhan,General Physician,5,5
+734,Neeraj Bari,Dr. Sonu Khan,Physiotherapist,9,7+
+735,Neeraj Bari,Dr. SP Seth,General Physician,26,7+
+736,Neeraj Bari,Dr. Sudhir Seth,Orthopedic,1,1
+737,Neeraj Bari,Dr. Suman Banerjee,General Physician,1,1
+738,Neeraj Bari,Dr. Sumit Dhawan,#N/A,17,7+
+739,Neeraj Bari,Dr. Sumit thapar,Physiotherapist,0,0
+740,Neeraj Bari,Dr. Sunakshi Singh,Dermatologist,5,5
+741,Neeraj Bari,Dr. Sunil Wadhwa,Cardiologist,1,1
+742,Neeraj Bari,Dr. Sunita Bountra,General Physician,14,7+
+743,Neeraj Bari,Dr. Sunny Kumar,Dentist,11,7+
+744,Neeraj Bari,Dr. Surbhi Silori Mishra,Physiotherapist,0,0
+745,Neeraj Bari,Dr. Surender Dhawan,General Physician,8,7+
+746,Neeraj Bari,Dr. Surinder kukreja,General Physician,2,2
+747,Neeraj Bari,Dr. swati,General Physician,4,4
+748,Neeraj Bari,Dr. Sweta Arya,General Physician,11,7+
+749,Neeraj Bari,Dr. trening,Physiotherapist,2,2
+750,Neeraj Bari,Dr. UK Gauri,General Physician,9,7+
+751,Neeraj Bari,Dr. Vandana and Dr. monika,Physiotherapist,2,2
+752,Neeraj Bari,Dr. Vikash Kumar gautam,Physiotherapist,0,0
+753,Neeraj Bari,Dr. Vinay Sood,Neurologist,2,2
+754,Neeraj Bari,Dr. Vinod Kumar Chauhan,Physiotherapist,4,4
+755,Neeraj Bari,Dr. Vivek Taneja,Surgeon,2,2
+756,Neeraj Bari,Dr. VK Jha,General Physician,0,0
+757,Neeraj Bari,Dr.Rahul and Dr. verynica kapur,Physiotherapist,1,1
+758,Neeraj Bari,Dr.vimal Sharma,Physiotherapist,3,3
+759,Pankaj Gujjar,Anita kumari,General Physician,2,2
+760,Pankaj Gujjar,Dr Akash Solanki,Physiotherapist,0,0
+761,Pankaj Gujjar,Dr Anupama,General Physician,1,1
+762,Pankaj Gujjar,Dr anupriya,General Physician,1,1
+763,Pankaj Gujjar,Dr Ashish chopra,Physiotherapist,1,1
+764,Pankaj Gujjar,Dr babita,General Physician,3,3
+765,Pankaj Gujjar,Dr bhagwan verma,Physiotherapist,4,4
+766,Pankaj Gujjar,Dr Bhawna Arya,Physiotherapist,2,2
+767,Pankaj Gujjar,Dr Bhawna sharma,Physiotherapist,2,2
+768,Pankaj Gujjar,Dr Chetan Rathi,Physiotherapist,1,1
+769,Pankaj Gujjar,Dr chitra gupta,General Physician,3,3
+770,Pankaj Gujjar,Dr Gourav,Physiotherapist,2,2
+771,Pankaj Gujjar,Dr Hira lal,General Physician,1,1
+772,Pankaj Gujjar,Dr honmaa,General Physician,2,2
+773,Pankaj Gujjar,Dr Indu Choudhary,Physiotherapist,2,2
+774,Pankaj Gujjar,Dr Jaidi,General Physician,1,1
+775,Pankaj Gujjar,Dr laxmi,General Physician,1,1
+776,Pankaj Gujjar,Dr lovika ahuja,Physiotherapist,4,4
+777,Pankaj Gujjar,Dr Manashvi,General Physician,2,2
+778,Pankaj Gujjar,Dr Manoj Jain,General Physician,3,3
+779,Pankaj Gujjar,Dr Megha gupta,Physiotherapist,5,5
+780,Pankaj Gujjar,Dr Nagpal,General Physician,1,1
+781,Pankaj Gujjar,Dr Nidhi,General Physician,0,0
+782,Pankaj Gujjar,Dr nilli swarna [CMO],General Physician,2,2
+783,Pankaj Gujjar,Dr nitesh,Physiotherapist,2,2
+784,Pankaj Gujjar,Dr pankaj,Physiotherapist,9,7+
+785,Pankaj Gujjar,Dr parteek,Physiotherapist,2,2
+786,Pankaj Gujjar,Dr Rahul,Physiotherapist,3,3
+787,Pankaj Gujjar,Dr Rakesh sood,General Physician,1,1
+788,Pankaj Gujjar,Dr Ramesh Hari,General Physician,1,1
+789,Pankaj Gujjar,Dr s.srivastava,Physiotherapist,5,5
+790,Pankaj Gujjar,Dr Sarita Cmo,General Physician,1,1
+791,Pankaj Gujjar,Dr Sharad Mathur,General Physician,2,2
+792,Pankaj Gujjar,Dr suman,General Physician,3,3
+793,Pankaj Gujjar,Dr Swapna Talukdar,General Physician,1,1
+794,Pankaj Gujjar,Dr Swati,General Physician,9,7+
+795,Pankaj Gujjar,Dr vanshika munjal,Physiotherapist,4,4
+796,Pankaj Gujjar,Dr vishal girotra,Physiotherapist,5,5
+797,Pankaj Gujjar,Dr Yogesh,General Physician,2,2
+798,Pankaj Gujjar,Harpreet kour,General Physician,1,1
+799,Pankaj Gujjar,roomi,General Physician,1,1
+800,Prateek Sharma,Dr Achin kumar,Physiotherapist,1,1
+801,Prateek Sharma,Dr Anil sahu,General Physician,0,0
+802,Prateek Sharma,Dr Ankur Singh,Physiotherapist,5,5
+803,Prateek Sharma,Dr Anshul sharma,Physiotherapist,1,1
+804,Prateek Sharma,Dr Ashish yadav,Physiotherapist,2,2
+805,Prateek Sharma,Dr Azad,General Physician,1,1
+806,Prateek Sharma,Dr Bina,General Physician,1,1
+807,Prateek Sharma,Dr kanchan mittal,Physiotherapist,0,0
+808,Prateek Sharma,Dr Karishma kishore,Physiotherapist,2,2
+809,Prateek Sharma,Dr Kunal Vashist,Physiotherapist,1,1
+810,Prateek Sharma,Dr manashvi Kumari,General Physician,1,1
+811,Prateek Sharma,Dr Manoj jain,General Physician,1,1
+812,Prateek Sharma,Dr Naresh kumar,General Physician,2,2
+813,Prateek Sharma,Dr Nazim khan,Physiotherapist,5,5
+814,Prateek Sharma,Dr Neha yadav,Physiotherapist,6,6
+815,Prateek Sharma,Dr prateek Sharma (pt),Physiotherapist,6,6
+816,Prateek Sharma,Dr Raj Lata Agrawal,General Physician,1,1
+817,Prateek Sharma,Dr Ravi Shankar,Physiotherapist,0,0
+818,Prateek Sharma,Dr Rita sirpaul,General Physician,2,2
+819,Prateek Sharma,Dr Ruchi varshaney,Physiotherapist,0,0
+820,Prateek Sharma,Dr Sarita,General Physician,1,1
+821,Prateek Sharma,Dr sateesh y.H,General Physician,1,1
+822,Prateek Sharma,Dr shama Shankar,General Physician,1,1
+823,Prateek Sharma,Dr sk kasana,General Physician,1,1
+824,Prateek Sharma,Dr Sonu khan,Physiotherapist,1,1
+825,Prateek Sharma,Dr Tamana,Physiotherapist,1,1
+826,Prateek Sharma,Dr v bansal,General Physician,1,1
+827,Prateek Sharma,Dr vadiya,General Physician,1,1
+828,Prateek Sharma,Dr yatin kukreja,General Physician,6,6
+829,Prateek Sharma,Dr. Deepali vadhva,General Physician,1,1
+830,Prateek Sharma,Dr. Deshraj,General Physician,2,2
+831,Prateek Sharma,Dr. Hemant kumar,General Physician,2,2
+832,Prateek Sharma,Dr. Hemant Sahni,General Physician,1,1
+833,Prateek Sharma,Dr. Hemant Shani,General Physician,2,2
+834,Prateek Sharma,Dr. jeetu Kumari,General Physician,2,2
+835,Prateek Sharma,Dr. k k devi,General Physician,1,1
+836,Prateek Sharma,Dr. khurshida Rehman,Physiotherapist,2,2
+837,Prateek Sharma,Dr. Khusrshida Rehman,Physiotherapist,0,0
+838,Prateek Sharma,Dr. Laxmi,General Physician,1,1
+839,Prateek Sharma,Dr. Laxmi Goswami,Physiotherapist,3,3
+840,Prateek Sharma,Dr. Nachiketa Asthana,General Physician,1,1
+841,Prateek Sharma,Dr. R k saxena,General Physician,2,2
+842,Prateek Sharma,Dr. Seema Arora,General Physician,2,2
+843,Prateek Sharma,Dr. Shanu,General Physician,1,1
+844,Prateek Sharma,Dr. Sunita Sharma,General Physician,2,2
+845,Prateek Sharma,Dr. Supriya Gulyani,Physiotherapist,1,1
+846,Prateek Sharma,Dr. Vashnavi Gupta,General Physician,1,1
+847,Prateek Sharma,Dr. Yatin Kukreja,General Physician,0,0
+848,Prateek Sharma,Dr.Arti sharma,Physiotherapist,1,1
+849,Prateek Sharma,dr.cassia marandi,General Physician,1,1
+850,Prateek Sharma,Dr.k.k .devi,General Physician,1,1
+851,Prateek Sharma,dr.nikhil,Physiotherapist,1,1
+852,Prateek Sharma,Dr.Parmila Chakraborty (CMO),General Physician,1,1
+853,Prateek Sharma,Dr.Prateek Singh,Orthopedic,1,1
+854,Prateek Sharma,Dr.Rajni Kant Verma,General Physician,1,1
+855,Prateek Sharma,Dr.Sarita,General Physician,2,2
+856,Prateek Sharma,dr.vinod gupta,General Physician,1,1
+857,Pushpa Test,ganga,Cardiologist,0,0
+858,Pushpa Test,hhhhh,Radiologist,0,0
+859,Satish Mishra,CMO. DR Deshraj,General Physician,1,1
+860,Satish Mishra,dr Achal Pathak,Physiotherapist,1,1
+861,Satish Mishra,Dr Aditi Shrivastava,Physiotherapist,1,1
+862,Satish Mishra,Dr Ajit,Physiotherapist,1,1
+863,Satish Mishra,dr amandeep kaur sohal,General Physician,1,1
+864,Satish Mishra,Dr Anuj Kaushik,Physiotherapist,1,1
+865,Satish Mishra,dr bhupendra singh,Physiotherapist,1,1
+866,Satish Mishra,Dr birendra Prasad,Physiotherapist,1,1
+867,Satish Mishra,dr D.R. malhotra,General Physician,1,1
+868,Satish Mishra,Dr Deepak,Physiotherapist,0,0
+869,Satish Mishra,Dr Deepika,Physiotherapist,0,0
+870,Satish Mishra,dr deepti chhabra,Physiotherapist,1,1
+871,Satish Mishra,dr diksha,Physiotherapist,0,0
+872,Satish Mishra,Dr G Nikhil Nelson,Physiotherapist,1,1
+873,Satish Mishra,dr gajendra kumar,Physiotherapist,1,1
+874,Satish Mishra,dr gk jha,Physiotherapist,1,1
+875,Satish Mishra,dr gunjan,Physiotherapist,1,1
+876,Satish Mishra,Dr Kanika goel,Physiotherapist,0,0
+877,Satish Mishra,dr manjeet kr sinha,Physiotherapist,2,2
+878,Satish Mishra,dr mohan lal,Physiotherapist,1,1
+879,Satish Mishra,dr munish kumar,Physiotherapist,1,1
+880,Satish Mishra,dr neeraj,Physiotherapist,1,1
+881,Satish Mishra,dr nidhi kumar,Physiotherapist,1,1
+882,Satish Mishra,dr Priyanka kumari,Physiotherapist,1,1
+883,Satish Mishra,dr ravishankar kumar,Physiotherapist,1,1
+884,Satish Mishra,Dr Renu,General Physician,1,1
+885,Satish Mishra,Dr RuchiVarshney,Physiotherapist,0,0
+886,Satish Mishra,dr Sachin uppal,Physiotherapist,2,2
+887,Satish Mishra,Dr Satyender Singh,Physiotherapist,1,1
+888,Satish Mishra,dr shefali bansal,Physiotherapist,1,1
+889,Satish Mishra,Dr SK singh,Physiotherapist,1,1
+890,Satish Mishra,Dr SP singh,Physiotherapist,1,1
+891,Satish Mishra,dr sunit tyagi,Physiotherapist,1,1
+892,Satish Mishra,Dr Swati gautam,Physiotherapist,0,0
+893,Satish Mishra,dr TP singh,Physiotherapist,2,2
+894,Satish Mishra,dr vikas kumar,Physiotherapist,2,2
+895,Satish Mishra,dr Vinita manachandra,Orthopedic,0,0
+896,Satish Mishra,Dr vivid,Physiotherapist,2,2
+897,Satish Mishra,Dr Waseem Haider,Physiotherapist,1,1
+898,Satish Mishra,Dr.,Physiotherapist,1,1
+899,Satish Mishra,Dr. Aditya Tiwari,Orthopedic,1,1
+900,Satish Mishra,Dr. Anisha Sangal,Physiotherapist,1,1
+901,Satish Mishra,Dr. Aslam Perve,Physiotherapist,1,1
+902,Satish Mishra,Dr. DK Goyal,Physiotherapist,0,0
+903,Satish Mishra,Dr. Khushbu Singh,Physiotherapist,1,1
+904,Satish Mishra,Dr. Manish Kumar Yadav,Physiotherapist,1,1
+905,Satish Mishra,Dr. N Rojy Devi,Physiotherapist,0,0
+906,Satish Mishra,dr. nishi jain,Physiotherapist,1,1
+907,Satish Mishra,Dr. Pooja. Gupta,Physiotherapist,1,1
+908,Satish Mishra,Dr. Pradeep Sachdev,Physiotherapist,0,0
+909,Satish Mishra,Dr. Ram Brij Sharma,Physiotherapist,1,1
+910,Satish Mishra,Dr. Ratna's Physiotherapy Centre,Physiotherapist,1,1
+911,Satish Mishra,Dr. Richa Gupta,Physiotherapist,0,0
+912,Satish Mishra,Dr. Suvesh Tomar,Physiotherapist,0,0
+913,Satish Mishra,Dr. Vimal Tiwari,Physiotherapist,0,0
+914,Satish Mishra,pratee hospital,Orthopedic,1,1
+915,Satish Mishra,rama shankar,Physiotherapist,1,1
+916,Satish Mishra,satish,General Physician,0,0
+917,Satish Mishra,VP singh,Physiotherapist,0,0
+918,Shiv Kumar,DR naveen bhadana,Physiotherapist,2,2
+919,Shiv Kumar,Dr Nikhil Nayar,General Physician,1,1
+920,Shiv Kumar,Dr Seema Gupta,General Physician,0,0
+921,Shiv Kumar,Dr Tivendra Aadhraan,General Physician,1,1
+922,Shiv Kumar,Dr Vinod Rai,General Physician,1,1
+923,Shiv Kumar,Dr. (Mrs) Saloni Gupta,General Physician,0,0
+924,Shiv Kumar,Dr. (PT) Simran Seth,General Physician,6,6
+925,Shiv Kumar,Dr. A. K. Saraya,General Physician,0,0
+926,Shiv Kumar,Dr. A.K. Bhalla,General Physician,1,1
+927,Shiv Kumar,Dr. A.K. Samanta,General Physician,0,0
+928,Shiv Kumar,Dr. A.K. Verma,Neurologist,0,0
+929,Shiv Kumar,Dr. A.P. Singh,General Physician,2,2
+930,Shiv Kumar,Dr. A.S. Siddaqi,Physiotherapist,0,0
+931,Shiv Kumar,Dr. Absar,General Physician,1,1
+932,Shiv Kumar,Dr. Ajeet Chauhan,General Physician,1,1
+933,Shiv Kumar,Dr. Ajmal Hussain,General Physician,2,2
+934,Shiv Kumar,Dr. Amit Kumar,Physiotherapist,1,1
+935,Shiv Kumar,Dr. Anand Raj,General Physician,1,1
+936,Shiv Kumar,Dr. Anish Gupta,General Physician,0,0
+937,Shiv Kumar,Dr. Anjali Sharma,General Physician,0,0
+938,Shiv Kumar,Dr. Ankita Goswami,General Physician,0,0
+939,Shiv Kumar,Dr. Ankur N. Gupta,General Physician,0,0
+940,Shiv Kumar,Dr. Ankur Singh,Physiotherapist,1,1
+941,Shiv Kumar,Dr. Anoop,General Physician,2,2
+942,Shiv Kumar,Dr. Anuradha Mishra,General Physician,4,4
+943,Shiv Kumar,Dr. Aqsa Mujeeb,General Physician,1,1
+944,Shiv Kumar,Dr. Ashish Lal,General Physician,0,0
+945,Shiv Kumar,Dr. Ashok Kumar,General Physician,4,4
+946,Shiv Kumar,Dr. Ashwini K. Saran,General Physician,0,0
+947,Shiv Kumar,Dr. Atiq,General Physician,0,0
+948,Shiv Kumar,Dr. Atul Arora,General Physician,0,0
+949,Shiv Kumar,DR. Avinash Mittal,General Physician,0,0
+950,Shiv Kumar,Dr. Ayesha Gupta,General Physician,1,1
+951,Shiv Kumar,Dr. Ayushman Mudgal,General Physician,0,0
+952,Shiv Kumar,Dr. Azad,General Physician,5,5
+953,Shiv Kumar,Dr. B.K Goyal,General Physician,0,0
+954,Shiv Kumar,Dr. B.S. Gautam,General Physician,1,1
+955,Shiv Kumar,Dr. B.S. Saluja,General Physician,2,2
+956,Shiv Kumar,Dr. Bhajman Nayak,General Physician,6,6
+957,Shiv Kumar,Dr. Bharti,General Physician,0,0
+958,Shiv Kumar,Dr. Bhavinder Kr. Khowal,General Physician,1,1
+959,Shiv Kumar,Dr. Bhushan Mendiratta,General Physician,0,0
+960,Shiv Kumar,Dr. Bimla,General Physician,0,0
+961,Shiv Kumar,Dr. BK Tiwari,General Physician,0,0
+962,Shiv Kumar,Dr. Cassia Marandi,General Physician,12,7+
+963,Shiv Kumar,Dr. Charu,General Physician,0,0
+964,Shiv Kumar,Dr. Charu Gupta,General Physician,0,0
+965,Shiv Kumar,Dr. Chitra Gupta,General Physician,1,1
+966,Shiv Kumar,Dr. D.P.S. Rekhi,General Physician,0,0
+967,Shiv Kumar,Dr. D.R Grover,General Physician,0,0
+968,Shiv Kumar,Dr. Deepali Aggrawal,General Physician,1,1
+969,Shiv Kumar,Dr. Deshraj,General Physician,8,7+
+970,Shiv Kumar,Dr. Devendra Piplani,General Physician,0,0
+971,Shiv Kumar,Dr. Dheeraj,Physiotherapist,0,0
+972,Shiv Kumar,Dr. Erum B,Physiotherapist,2,2
+973,Shiv Kumar,Dr. G. S. Grewal,General Physician,1,1
+974,Shiv Kumar,Dr. Ganesh Malik,General Physician,6,6
+975,Shiv Kumar,Dr. Gazal,General Physician,0,0
+976,Shiv Kumar,Dr. Geeta Prakash,General Physician,0,0
+977,Shiv Kumar,Dr. Ghazal,Physiotherapist,1,1
+978,Shiv Kumar,Dr. Gourav Aggarwal,General Physician,0,0
+979,Shiv Kumar,Dr. Gupta Lekh Raj,General Physician,0,0
+980,Shiv Kumar,Dr. Gyan Singh,General Physician,2,2
+981,Shiv Kumar,Dr. H.S. Kapoor,General Physician,0,0
+982,Shiv Kumar,Dr. Hammad Hassan,Physiotherapist,0,0
+983,Shiv Kumar,Dr. Harbhajan singh,General Physician,1,1
+984,Shiv Kumar,Dr. Hariom Sharam,General Physician,6,6
+985,Shiv Kumar,Dr. Harish Takkar,General Physician,2,2
+986,Shiv Kumar,Dr. Harsh Naraula,General Physician,5,5
+987,Shiv Kumar,Dr. Harshit Garg,General Physician,0,0
+988,Shiv Kumar,Dr. Hema,Physiotherapist,1,1
+989,Shiv Kumar,Dr. Hemant Kumar,General Physician,5,5
+990,Shiv Kumar,Dr. Hemant Sahni,General Physician,0,0
+991,Shiv Kumar,Dr. Iftakhar Khan,General Physician,2,2
+992,Shiv Kumar,Dr. J Maheshwari,General Physician,0,0
+993,Shiv Kumar,Dr. J.S. Batra,General Physician,1,1
+994,Shiv Kumar,Dr. Jagmohan,General Physician,6,6
+995,Shiv Kumar,Dr. Jagmohan Singh,General Physician,2,2
+996,Shiv Kumar,Dr. Jagriti Singh,General Physician,0,0
+997,Shiv Kumar,Dr. Jail Chaudhary,General Physician,5,5
+998,Shiv Kumar,Dr. Jasmine Sachdeva,General Physician,0,0
+999,Shiv Kumar,Dr. Jeetu Kumari,General Physician,7,7
+1000,Shiv Kumar,Dr. Jitendra Nagpal,General Physician,0,0
+1001,Shiv Kumar,Dr. Jitendra Tyagi,General Physician,7,7
+1002,Shiv Kumar,Dr. K Jayaraman,General Physician,0,0
+1003,Shiv Kumar,Dr. K. Madan,General Physician,0,0
+1004,Shiv Kumar,Dr. K.B. Rohatgi,General Physician,0,0
+1005,Shiv Kumar,Dr. K.K. Devi,General Physician,11,7+
+1006,Shiv Kumar,Dr. K.L. Jindal,General Physician,1,1
+1007,Shiv Kumar,Dr. Kanchan Bhardwaj,Physiotherapist,1,1
+1008,Shiv Kumar,Dr. Kanchana Mittal,Physiotherapist,2,2
+1009,Shiv Kumar,Dr. Kanika Goel,Physiotherapist,1,1
+1010,Shiv Kumar,Dr. Kapiraj,General Physician,5,5
+1011,Shiv Kumar,Dr. Karishma Kishore,Physiotherapist,1,1
+1012,Shiv Kumar,Dr. Kartik,Physiotherapist,1,1
+1013,Shiv Kumar,Dr. Kashifa Parveen,Physiotherapist,1,1
+1014,Shiv Kumar,DR. khurshida Rehman,Physiotherapist,0,0
+1015,Shiv Kumar,Dr. Kiran Kukreja,General Physician,0,0
+1016,Shiv Kumar,Dr. Kirti,General Physician,4,4
+1017,Shiv Kumar,Dr. Krishna Singh Rana,General Physician,13,7+
+1018,Shiv Kumar,Dr. Kumund Bala,General Physician,5,5
+1019,Shiv Kumar,Dr. Kusum Sharma,General Physician,0,0
+1020,Shiv Kumar,Dr. M K Saxena,General Physician,0,0
+1021,Shiv Kumar,Dr. M. Khan,General Physician,0,0
+1022,Shiv Kumar,Dr. M.F. Rahman,Dentist,1,1
+1023,Shiv Kumar,Dr. M.N. Alam,General Physician,0,0
+1024,Shiv Kumar,Dr. M.S Yadav,General Physician,2,2
+1025,Shiv Kumar,Dr. Madhu Bajpyee,General Physician,4,4
+1026,Shiv Kumar,Dr. Madhu Yadav,General Physician,1,1
+1027,Shiv Kumar,Dr. Mandeep Singh,General Physician,1,1
+1028,Shiv Kumar,Dr. Manish Kumar,Physiotherapist,0,0
+1029,Shiv Kumar,Dr. Manish Sinha,General Physician,0,0
+1030,Shiv Kumar,Dr. Manisha Gupta,General Physician,0,0
+1031,Shiv Kumar,Dr. Manleen Kaur,General Physician,0,0
+1032,Shiv Kumar,Dr. Manoj Kumar Nath,General Physician,1,1
+1033,Shiv Kumar,Dr. Mathan,Physiotherapist,0,0
+1034,Shiv Kumar,Dr. Mohd Shoaib,Physiotherapist,1,1
+1035,Shiv Kumar,Dr. Mona Mohan,Physiotherapist,1,1
+1036,Shiv Kumar,Dr. MS Tyagi,General Physician,1,1
+1037,Shiv Kumar,Dr. Mukesh Madan,General Physician,2,2
+1038,Shiv Kumar,Dr. Naeem,General Physician,0,0
+1039,Shiv Kumar,Dr. Narender Vazirane,General Physician,2,2
+1040,Shiv Kumar,Dr. Naresh Kumar,General Physician,0,0
+1041,Shiv Kumar,Dr. Natasha Khanna,Physiotherapist,1,1
+1042,Shiv Kumar,Dr. Nazim Khan,General Physician,0,0
+1043,Shiv Kumar,Dr. Neelu Madan,General Physician,1,1
+1044,Shiv Kumar,Dr. Neeraj Bangia,General Physician,0,0
+1045,Shiv Kumar,Dr. Neeru Sharma,General Physician,0,0
+1046,Shiv Kumar,Dr. Neha Arora,General Physician,0,0
+1047,Shiv Kumar,Dr. Neha Bhagat,General Physician,8,7+
+1048,Shiv Kumar,Dr. Nikhil Agrawal,Physiotherapist,1,1
+1049,Shiv Kumar,Dr. Nishant Ranjan Mishra,General Physician,0,0
+1050,Shiv Kumar,Dr. Niteesh Kumar,Physiotherapist,0,0
+1051,Shiv Kumar,Dr. Nitesh Kumar,General Physician,0,0
+1052,Shiv Kumar,Dr. Noothan,General Physician,6,6
+1053,Shiv Kumar,Dr. O.P. Dawar,General Physician,0,0
+1054,Shiv Kumar,Dr. Obaid Rahman Clinic,General Physician,0,0
+1055,Shiv Kumar,Dr. P K Mukherjee,General Physician,0,0
+1056,Shiv Kumar,Dr. P.P. Singh,General Physician,3,3
+1057,Shiv Kumar,Dr. Pawan,Physiotherapist,1,1
+1058,Shiv Kumar,Dr. Payal Mittal,General Physician,3,3
+1059,Shiv Kumar,Dr. Poonam Chaudhary,Physiotherapist,1,1
+1060,Shiv Kumar,Dr. Prakash Jhuraney,General Physician,2,2
+1061,Shiv Kumar,Dr. Praveen Kumar Malik,General Physician,5,5
+1062,Shiv Kumar,Dr. Preeti Jha,Physiotherapist,2,2
+1063,Shiv Kumar,Dr. Priyanka Gour,General Physician,0,0
+1064,Shiv Kumar,Dr. Promila Chakraborty,General Physician,2,2
+1065,Shiv Kumar,Dr. Purnima sachdeva,General Physician,0,0
+1066,Shiv Kumar,Dr. R.K. Saxena,General Physician,5,5
+1067,Shiv Kumar,Dr. R.P.S Sachdeva,General Physician,1,1
+1068,Shiv Kumar,Dr. Rahul Gupta,General Physician,0,0
+1069,Shiv Kumar,Dr. Rahul Tiwari,General Physician,1,1
+1070,Shiv Kumar,Dr. Raj Kishor,General Physician,8,7+
+1071,Shiv Kumar,Dr. Rajeev Gupta,General Physician,10,7+
+1072,Shiv Kumar,Dr. Rajeev Singh,General Physician,2,2
+1073,Shiv Kumar,Dr. Rajinder Sharma,General Physician,4,4
+1074,Shiv Kumar,Dr. Rajiv Anand,General Physician,0,0
+1075,Shiv Kumar,Dr. Rajnikant Verma,General Physician,0,0
+1076,Shiv Kumar,Dr. Rakesh,Physiotherapist,1,1
+1077,Shiv Kumar,Dr. Rakshit Gulati,General Physician,0,0
+1078,Shiv Kumar,Dr. Rama Shakar Singh,Physiotherapist,3,3
+1079,Shiv Kumar,Dr. Ramesh Kumar Verma,General Physician,0,0
+1080,Shiv Kumar,Dr. Ramesh Relia,General Physician,0,0
+1081,Shiv Kumar,Dr. Ravi K Sharma,General Physician,0,0
+1082,Shiv Kumar,Dr. Ravinder Kumar,General Physician,0,0
+1083,Shiv Kumar,Dr. Ravindra Singh,General Physician,3,3
+1084,Shiv Kumar,Dr. Reeta Mahana,General Physician,0,0
+1085,Shiv Kumar,Dr. Reshma Chauhan,General Physician,0,0
+1086,Shiv Kumar,Dr. Rita Chadha,General Physician,6,6
+1087,Shiv Kumar,Dr. Rita Sirpaul,General Physician,8,7+
+1088,Shiv Kumar,Dr. Ritu Agarwal,General Physician,0,0
+1089,Shiv Kumar,Dr. Ritu Gupta,General Physician,1,1
+1090,Shiv Kumar,Dr. Ruchi Varnshey,Physiotherapist,1,1
+1091,Shiv Kumar,Dr. S. Kumar,General Physician,1,1
+1092,Shiv Kumar,Dr. S. P. Bhatnagar,General Physician,1,1
+1093,Shiv Kumar,Dr. S. Parkash,General Physician,1,1
+1094,Shiv Kumar,Dr. S. Prakash,General Physician,1,1
+1095,Shiv Kumar,Dr. S. Sharma,General Physician,0,0
+1096,Shiv Kumar,Dr. S.K Badhan,General Physician,9,7+
+1097,Shiv Kumar,Dr. S.K Gupta,General Physician,1,1
+1098,Shiv Kumar,Dr. S.k Kasana,General Physician,2,2
+1099,Shiv Kumar,Dr. S.K. Pathak,General Physician,2,2
+1100,Shiv Kumar,Dr. S.K. Viswas,General Physician,1,1
+1101,Shiv Kumar,Dr. Sachita Gupta,Physiotherapist,0,0
+1102,Shiv Kumar,Dr. Saloni Gupta,General Physician,1,1
+1103,Shiv Kumar,Dr. Sandeep Tomar,General Physician,2,2
+1104,Shiv Kumar,Dr. Sandhya,General Physician,3,3
+1105,Shiv Kumar,Dr. Sanjay Gandhi,General Physician,1,1
+1106,Shiv Kumar,Dr. Sanjay Singh,Physiotherapist,1,1
+1107,Shiv Kumar,Dr. Sanjeev Oberoi,Physiotherapist,1,1
+1108,Shiv Kumar,Dr. Sanjiv Bansal,General Physician,1,1
+1109,Shiv Kumar,Dr. Saroj,General Physician,5,5
+1110,Shiv Kumar,Dr. Satish Kumar,General Physician,0,0
+1111,Shiv Kumar,Dr. Satpal Kaur Clinic,General Physician,0,0
+1112,Shiv Kumar,Dr. Seema Arora,General Physician,6,6
+1113,Shiv Kumar,Dr. Shahbaz Khan,General Physician,1,1
+1114,Shiv Kumar,Dr. Shahbuddin Ansari,General Physician,0,0
+1115,Shiv Kumar,Dr. Shail. A. Farooqi,General Physician,0,0
+1116,Shiv Kumar,Dr. Shibha Saini,Physiotherapist,1,1
+1117,Shiv Kumar,Dr. Shilpa Khaturai Arora,General Physician,1,1
+1118,Shiv Kumar,Dr. Shiv Raj,General Physician,10,7+
+1119,Shiv Kumar,Dr. Shobhana,General Physician,11,7+
+1120,Shiv Kumar,Dr. Simran Sethi,Physiotherapist,1,1
+1121,Shiv Kumar,Dr. Smita Manjavkar,General Physician,0,0
+1122,Shiv Kumar,Dr. Sneh S Khera,General Physician,0,0
+1123,Shiv Kumar,Dr. Srishti Malhotra,General Physician,0,0
+1124,Shiv Kumar,Dr. Sudhir Verma,General Physician,0,0
+1125,Shiv Kumar,Dr. Sumit Kumar,General Physician,1,1
+1126,Shiv Kumar,Dr. Sunil Chauhan,General Physician,1,1
+1127,Shiv Kumar,Dr. Sunil Gupta,General Physician,0,0
+1128,Shiv Kumar,Dr. Sunil Kapur,General Physician,0,0
+1129,Shiv Kumar,Dr. Surinder Singh Kukreja,General Physician,1,1
+1130,Shiv Kumar,Dr. Surya Bala,General Physician,0,0
+1131,Shiv Kumar,Dr. Sushil Mehta,General Physician,0,0
+1132,Shiv Kumar,Dr. Swati Mohindru,Physiotherapist,1,1
+1133,Shiv Kumar,Dr. T. K. Chakraborty,General Physician,3,3
+1134,Shiv Kumar,Dr. Tamanna,Physiotherapist,3,3
+1135,Shiv Kumar,Dr. Tanuja Lal,General Physician,5,5
+1136,Shiv Kumar,Dr. Tanya Bajaj,Physiotherapist,3,3
+1137,Shiv Kumar,Dr. Tarun Lamba,Physiotherapist,2,2
+1138,Shiv Kumar,Dr. Tarunnam,General Physician,2,2
+1139,Shiv Kumar,Dr. TK Aadhraan,General Physician,0,0
+1140,Shiv Kumar,Dr. Uma Passi,General Physician,5,5
+1141,Shiv Kumar,Dr. Urvashi Menghani,General Physician,0,0
+1142,Shiv Kumar,Dr. V.K. Garg,Orthopedic,0,0
+1143,Shiv Kumar,Dr. V.R. Sood,General Physician,0,0
+1144,Shiv Kumar,Dr. Vaishnav Gupta,General Physician,9,7+
+1145,Shiv Kumar,Dr. Vandana Jai Singh,Physiotherapist,1,1
+1146,Shiv Kumar,Dr. Varun Pratap Singh,Physiotherapist,1,1
+1147,Shiv Kumar,Dr. Ved Prakash Garg,Orthopedic,1,1
+1148,Shiv Kumar,Dr. Vijay Sachdev,General Physician,0,0
+1149,Shiv Kumar,Dr. Vimal Yadav,Physiotherapist,1,1
+1150,Shiv Kumar,Dr. Vinita Bansal,General Physician,8,7+
+1151,Shiv Kumar,Dr. Virendra Pratap,General Physician,0,0
+1152,Shiv Kumar,Dr. Vishwa Nath,General Physician,2,2
+1153,Shiv Kumar,Dr. Yatin Kukreja,General Physician,0,0
+1154,Shiv Kumar,Dr. Yuvraj Arora (Monga),General Physician,3,3
+1155,Shiv Kumar,Dr. Z. Aadil,General Physician,0,0
+1156,Shiv Kumar,Dr. Zaid Ansari,Physiotherapist,1,1
+1157,Shiv Kumar,Dr.R.k. Sood,General Physician,1,1
+1158,Shiv Kumar,Dr.R.K.Nagpal,General Physician,0,0
+1159,Shiv Kumar,Dr.Rahul Gangwar,Physiotherapist,2,2
+1160,Shiv Kumar,Dr.Rajesh parthsarthi,General Physician,0,0
+1161,Shiv Kumar,J.J. Laxmi,General Physician,2,2
+1162,Shiv Kumar,Neeraja Khurana,Physiotherapist,1,1
+1163,Shiv Kumar,Rajiv Singh,General Physician,1,1
+1164,Shiv Kumar,S.K.,General Physician,4,4
+1165,Shiv Kumar,Veena Sahani,General Physician,7,7
+1166,Shivam Bhardwaj,Dr Aanchal,Physiotherapist,3,3
+1167,Shivam Bhardwaj,Dr Ajaz Ahmad,Physiotherapist,1,1
+1168,Shivam Bhardwaj,Dr Akshay Kumar saxena,Physiotherapist,0,0
+1169,Shivam Bhardwaj,Dr ankur Mittal,Physiotherapist,3,3
+1170,Shivam Bhardwaj,Dr Atul Arora,General Physician,2,2
+1171,Shivam Bhardwaj,Dr Ayush,Physiotherapist,1,1
+1172,Shivam Bhardwaj,Dr Ayush mudgal,Physiotherapist,2,2
+1173,Shivam Bhardwaj,Dr Deepa,General Physician,2,2
+1174,Shivam Bhardwaj,Dr kunal,Physiotherapist,1,1
+1175,Shivam Bhardwaj,Dr Mohd. yoosuf,Physiotherapist,3,3
+1176,Shivam Bhardwaj,Dr Naval,General Physician,2,2
+1177,Shivam Bhardwaj,Dr nitish kumar,Physiotherapist,0,0
+1178,Shivam Bhardwaj,Dr Noor shahi,Physiotherapist,4,4
+1179,Shivam Bhardwaj,Dr Pardeep Gupta,General Physician,1,1
+1180,Shivam Bhardwaj,Dr R.K Jain,General Physician,3,3
+1181,Shivam Bhardwaj,Dr R.P Arya,General Physician,3,3
+1182,Shivam Bhardwaj,Dr Raghu,General Physician,2,2
+1183,Shivam Bhardwaj,Dr Rahul baliyan,Physiotherapist,1,1
+1184,Shivam Bhardwaj,Dr Rama Shankar Singh,Physiotherapist,1,1
+1185,Shivam Bhardwaj,Dr Ramesh dutt ojha,General Physician,4,4
+1186,Shivam Bhardwaj,Dr Sangeeta,General Physician,1,1
+1187,Shivam Bhardwaj,Dr Shailesh Kumar,General Physician,4,4
+1188,Shivam Bhardwaj,Dr Shilpa Dhawad,General Physician,1,1
+1189,Shivam Bhardwaj,Dr shubra,General Physician,4,4
+1190,Shivam Bhardwaj,Dr shweta verma,General Physician,2,2
+1191,Shivam Bhardwaj,Dr surbhi Mishra,Physiotherapist,1,1
+1192,Shivam Bhardwaj,Dr susheel Krishna,General Physician,1,1
+1193,Shivam Bhardwaj,Dr sushma vikiran,General Physician,2,2
+1194,Shivam Bhardwaj,Dr Swati mohindru,Physiotherapist,1,1
+1195,Shivam Bhardwaj,Dr Vijay Thakur,General Physician,1,1
+1196,Shivam Bhardwaj,Dr. A.K. Samanta,General Physician,1,1
+1197,Shivam Bhardwaj,Dr. Alam,General Physician,1,1
+1198,Shivam Bhardwaj,Dr. Anjali Sharma,General Physician,1,1
+1199,Shivam Bhardwaj,Dr. Ankita Goswami,General Physician,1,1
+1200,Shivam Bhardwaj,Dr. Deepti Agnihotri,Physiotherapist,2,2
+1201,Shivam Bhardwaj,Dr. Durba Dighal,Physiotherapist,3,3
+1202,Shivam Bhardwaj,Dr. Ganesh Chandra Malik,General Physician,2,2
+1203,Shivam Bhardwaj,Dr. Gourav Aggarwal,General Physician,0,0
+1204,Shivam Bhardwaj,Dr. Jagmohan Singh,General Physician,1,1
+1205,Shivam Bhardwaj,Dr. Jagriti Singh,General Physician,0,0
+1206,Shivam Bhardwaj,Dr. Kabilan D,General Physician,2,2
+1207,Shivam Bhardwaj,Dr. Manjula Goyal,General Physician,1,1
+1208,Shivam Bhardwaj,Dr. Nishant Ranjan Mishra,General Physician,2,2
+1209,Shivam Bhardwaj,Dr. Poonam Rathi,General Physician,0,0
+1210,Shivam Bhardwaj,Dr. Poornima sachdeva,General Physician,0,0
+1211,Shivam Bhardwaj,Dr. Raj Kumar Bhatt,General Physician,2,2
+1212,Shivam Bhardwaj,Dr. S.K Pathak,General Physician,1,1
+1213,Shivam Bhardwaj,Dr. Srishti Malhotra,General Physician,1,1
+1214,Shivam Bhardwaj,Dr. Sudhir kumar Gupta,General Physician,1,1
+1215,Shivam Bhardwaj,Dr. Usha Rani,General Physician,2,2
+1216,Shivam Bhardwaj,Dr. Zakir Alam,General Physician,1,1
+1217,Shrunga Test,ganga,Cardiologist,0,0
+1218,Shrunga Test,hhhhh,Radiologist,0,0

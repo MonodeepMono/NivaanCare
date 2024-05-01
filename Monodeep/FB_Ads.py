@@ -21,11 +21,11 @@ conn_prod = mycursor_prod.execute
 sql_query = """
   SELECT 
   DATE_FORMAT(fa.date_start  , '%Y-%m-%d') as Date,
-  SUM(fa.clicks) as Clicks ,
+    SUM(fa.link_click) as Clicks ,
   SUM(fa.impressions) as Impressions ,
   SUM(fa.spend) as Amount 
   FROM nivaancare_production.facebook_ads fa
-  WHERE DATE_FORMAT(fa.date_start  , '%Y-%m-%d') >= '2024-03-01' and DATE_FORMAT(fa.date_start  , '%Y-%m-%d') <= DATE(NOW())-1
+  WHERE DATE_FORMAT(fa.date_start  , '%Y-%m-%d') >= '2024-02-26' and DATE_FORMAT(fa.date_start  , '%Y-%m-%d') <= DATE(NOW())-1
   GROUP BY fa.date_start;
   
    

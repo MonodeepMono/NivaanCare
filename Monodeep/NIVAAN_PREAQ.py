@@ -24,8 +24,8 @@ conn_prod = mycursor_prod.execute
 sql_query_prod = """
   SELECT 
   #  DATE_FORMAT(url.created_time, '%Y-%m-%d') as Date,
-   url.created_time as created_time,
-   url.modified_time  as modified_time,
+  CONVERT_TZ(url.created_time, 'UTC', 'Asia/Kolkata') AS created_time, 
+    CONVERT_TZ(url.modified_time, 'UTC', 'Asia/Kolkata') AS modified_time,
    url.utm_source as UTM_SOURCE,
    url.lead_new_status as lead_new_status,
    url.lead_sub_source AS lead_sub_source,
@@ -39,12 +39,15 @@ sql_query_prod = """
   LEFT JOIN 
             user_profile up ON url.mobile = up.phone
 WHERE 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-03-01' and DATE_FORMAT(url.created_time, '%Y-%m-%d') <=  '2024-04-17';
-  
+    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-02-26' AND DATE_FORMAT(url.created_time, '%Y-%m-%d') <= DATE_SUB(CURDATE(), INTERVAL 1 DAY);
    
 
 """
 df_LEAD = pd.read_sql_query(sql_query_prod,mydb_prod)
+df_LEAD['mobile'] = df_LEAD['mobile'].apply(lambda x: x[-10:] if x is not None else None)
+
+# df_LEAD['mobile'] = df_LEAD['mobile'].apply(lambda x: x[-10:])
+
 df_LEAD['Date']= df_LEAD["created_time"].dt.date
 df_LEAD['Month']= df_LEAD["created_time"].dt.month
 

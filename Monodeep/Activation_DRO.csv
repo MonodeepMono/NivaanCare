@@ -1,0 +1,156 @@
+Panel,Dispensary Name,Month,Leads,Activations
+BSES,Janakpuri,3,1,4
+BSES,Trilokpuri,3,1,2
+CGHS,Andrews Ganj (D-39),3,19,1
+CGHS,Andrews Ganj (D-39),4,12,1
+CGHS,Ashok Vihar (D-62),3,22,6
+CGHS,Ashok Vihar (D-62),4,5,3
+CGHS,Chanakya Puri (D-23),4,8,1
+CGHS,Chitra Gupta Road (D-51),3,9,1
+CGHS,Chitra Gupta Road (D-51),4,14,3
+CGHS,Delhi Cantt (D-3),4,8,2
+CGHS,Dev Nagar (D-19),3,7,2
+CGHS,Dilshad Garden (D-87),3,24,2
+CGHS,Dilshad Garden (D-87),4,14,3
+CGHS,Dr. Zakir Hussain Road (D-44),3,8,4
+CGHS,Dr. Zakir Hussain Road (D-44),4,10,1
+CGHS,Dwarka -9 (D-36A),3,6,1
+CGHS,Dwarka -9 (D-36A),4,6,2
+CGHS,Dwarka-23 (D-100),3,26,1
+CGHS,Dwarka-23 (D-100),4,11,5
+CGHS,Faridabad (D-70),3,16,2
+CGHS,GKG WC (D-56),3,6,1
+CGHS,GKG WC (D-56),4,21,1
+CGHS,Hari Nagar (D-48),3,22,3
+CGHS,Hari Nagar (D-48),4,23,1
+CGHS,Hauz Khas (D-47),3,24,2
+CGHS,Hauz Khas (D-47),4,10,1
+CGHS,Inder Puri (D-55),3,10,4
+CGHS,Inder Puri (D-55),4,14,4
+CGHS,Janak Puri-1 (D-61),3,15,4
+CGHS,Janak Puri-1 (D-61),4,18,5
+CGHS,Janak Puri-2 (D-74),3,9,3
+CGHS,Janak Puri-2 (D-74),4,11,2
+CGHS,Jangpura (D-40),3,7,4
+CGHS,Jangpura (D-40),4,12,5
+CGHS,Jungpura (AY-40),3,6,2
+CGHS,Kali Bari (D-76),3,13,2
+CGHS,Kali Bari (D-76),4,25,1
+CGHS,Kalkaji -I (D-42),3,7,1
+CGHS,Kalkaji -I (D-42),4,24,4
+CGHS,Kalkaji -II (D-75),4,5,1
+CGHS,Kasturba Nagar-I (D-24),3,4,4
+CGHS,Kasturba Nagar-I (D-24),4,10,4
+CGHS,Kasturba Nagar-I (HO-24),4,1,3
+CGHS,Kidwai Nagar (D-12),3,18,3
+CGHS,Kidwai Nagar (D-12),4,12,2
+CGHS,Kingsway Camp (D-60),3,12,2
+CGHS,Kingsway Camp (D-60),4,17,4
+CGHS,Lajpat Nagar (D-11),3,7,1
+CGHS,Lajpat Nagar (D-11),4,9,1
+CGHS,Laxmi Bai Nagar (D-15),3,33,3
+CGHS,Laxmi Bai Nagar (D-15),4,17,5
+CGHS,Laxminagar (D-67),3,13,3
+CGHS,Laxminagar (D-67),4,29,3
+CGHS,Lodhi Road II (D-10),4,14,2
+CGHS,M.B. Road (D-65),4,4,2
+CGHS,Malviya Nagar (D-41),3,43,3
+CGHS,Malviya Nagar (D-41),4,27,4
+CGHS,Mayur Vihar (D-77),3,22,4
+CGHS,Mayur Vihar (D-77),4,19,3
+CGHS,Mayur Vihar Ph-II (D-102),3,14,3
+CGHS,Mayur Vihar Ph-II (D-102),4,14,1
+CGHS,Minto Road (D-4),3,8,1
+CGHS,Minto Road (D-4),4,6,8
+CGHS,Munirka (D-71),3,4,4
+CGHS,Munirka (D-71),4,5,5
+CGHS,Nanak Pura (D-29),3,9,5
+CGHS,Nanak Pura (D-29),4,11,6
+CGHS,Nangal Raya (D-58),3,2,4
+CGHS,Nangal Raya (D-58),4,3,1
+CGHS,New Rajinder Nagar (D-45),3,7,1
+CGHS,New Rajinder Nagar (D-45),4,11,1
+CGHS,Noida (D-85),3,34,1
+CGHS,Noida (D-85),4,31,3
+CGHS,North Avenue (Ayur) (AY-31),3,1,2
+CGHS,North Avenue (D-31),3,10,1
+CGHS,North Avenue (D-31),4,12,1
+CGHS,Palam Colony (D-66),3,2,2
+CGHS,Pandara Road (D-2),3,3,1
+CGHS,Pandara Road (D-2),4,12,3
+CGHS,Paschim Vihar (D-80),3,15,4
+CGHS,Patel Nagar (D-38) (West),3,22,1
+CGHS,Patel Nagar (D-38) (West),4,15,3
+CGHS,Patparganj (D-101),3,20,4
+CGHS,Patparganj (D-101),4,28,1
+CGHS,Pitam Pura (D-81),3,9,1
+CGHS,Pitam Pura (D-81),4,11,1
+CGHS,Pusa Road (D-18),4,1,4
+CGHS,Pushp Vihar (D-78),3,26,3
+CGHS,Pushp Vihar (D-78),4,41,5
+CGHS,"R. K. Puram-I ,Sec-4,(D-43)",3,2,2
+CGHS,"R. K. Puram-I ,Sec-4,(D-43)",4,23,4
+CGHS,"R. K. Puram-III ,Sec-6 ,(D-50)",3,7,5
+CGHS,"R. K. Puram-III ,Sec-6 ,(D-50)",4,12,3
+CGHS,"R. K. Puram-IV , Sec-8 ,(D-52)",3,8,3
+CGHS,"R. K. Puram-IV , Sec-8 ,(D-52)",4,10,2
+CGHS,Rajouri Garden (D-53),3,5,2
+CGHS,Rajouri Garden (D-53),4,19,1
+CGHS,Rajpur Road (D-59),4,3,8
+CGHS,Rohini-16 (D-89),3,16,6
+CGHS,Rohini-16 (D-89),4,18,1
+CGHS,Rohini-7 (D-86),3,14,3
+CGHS,Rohini-7 (D-86),4,33,2
+CGHS,Sadiq Nagar (D-63),3,8,3
+CGHS,Sadiq Nagar (D-63),4,10,2
+CGHS,Sarita Vihar (D-90),3,17,2
+CGHS,Sarita Vihar (D-90),4,25,1
+CGHS,Shahdara (D-49),3,11,3
+CGHS,Shahdara (D-49),4,27,1
+CGHS,Shakurbasti (D-54),3,17,1
+CGHS,Shakurbasti (D-54),4,10,1
+CGHS,Shalimar Bagh (D-88),3,8,3
+CGHS,Shalimar Bagh (D-88),4,17,3
+CGHS,South Avenue (D-32),3,3,4
+CGHS,South Avenue (D-32),4,21,4
+CGHS,Sriniwas Puri (D-37),3,6,3
+CGHS,Sriniwas Puri (D-37),4,4,2
+CGHS,SubziMandi (D-6),3,12,4
+CGHS,SubziMandi (D-6),4,8,4
+CGHS,Sunder Vihar (D-82),3,6,2
+CGHS,Sunder Vihar (D-82),4,11,5
+CGHS,Telegraph Lane (D-34),3,4,1
+CGHS,Telegraph Lane (D-34),4,14,3
+CGHS,Tilak Nagar (D-26),3,15,4
+CGHS,Tilak Nagar (D-26),4,22,2
+CGHS,Timarpur (D-7),3,5,2
+CGHS,Timarpur (D-7),4,10,3
+CGHS,Tri Nagar (D-64),3,13,1
+CGHS,Tri Nagar (D-64),4,12,3
+CGHS,VIVEK Vihar (D-79),3,14,1
+CGHS,VIVEK Vihar (D-79),4,21,2
+CGHS,Vasant Kunj (D-91),3,10,3
+CGHS,Vasant Kunj (D-91),4,22,2
+CGHS,Vasant Vihar (D-96),3,1,1
+CGHS,Vikaspuri (D-17A),3,6,2
+CGHS,Vikaspuri (D-17A),4,2,1
+CGHS,Yamuna Vihar (D-84),3,16,2
+CGHS,Yamuna Vihar (D-84),4,19,2
+CGHS,Zila Sainik Board (Faridabad-II) (D-104),3,9,3
+Chemist,"Apna Chemist, Defence Colony Market",4,1,1
+Delhi Jal Board,Aram Bagh Dispensary,4,1,2
+Delhi Jal Board,Chandrawal Dispensary,4,1,2
+Delhi Jal Board,Gokalpuri Dispensary,3,4,3
+Delhi Jal Board,Gokalpuri Dispensary,4,12,1
+Delhi Jal Board,Haiderpur Dispensary,4,1,3
+Delhi Jal Board,Keshopur Dispensary,4,1,3
+Delhi Jal Board,Kondli Dispensary,4,10,2
+Delhi Jal Board,Okhla Dispensary,4,1,3
+Delhi Jal Board,Rohini Sec 5 Dispensary,3,6,1
+Delhi Jal Board,Rohini Sec 5 Dispensary,4,2,5
+Delhi Jal Board,Shahdra Dispensary,3,8,2
+Delhi Jal Board,Shahdra Dispensary,4,23,2
+Delhi Jal Board,Wazirabad Dispensary,3,9,1
+Delhi Jal Board,Wazirabad Dispensary,4,9,4
+ECHS,Pragati Vihar Lodi Road,3,7,3
+ECHS,Pragati Vihar Lodi Road,4,8,1

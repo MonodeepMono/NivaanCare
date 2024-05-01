@@ -23,7 +23,7 @@ sql_query = """
   SELECT 
   *
   FROM nivaancare_production.GOOGLE_ADS ga
-  WHERE ga.campaign_date >= '2024-03-01' and ga.campaign_date <= DATE(NOW())-1;
+  WHERE ga.campaign_date >= '2024-02-26' and ga.campaign_date <= DATE(NOW())-1;
   
    
 """

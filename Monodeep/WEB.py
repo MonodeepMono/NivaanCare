@@ -13,7 +13,7 @@ scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/aut
 credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-2024-414004-60efb95f9e7f.json',
                                                                scope)
 client = gspread.authorize(credentials)
-sheet = client.open_by_key("1vV-svSbKxRwtGKePjiWQqnevaxhgMymDVqScFaZv_A0") # Open by key the spreadhseet
+sheet = client.open_by_key("1bGxHdtkLojvrCdjsFgezkeTXddVZS3bSXDVqATGpnEk") # Open by key the spreadhseet
 #sheet.share
 tab = sheet.worksheet('Visit')
 calls = pd.DataFrame(tab.get_all_records())
@@ -26,22 +26,6 @@ df['Nthvisit'] = pd.to_numeric(df['Nthvisit'], errors='coerce')
 print("-----------------------------FIFRST----------------------")
 print(df)
 
-# def calculate_latest_status(row):
-#     if row['hot'] == 'Yes' and row['warm'] == 'No' and row['cold'] == 'No':
-#         return 'hot'
-#     elif row['hot'] == 'No' and row['warm'] == 'Yes' and row['cold'] == 'No':
-#         return 'warm'
-#     elif row['hot'] == 'No' and row['warm'] == 'No' and row['cold'] == 'Yes':
-#         return 'cold'
-#     else:
-#         return 'Unknown'
-
-# Applying the function to create the LatestStatus column
-# df['LatestStatus'] = df.apply(calculate_latest_status, axis=1)
-
-
-
-
 #Group by Doctor and calculate Ageing
 current_date = datetime.now()
 df['Ageing'] = (current_date - df.groupby('Full Name')['Date'].transform('min')).dt.days
@@ -49,8 +33,10 @@ df['Ageing'] = (current_date - df.groupby('Full Name')['Date'].transform('min'))
 
 
 
-df['Visits'] = df.groupby('Full Name')['Visit per day'].transform('sum')
-df['Visits_Month'] = df.groupby(['Full Name', 'Month'])['Visit per day'].transform('sum')
+df['Visits'] = df.groupby(['Full Name'])['Visit per day'].transform('sum')
+df['Visits_Month'] = df.groupby(['Full Name',  'Month'])['Visit per day'].transform('sum')
+
+# df['Visits_Month'] = df.groupby(['Full Name', 'Scheduled By', 'Month'])['Visit per day'].transform('sum')
 print("------------Second------------------------")
 print(df)
 

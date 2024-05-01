@@ -25,12 +25,13 @@ sql_query = """
   SUM(ga.impressions) as Impressions ,
   SUM(cost) as Amount
   FROM nivaancare_production.GOOGLE_ADS ga
-  WHERE ga.campaign_date >= '2024-03-01' and ga.campaign_date <= DATE(NOW())-1
+  WHERE ga.campaign_date >= '2024-02-26' and ga.campaign_date <= DATE(NOW())-1
   GROUP BY ga.campaign_date;
   
    
 """
 df_DATA = pd.read_sql_query(sql_query,mydb_prod)
+
 
 df_Final = df_DATA[['Date','Amount','Impressions','Clicks']]
 print(df_Final)
@@ -53,7 +54,7 @@ spreadsheetId = '1eni28VWN7hluEUImtROeHL9YoIUyw5Jxh196PgxZ4ic'
 sheetName = 'G_ADS'        # Please set sheet name you want to put the CSV data.
 csvFile = 'Nivaan_GADS.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'G_ADS'!A2:X")
+sh.values_clear("'G_ADS'!A2:D")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
