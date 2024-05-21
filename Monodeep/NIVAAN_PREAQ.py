@@ -39,7 +39,7 @@ sql_query_prod = """
   LEFT JOIN 
             user_profile up ON url.mobile = up.phone
 WHERE 
-    DATE_FORMAT(url.created_time, '%Y-%m-%d') >= '2024-02-26' AND DATE_FORMAT(url.created_time, '%Y-%m-%d') <= DATE_SUB(CURDATE(), INTERVAL 1 DAY);
+    DATE_FORMAT(CONVERT_TZ(url.created_time, 'UTC', 'Asia/Kolkata'), '%Y-%m-%d') >= '2024-02-26' AND DATE_FORMAT(CONVERT_TZ(url.created_time, 'UTC', 'Asia/Kolkata'), '%Y-%m-%d') <= DATE_SUB(CURDATE(), INTERVAL 1 DAY);
    
 
 """
@@ -55,8 +55,8 @@ df_LEAD['Month']= df_LEAD["created_time"].dt.month
 
 df_LEAD['Rank_Status'] = df_LEAD.groupby(['mobile'])['modified_time'].rank("dense", ascending=False)
 df_FINAL  = df_LEAD[['Date'	,'created_time',	'modified_time',	'UTM_SOURCE',	'lead_new_status',	'mobile',	'Rank_Status','lead_sub_source','channel_name','utm_campaign','lead_form','onboarding_status','Month']]
+# print(df_FINAL['Date'].unique())
 print(df_FINAL)
-
 df_FINAL.to_csv('Nivaan_LEAD.csv',index = False)
 
 import gspread

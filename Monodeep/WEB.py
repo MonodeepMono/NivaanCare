@@ -13,11 +13,11 @@ scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/aut
 credentials = ServiceAccountCredentials.from_json_keyfile_name('my-project-2024-414004-60efb95f9e7f.json',
                                                                scope)
 client = gspread.authorize(credentials)
-sheet = client.open_by_key("1bGxHdtkLojvrCdjsFgezkeTXddVZS3bSXDVqATGpnEk") # Open by key the spreadhseet
+sheet = client.open_by_key("18esuPUkfZAv1yFfwNraR2wIfNuOuBWoI8nqRNQL8xoo") # Open by key the spreadhseet
 #sheet.share
 tab = sheet.worksheet('Visit')
 calls = pd.DataFrame(tab.get_all_records())
-df = calls[['Full Name','Scheduled By','Speciality','Date','Nthvisit','Month','Doctor Status On Nivaan What Is The Business Possibility With The Doctor','Visit per day' ]]
+df = calls[['Full Name','Scheduled By','Speciality','Date','Nthvisit','Month','Doctor Status On Nivaan What Is The Business Possibility With The Doctor','Visit per day']]
 # Convert 'Date' column to datetime
 df['Date'] = pd.to_datetime(df['Date'], format='%d-%m-%Y')
 df['Nthvisit'] = pd.to_numeric(df['Nthvisit'], errors='coerce')
@@ -33,11 +33,13 @@ df['Ageing'] = (current_date - df.groupby('Full Name')['Date'].transform('min'))
 
 
 
-df['Visits'] = df.groupby(['Full Name'])['Visit per day'].transform('sum')
-df['Visits_Month'] = df.groupby(['Full Name',  'Month'])['Visit per day'].transform('sum')
+df['Visits'] = df.groupby(['Full Name','Scheduled By','Speciality'])['Visit per day'].transform('sum')
+df['Visits_Month'] = df.groupby(['Full Name','Scheduled By','Speciality',  'Month'])['Visit per day'].transform('sum')
 
 # df['Visits_Month'] = df.groupby(['Full Name', 'Scheduled By', 'Month'])['Visit per day'].transform('sum')
 print("------------Second------------------------")
+print(df.columns)
+
 print(df)
 
 
@@ -79,6 +81,8 @@ unique['PRC Amt'] = ""
 unique['Total Revenue'] = ""
 unique['Dr. Payout'] = ""
 unique['Visit'] = ""
+
+# unique['Visit'] = unique.groupby(['Full Name','Scheduled By','Speciality'])['VISIT_FLAG'].transform('sum')
 print("--------------Fourth-------------")
 print(unique)
 print(unique.columns)
@@ -110,13 +114,14 @@ print(dfV1)
 print("-------------------Check-----------------")
 
 
-DF_FINAL_DATA = dfV1[["Doctor_Name", "DRO_Name", "Speciality", "Latest_Status", "Ageing", "Visits","Visit", "Leads", "OPDs", "OPD%", "OPD Amt", "CRP Booked", "CRP%", "CRP Amt", "PRC Done", "PRC%", "PRC Amt", "Total Revenue", "Dr. Payout", "Aug_Visits", "Sep_Visits", "Oct_Visits", "Nov_Visits", "Dec_Visits", "Jan_Visits", "Feb_Visits", "Mar_Visits","Apr_Visits"]]
+DF_FINAL_DATA = dfV1[["Doctor_Name", "DRO_Name", "Speciality", "Latest_Status", "Ageing", "Visits","Visit", "Leads", "OPDs", "OPD%", "OPD Amt", "CRP Booked", "CRP%", "CRP Amt", "PRC Done", "PRC%", "PRC Amt", "Total Revenue", "Dr. Payout", "Aug_Visits", "Sep_Visits", "Oct_Visits", "Nov_Visits", "Dec_Visits", "Jan_Visits", "Feb_Visits", "Mar_Visits","Apr_Visits","May_Visits"]]
 print("---------seveth-----------")
 print(DF_FINAL_DATA)
-DF_FINAL_DATA_RENAME = DF_FINAL_DATA.rename(columns={'Visits': 'Call', 'Aug_Visits': 'Aug Calls','Sep_Visits': 'Sep Call', 'Oct_Visits': 'Oct Call','Nov_Visits': 'Nov Call', 'Dec_Visits': 'Dec Calls','Jan_Visits': 'Jan Call', 'Feb_Visits': 'Feb Call','Mar_Visits': 'Mar Call','Apr_Visits':'Apr_Call'})
-
-print(DF_FINAL_DATA_RENAME)
-DF_FINAL_DATA_RENAME.to_csv('DRO_TEST.csv',index = False)
+DF_FINAL_DATA_RENAME = DF_FINAL_DATA.rename(columns={'Visits': 'Call', 'Aug_Visits': 'Aug Calls','Sep_Visits': 'Sep Call', 'Oct_Visits': 'Oct Call','Nov_Visits': 'Nov Call', 'Dec_Visits': 'Dec Calls','Jan_Visits': 'Jan Call', 'Feb_Visits': 'Feb Call','Mar_Visits': 'Mar Call','Apr_Visits':'Apr_Call','May_Visits':'May_Call'})
+DF_FINAL_DATA_RENAME_V1 = DF_FINAL_DATA_RENAME[DF_FINAL_DATA_RENAME['DRO_Name']!='Aditya Rao']
+DF_FINAL_DATA_RENAME_V2 = DF_FINAL_DATA_RENAME_V1[DF_FINAL_DATA_RENAME_V1['DRO_Name']!='Mithun Test']
+print(DF_FINAL_DATA_RENAME_V2)
+DF_FINAL_DATA_RENAME_V2.to_csv('DRO_TEST.csv',index = False)
 
 import gspread
 import csv
@@ -134,7 +139,7 @@ spreadsheetId = '14c0KHi09ZNzE07uiSItLMTw2DLqWjvjIIqxnIO4rxAk'
 sheetName = 'Doctor View - P0'        # Please set sheet name you want to put the CSV data.
 csvFile = 'DRO_TEST.csv'  # Please set the filename and path of csv file.
 sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'Doctor View - P0'!A2:AB")
+sh.values_clear("'Doctor View - P0'!A2:AC")
 sh.values_update(sheetName,
                  params={'valueInputOption': 'USER_ENTERED'},
                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})

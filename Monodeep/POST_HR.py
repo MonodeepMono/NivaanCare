@@ -12,126 +12,131 @@ import mysql.connector
 
 ##########LEADS##################3
 
-mydb_prod = mysql.connector.connect(
+mydb = mysql.connector.connect(
   host="prod-nivaancare-mysql-02.cydlopxelbug.ap-south-1.rds.amazonaws.com",
   user="monodeep.saha",
   password="u5eOX37kNPh13J",
   database="nivaancare_production"
 )
-mycursor_prod = mydb_prod.cursor()
-conn_prod = mycursor_prod.execute
+mycursor = mydb.cursor()
+conn = mycursor.execute
 
-sql_query_prod = """
+sql_query = """
  WITH pat_pres AS (
-    SELECT 
-        user_id,
-        DATE_ADD(DATE_ADD(MAX(updated_at) ,INTERVAL 5 hour),INTERVAL 30 minute) AS updated_at,
-        MAX(data) as data
-    FROM 
-        patient_prescription pp 
-    GROUP BY 
-        user_id
-),
-profileanswer AS (
-    SELECT 
-        user_id,
-        MAX(CASE WHEN `key` = 'care_pathway' THEN answer END) AS "care_pathway",
-        MAX(CASE WHEN `key` = 'occupation' THEN answer END) AS "occupation",
-        MAX(CASE WHEN `key` = 'pain' THEN answer END) AS "pain",
-        MAX(CASE WHEN `key` = 'pain_since' THEN answer END) AS "pain_since",
-        MAX(CASE WHEN `key` = 'pain_site' THEN answer END) AS "pain_site",
-        MAX(CASE WHEN `key` = 'pain_type' THEN answer END) AS "pain_type",
-        MAX(CASE WHEN `key` = 'past_treatment' THEN answer END) AS "past_treatment",
-        MAX(CASE WHEN `key` = 'source' THEN answer END) AS "source",
-        MAX(CASE WHEN `key` = 'age' THEN answer END) AS "age",
-        MAX(CASE WHEN `key` LIKE '%next_followup_date%' THEN answer END) AS "nextfollowup"
-    FROM 
-        profile_answer
-    GROUP BY 
-        user_id
-),
-consultation AS (
-    SELECT 
-        c.user_id user_id,
-        MAX(c.title) title,
-        MAX(c.consult_type) consult_type,
-        MAX(DATE_ADD(DATE_ADD(c.consult_datetime ,INTERVAL 5 hour),INTERVAL 30 minute)) consult_datetime,
-        MAX(c.patient_attendance_status) patient_attendance_status,
-        MAX(c.payment_type) payment_type,
-        MAX(c.payment_mode) payment_mode,
-        MAX(c.amount) amount,
-        MAX(c.payment_from) payment_from,
-        MAX(c.payment_with_source) payment_with_source,
-        MAX(c.admin_id) admin_id
-    FROM 
-        consultation c
-    GROUP BY 
-        1, DATE(c.created_at)
-)
-SELECT 
-    up.patient_id AS "Patient Id",
-    up.full_name AS "Patient Name",
-    up.address AS "Address",
-    pa.age as "Age",
-    up.gender AS "Gender",
-    up.phone AS "Phone",
-    up.pincode AS "Pincode",
-    pa.care_pathway AS "Care Pathway",
-    rs.title AS "Master Status",
-    pp.updated_at AS "PMS Consult Date",
-    pp.data as "Diagnosis",
-    pp.data as "ON_examination",
-    pa.occupation AS "Occupation",
-    pa.pain AS "Pain Score",
-    pa.pain_since AS "Pain Since",
-    pa.pain_site AS "Pain Site",
-    pa.pain_type AS "Pain Type",
-    pa.past_treatment AS "Past Treatment",
-    pa.source AS "Source",
-    up.onboarding_status AS "Onboarding Status",
-    c.title AS "Consultation Name",
-    c.consult_type AS "Consultation Type",
-    ap.full_name AS "Consulting Specialist",
-    c.consult_datetime AS "Consult Datetime",
-    c.patient_attendance_status AS "Patient Attendance Status",
-    c.payment_type AS "Payment Type",
-    c.payment_mode AS "Payment Mode",
-    c.amount AS "Amount",
-    c.payment_from AS "Payment From",
-    c.payment_with_source AS "Payment with",
-    l.name as "Clinic Name",
-    CONVERT_TZ(pa.nextfollowup, '+00:00', '+05:30') as NextFollowUpCM,
-    CONVERT_TZ(
-        STR_TO_DATE(
-            JSON_UNQUOTE(JSON_EXTRACT(pp.data, '$[8].answer')),
-            '%Y-%m-%dT%H:%i:%s'
-        ),
-        '+00:00',
-        '+05:30'
-    )AS "Follow_up_PMS_consultation"
-FROM 
-    user_profile up
-LEFT JOIN 
-    consultation c ON up.id = c.user_id
-LEFT JOIN 
-    resource_status rs ON up.status_id = rs.uuid
-LEFT JOIN 
-    profileanswer pa ON up.id = pa.user_id
-LEFT JOIN 
-    pat_pres pp ON up.id = pp.user_id
-LEFT JOIN 
-    admin_profile ap ON c.admin_id = ap.id
-LEFT JOIN 
-    user_profile_locations upl ON upl.userprofile_id = up.id
-LEFT JOIN 
-    location l ON upl.location_id = l.id
-WHERE 
-    DATE(c.consult_datetime) <= CURDATE() -- Filter consultations on or before the current day
-ORDER BY 
-    c.consult_datetime DESC;
-
+            SELECT 
+                user_id,
+                DATE_ADD(DATE_ADD(MAX(updated_at) ,INTERVAL 5 hour),INTERVAL 30 minute) AS updated_at,
+                max(data) as data
+            FROM 
+                patient_prescription pp 
+            GROUP BY 
+                user_id
+        )
+        , profileanswer AS (
+            SELECT 
+                user_id,
+                MAX(CASE WHEN `key` = 'care_pathway' THEN answer END) AS "care_pathway",
+                MAX(CASE WHEN `key` = 'occupation' THEN answer END) AS "occupation",
+                MAX(CASE WHEN `key` = 'pain' THEN answer END) AS "pain",
+                MAX(CASE WHEN `key` = 'pain_since' THEN answer END) AS "pain_since",
+                MAX(CASE WHEN `key` = 'pain_site' THEN answer END) AS "pain_site",
+                MAX(CASE WHEN `key` = 'pain_type' THEN answer END) AS "pain_type",
+                MAX(CASE WHEN `key` = 'past_treatment' THEN answer END) AS "past_treatment",
+                MAX(CASE WHEN `key` = 'source' THEN answer END) AS "source",
+                MAX(CASE WHEN `key` = 'age' THEN answer END) AS "age",
+                MAX(CASE WHEN `key` LIKE '%insurance%' THEN answer END) AS "Insurance_Info",
+                MAX(CASE WHEN `key` LIKE '%next_followup_date%' THEN answer END) AS "nextfollowup"
+            FROM 
+                profile_answer
+            GROUP BY 
+                user_id
+        )
+        , consultation AS (
+            select c.user_id user_id,
+                   MAX(c.title) title,
+                   MAX(c.consult_type) consult_type,
+                   MAX(DATE_ADD(DATE_ADD(c.consult_datetime ,INTERVAL 5 hour),INTERVAL 30 minute)) consult_datetime,
+                   MAX(c.patient_attendance_status) patient_attendance_status,
+                   MAX(c.payment_type) payment_type,
+                   MAX(c.payment_mode) payment_mode,
+                   MAX(c.amount) amount,
+                   MAX(c.payment_from) payment_from,
+                  MAX(c.payment_with_source) payment_with_source,
+                   MAX(c.admin_id) admin_id,
+                    MAX(c.consultant_id) consultant_id,
+                     MAX(c.service_id) service_id,
+                     MAX(c.is_closed) is_closed
+            from consultation c
+            group by 1,date(c.created_at)
+        )
+        SELECT 
+            up.patient_id AS "Patient Id",
+            up.full_name AS "Patient Name",
+            up.address AS "Address",
+            pa.age as "Age",
+            pa.Insurance_Info As "Insurance_Info",
+            up.gender AS "Gender",
+            up.phone AS "Phone",
+            up.pincode AS "Pincode",
+            pa.care_pathway AS "Care Pathway",
+            rs.title AS "Master Status",
+            pp.updated_at AS "PMS Consult Date",
+            pp.data as "Diagnosis",
+            pp.data as "ON_examination",
+            pa.occupation AS "Occupation",
+            pa.pain AS "Pain Score",
+            pa.pain_since AS "Pain Since",
+            pa.pain_site AS "Pain Site",
+            pa.pain_type AS "Pain Type",
+            pa.past_treatment AS "Past Treatment",
+            pa.source AS "Source",
+            up.onboarding_status AS "Onboarding Status",
+            c.title AS "Consultation Name",
+            s.title AS "Consultation Name_New",
+            c.consult_type AS "Consultation Type",
+            ap.full_name AS "Consulting Specialist",
+            c.consult_datetime AS "Consult Datetime",
+            c.patient_attendance_status AS "Patient Attendance Status",
+            c.payment_type AS "Payment Type",
+            c.payment_mode AS "Payment Mode",
+            c.amount AS "Amount",
+            c.payment_from AS "Payment From",
+            c.payment_with_source AS "Payment with",
+            l.name as "Clinic Name",
+            CONVERT_TZ(pa.nextfollowup, '+00:00', '+05:30') as NextFollowUpCM,
+            CONVERT_TZ(
+                STR_TO_DATE(
+                    JSON_UNQUOTE(JSON_EXTRACT(pp.data, '$[8].answer')),
+                    '%Y-%m-%dT%H:%i:%s'
+                ),
+                '+00:00',
+                '+05:30'
+            )AS "Follow_up_PMS_consultation"
+            FROM 
+            user_profile up
+        LEFT JOIN 
+            consultation c ON up.id = c.user_id
+        LEFT JOIN 
+            resource_status rs ON up.status_id = rs.uuid
+        LEFT JOIN 
+            profileanswer pa ON up.id = pa.user_id
+        LEFT JOIN 
+            pat_pres pp ON up.id = pp.user_id
+        LEFT JOIN 
+             admin_profile ap ON c.consultant_id = ap.id
+        LEFT JOIN 
+            user_profile_locations upl ON upl.userprofile_id = up.id
+        LEFT JOIN 
+            location l ON upl.location_id = l.id
+         LEFT JOIN 
+            service s ON c.service_id = s.id
+        WHERE 
+        DATE(c.consult_datetime) <= CURDATE() AND c.is_closed != 1 
+        ORDER BY c.consult_datetime DESC;
 """
-df = pd.read_sql_query(sql_query_prod,mydb_prod)
+# df = pd.read_sql_query(sql_query,mycursor)
+df = pd.read_sql_query(sql_query,mydb)
+
 
 
 def check_data(a):
@@ -154,38 +159,39 @@ def check_data_new(b):
                 return i['answer']
 
 df['ON_examination'] = df['ON_examination'].apply(check_data_new)
+df['Consult Date']= df["Consult Datetime"].dt.date
+df['Consult Time']= df["Consult Datetime"].dt.time
+df['Consultation Name'] = np.where(df['Consultation Name_New'].notnull(), df['Consultation Name_New'], df['Consultation Name'])
 
-
-
-df_csv = df[["Patient Id", "Patient Name", "Phone", "Clinic Name", "Consult Datetime", "Consultation Name", 
+df_csv = df[["Patient Id", "Patient Name", "Phone", "Clinic Name", "Consult Date", "Consult Time", "Consultation Name", 
              "Consultation Type", "Consulting Specialist", "Patient Attendance Status", "Payment Type", 
              "Payment Mode", "Amount", "Payment From", "Payment with", "Address", "Age", "Gender", "Pincode", 
              "Care Pathway", "Master Status", "PMS Consult Date", "Diagnosis","ON_examination",  "Occupation", "Pain Score", 
-             "Pain Since", "Pain Site", "Pain Type", "Past Treatment", "Source", "Onboarding Status","NextFollowUpCM", "Follow_up_PMS_consultation"]]
+             "Pain Since", "Pain Site", "Pain Type", "Past Treatment", "Source", "Onboarding Status","NextFollowUpCM", "Follow_up_PMS_consultation","Insurance_Info"]]
 
 print(df_csv)
 
 
-df_csv.to_csv('Post_EHR_Tracker_NEW.csv',index=False)
+# df_csv.to_csv('Post_EHR_Tracker_NEW.csv',index=False)
 
-import gspread
-import csv
-from oauth2client.service_account import ServiceAccountCredentials
+# import gspread
+# import csv
+# from oauth2client.service_account import ServiceAccountCredentials
 
 
-scope = ['https://spreadsheets.google.com/feeds',
-         'https://www.googleapis.com/auth/drive']
+# scope = ['https://spreadsheets.google.com/feeds',
+#          'https://www.googleapis.com/auth/drive']
 
-credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
-gc = gspread.authorize(credentials)
-client = gspread.authorize(credentials)
-spreadsheetId = '1dEAgjtCoGRMYP5sEoI4v4n9eF6uHOFoqr3AMjIASG6M' 
+# credentials = ServiceAccountCredentials.from_json_keyfile_name(r'my-project-2024-414004-60efb95f9e7f.json',scope)
+# gc = gspread.authorize(credentials)
+# client = gspread.authorize(credentials)
+# spreadsheetId = '1dEAgjtCoGRMYP5sEoI4v4n9eF6uHOFoqr3AMjIASG6M' 
 
-sheetName = 'RAW'        # Please set sheet name you want to put the CSV data.
-csvFile = 'Post_EHR_Tracker_NEW.csv'  # Please set the filename and path of csv file.
-sh = client.open_by_key(spreadsheetId)
-sh.values_clear("'RAW'!A2:AG")
-sh.values_update(sheetName,
-                 params={'valueInputOption': 'USER_ENTERED'},
-                 body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
+# sheetName = 'RAW'        # Please set sheet name you want to put the CSV data.
+# csvFile = 'Post_EHR_Tracker_NEW.csv'  # Please set the filename and path of csv file.
+# sh = client.open_by_key(spreadsheetId)
+# sh.values_clear("'RAW'!A2:AH")
+# sh.values_update(sheetName,
+#                  params={'valueInputOption': 'USER_ENTERED'},
+#                  body={'values': list(csv.reader(open(csvFile,encoding='utf-8')))})
 

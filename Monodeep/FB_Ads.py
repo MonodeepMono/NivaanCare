@@ -25,7 +25,7 @@ sql_query = """
   SUM(fa.impressions) as Impressions ,
   SUM(fa.spend) as Amount 
   FROM nivaancare_production.facebook_ads fa
-  WHERE DATE_FORMAT(fa.date_start  , '%Y-%m-%d') >= '2024-02-26' and DATE_FORMAT(fa.date_start  , '%Y-%m-%d') <= DATE(NOW())-1
+ WHERE DATE_FORMAT(fa.date_start, '%Y-%m-%d') >= '2024-02-26' AND DATE_FORMAT(fa.date_start, '%Y-%m-%d') <= DATE_SUB(CURDATE(), INTERVAL 1 DAY)
   GROUP BY fa.date_start;
   
    
